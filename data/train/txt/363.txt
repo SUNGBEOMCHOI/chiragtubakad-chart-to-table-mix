@@ -1,0 +1,13 @@
+| title                                           |   [unnamed data series #0] |
+| Has insufficient food                           |                  20.2431   |
+| Is not in good health status preventing to work |                  19.9789   |
+| Has nothing                                     |                  16.3672   |
+| Is unableto solve his own problem by himself    |                  14.6934   |
+| Is unable to fill his medical prescriptions     |                   7.20578  |
+| Has no money                                    |                   5.09161  |
+| Has no social network                           |                   4.56307  |
+| Is not owner of livestock                       |                   2.44891  |
+| Wear poor clothes and live in poor conditions   |                   2.09655  |
+| Is very old and without support                 |                   1.21564  |
+| Has a poultry                                   |                   0.334743 |
+| Others                                          |                   5.44397  |

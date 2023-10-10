@@ -1,0 +1,7 @@
+| title    |   [unnamed data series #0] |
+| 5 weeks  |                    14.308  |
+| 10 weeks |                    13.7687 |
+| 15 weeks |                    21.438  |
+| 5 weeks  |                    11.1324 |
+| 10 weeks |                    10.1138 |
+| 15 weeks |                    21.8574 |

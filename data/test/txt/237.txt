@@ -1,0 +1,11 @@
+| title                                          |   [unnamed data series #0] |
+| Aryl hydrocarbon receptor signaling            |                    8.86569 |
+| Molecular mechanisms of cancer                 |                    8.09476 |
+| HGF signaling                                  |                    7.39611 |
+| p53 signaling                                  |                    6.89018 |
+| Cell cycle: G1/S checkpoint regulation         |                    6.67336 |
+| Pancreatic adenocarcinoma signaling            |                    6.45653 |
+| Cyclins and cell cycle regulation              |                    6.31199 |
+| Glucocorticoid receptor signaling              |                    6.07107 |
+| Colorectal cancer metastasis signaling         |                    5.55712 |
+| Factors promoting cardiogenesis in vertebrates |                    5.46878 |

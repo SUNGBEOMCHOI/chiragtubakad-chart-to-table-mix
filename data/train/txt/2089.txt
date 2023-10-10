@@ -1,0 +1,14 @@
+| title                   |        Pre |
+| Sinseon et al , 1993*   | 0.0163934  |
+| Sjoberg & Yeaswood 2007 | 0.0808922  |
+| Biswas et al, 2010      | 0.0647675  |
+| Bich et al, 2011        | 0.00564364 |
+| Sugimoto et al, 2011*   | 0.0540177  |
+| Xu et al, 2012          | 0.00564364 |
+| Global Prevalence       | 0.00564364 || Sinseon et al , 1993*   | 0.0217683  |
+| Sjoberg & Yeaswood 2007 | 0.3577     |
+| Biswas et al, 2010      | 0.180328   |
+| Bich et al, 2011        | 0.0325181  |
+| Sugimoto et al, 2011*   | 0.102392   |
+| Xu et al, 2012          | 0.384574   |
+| Global Prevalence       | 0.00564364 |

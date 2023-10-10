@@ -1,0 +1,6 @@
+| title    |   [unnamed data series #0] |
+| DBM1Ac-S |                  100.206   |
+| DBM1Ac-R |                    6.7268  |
+| NIL-R    |                    1.62371 |
+| SZ-R     |                    8.81443 |
+| SH-R     |                    1.15979 |

@@ -1,0 +1,7 @@
+| title                   |   Intersex |
+| her-1(n695gf)           |   19.6929  |
+| her-1(n695gf); alg-1(0) |   36.2764  |
+| her-1(n695gf); TPmut    |   19.0883  |
+| her-1(n695gf)           |    4.31862 |
+| her-1(n695gf); alg-1(0) |    4.57774 |
+| her-1(n695gf); TPmut    |    3.1094  |

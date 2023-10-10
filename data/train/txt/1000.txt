@@ -1,0 +1,10 @@
+| title                   |   [unnamed data series #0] |
+| Wash hands after touching
+poultry feces                         |                      0.997 |
+| Wash hands after touching
+dead poultry                         |                      0.899 |
+| Wear protective clothes |                      0.879 |
+| Wear protective hat     |                      0.734 |
+| Wear gloves             |                      0.572 |
+| Wear face mask          |                      0.323 |
+| Wear protective shoes   |                      0.205 |

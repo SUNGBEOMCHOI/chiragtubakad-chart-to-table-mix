@@ -1,0 +1,5 @@
+| title      |   [unnamed data series #0] |
+| School     |                       14.6 |
+| Television |                       22   |
+| Radio      |                       36.6 |
+| Others     |                       26.8 |

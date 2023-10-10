@@ -1,0 +1,16 @@
+| Category                 |   first quartile |     max |   median |     min |   third quartile | x   |
+| [unnamed data series #0] |          34.59   | 46.1378 |  35.8515 | 28.7676 |          39.345  | PR  |
+| [unnamed data series #0] |          33.4255 | 43.1295 |  35.6574 | 28.0883 |          38.9568 | AR  |
+| [unnamed data series #0] |          32.067  | 46.72   |  33.1344 | 27.312  |          38.4716 | MY  |
+| [unnamed data series #0] |          33.3285 | 46.1378 |  35.1722 | 28.5735 |          39.345  | MT  |
+| [unnamed data series #0] |          32.8433 | 48.4668 |  36.1426 | 27.1179 |          41.2858 | CF  |
+| [unnamed data series #0] |          31.4847 | 49.4372 |  33.9107 | 25.2741 |          38.5687 | VC  |
+| [unnamed data series #0] |          30.8054 | 44.294  |  34.493  | 27.0209 |          37.5012 | SS  |
+| [unnamed data series #0] |          31.9699 | 46.3319 |  33.9107 | 26.7297 |          38.6657 | CA  |
+| [unnamed data series #0] |          34.2989 | 56.4241 |  36.4338 | 27.5061 |          43.8088 | CG  |
+| [unnamed data series #0] |          33.8137 | 56.8122 |  37.8894 | 27.7001 |          43.8088 | LT  |
+| [unnamed data series #0] |          32.8433 | 50.8928 |  35.4634 | 23.3333 |          40.5095 | HG  |
+| [unnamed data series #0] |          36.0456 | 57.0063 |  40.6065 | 29.9321 |          45.1674 | GR  |
+| [unnamed data series #0] |          37.016  | 78.1611 |  43.2266 | 27.7972 |          53.6099 | SC  |
+| [unnamed data series #0] |          39.345  | 74.8617 |  44.4881 | 29.5439 |          55.1625 | GT  |
+| [unnamed data series #0] |          33.9107 | 51.8632 |  36.2397 | 27.312  |          41.868  | IJ  |

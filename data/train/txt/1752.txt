@@ -1,0 +1,17 @@
+| Category                 | X   |        Y |
+| [unnamed data series #0] | 120 chr.
+2n     |  3.93478 |
+| [unnamed data series #0] | 120 chr.
+2n     |  1.97826 |
+| [unnamed data series #1] | 120 chr.
+2n     |  3.92754 |
+| [unnamed data series #1] | 120 chr.
+2n     |  1.95652 |
+| [unnamed data series #1] | 250 chr.
+4n     |  3.94203 |
+| [unnamed data series #1] | 360 chr.
+6n     |  5.95652 |
+| [unnamed data series #1] | 250 chr.
+4n     |  7.98309 |
+| [unnamed data series #1] | 360 chr.
+6n     | 11.9179  |

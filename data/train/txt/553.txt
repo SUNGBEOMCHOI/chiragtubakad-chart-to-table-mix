@@ -1,0 +1,33 @@
+| title                            |   Russia males |
+| Infectious and paristic diseases |       5.14098  |
+| Cancer                           |       7.61012  |
+| Mental and behavioural disorders |       0.90816  |
+| Circulatory disease              |      30.3615   |
+| Respiratory disease              |       5.84645  |
+| Digestive disease                |       6.02281  |
+| External causes                  |      37.5044   |
+| Other causes                     |       7.61012  |
+| Infectious and paristic diseases |       4.43551  |
+| Cancer                           |       6.55192  |
+| Mental and behavioural disorders |       1.70181  |
+| Circulatory disease              |      26.9223   |
+| Respiratory disease              |       7.43375  |
+| Digestive disease                |       8.66832  |
+| External causes                  |      41.8254   |
+| Other causes                     |       4.25914  |
+| Infectious and paristic diseases |       3.20094  |
+| Cancer                           |       6.19918  |
+| Mental and behavioural disorders |       0.996343 |
+| Circulatory disease              |      28.0687   |
+| Respiratory disease              |       9.19743  |
+| Digestive disease                |       9.72653  |
+| External causes                  |      37.4162   |
+| Other causes                     |       6.37555  |
+| Infectious and paristic diseases |       3.73004  |
+| Cancer                           |       8.84469  |
+| Mental and behavioural disorders |       1.52545  |
+| Circulatory disease              |      30.1851   |
+| Respiratory disease              |       8.22741  |
+| Digestive disease                |       9.90289  |
+| External causes                  |      33.5361   |
+| Other causes                     |       5.49371  |

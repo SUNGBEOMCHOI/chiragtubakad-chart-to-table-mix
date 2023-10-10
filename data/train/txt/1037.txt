@@ -1,0 +1,21 @@
+| title             |   PRE TEST SCORE |
+| Anemia            |          14.5846 |
+| Ear Infections    |          15.6362 |
+| Zinc              |          14.2166 |
+| UTI               |          13.796  |
+| Antibiotics       |          15.0053 |
+| Vaccines          |          13.6909 |
+| Obesity           |          13.9012 |
+| Vitamin A         |          11.7981 |
+| Injury Prevention |          13.6383 |
+| Burns             |          13.0074 |
+| Anemia            |          14.7739 |
+| Ear Infections    |          16.3302 |
+| Zinc              |          15.6151 |
+| UTI               |          15.3628 |
+| Antibiotics       |          15.9937 |
+| Vaccines          |          14.6898 |
+| Obesity           |          15.8254 |
+| Vitamin A         |          14.0168 |
+| Injury Prevention |          16.2461 |
+| Burns             |          14.6057 |

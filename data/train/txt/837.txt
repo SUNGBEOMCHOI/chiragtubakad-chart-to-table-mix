@@ -1,0 +1,11 @@
+| title     |   Private |
+| Always    |  69.9973  |
+| Often     |  20.3565  |
+| Sometimes |   6.78904 |
+| Rarely    |   3.43708 |
+| Never     |   1.84092 |
+| Always    |  51.1625  |
+| Often     |  31.37    |
+| Sometimes |  14.4507  |
+| Rarely    |   3.43708 |
+| Never     |   1.36206 |

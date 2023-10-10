@@ -1,0 +1,7 @@
+| title                    |   Vehicle |
+| Wild type                |  0.403797 |
+| ssn3\delta/\delta        |  1.35575  |
+| ssn3\delta/\delta + SSN3 |  0.350563 |
+| Wild type                |  0.14702  |
+| ssn3\delta/\delta        |  0.798356 |
+| ssn3\delta/\delta + SSN3 |  0.143889 |

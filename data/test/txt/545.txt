@@ -1,0 +1,5 @@
+| title   |   [unnamed data series #0] |
+| Autumn  |                    23.0964 |
+| Winter  |                    15.985  |
+| Spring  |                    26.1441 |
+| Summer  |                    35.118  |

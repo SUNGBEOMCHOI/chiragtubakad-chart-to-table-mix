@@ -1,0 +1,17 @@
+| title                                 |   [unnamed data series #0] |
+| Turing computer on and off            |                   97.9353  |
+| Use a mouse                           |                   93.5502  |
+| Forrnat a floppy disc                 |                   66.1429  |
+| Save data to a floppy disc            |                   66.5083  |
+| Print out a docurert                  |                   61.0269  |
+| Cut and paste information             |                   59.1997  |
+| Wordprocessing                        |                   54.0837  |
+| Set up mailboxes                      |                   52.2565  |
+| Teach myself new applications         |                   48.9677  |
+| Send file as ernail attachment        |                   46.4096  |
+| Set up folders or directories         |                   39.4665  |
+| Install software package              |                   20.4641  |
+| Analyse data with statistical package |                   17.9061  |
+| Use online library catalogues         |                   15.7135  |
+| Knowledge of file extensions          |                   13.5209  |
+| Design a web page                     |                    9.86662 |

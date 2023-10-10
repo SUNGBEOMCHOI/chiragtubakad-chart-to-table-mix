@@ -1,0 +1,17 @@
+| Category                 |   first quartile |      max |   median |      min |   third quartile | x      |
+| [unnamed data series #0] |          2.47287 |  3.83452 |  3.17717 | 1.15818  |          3.69366 | AFF4   |
+| [unnamed data series #0] |          1.48685 |  5.0553  |  2.56678 | 1.06427  |          2.9424  | AFF4   |
+| [unnamed data series #0] |          1.95639 |  3.59975 |  2.28506 | 1.15818  |          3.22412 | NCOA6  |
+| [unnamed data series #0] |          1.29904 |  7.35601 |  1.81553 | 0.641694 |          2.42592 | NCOA6  |
+| [unnamed data series #0] |          4.30405 |  7.2621  |  4.96139 | 3.50584  |          6.88648 | RUVBL1 |
+| [unnamed data series #0] |          4.06928 | 21.2542  |  4.96139 | 2.51982  |          6.74562 | RUVBL1 |
+| [unnamed data series #0] |          3.36498 |  5.94741 |  4.44491 | 3.03631  |          5.33702 | NSD1   |
+| [unnamed data series #0] |          1.53381 | 10.6897  |  2.19115 | 0.406928 |          3.27108 | NSD1   |
+| [unnamed data series #0] |          2.09725 |  4.96139 |  2.8485  | 1.15818  |          3.69366 | EP300  |
+| [unnamed data series #0] |          2.47287 | 14.352   |  3.31803 | 0.688648 |          5.52483 | EP300  |
+| [unnamed data series #0] |          3.27108 |  6.51085 |  4.11624 | 1.53381  |          4.49186 | POU2F1 |
+| [unnamed data series #0] |          1.67467 | 11.4879  |  2.9424  | 0.923414 |          4.96139 | POU2F1 |
+| [unnamed data series #0] |          2.89545 |  4.96139 |  3.31803 | 0.923414 |          4.2571  | LRP5   |
+| [unnamed data series #0] |          2.19115 | 12.0983  |  2.47287 | 1.01732  |          3.36498 | LRP5   |
+| [unnamed data series #0] |          4.11624 |  9.14023 |  6.22913 | 2.47287  |          8.29508 | USP9X  |
+| [unnamed data series #0] |          2.98936 | 11.2531  |  4.11624 | 1.72162  |          5.80655 | USP9X  |

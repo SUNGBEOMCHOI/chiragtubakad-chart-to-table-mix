@@ -1,0 +1,8 @@
+| title            |   [unnamed data series #0] |
+| No DSB           |                   0.318974 |
+| pVector no DSB   |                   0.507361 |
+| DSB              |                  11.6522   |
+| pVector DSB      |                  12.8852   |
+| rpoS pVector DSB |                   3.69281  |
+| dinB pVector DSB |                   2.24994  |
+| pSodB DSB        |                   3.06343  |

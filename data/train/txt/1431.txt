@@ -1,0 +1,4 @@
+| Category                 |   first quartile |     max |   median |      min |   third quartile | x     |
+| [unnamed data series #0] |          15.1874 | 50.2959 |  25.5424 |  5.12821 |          30.2761 | SBA   |
+| [unnamed data series #0] |          39.8422 | 60.1578 |  39.8422 | 30.1775  |          55.1282 | BEmOC |
+| [unnamed data series #0] |          65.286  | 96.8442 |  85.3057 | 55.2268  |          90.2367 | CEmOC |

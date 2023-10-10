@@ -1,0 +1,15 @@
+| title     |   Elastic Modulus |
+| rPET      |          25.3656  |
+| rPS       |           7.26212 |
+| rPP       |           1.91511 |
+| PP/PET    |           3.90114 |
+| PP/PS     |           2.75535 |
+| PS/PET    |          10.7759  |
+| PS/PP/PET |           4.51223 |
+| rPET      |          27.428   |
+| rPS       |           1.22763 |
+| rPP       |           1.76233 |
+| PP/PET    |           2.90812 |
+| PP/PS     |           1.76233 |
+| PS/PET    |           6.03994 |
+| PS/PP/PET |           3.36644 |

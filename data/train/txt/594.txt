@@ -1,0 +1,7 @@
+| Category    |       X |        Y |
+| Rise time   | 6.97547 | 0.358546 |
+| Rise time   | 4.99293 | 0.307464 |
+| Rise time   | 3.00658 | 0.213237 |
+| Decayy time | 2.99711 | 0.870119 |
+| Decayy time | 4.98257 | 0.178338 |
+| Decayy time | 6.96489 | 0.123706 |

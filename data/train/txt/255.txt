@@ -1,0 +1,11 @@
+| title    |   Untreated |
+| Epoxy    |     7.14008 |
+| GP       |     8.12931 |
+| GP-CNT   |     9.6838  |
+| DPHP     |    11.4503  |
+| DPHP-CNT |    12.0509  |
+| Epoxy    |    11.309   |
+| GP       |    11.4503  |
+| GP-CNT   |    16.8557  |
+| DPHP     |    10.5317  |
+| DPHP-CNT |    11.7682  |

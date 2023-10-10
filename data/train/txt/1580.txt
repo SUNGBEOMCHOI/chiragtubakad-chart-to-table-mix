@@ -1,0 +1,25 @@
+| title    |   No Acid Etching Ivory Dentine |
+| Gradia   |                         27.8318 |
+| Z250     |                         28.7198 |
+| C-Hema   |                         24.5757 |
+| Vertise 
+Flow          |                         24.8717 |
+| C-4 Meta |                         26.9438 |
+| Gradia   |                         21.9117 |
+| Z250     |                         25.9077 |
+| C-Hema   |                         25.7597 |
+| Vertise 
+Flow          |                         25.0197 |
+| C-4 Meta |                         23.8357 |
+| Gradia   |                         26.9438 |
+| Z250     |                         29.9038 |
+| C-Hema   |                         37.1559 |
+| Vertise 
+Flow          |                         27.8318 |
+| C-4 Meta |                         28.8678 |
+| Gradia   |                         22.9477 |
+| Z250     |                         35.9719 |
+| C-Hema   |                         34.9359 |
+| Vertise 
+Flow          |                         27.9798 |
+| C-4 Meta |                         27.9798 |

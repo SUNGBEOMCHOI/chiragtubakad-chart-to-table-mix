@@ -1,0 +1,5 @@
+| title   |   [unnamed data series #0] |
+| N/A     |                    35.8974 |
+| PAA     |                    54.4872 |
+| CS      |                    69.3243 |
+| pDADMAC |                    42.1333 |

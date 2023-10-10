@@ -1,0 +1,3 @@
+| Category                 |   first quartile |      max |   median |      min |   third quartile | x          |
+| [unnamed data series #0] |         0.720385 | 0.839403 | 0.765134 | 0.670665 |         0.809571 | FMF BS     |
+| [unnamed data series #0] |         0.720385 | 0.789683 | 0.740273 | 0.701119 |         0.762337 | CONTROL BS |

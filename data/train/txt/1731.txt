@@ -1,0 +1,15 @@
+| title   |   Initial setting time |
+| OPC     |                    235 |
+| PBFSC   |                    275 |
+| OGE 1   |                    245 |
+| OGE 2   |                    245 |
+| OGE 3   |                    255 |
+| OGE 4   |                    260 |
+| OGE 5   |                    270 |
+| OPC     |                    305 |
+| PBFSC   |                    395 |
+| OGE 1   |                    330 |
+| OGE 2   |                    320 |
+| OGE 3   |                    360 |
+| OGE 4   |                    380 |
+| OGE 5   |                    380 |

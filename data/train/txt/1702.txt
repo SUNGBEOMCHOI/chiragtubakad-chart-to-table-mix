@@ -1,0 +1,9 @@
+| title                        |   [unnamed data series #0] |
+| Internet                     |                  0.519559  |
+| Relatives (health workers)   |                  0.489171  |
+| Television                   |                  0.371325  |
+| Press                        |                  0.269785  |
+| Others relatives and friends |                  0.250515  |
+| Books                        |                  0.210492  |
+| Dictionary                   |                  0.200115  |
+| Other sources                |                  0.0711521 |

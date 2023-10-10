@@ -1,0 +1,21 @@
+| Category                 |            X |        Y |
+| Microemulsion            |  0.200514    | 0.298823 |
+| Microemulsion            |  0.40382     | 0.300176 |
+| Microemulsion            |  0.501005    | 0.297469 |
+| Microemulsion            |  0.600424    | 0.297469 |
+| Microemulsion            |  0.801497    | 0.296116 |
+| Milky / 2-Phase Solution | -0.000558534 | 0.200027 |
+| Milky / 2-Phase Solution | -0.0016756   | 0.298823 |
+| Milky / 2-Phase Solution |  0.200514    | 0.49912  |
+| Milky / 2-Phase Solution |  0.19828     | 0.401678 |
+| Milky / 2-Phase Solution |  0.503239    | 0.700771 |
+| Milky / 2-Phase Solution |  0.399352    | 0.49912  |
+| Milky / 2-Phase Solution |  0.399352    | 0.398971 |
+| Milky / 2-Phase Solution |  0.503239    | 0.49912  |
+| Milky / 2-Phase Solution |  0.503239    | 0.398971 |
+| Milky / 2-Phase Solution |  0.601542    | 0.49912  |
+| Milky / 2-Phase Solution |  0.602659    | 0.397618 |
+| Milky / 2-Phase Solution |  0.802614    | 0.49912  |
+| Milky / 2-Phase Solution |  0.80038     | 0.398971 |
+| Milky / 2-Phase Solution |  1.00257     | 0.300176 |
+| Milky / 2-Phase Solution |  1.00257     | 0.200027 |

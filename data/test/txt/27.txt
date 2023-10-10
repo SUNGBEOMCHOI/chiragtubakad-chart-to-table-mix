@@ -1,0 +1,9 @@
+| title   |   Discussed HIV/AIDS prevention: 2002 |
+| Oyo     |                               55.0497 |
+| Bauchi  |                               23.8076 |
+| Enugu   |                               57.8702 |
+| All     |                               44.6357 |
+| Oyo     |                               54.6158 |
+| Bauchi  |                               37.91   |
+| Enugu   |                               54.1819 |
+| All     |                               47.8901 |

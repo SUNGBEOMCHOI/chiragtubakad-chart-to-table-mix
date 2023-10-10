@@ -1,0 +1,53 @@
+| Category   |        X |        Y |
+| Observed
+heterozygosity            | 0.248943 | 0.666515 |
+| Observed
+heterozygosity            | 0.362046 | 0.673786 |
+| Observed
+heterozygosity            | 0.415988 | 0.673326 |
+| Observed
+heterozygosity            | 0.388559 | 0.68038  |
+| Observed
+heterozygosity            | 0.395999 | 0.69133  |
+| Observed
+heterozygosity            | 0.459408 | 0.684297 |
+| Observed
+heterozygosity            | 0.480396 | 0.669128 |
+| Observed
+heterozygosity            | 0.52762  | 0.670832 |
+| Observed
+heterozygosity            | 0.562229 | 0.694162 |
+| Observed
+heterozygosity            | 0.650301 | 0.703577 |
+| Observed
+heterozygosity            | 0.690278 | 0.708381 |
+| Observed
+heterozygosity            | 0.639751 | 0.697391 |
+| Observed
+heterozygosity            | 0.661905 | 0.700345 |
+| Predicted
+heterozygosity            | 0.249526 | 0.645776 |
+| Predicted
+heterozygosity            | 0.363795 | 0.668901 |
+| Predicted
+heterozygosity            | 0.389059 | 0.667916 |
+| Predicted
+heterozygosity            | 0.416266 | 0.668901 |
+| Predicted
+heterozygosity            | 0.39761  | 0.67708  |
+| Predicted
+heterozygosity            | 0.46174  | 0.674354 |
+| Predicted
+heterozygosity            | 0.482728 | 0.673824 |
+| Predicted
+heterozygosity            | 0.529369 | 0.68117  |
+| Predicted
+heterozygosity            | 0.563572 | 0.686093 |
+| Predicted
+heterozygosity            | 0.642472 | 0.692909 |
+| Predicted
+heterozygosity            | 0.662294 | 0.693439 |
+| Predicted
+heterozygosity            | 0.650634 | 0.69912  |
+| Predicted
+heterozygosity            | 0.690667 | 0.699347 |

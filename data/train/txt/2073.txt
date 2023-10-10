@@ -1,0 +1,4 @@
+| Category                 |   first quartile |      max |    median |       min |   third quartile | x      |
+| [unnamed data series #0] |        -0.227488 | 0.348341 | -0.113744 | -0.440758 |         0.14218  | Normal |
+| [unnamed data series #0] |         0.021327 | 1.61374  |  0.412322 | -0.42654  |         0.853081 | Adeno  |
+| [unnamed data series #0] |         0.604265 | 1.6564   |  0.853081 | -0.035545 |         1.33649  | SCCA   |

@@ -1,0 +1,154 @@
+| Category             |       X |           Y |
+| Glucose (0 ug/mL)    | 2.00457 | 6.95368e-09 |
+| Glucose (0 ug/mL)    | 2.09597 | 7.57048e-09 |
+| Glucose (0 ug/mL)    | 2.19042 | 9.769e-09   |
+| Glucose (0 ug/mL)    | 2.29401 | 1.01931e-08 |
+| Glucose (0 ug/mL)    | 2.3915  | 1.15789e-08 |
+| Glucose (0 ug/mL)    | 2.49204 | 1.24728e-08 |
+| Glucose (0 ug/mL)    | 2.58953 | 1.43199e-08 |
+| Glucose (0 ug/mL)    | 2.69312 | 1.59249e-08 |
+| Glucose (0 ug/mL)    | 2.78757 | 1.77097e-08 |
+| Glucose (0 ug/mL)    | 2.98865 | 2.1215e-08  |
+| Glucose (0 ug/mL)    | 3.08919 | 2.38448e-08 |
+| Glucose (0 ug/mL)    | 3.18973 | 2.70867e-08 |
+| Glucose (0 ug/mL)    | 3.29332 | 2.85644e-08 |
+| Glucose (0 ug/mL)    | 3.38472 | 3.2448e-08  |
+| Glucose (0 ug/mL)    | 3.48526 | 3.88704e-08 |
+| Glucose (0 ug/mL)    | 3.5858  | 4.14287e-08 |
+| Glucose (0 ug/mL)    | 3.68939 | 5.28949e-08 |
+| Glucose (0 ug/mL)    | 3.78688 | 6.00866e-08 |
+| Glucose (0 ug/mL)    | 3.88285 | 6.76245e-08 |
+| Glucose (0 ug/mL)    | 3.9834  | 7.44091e-08 |
+| Glucose (0 ug/mL)    | 4.08622 | 8.31896e-08 |
+| Glucose (0 ug/mL)    | 4.18676 | 9.52561e-08 |
+| Glucose (0 ug/mL)    | 4.28502 | 1.03981e-07 |
+| Glucose (0 ug/mL)    | 4.38556 | 1.19063e-07 |
+| Glucose (0 ug/mL)    | 4.4861  | 1.29969e-07 |
+| Glucose (0 ug/mL)    | 4.58664 | 1.41874e-07 |
+| Glucose (0 ug/mL)    | 4.6849  | 1.59884e-07 |
+| Glucose (0 ug/mL)    | 4.7862  | 1.81381e-07 |
+| Glucose (0 ug/mL)    | 4.88674 | 1.99579e-07 |
+| Glucose (0 ug/mL)    | 4.97814 | 2.17282e-07 |
+| Glucose (1 ug/mL)    | 4.97966 | 8.02598e-09 |
+| Glucose (1 ug/mL)    | 4.88369 | 7.73305e-09 |
+| Glucose (1 ug/mL)    | 2.00457 | 1.57148e-09 |
+| Glucose (1 ug/mL)    | 2.09597 | 1.6928e-09  |
+| Glucose (1 ug/mL)    | 2.19651 | 1.86263e-09 |
+| Glucose (1 ug/mL)    | 2.29096 | 2.00642e-09 |
+| Glucose (1 ug/mL)    | 2.39455 | 2.16131e-09 |
+| Glucose (1 ug/mL)    | 2.49204 | 2.35302e-09 |
+| Glucose (1 ug/mL)    | 2.5941  | 2.55834e-09 |
+| Glucose (1 ug/mL)    | 2.69541 | 2.73397e-09 |
+| Glucose (1 ug/mL)    | 2.79062 | 2.97648e-09 |
+| Glucose (1 ug/mL)    | 2.89344 | 3.09744e-09 |
+| Glucose (1 ug/mL)    | 2.9917  | 3.2751e-09  |
+| Glucose (1 ug/mL)    | 3.09224 | 3.57509e-09 |
+| Glucose (1 ug/mL)    | 3.18821 | 3.75015e-09 |
+| Glucose (1 ug/mL)    | 3.28875 | 4.06116e-09 |
+| Glucose (1 ug/mL)    | 3.38472 | 4.22621e-09 |
+| Glucose (1 ug/mL)    | 3.48983 | 4.46862e-09 |
+| Glucose (1 ug/mL)    | 3.58809 | 4.76272e-09 |
+| Glucose (1 ug/mL)    | 3.68177 | 4.95628e-09 |
+| Glucose (1 ug/mL)    | 3.78688 | 5.19897e-09 |
+| Glucose (1 ug/mL)    | 3.88742 | 5.36732e-09 |
+| Glucose (1 ug/mL)    | 3.98797 | 5.63014e-09 |
+| Glucose (1 ug/mL)    | 4.08394 | 6.00068e-09 |
+| Glucose (1 ug/mL)    | 4.18676 | 6.00068e-09 |
+| Glucose (1 ug/mL)    | 4.28502 | 6.29451e-09 |
+| Glucose (1 ug/mL)    | 4.38784 | 6.55033e-09 |
+| Glucose (1 ug/mL)    | 4.4861  | 6.65554e-09 |
+| Glucose (1 ug/mL)    | 4.58664 | 6.98143e-09 |
+| Glucose (1 ug/mL)    | 4.6849  | 7.20751e-09 |
+| Glucose (1 ug/mL)    | 4.7862  | 7.49048e-09 |
+| Glucose (10 ug/mL)   | 2.09292 | 6.7177e-10  |
+| Glucose (10 ug/mL)   | 2.00152 | 6.04066e-10 |
+| Glucose (10 ug/mL)   | 4.98728 | 3.71545e-09 |
+| Glucose (10 ug/mL)   | 2.19042 | 7.47062e-10 |
+| Glucose (10 ug/mL)   | 2.29401 | 8.04733e-10 |
+| Glucose (10 ug/mL)   | 2.3915  | 8.39665e-10 |
+| Glucose (10 ug/mL)   | 2.48899 | 9.04485e-10 |
+| Glucose (10 ug/mL)   | 4.88674 | 3.59891e-09 |
+| Glucose (10 ug/mL)   | 4.78925 | 3.41274e-09 |
+| Glucose (10 ug/mL)   | 4.6849  | 3.2751e-09  |
+| Glucose (10 ug/mL)   | 4.58664 | 3.09744e-09 |
+| Glucose (10 ug/mL)   | 4.4861  | 2.97648e-09 |
+| Glucose (10 ug/mL)   | 4.39013 | 2.81502e-09 |
+| Glucose (10 ug/mL)   | 4.28502 | 2.74853e-09 |
+| Glucose (10 ug/mL)   | 4.18448 | 2.53804e-09 |
+| Glucose (10 ug/mL)   | 4.08394 | 2.45843e-09 |
+| Glucose (10 ug/mL)   | 3.98797 | 2.34367e-09 |
+| Glucose (10 ug/mL)   | 3.88971 | 2.23427e-09 |
+| Glucose (10 ug/mL)   | 3.79374 | 2.0963e-09  |
+| Glucose (10 ug/mL)   | 3.59037 | 1.90516e-09 |
+| Glucose (10 ug/mL)   | 3.48983 | 1.77333e-09 |
+| Glucose (10 ug/mL)   | 3.38929 | 1.66382e-09 |
+| Glucose (10 ug/mL)   | 3.29104 | 1.57357e-09 |
+| Glucose (10 ug/mL)   | 3.18821 | 1.4764e-09  |
+| Glucose (10 ug/mL)   | 3.09224 | 1.37424e-09 |
+| Glucose (10 ug/mL)   | 2.9917  | 1.29969e-09 |
+| Glucose (10 ug/mL)   | 2.89573 | 1.20016e-09 |
+| Glucose (10 ug/mL)   | 2.7929  | 1.12605e-09 |
+| Glucose (10 ug/mL)   | 2.69008 | 1.03981e-09 |
+| Glucose (10 ug/mL)   | 2.59182 | 9.83408e-10 |
+| Glucose (100ug/mL)   | 4.98423 | 2.53467e-09 |
+| Glucose (100ug/mL)   | 4.88674 | 2.42922e-09 |
+| Glucose (100ug/mL)   | 4.7862  | 2.30356e-09 |
+| Glucose (100ug/mL)   | 4.68261 | 2.18439e-09 |
+| Glucose (100ug/mL)   | 2.00152 | 2.81128e-10 |
+| Glucose (100ug/mL)   | 2.09292 | 3.09333e-10 |
+| Glucose (100ug/mL)   | 2.19346 | 3.40368e-10 |
+| Glucose (100ug/mL)   | 2.29096 | 3.78517e-10 |
+| Glucose (100ug/mL)   | 2.38845 | 4.20941e-10 |
+| Glucose (100ug/mL)   | 2.49356 | 4.74378e-10 |
+| Glucose (100ug/mL)   | 2.59182 | 5.21972e-10 |
+| Glucose (100ug/mL)   | 2.69236 | 5.74341e-10 |
+| Glucose (100ug/mL)   | 2.78833 | 6.26948e-10 |
+| Glucose (100ug/mL)   | 2.88887 | 6.89849e-10 |
+| Glucose (100ug/mL)   | 2.98713 | 7.59061e-10 |
+| Glucose (100ug/mL)   | 3.09224 | 8.1549e-10  |
+| Glucose (100ug/mL)   | 3.18821 | 8.48633e-10 |
+| Glucose (100ug/mL)   | 3.29104 | 9.48774e-10 |
+| Glucose (100ug/mL)   | 3.38929 | 1.01931e-09 |
+| Glucose (100ug/mL)   | 3.48755 | 1.10384e-09 |
+| Glucose (100ug/mL)   | 3.5858  | 1.19539e-09 |
+| Glucose (100ug/mL)   | 3.68177 | 1.27406e-09 |
+| Glucose (100ug/mL)   | 3.78688 | 1.35791e-09 |
+| Glucose (100ug/mL)   | 3.88971 | 1.4358e-09  |
+| Glucose (100ug/mL)   | 3.98568 | 1.51815e-09 |
+| Glucose (100ug/mL)   | 4.08394 | 1.59249e-09 |
+| Glucose (100ug/mL)   | 4.18448 | 1.6973e-09  |
+| Glucose (100ug/mL)   | 4.28502 | 1.809e-09   |
+| Glucose (100ug/mL)   | 4.38784 | 1.88252e-09 |
+| Glucose (100ug/mL)   | 4.4861  | 1.9747e-09  |
+| Glucose (100ug/mL)   | 4.58436 | 2.1215e-09  |
+| Glucose (1000 ug/mL) | 4.6849  | 1.60523e-09 |
+| Glucose (1000 ug/mL) | 4.58664 | 1.53029e-09 |
+| Glucose (1000 ug/mL) | 4.4861  | 1.44728e-09 |
+| Glucose (1000 ug/mL) | 4.38556 | 1.39076e-09 |
+| Glucose (1000 ug/mL) | 4.28502 | 1.33645e-09 |
+| Glucose (1000 ug/mL) | 4.18676 | 1.27406e-09 |
+| Glucose (1000 ug/mL) | 4.08622 | 1.20495e-09 |
+| Glucose (1000 ug/mL) | 3.98797 | 1.16715e-09 |
+| Glucose (1000 ug/mL) | 3.89123 | 1.10091e-09 |
+| Glucose (1000 ug/mL) | 3.79145 | 1.05231e-09 |
+| Glucose (1000 ug/mL) | 3.69167 | 9.87333e-10 |
+| Glucose (1000 ug/mL) | 3.59723 | 9.36258e-10 |
+| Glucose (1000 ug/mL) | 3.48755 | 8.97307e-10 |
+| Glucose (1000 ug/mL) | 3.39615 | 8.37438e-10 |
+| Glucose (1000 ug/mL) | 3.29865 | 7.87815e-10 |
+| Glucose (1000 ug/mL) | 3.19278 | 7.53038e-10 |
+| Glucose (1000 ug/mL) | 3.09224 | 6.95368e-10 |
+| Glucose (1000 ug/mL) | 2.98941 | 6.52428e-10 |
+| Glucose (1000 ug/mL) | 2.9003  | 5.91367e-10 |
+| Glucose (1000 ug/mL) | 2.79899 | 5.4463e-10  |
+| Glucose (1000 ug/mL) | 2.69541 | 5.06944e-10 |
+| Glucose (1000 ug/mL) | 2.60096 | 4.65641e-10 |
+| Glucose (1000 ug/mL) | 2.49585 | 4.24308e-10 |
+| Glucose (1000 ug/mL) | 2.39302 | 3.79524e-10 |
+| Glucose (1000 ug/mL) | 2.29858 | 3.42181e-10 |
+| Glucose (1000 ug/mL) | 2.19423 | 3.03636e-10 |
+| Glucose (1000 ug/mL) | 2.09597 | 2.7595e-10  |
+| Glucose (1000 ug/mL) | 4.98423 | 1.76628e-09 |
+| Glucose (1000 ug/mL) | 4.88674 | 1.71087e-09 |
+| Glucose (1000 ug/mL) | 4.7862  | 1.65721e-09 |
+| Glucose (1000 ug/mL) | 2.00152 | 2.50124e-10 |

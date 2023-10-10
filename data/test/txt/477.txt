@@ -1,0 +1,11 @@
+| Category          |   first quartile |      max |   median |      min |   third quartile | x                 |
+| Personal exposure |          42.1076 |  88.0897 |  52.0628 | 21.4238  |          61.6143 | Teachers          |
+| Personal exposure |          66.0538 | 166.439  |  83.139  |  9.787   |         117.309  | Bus drivers       |
+| Personal exposure |          61.4798 | 125.758  |  76.8161 | 20.583   |          91.3789 | Postmen           |
+| Personal exposure |          64.574  | 150.942  |  76.1435 | 38.7444  |         103.453  | Traffic policemen |
+| Personal exposure |          38.4753 | 133.857  |  48.9686 |  7.97085 |          79.3722 | Students          |
+| Indoor levels     |          27.5785 |  68.9327 |  35.5157 | 18.1614  |          45.3363 | Teachers          |
+| Indoor levels     |          28.1166 |  78.565  |  39.0135 | 10.4596  |          49.1031 | Bus drivers       |
+| Indoor levels     |          23.6771 |  86.7713 |  36.5919 | 13.6211  |          54.3498 | Postmen           |
+| Indoor levels     |          27.8475 |  83.139  |  43.8565 | 11.1996  |          54.3161 | Traffic policemen |
+| Indoor levels     |          25.0224 |  77.4888 |  34.7085 |  9.04709 |          46.009  | Students          |

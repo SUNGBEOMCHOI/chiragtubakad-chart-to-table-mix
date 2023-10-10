@@ -1,0 +1,19 @@
+| title    |   [unnamed data series #0] |
+| age      |                  0.0398972 |
+| flowering
+status          |                  0.586015  |
+| max
+temp          |                  0.0431877 |
+| min
+temp          |                  0.0366067 |
+| precip   |                  0.204422  |
+| residual |                  0.178098  |
+| age      |                  0.0398972 |
+| flowering
+status          |                  0.385398  |
+| max
+temp          |                  0.0629306 |
+| min
+temp          |                  0.0662211 |
+| precip   |                  0.112288  |
+| residual |                  0.450283  |

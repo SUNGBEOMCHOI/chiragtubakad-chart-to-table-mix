@@ -1,0 +1,11 @@
+| title                 |   [unnamed data series #0] |
+| Pamphiets             |                   30.1497  |
+| Posters               |                   30.0817  |
+| Individual counseling |                   28.0399  |
+| Workshops             |                   23.1397  |
+| Guest speakers        |                   19.0563  |
+| Hypertensive clubs    |                   19.1243  |
+| Diabetic clubs        |                   19.0563  |
+| Books                 |                   17.0145  |
+| Video tapes           |                   15.1089  |
+| Support groups        |                    8.98367 |

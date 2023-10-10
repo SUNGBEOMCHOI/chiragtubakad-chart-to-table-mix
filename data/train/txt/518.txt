@@ -1,0 +1,13 @@
+| title         |   Tangential layer |
+| Undeformed    |            4.34717 |
+| Low strain    |            7.16508 |
+| Medium strain |            6.2289  |
+| High strain   |            6.81869 |
+| Undeformed    |            4.23483 |
+| Low strain    |            2.99906 |
+| Medium strain |            1.48245 |
+| High strain   |            1.51053 |
+| Undeformed    |            2.46544 |
+| Low strain    |            1.9599  |
+| Medium strain |            1.3701  |
+| High strain   |            2.10033 |

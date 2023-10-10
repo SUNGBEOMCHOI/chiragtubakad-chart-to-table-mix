@@ -1,0 +1,6 @@
+| title            |   [unnamed data series #0] |
+| Respiratory      |                   60.2175  |
+| Gastrointestinal |                   26.8002  |
+| Skin             |                    6.9089  |
+| Other infections |                    3.99151 |
+| Non-infectious   |                    2.93065 |

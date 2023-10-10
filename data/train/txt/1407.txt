@@ -1,0 +1,5 @@
+| title    |   [unnamed data series #0] |
+| Ti64 (-) |                 9119.45    |
+| Zr-BMG   |                  663.47    |
+| ZrY-BMG  |                 2197.03    |
+| Cu (+)   |                    1.02903 |

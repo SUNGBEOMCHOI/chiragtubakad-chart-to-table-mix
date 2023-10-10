@@ -1,0 +1,6 @@
+| title                       |   [unnamed data series #0] |
+| Chromosome organization     |                    6.39191 |
+| Chromatin organization      |                    5.62326 |
+| Regulation of transcription |                    3.92415 |
+| Chromatin modification      |                    3.64096 |
+| RNA splicing                |                    1.94185 |

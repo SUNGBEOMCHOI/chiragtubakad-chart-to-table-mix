@@ -1,0 +1,10 @@
+| title                 |   Tubukar |
+| No stenosis           |  23.4304  |
+| Ureter stenosis       |   7.23459 |
+| In-stent encrustation |  23.359   |
+| No stenosis           |  17.7226  |
+| Ureter stenosis       |   7.87671 |
+| In-stent encrustation |  17.7226  |
+| No stenosis           |  20.2197  |
+| Ureter stenosis       |   6.52112 |
+| In-stent encrustation |  20.1484  |

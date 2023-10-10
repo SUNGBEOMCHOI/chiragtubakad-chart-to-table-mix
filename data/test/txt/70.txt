@@ -1,0 +1,12 @@
+| title                   |   [unnamed data series #0] |
+| Perimeter of home       |                   47.1546  |
+| Deck, porch or patio    |                   44.7286  |
+| Structure of foundation |                   27.7462  |
+| Shrubs or bushes        |                   27.7462  |
+| Garden                  |                   22.4897  |
+| Omamental flowers       |                   22.4897  |
+| Lawn                    |                   16.0203  |
+| Garage                  |                   13.1899  |
+| Shed                    |                    4.45606 |
+| Greenhouse              |                    1.86827 |
+| Other                   |                   15.2116  |

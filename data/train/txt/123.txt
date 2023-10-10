@@ -1,0 +1,20 @@
+| title        |   Paniyas(N=425) |
+| Underweight  |        0.547014  |
+| Anaemia      |        0.173321  |
+| Goitre       |        0.104718  |
+| Tuberculosis |        0.24304   |
+| Hypertension |        0.237462  |
+| Underweight  |        0.407576  |
+| Anaemia      |        0.0589821 |
+| Goitre       |        0.0757146 |
+| Tuberculosis |        0.203997  |
+| Hypertension |        0.231885  |
+| Underweight  |        0.259772  |
+| Anaemia      |        0.0310946 |
+| Goitre       |        0.0310946 |
+| Tuberculosis |        0.212363  |
+| Hypertension |        0.201208  || Underweight  |        0.226307  |
+| Anaemia      |        0.0422496 |
+| Goitre       |        0.0366721 |
+| Tuberculosis |        0.201208  |
+| Hypertension |        0.201208  |

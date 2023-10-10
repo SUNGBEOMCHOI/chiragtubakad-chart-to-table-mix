@@ -1,0 +1,15 @@
+| title     |   apical |
+| Control   | 100.182  |
+| Base      | 100.656  |
+| Cinnamon  |  98.1904 |
+| Tobacco 1 | 103.501  |
+| Tobacco 2 |  97.8111 |
+| Menthol 1 | 100.087  |
+| Menthol 2 |  93.0699 |
+| Control   | 100.182  |
+| Base      | 103.311  |
+| Cinnamon  |  93.0699 |
+| Tobacco 1 |  93.6389 |
+| Tobacco 2 |  88.2339 |
+| Menthol 1 |  98.7594 |
+| Menthol 2 | 104.733  |

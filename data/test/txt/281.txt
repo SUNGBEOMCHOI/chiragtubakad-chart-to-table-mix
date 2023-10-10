@@ -1,0 +1,14 @@
+| title                |   [unnamed data series #0] |
+| Unknown              |                        0.6 |
+| Other Transport      |                        0.8 |
+| Explosive blast      |                        1.4 |
+| Drowning             |                        1.4 |
+| Electroluction       |                        1.7 |
+| Poisoning            |                        1.8 |
+| Suffocation/Chocking |                        2.9 |
+| Fall                 |                        3.2 |
+| Stab/Cut             |                        4.8 |
+| Burn                 |                       10.1 |
+| Firearm              |                       15   |
+| RTI                  |                       25.9 |
+| Blunt force          |                       30.5 |

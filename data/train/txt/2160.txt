@@ -1,0 +1,11 @@
+| title                                            |   [unnamed data series #0] |
+| Performing tick check after outdoor activities   |                   76.8631  |
+| Wearing protective clothing                      |                   72.8861  |
+| Avoiding wooded areas during the high-nsk period |                   36.3475  |
+| Applying tick repellent                          |                   40.0759  |
+| Treating properties with acaricides              |                    6.02301 |
+| Performing tick check after outdoor activities   |                   18.2025  |
+| Wearing protective clothing                      |                   49.2727  |
+| Avoiding wooded areas during the high-nsk period |                   35.3533  |
+| Applying tick repellent                          |                   35.1047  |
+| Treating properties with acaricides              |                    6.27158 |

@@ -1,0 +1,20 @@
+| Category                                      |         X |        Y |
+| trio reference panel                          |   31.4655 | 0.903805 |
+| trio reference panel                          |   65.4833 | 0.93891  |
+| trio reference panel                          |  128.017  | 0.959053 |
+| random sire reference panel (sires and trios) |   33.1897 | 0.874595 |
+| random sire reference panel (sires and trios) |   48.7069 | 0.905924 |
+| random sire reference panel (sires and trios) |   64.2241 | 0.92571  |
+| random sire reference panel (sires and trios) |   80.0287 | 0.93855  |
+| random sire reference panel (sires and trios) |   96.5517 | 0.947252 |
+| random sire reference panel (sires and trios) |  128.879  | 0.955344 |
+| random sire reference panel (sires and trios) |  181.322  | 0.96374  |
+| random sire reference panel (sires and trios) |  192.098  | 0.965267 |
+| random sire reference panel (sires and trios) |  256.753  | 0.971069 |
+| random sire reference panel (sires and trios) |  513.937  | 0.978855 |
+| random sire reference panel (sires and trios) | 1025.86   | 0.984198 |
+| combined reference panel(sires and trios)     | 1024.43   | 0.984962 |
+| combined reference panel(sires and trios)     |  512.931  | 0.978397 |
+| combined reference panel(sires and trios)     |  385.776  | 0.976107 |
+| combined reference panel(sires and trios)     |  384.249  | 0.97655  |
+| combined reference panel(sires and trios)     |  256.466  | 0.968626 |

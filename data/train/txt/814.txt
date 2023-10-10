@@ -1,0 +1,11 @@
+| title       |   [unnamed data series #0] |
+| Saves Time  |                       0.51 |
+| Saves Money |                       0.19 |
+| Avoid Hassle Going
+To doctor             |                       0.24 |
+| Successful used in
+past             |                       0.29 |
+| Worked For
+Family/ Friends             |                       0.17 |
+| Medicines Leftover
+from previous use             |                       0.1  |

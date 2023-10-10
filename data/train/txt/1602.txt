@@ -1,0 +1,19 @@
+| title                                                                                                |   Correct |
+| Using fluoride toothpaste is more important than the brushing technique for preventing caries        | 0.0481481 |
+| Using xylitol in form of gum or snacks reduces the level of bacteria which cause decay               | 0.507407  |
+| Mouth rinsing with ahigh amont of water after tooth brushing with fluoride containing toothpaste, os | 0.517989  |
+| The first signs of decay are white spots or lines on teeth surface                                   | 0.528571  |
+| The acid produced by the oral bacteria after a patient eats sugar is neutralized and washed away by  | 0.687831  |
+| The best time to refer a pregnant woman for emergency dental procedure is in second trimester        | 0.73545   |
+| The main cause of periodontal diseases is dental plaque                                              | 0.78836   |
+| Frequency of sugar consumption has greater role in producing caries than does the total amount of su | 0.925926  |
+| Why fluoride is added to toothpaste                                                                  | 0.928042  |
+| Using fluoride toothpaste is more important than the brushing technique for preventing caries        | 0.951852  |
+| Using xylitol in form of gum or snacks reduces the level of bacteria which cause decay               | 0.492593  |
+| Mouth rinsing with ahigh amont of water after tooth brushing with fluoride containing toothpaste, os | 0.483069  |
+| The first signs of decay are white spots or lines on teeth surface                                   | 0.472487  |
+| The acid produced by the oral bacteria after a patient eats sugar is neutralized and washed away by  | 0.311111  |
+| The best time to refer a pregnant woman for emergency dental procedure is in second trimester        | 0.26455   |
+| The main cause of periodontal diseases is dental plaque                                              | 0.210582  |
+| Frequency of sugar consumption has greater role in producing caries than does the total amount of su | 0.0730159 |
+| Why fluoride is added to toothpaste                                                                  | 0.0719577 |

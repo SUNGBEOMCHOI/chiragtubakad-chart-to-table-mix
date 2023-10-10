@@ -1,0 +1,13 @@
+| title                     |   28 days after stroke |
+| Physical/Physiotherapy    |                46.7327 |
+| Speech language therapy   |                25.6436 |
+| Access any rehabilitation |                49.4059 |
+| Physical/Physiotherapy    |                34.8515 |
+| Speech language therapy   |                11.0891 |
+| Access any rehabilitation |                36.6337 |
+| Physical/Physiotherapy    |                22.9703 |
+| Speech language therapy   |                 6.0396 |
+| Access any rehabilitation |                23.2673 |
+| Physical/Physiotherapy    |                55.9406 |
+| Speech language therapy   |                28.6139 |
+| Access any rehabilitation |                61.7327 |

@@ -1,0 +1,46 @@
+| title                                     |   [unnamed data series #0] |
+| Transmission of nerve impulse             |                    6.0271  |
+| +ve regulation of Ras signal transduction |                    4.63957 |
+| Synaptonemal complex assembly             |                    4.20596 |
+| G-protein signaling                       |                    4.17344 |
+| Dendrite development                      |                    3.55556 |
+| Inorganic ion transport                   |                    3.53388 |
+| Regulation of apoptosis                   |                    3.5122  |
+| CNS neuron development                    |                    3.50136 |
+| Neuroblast proliferation                  |                    3.47967 |
+| Regulation of MAPK activity               |                    3.42547 |
+| Peripheral nervous system development     |                    3.25203 |
+| +ve regulation of small GTPase signalling |                    3.07859 |
+| Isotype switching to IgA isotypes         |                    2.95935 |
+| Regulation of isotype switching           |                    2.94851 |
+| +ve regulation of isotype switching       |                    2.95935 |
+| Regulation of cell proliferation          |                    2.92683 |
+| Phosphate transport                       |                    2.92683 |
+| Regulation of Ras signal transduction     |                    2.91599 |
+| Mitotic sister chromatid segregation      |                    2.78591 |
+| sister chromatid segregation              |                    2.77507 |
+| Proteolysis                               |                    2.73171 |
+| Synapsis                                  |                    2.60163 |
+| Sulfate transport                         |                    2.53659 |
+| -ve regulation of apoptosis               |                    2.49322 |
+| Reproduction                              |                    2.38482 |
+| Sexual reproduction                       |                    2.37398 |
+| MAPKKK cascade                            |                    2.28726 |
+| Cellular component assembly               |                    2.15718 |
+| Establishment of protein localization     |                    2.1355  |
+| Activation of plasma proteins             |                    2.12466 |
+| Lymph node development                    |                    2.10298 |
+| Morphogenesis of embryonic epithelium     |                    2.10298 |
+| +ve regulation of isotype switching       |                    2.0813  |
+| Hair follicle development                 |                    2.03794 |
+| Axon guidance                             |                   -2.03794 |
+| Multi-organism process                    |                   -2.0271  |
+| Carbohydrate transport                    |                   -2.03794 |
+| Biomineral formation                      |                   -2.12466 |
+| Bone remodeling                           |                   -2.14634 |
+| Chemotaxis                                |                   -2.20054 |
+| Taxis                                     |                   -2.21138 |
+| [unnamed category #41]                    |                   -2.41734 |
+| [unnamed category #42]                    |                   -2.4607  |
+| [unnamed category #43]                    |                   -2.77507 |
+| [unnamed category #44]                    |                   -3.58808 |

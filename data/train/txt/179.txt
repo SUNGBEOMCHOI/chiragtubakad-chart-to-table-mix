@@ -1,0 +1,25 @@
+| title    |   Japan |
+| Antidote | 3.69597 |
+| PPE      | 2.21758 |
+| Device to
+Detect          | 2.97284 |
+| Family is
+Safe          | 2.50683 |
+| Trusting
+Source          | 3.66383 |
+| Antidote | 3.42279 |
+| PPE      | 2.37827 |
+| Device to
+Detect          | 3.45493 |
+| Family is
+Safe          | 1.79978 |
+| Trusting
+Source          | 3.93701 |
+| Antidote | 3.55134 |
+| PPE      | 2.29793 |
+| Device to
+Detect          | 3.21388 |
+| Family is
+Safe          | 2.12116 |
+| Trusting
+Source          | 3.80845 |

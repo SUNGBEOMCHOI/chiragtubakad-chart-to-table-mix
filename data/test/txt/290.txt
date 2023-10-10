@@ -1,0 +1,3 @@
+| title         |   [unnamed data series #0] |
+| Uncircumcised |                    61.5    |
+| Circumcised   |                    17.3811 |

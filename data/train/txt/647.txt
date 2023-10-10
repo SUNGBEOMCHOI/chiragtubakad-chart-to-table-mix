@@ -1,0 +1,8 @@
+| title         |   [unnamed data series #0] |
+| 1 ug/ml 
+HSA               |                     4.2998 |
+| 100 pg/mL AFP |                    13.3164 |
+| 1 ng/mL AFP   |                    18.2756 |
+| 10 ng/mL AFP  |                    46.2271 |
+| 100 ng/mL AFP |                    81.3919 |
+| 1 ug/mL AFP   |                   111.147  |

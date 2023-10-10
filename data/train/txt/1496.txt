@@ -1,0 +1,79 @@
+| title                  |   [unnamed data series #0] |
+| 2.5                    |                   27.4576  |
+| 7.5                    |                   26.1017  |
+| 12.5                   |                   26.7797  |
+| 17.5                   |                   27.4576  |
+| 22.5                   |                   27.1186  |
+| 27.5                   |                   27.1186  |
+| 32.5                   |                   26.9492  |
+| 37.5                   |                   26.9492  |
+| 42.5                   |                   26.4407  |
+| 47.5                   |                   26.1017  |
+| 52.5                   |                   26.1017  |
+| 57.5                   |                   25.9322  |
+| 62.5                   |                   25.5932  |
+| 67.5                   |                   25.0847  |
+| 72.5                   |                   25.0847  |
+| 77.5                   |                   24.5763  |
+| 82.5                   |                   24.2373  |
+| 87.5                   |                   23.8983  |
+| 92.5                   |                   23.5593  |
+| 97.5                   |                   23.0508  |
+| [unnamed category #20] |                   22.5424  |
+| [unnamed category #21] |                   21.8644  |
+| [unnamed category #22] |                   21.1864  |
+| [unnamed category #23] |                   20.678   |
+| [unnamed category #24] |                   20.1695  |
+| [unnamed category #25] |                   19.6799  |
+| [unnamed category #26] |                   19.3597  |
+| [unnamed category #27] |                   18.7194  |
+| [unnamed category #28] |                   18.2392  |
+| [unnamed category #29] |                   17.5989  |
+| [unnamed category #30] |                   16.7985  |
+| [unnamed category #31] |                   15.678   |
+| [unnamed category #32] |                   14.8777  |
+| [unnamed category #33] |                   13.9172  |
+| [unnamed category #34] |                   12.7967  |
+| [unnamed category #35] |                   11.196   |
+| [unnamed category #36] |                    8.9615  |
+| [unnamed category #37] |                    5.78009 |
+| [unnamed category #38] |                    1.16703 |
+| 2.5                    |                    1.06099 |
+| 7.5                    |                    1.16703 |
+| 12.5                   |                    1.06099 |
+| 17.5                   |                    1.16703 |
+| 22.5                   |                    1.16703 |
+| 27.5                   |                    1.06099 |
+| 32.5                   |                    1.16703 |
+| 37.5                   |                    1.16703 |
+| 42.5                   |                    1.27308 |
+| 47.5                   |                    1.06099 |
+| 52.5                   |                    1.16703 |
+| 57.5                   |                    1.16703 |
+| 62.5                   |                    1.27308 |
+| 67.5                   |                    1.37913 |
+| 72.5                   |                    1.27308 |
+| 77.5                   |                    1.48517 |
+| 82.5                   |                    1.48517 |
+| 87.5                   |                    1.59122 |
+| 92.5                   |                    1.59122 |
+| 97.5                   |                    1.80332 |
+| [unnamed category #20] |                    1.80332 |
+| [unnamed category #21] |                    1.69727 |
+| [unnamed category #22] |                    1.90936 |
+| [unnamed category #23] |                    1.80332 |
+| [unnamed category #24] |                    2.01541 |
+| [unnamed category #25] |                    1.80332 |
+| [unnamed category #26] |                    1.80332 |
+| [unnamed category #27] |                    1.96239 |
+| [unnamed category #28] |                    2.12146 |
+| [unnamed category #29] |                    2.28053 |
+| [unnamed category #30] |                    2.91681 |
+| [unnamed category #31] |                    3.23495 |
+| [unnamed category #32] |                    3.71217 |
+| [unnamed category #33] |                    4.34845 |
+| [unnamed category #34] |                    5.62102 |
+| [unnamed category #35] |                    7.05265 |
+| [unnamed category #36] |                   10.8758  |
+| [unnamed category #37] |                   21.3559  |
+| [unnamed category #38] |                   42.8571  |

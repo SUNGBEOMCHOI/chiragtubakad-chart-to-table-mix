@@ -1,0 +1,7 @@
+| Category                 |   first quartile |     max |   median |       min |   third quartile | x                    |
+| [unnamed data series #0] |        0.659176  | 1.00499 | 0.802747 | 0.25593   |         0.928839 | Verified ORFs        |
+| [unnamed data series #0] |        0.369538  | 1.0025  | 0.617978 | 0         |         0.820225 | Dubious ORFs         |
+| [unnamed data series #0] |        0.518102  | 1.00499 | 0.689139 | 0.0661673 |         0.817728 | Uncharacterized ORFs |
+| [unnamed data series #0] |        0.137328  | 0.97628 | 0.285893 | 0         |         0.474407 | Background           |
+| [unnamed data series #0] |        0.0137328 | 1.00375 | 0.158552 | 0         |         0.476904 | Novel                |
+| [unnamed data series #0] |        0.875227  | 1.0025  | 0.965044 | 0.731586  |         1.0025   | snoRNA               |

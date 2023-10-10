@@ -1,0 +1,11 @@
+| title       |   UVA 7 J/cm^2 |
+| ML          |       0.699638 |
+| BeP         |       9.1918   |
+| 1-Nitro-Bep |       0.313631 |
+| 3-Nitro-Bep |       0.120627 |
+| 4-Nitro-Bep |       4.46321  |
+| ML          |       4.0772   |
+| BeP         |      15.5609   |
+| 1-Nitro-Bep |       0.120627 |
+| 3-Nitro-Bep |       0.361882 |
+| 4-Nitro-Bep |       9.14355  |

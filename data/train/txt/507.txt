@@ -1,0 +1,10 @@
+| title                  |   >75th Percentile (N=25) |
+| Attention              |                   2.88398 |
+| Aggression             |                   8.41299 |
+| Externalizing Behavior |                  11.1775  |
+| Attention              |                   2.83713 |
+| Aggression             |                   9.39696 |
+| Externalizing Behavior |                  12.0678  |
+| Attention              |                   3.72739 |
+| Aggression             |                  12.2083  |
+| Externalizing Behavior |                  15.9099  |

@@ -1,0 +1,61 @@
+| title                        |   Theil L index National |
+| Per square kilometer         |               0.486593   |
+| Per 1,000 live birts         |               0.0550648  |
+| Per 10,000 children<18 years |               0.0528172  |
+| Per 10,000 children<7 years  |               0.0696738  |
+| Per 10,000 population        |               0.0392071  |
+| Per square kilometer         |               0.515811   |
+| Per 1,000 live births        |               0.0707976  |
+| Per 10,000 children<18 years |               0.0674263  |
+| Per 10,000 children<7 years  |               0.0876541  |
+| Per 10,000 population        |               0.0550648  |
+| Per square kilometer         |               0.46187    |
+| Per 1,000 live births        |               0.0483221  |
+| Per 10,000 children<18 years |               0.0447011  |
+| Per 10,000 children<7 years  |               0.0584361  |
+| Per 10,000 population        |               0.0303418  |
+| Per square kilometer         |               0.493335   |
+| Per 1,000 live birts         |               0.0616825  |
+| Per 10,000 children<18 years |               0.0551896  |
+| Per 10,000 children<7 years  |               0.0943968  |
+| Per 10,000 population        |               0.0258467  |
+| Per square kilometer         |               0.541658   |
+| Per 1,000 live births        |               0.0809115  |
+| Per 10,000 children<18 years |               0.0766661  |
+| Per 10,000 children<7 years  |               0.122491   |
+| Per 10,000 population        |               0.0415795  |
+| Per square kilometer         |               0.447261   |
+| Per 1,000 live births        |               0.0471984  |
+| Per 10,000 children<18 years |               0.039332   |
+| Per 10,000 children<7 years  |               0.0711722  |
+| Per 10,000 population        |               0.0179803  |
+| Per square kilometer         |               0.0483221  |
+| Per 1,000 live birts         |               0.0127361  |
+| Per 10,000 children<18 years |               0.00337131 |
+| Per 10,000 children<7 years  |               0.00674263 |
+| Per 10,000 population        |               0.00899017 |
+| Per square kilometer         |               0.0561885  |
+| Per 1,000 live births        |               0.00674263 |
+| Per 10,000 children<18 years |               0.00112377 |
+| Per 10,000 children<7 years  |               0.00449508 |
+| Per 10,000 population        |               0.0112377  |
+| Per square kilometer         |               0.0449508  |
+| Per 1,000 live births        |               0.0224754  |
+| Per 10,000 children<18 years |               0.0101139  |
+| Per 10,000 children<7 years  |               0.0134853  |
+| Per 10,000 population        |               0.0157328  |
+| Per square kilometer         |               0.212393   |
+| Per 1,000 live birts         |               0.0797877  |
+| Per 10,000 children<18 years |               0.078664   |
+| Per 10,000 children<7 years  |               0.093273   |
+| Per 10,000 population        |               0.0629312  |
+| Per square kilometer         |               0.241611   |
+| Per 1,000 live births        |               0.105634   |
+| Per 10,000 children<18 years |               0.106758   |
+| Per 10,000 children<7 years  |               0.124739   |
+| Per 10,000 population        |               0.093273   |
+| Per square kilometer         |               0.191041   |
+| Per 1,000 live births        |               0.0626814  |
+| Per 10,000 children<18 years |               0.0595599  |
+| Per 10,000 children<7 years  |               0.0719213  |
+| Per 10,000 population        |               0.0449508  |

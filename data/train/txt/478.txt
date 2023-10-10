@@ -1,0 +1,17 @@
+| title     |      <5000 |
+| Duroc     | 14265.6    |
+| Landrace  | 13327.1    |
+| Yorkshire | 21891.1    |
+| Crossbred |  1067.57   |
+| Duroc     |   633.505  |
+| Landrace  |   915.063  |
+| Yorkshire |  1525.11   |
+| Crossbred |    11.7316 |
+| Duroc     |   351.947  |
+| Landrace  |   868.137  |
+| Yorkshire |  1008.92   |
+| Crossbred |    70.3895 |
+| Duroc     |  3120.6    |
+| Landrace  |  3355.23   |
+| Yorkshire |  4903.8    |
+| Crossbred |   129.047  |

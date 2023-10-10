@@ -1,0 +1,11 @@
+| title                |   [unnamed data series #0] |
+| no idea/no answer    |                    9.41176 |
+| none                 |                  171.979   |
+| others               |                   29.0909  |
+| childsitting         |                   64.1711  |
+| social               |                   17.9679  |
+| chilled relationship |                  541.604   |
+| blaming              |                   17.9679  |
+| feeling gloomy       |                  658.979   |
+| safety               |                   13.6898  |
+| financial            |                  410.695   |

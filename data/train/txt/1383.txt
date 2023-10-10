@@ -1,0 +1,5 @@
+| Category                 |   first quartile |      max |   median |      min |   third quartile | x                    |
+| [unnamed data series #0] |         0.443497 | 0.972281 | 0.5629   | 0.358209 |         0.742004 | Males Haemodial ysis |
+| [unnamed data series #0] |         0.528785 | 0.886994 | 0.648188 | 0.426439 |         0.810235 | Males Controls       |
+| [unnamed data series #0] |         0.443497 | 0.938166 | 0.571429 | 0.341151 |         0.750533 | Females Hemodialysis |
+| [unnamed data series #0] |         0.443497 | 0.98081  | 0.63113  | 0.289979 |         0.801706 | Females Controls     |

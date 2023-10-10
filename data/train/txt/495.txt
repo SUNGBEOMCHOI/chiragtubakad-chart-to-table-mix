@@ -1,0 +1,9 @@
+| title            |   Presence of IgG |
+| 0-8 months       |         0.107517  |
+| 9 months-5 years |         0.575421  |
+| 6-9 years        |         0.510434  |
+| 10+ years        |         0.462777  |
+| 0-8 months       |         0.0295328 |
+| 9 months-5 years |         0.935013  |
+| 6-9 years        |         0.961369  |
+| 10+ years        |         0.653405  |

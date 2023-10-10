@@ -1,0 +1,16 @@
+| title           |   Total |
+| High BP         | 14.0507 |
+| Central obesity | 44.2775 |
+| High TG         | 32.5226 |
+| Low HDL-C       | 60.9175 |
+| Dysglycemia     | 10.3869 |
+| High BP         | 16.7986 |
+| Central obesity | 34.3546 |
+| High TG         | 40.7663 |
+| Low HDL-C       | 40.1556 |
+| Dysglycemia     | 11.1502 |
+| High BP         | 12.0661 |
+| Central obesity | 50.3839 |
+| High TG         | 26.7979 |
+| Low HDL-C       | 75.5728 |
+| Dysglycemia     | 10.2342 |

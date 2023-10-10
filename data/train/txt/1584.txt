@@ -1,0 +1,8 @@
+| title                |   [unnamed data series #0] |
+| Hypertension         |                      0.52  |
+| Heart diseases       |                      0.03  |
+| Peptic ulcer disease |                      0.025 |
+| hypochloesteraemia   |                      0.015 |
+| Asthma               |                      0.01  |
+| Tuberculosis         |                      0.005 |
+| Epilepsy             |                      0.005 |

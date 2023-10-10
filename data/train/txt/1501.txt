@@ -1,0 +1,6 @@
+| title              |   [unnamed data series #0] |
+| chemical poisoning |                         27 |
+| heat               |                         21 |
+| inconvinience      |                          9 |
+| None               |                         25 |
+| Don't Know         |                         18 |

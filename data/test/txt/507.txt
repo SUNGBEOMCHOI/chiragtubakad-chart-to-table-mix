@@ -1,0 +1,27 @@
+| title                     |   Inpatients |
+| Coronary artery disease   |         54.7 |
+| Positive family history   |         35.9 |
+| Myocardial infarction     |         52.7 |
+| PCI                       |         39.4 |
+| CABG                      |         35.5 |
+| Diabetes mellitus         |         33.4 |
+| Heart Failure             |         27.4 |
+| Abnormal renal function   |         20.8 |
+| Current Smoking           |         15.3 |
+| Previous stroke or TIA    |         15.7 |
+| PAD                       |         10.8 |
+| Carotid stenosis = 50     |          6.8 |
+| Abdominal aortic aneurysm |          3.2 |
+| Coronary artery disease   |         37.2 |
+| Positive family history   |         53.2 |
+| Myocardial infarction     |         47.7 |
+| PCI                       |         38.2 |
+| CABG                      |         29.2 |
+| Diabetes mellitus         |         27.5 |
+| Heart Failure             |         27.5 |
+| Abnormal renal function   |          9.9 |
+| Current Smoking           |         19.8 |
+| Previous stroke or TIA    |         10.9 |
+| PAD                       |         11.3 |
+| Carotid stenosis = 50     |         10.4 |
+| Abdominal aortic aneurysm |          2.9 |

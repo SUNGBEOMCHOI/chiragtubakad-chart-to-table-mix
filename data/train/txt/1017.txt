@@ -1,0 +1,9 @@
+| title              |   Native American mtDNA |
+| GG                 |                    65.4 |
+| CG/CC              |                    34.6 |
+| bAt(CCA) Haplotype |                    63.4 |
+| Other hapiotypes   |                    36.6 |
+| GG                 |                    38.4 |
+| CG/CC              |                    61.6 |
+| bAt(CCA) Haplotype |                    32.2 |
+| Other hapiotypes   |                    67.8 |

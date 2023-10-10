@@ -1,0 +1,5 @@
+| title         |   Castable |
+| No post-cured |   1.26062  |
+| Post-cured    |   1.15466  |
+| No post-cured |   1.3804   |
+| Post-cured    |   0.974988 |

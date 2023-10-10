@@ -1,0 +1,9 @@
+| title                                    |   [unnamed data series #0] |
+| Ask fox aid                              |                        3.8 |
+| Selling HH asset                         |                        4.9 |
+| Ask for loan                             |                        6.5 |
+| Doing extra work                         |                       32.1 |
+| Reduce number of meals                   |                       36.8 |
+| Reduce non food expenditure              |                       47.3 |
+| Shifting to less quality/expensive foods |                       51.8 |
+| Reduce amount of meal                    |                       54.7 |

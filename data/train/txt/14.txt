@@ -1,0 +1,7 @@
+| title   |   Prevalence |
+| male    |      4.27128 |
+| Female  |      5.58861 |
+| Both    |      5.07508 |
+| male    |      1.7036  |
+| Female  |      2.59671 |
+| Both    |      2.08317 |

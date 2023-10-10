@@ -1,0 +1,6 @@
+| title          |   [unnamed data series #0] |
+| ESBL-producing |                    36.2984 |
+| CAZ-resistant  |                    34.1629 |
+| CRO-resistant  |                    49.5775 |
+| EPM-resistant  |                    13.5211 |
+| IMP-resistant  |                    13.8028 |

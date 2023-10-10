@@ -1,0 +1,6 @@
+| title        |   [unnamed data series #0] |
+| Mg-3Zn       |                    61.6651 |
+| Mg-3Zn/2.5HA |                    68.6953 |
+| Mg-3Zn/5HA   |                    70.6795 |
+| Mg-SZn/7.5HA |                    74.4259 |
+| Mg-3Zn/10HA  |                    76.646  |

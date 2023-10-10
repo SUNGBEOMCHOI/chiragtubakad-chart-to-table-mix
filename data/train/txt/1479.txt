@@ -1,0 +1,27 @@
+| title                                |        AMS |
+| Alcohols                             | 15.8724    |
+| Amphetamines                         |  7.88068   |
+| Antihistamines                       |  4.8838    |
+| Benzodiazepines                      |  3.94034   |
+| Cannabinoids                         | 18.8692    |
+| Cocaine/metabolites                  |  1.94242   |
+| Other (Anesthetics, Anticonvulsants) |  4.8838    |
+| Opiates                              |  1.94242   |
+| Propoxyphene/metabolites             |  2.88588   |
+| Analgesics                           |  1.99792   |
+| Antidepressants                      |  0.0554977 |
+| Cardiovascular                       |  0.0554977 |
+| Salicylates                          |  0.0554977 |
+| Alcohols                             |  0.0554977 |
+| Amphetamines                         |  0.0554977 |
+| Antihistamines                       |  0.0554977 |
+| Benzodiazepines                      |  0.0554977 |
+| Cannabinoids                         |  0.0554977 |
+| Cocaine/metabolites                  |  0.0554977 |
+| Other (Anesthetics, Anticonvulsants) |  0.0554977 |
+| Opiates                              |  0.0554977 |
+| Propoxyphene/metabolites             |  0.0554977 |
+| Analgesics                           |  3.94034   |
+| Antidepressants                      |  6.93722   |
+| Cardiovascular                       |  2.94138   |
+| Salicylates                          |  4.9393    |

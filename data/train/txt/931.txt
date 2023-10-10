@@ -1,0 +1,7 @@
+| Category                 |                X |                 Y |
+| [unnamed data series #0] |  17937.2         |  -21548.8         |
+| [unnamed data series #0] |  65022.4         | -122559           |
+| [unnamed data series #0] | 304933           | -600673           |
+| [unnamed data series #0] | 755605           |      -1.4963e+06  |
+| [unnamed data series #0] |      1.50448e+06 |      -3.00471e+06 |
+| [unnamed data series #0] |      1.75336e+06 |      -3.50303e+06 |

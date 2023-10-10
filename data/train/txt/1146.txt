@@ -1,0 +1,4 @@
+| title    |   [unnamed data series #0] |
+| miR-22   |                    2.86689 |
+| miR-122  |                   28.6689  |
+| miR-320a |                   45.1536  |

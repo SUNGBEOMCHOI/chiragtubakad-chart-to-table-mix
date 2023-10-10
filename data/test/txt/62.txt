@@ -1,0 +1,27 @@
+| title         |   [unnamed data series #0] |
+| Luanda        |                    63.7892 |
+| Kaduna        |                    72.87   |
+| Kano          |                    73.5426 |
+| Abuja         |                    74.6637 |
+| Dar es Salaam |                    85.7623 |
+| Yaounde       |                    88.6771 |
+| Lagos         |                    90.0224 |
+| Mombasa       |                    90.6951 |
+| Kampala       |                    92.713  |
+| Benin City    |                    92.713  |
+| Niamey        |                    93.9462 |
+| Conarky       |                    94.9552 |
+| Bamako        |                    95.1794 |
+| Harare        |                    95.2915 |
+| Accra         |                    95.852  |
+| Lusaka        |                    96.861  |
+| Kumasi        |                    97.0852 |
+| Nairobi       |                    97.4215 |
+| Antananarivo  |                    98.2063 |
+| Dakar         |                    98.2063 |
+| Ouagadougou   |                    98.5426 |
+| Abidjan       |                    98.991  |
+| Brazzaville   |                    98.991  |
+| Maputo        |                    99.5516 |
+| Douala        |                    99.5516 |
+| Addis Ababa   |                    99.6637 |

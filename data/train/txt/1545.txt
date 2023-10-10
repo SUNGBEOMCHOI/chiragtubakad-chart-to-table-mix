@@ -1,0 +1,17 @@
+| title                                 |   [unnamed data series #0] |
+| Latin America and Caribbean           |                        8.3 |
+| Somalien                              |                       12.2 |
+| African (excl. Somalia, North Africa) |                       29.5 |
+| Vietnamese                            |                        3.3 |
+| Southeast Asian                       |                        3   |
+| Iranian, Iraqi, Afghan                |                        2.3 |
+| Chinese                               |                        0   |
+| South Asian                           |                        5.7 |
+| Middle Eastern, North-African         |                        3.2 |
+| Baltic                                |                        0   |
+| former Soviet Union, Russian          |                        5.6 |
+| former Eastern Europe                 |                        8.4 |
+| Western                               |                        0   |
+| Wordic                                |                        4.2 |
+| All migrants                          |                        5.8 |
+| Finnish                               |                        5.1 |

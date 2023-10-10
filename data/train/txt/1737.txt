@@ -1,0 +1,8 @@
+| title             |   [unnamed data series #0] |
+| A^+Tra^+          |              100           |
+| A^+Tra^-          |               42.9193      |
+| A^-Tra^+          |                5.42868e-05 |
+| A^-Tra^-          |                5.42868e-05 |
+| A^-Tra^+/A^+Tra^+ |                5.68987e-05 |
+| A^-Tra^-/A^+Tra^+ |              100           |
+| A^-Tra^+/A^+Tra^- |               18.4207      |

@@ -1,0 +1,22 @@
+| title                                         |   Casual partner |
+| Trust                                         |       30.9988    |
+| No feeling/pleasure for condom                |       30.8632    |
+| We are both very safe and at low risk for HIV |       20.6715    |
+| Did not plan for it (heat of the moment)      |       17.1104    |
+| Want to have a baby                           |       -0.0169578 |
+| Drunkness                                     |       -0.0169578 |
+| Others                                        |       -0.0169578 |
+| Trust                                         |       13.0405    |
+| No feeling/pleasure for condom                |       36.6118    |
+| We are both very safe and at low risk for HIV |       31.3549    |
+| Did not plan for it (heat of the moment)      |       13.0405    |
+| Want to have a baby                           |       -0.0169578 |
+| Drunkness                                     |        2.35713   |
+| Others                                        |        2.64541   |
+| Trust                                         |       46.7865    |
+| No feeling/pleasure for condom                |        4.73122   |
+| We are both very safe and at low risk for HIV |       16.6017    |
+| Did not plan for it (heat of the moment)      |        0.830931  |
+| Want to have a baby                           |       28.1329    |
+| Drunkness                                     |        1.8484    |
+| Others                                        |        1.8484    |

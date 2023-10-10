@@ -1,0 +1,7 @@
+| title       |   Weight (0-4.9) |
+| CIVIL WORKS |          6.03603 |
+| BUILDING    |          6.03603 |
+| CIVIL WORKS |         11.0557  |
+| BUILDING    |          6.03603 |
+| CIVIL WORKS |          4.99234 |
+| BUILDING    |          1.11576 |

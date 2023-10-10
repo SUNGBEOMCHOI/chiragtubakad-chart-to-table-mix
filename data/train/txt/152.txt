@@ -1,0 +1,4 @@
+| Category                 |   first quartile |     max |   median |        min |   third quartile | x   |
+| [unnamed data series #0] |          2.14552 | 30.4104 |  6.34328 |  0.0932836 |          19.0299 | SED |
+| [unnamed data series #0] |         55.6903  | 90.5784 | 69.5896  | 46.4552    |          82.4627 | LPA |
+| [unnamed data series #0] |         14.0858  | 53.5448 | 24.7201  |  8.11567   |          40.0187 | MPA |

@@ -1,0 +1,7 @@
+| title                 |   [unnamed data series #0] |
+| G0F0
+G60F15                       |                   1.00369  |
+| G15F60                |                   0.895853 |
+| G30F45                |                   0.873733 |
+| G45F60                |                   0.876498 |
+| [unnamed category #4] |                   0.801843 |

@@ -1,0 +1,14 @@
+| title             |   [unnamed data series #0] |
+| PMMA-35-BDP       |                  95.8398   |
+| PMMA-25-BDP       |                  95.0693   |
+| PMMA-20-BDP       |                  94.6841   |
+| PMMA-10-BDP       |                  93.1433   |
+| PMMA-20-ExOP 1230 |                  83.1279   |
+| PMMA-15-ExOP1230  |                  83.8983   |
+| PMMA-10-ExOP 1230 |                  81.5871   |
+| PMMA-5-ExOP 1230  |                  82.3575   |
+| PMMA-20-ExOP935   |                  79.661    |
+| PMMA-15-ExOP935   |                  83.1279   |
+| PMMA-10-ExOP935   |                  84.2835   |
+| PMMA-5-ExOP935    |                  88.1356   |
+| PMMA              |                   0.154083 |

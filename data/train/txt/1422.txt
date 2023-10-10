@@ -1,0 +1,12 @@
+| title             |   [unnamed data series #0] |
+| Orientation Time  |                    4.39304 |
+| Orientation Place |                    5.28438 |
+| Registration      |                    6.17572 |
+| DLROW             |                   52.2708  |
+| Recall            |                    9.10441 |
+| Name              |                   20.1825  |
+| Repeat            |                    9.10441 |
+| Comprehension     |                   35.208   |
+| Read              |                   31.2606  |
+| Write             |                   33.1706  |
+| Draw              |                   93.3998  |

@@ -1,0 +1,19 @@
+| title             |   NP Users (n=67) |
+| Supropion         |          24.9514  |
+| Varenicline       |          34.5907  |
+| Nicotine Patches  |          25.8694  |
+| Nicotine Gum      |          20.3613  |
+| Nicotine Inhaler  |          12.5581  |
+| Counselling       |          18.5252  |
+| Pamphlet          |          43.7709  |
+| Smokers' Helpline |          25.8694  |
+| None              |          24.4924  |
+| Supropion         |          20.8203  |
+| Varenicline       |          36.8857  |
+| Nicotine Patches  |          36.8857  |
+| Nicotine Gum      |          26.7875  |
+| Nicotine Inhaler  |          16.6892  |
+| Counselling       |          16.6892  |
+| Pamphlet          |          47.443   |
+| Smokers' Helpline |          33.2136  |
+| None              |           4.29584 |

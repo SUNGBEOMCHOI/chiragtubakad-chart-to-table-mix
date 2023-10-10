@@ -1,0 +1,20 @@
+| Category                 |          X |          Y |
+| [unnamed data series #0] |   0.238095 | -0.0079607 |
+| [unnamed data series #0] |  10.2976   |  0.161416  |
+| [unnamed data series #0] |  20.2381   |  0.522188  |
+| [unnamed data series #0] |  30.119    |  1.0354    |
+| [unnamed data series #0] |  40.1786   |  1.07266   |
+| [unnamed data series #0] |  50.1786   |  1.4436    |
+| [unnamed data series #0] |  60.1786   |  1.57063   |
+| [unnamed data series #0] |  80.1786   |  1.90091   |
+| [unnamed data series #0] | 100.179    |  2.05505   |
+| [unnamed data series #0] | 120.06     |  2.45139   |
+| [unnamed data series #1] |  10.1786   |  0.312161  |
+| [unnamed data series #1] |  20.119    |  0.937161  |
+| [unnamed data series #1] |  30.119    |  1.4961    |
+| [unnamed data series #1] |  40        |  1.76033   |
+| [unnamed data series #1] |  50.0595   |  1.87212   |
+| [unnamed data series #1] |  60.0595   |  1.94834   |
+| [unnamed data series #1] |  80        |  2.09739   |
+| [unnamed data series #1] | 100        |  2.23967   |
+| [unnamed data series #1] | 119.881    |  2.38025   |

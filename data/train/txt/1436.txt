@@ -1,0 +1,5 @@
+| title       |      FA |
+| BRONCHIOLES | 0.27439 |
+| ALVEOLI     | 2.31153 |
+| BRONCHIOLES | 0.85643 |
+| ALVEOLI     | 3.20538 |

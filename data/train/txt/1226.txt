@@ -1,0 +1,10 @@
+| title                    |   [unnamed data series #0] |
+| exposure duration*       |                       0.26 |
+| distance of exposure **  |                       0.14 |
+| exposed area**           |                       0.93 |
+| clinical features        |                       1    |
+| latency period           |                       0.76 |
+| symptom duration         |                       0.64 |
+| need for hospitalisation |                       0.68 |
+| treatment used           |                       0.76 |
+| long term consequences   |                       0.56 |

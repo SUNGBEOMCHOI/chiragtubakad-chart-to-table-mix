@@ -1,0 +1,17 @@
+| Category                 |   first quartile |      max |   median |      min |   third quartile | x   |
+| [unnamed data series #0] |          50.9054 | 149.698  |  71.2274 | 18.9135  |         100.402  | N   |
+| [unnamed data series #0] |          29.9799 |  96.5795 |  40.6439 | 10.8652  |          61.3682 | NNE |
+| [unnamed data series #0] |          17.505  | 130.785  |  29.7787 | 11.2676  |          63.7827 | NE  |
+| [unnamed data series #0] |          29.1751 | 102.616  |  56.338  | 10.0604  |          67.002  | ENE |
+| [unnamed data series #0] |          35.6137 | 133.602  |  54.326  | 14.4869  |          76.2575 | E   |
+| [unnamed data series #0] |          41.6499 | 136.821  |  61.5694 |  8.04829 |          81.4889 | ESE |
+| [unnamed data series #0] |          45.2716 | 137.223  |  59.5573 | 13.2797  |          83.0986 | SE  |
+| [unnamed data series #0] |          47.6861 | 123.944  |  60.7646 | 18.9135  |          78.2696 | SSE |
+| [unnamed data series #0] |          46.8813 |  93.7626 |  55.9356 | 35.8149  |          76.66   | S   |
+| [unnamed data series #0] |          24.7485 |  49.0946 |  29.3763 | 17.3038  |          45.674  | SSW |
+| [unnamed data series #0] |          65.7948 | 136.821  |  70.0201 | 62.3742  |         103.622  | SW  |
+| [unnamed data series #0] |          33.1992 | 127.968  |  44.2656 | 19.3159  |          77.4648 | WSW |
+| [unnamed data series #0] |          35.2113 |  74.4467 |  58.7525 | 25.3521  |          62.9779 | W   |
+| [unnamed data series #0] |          41.6499 | 144.064  |  56.7404 | 23.7425  |          83.0986 | WNW |
+| [unnamed data series #0] |          45.2716 | 169.416  |  62.3742 | 17.7062  |         100.402  | NW  |
+| [unnamed data series #0] |          36.4185 | 127.163  |  52.7163 |  9.25553 |          78.672  | NNW |

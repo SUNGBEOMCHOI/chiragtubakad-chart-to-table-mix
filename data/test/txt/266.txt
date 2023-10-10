@@ -1,0 +1,6 @@
+| title       |    Number of individuals
+|-------------|----|
+| Churches    | 53 |
+| Referrals   | 34 |
+| Outreach    |  7 |
+| NIH Website |  6 |

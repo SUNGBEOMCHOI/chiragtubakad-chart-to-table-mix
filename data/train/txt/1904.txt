@@ -1,0 +1,18 @@
+| title                                       |   [unnamed data series #0] |
+| Mental health and behavioural conditions    |                 0.251568   |
+| Infectious diseases                         |                 0.134633   |
+| Endocrine, nutritional and metabolic        |                 0.121864   |
+| Cardiovascular                              |                 0.121192   |
+| Cancer                                      |                 0.0734767  |
+| Central nervous system                      |                 0.0586918  |
+| Injuries, accidents and wounds              |                 0.046595   |
+| Respiratory                                 |                 0.0381944  |
+| Pathological conditions, symptoms and signs |                 0.0358423  |
+| Gynaecology, pregnancy and birth            |                 0.0344982  |
+| Mouth and dental                            |                 0.0210573  |
+| Musculoskeletal                             |                 0.0166891  |
+| Urogenital                                  |                 0.0146729  |
+| Eye                                         |                 0.0133289  |
+| Digestive system                            |                 0.0119848  |
+| Blood and immune system                     |                 0.00459229 |
+| Ear and nose                                |                 0.00425627 |

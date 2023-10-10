@@ -1,0 +1,5 @@
+| title                           |   [unnamed data series #0] |
+| Sound  from throat              |                    46.8741 |
+| Sound from difficulty breathing |                    25.6062 |
+| Professional term for asthma    |                    11.2913 |
+| Gasping sound made after crying |                    17.2217 |

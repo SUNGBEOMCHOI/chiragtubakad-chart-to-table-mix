@@ -1,0 +1,114 @@
+| Category            | X   |          Y |
+| True Alpine         | AA  | 30.8108    |
+| True Alpine         | AA  | 11.1486    |
+| True Alpine         | AC  |  7.09459   |
+| True Alpine         | AC  | 29.1892    |
+| True Alpine         | AE  | 11.5541    |
+| True Alpine         | BE  |  0.608108  |
+| True Alpine         | BE  |  0.202703  |
+| True Alpine         | BF  | -0.202703  |
+| True Alpine         | BO  | -0.405405  |
+| True Alpine         | CC  |  0.810811  |
+| True Alpine         | CE  |  0         |
+| True Alpine         | CF  |  0.608108  |
+| True Alpine         | CO  | -0.283784  |
+| True Alpine         | EE  | -0.891892  |
+| True Alpine         | EF  | -0.405405  |
+| True Alpine         | FF  | -0.891892  |
+| True Alpine         | AO  | -0.72973   |
+| True Alpine         | BB  | -0.0810811 |
+| True Alpine         | BB  | -0.567568  |
+| Peeling Alpine      | AE  |  8.02703   |
+| Peeling Alpine      | AA  | 82.9459    |
+| Peeling Alpine      | AA  |  2.83784   |
+| Peeling Alpine      | AF  |  3.16216   |
+| Peeling Alpine      | AO  | -0.405405  |
+| Peeling Alpine      | AO  | -0.243243  |
+| Peeling Alpine      | BC  | -0.405405  |
+| Peeling Alpine      | BC  |  0.405405  |
+| Peeling Alpine      | BF  | -0.405405  |
+| Peeling Alpine      | BF  | -0.567568  |
+| Peeling Alpine      | BO  | -0.405405  |
+| Peeling Alpine      | CC  | -0.243243  |
+| Peeling Alpine      | CE  | -0.72973   |
+| Peeling Alpine      | CF  | -0.0810811 |
+| Peeling Alpine      | CO  | -0.243243  |
+| Peeling Alpine      | EE  | -0.0810811 |
+| Peeling Alpine      | EF  | -0.0810811 |
+| Peeling Alpine      | FF  | -0.405405  |
+| Gene content Alpine | FF  | -0.567568  |
+| Gene content Alpine | EF  | -0.243243  |
+| Gene content Alpine | EE  |  0.405405  |
+| Gene content Alpine | CO  | -0.243243  |
+| Gene content Alpine | CF  | -0.567568  |
+| Gene content Alpine | CE  | -0.72973   |
+| Gene content Alpine | CC  | -0.405405  |
+| Gene content Alpine | BO  | -0.567568  |
+| Gene content Alpine | BF  | -0.72973   |
+| Gene content Alpine | BE  | -0.0810811 |
+| Gene content Alpine | BE  |  0.567568  |
+| Gene content Alpine | BB  | -0.243243  |
+| Gene content Alpine | BB  | -0.405405  |
+| Gene content Alpine | AF  | -0.405405  |
+| Gene content Alpine | AE  |  7.37838   |
+| Gene content Alpine | AE  | 32.1892    |
+| Gene content Alpine | AC  |  9.81081   |
+| Gene content Alpine | AA  | 47.1081    |
+| Gene content Alpine | AB  |  0.243243  |
+| True Saanen         | FF  | -0.0810811 |
+| True Saanen         | EF  | -0.243243  |
+| True Saanen         | EE  | -0.72973   |
+| True Saanen         | CO  | 12.5676    |
+| True Saanen         | CF  | 15.1014    |
+| True Saanen         | CE  | -0.709459  |
+| True Saanen         | CC  | -0.506757  |
+| True Saanen         | CC  | -0.810811  |
+| True Saanen         | BF  | -0.608108  |
+| True Saanen         | BE  |  1.62162   |
+| True Saanen         | BC  |  3.85135   |
+| True Saanen         | BB  | -0.709459  |
+| True Saanen         | AO  | -0.608108  |
+| True Saanen         | AF  | -0.506757  |
+| True Saanen         | AF  |  5.57432   |
+| True Saanen         | AE  | 47.9392    |
+| True Saanen         | AC  | -0.912162  |
+| True Saanen         | AB  |  4.25676   |
+| True Saanen         | AA  |  2.12838   |
+| Peeling Saanen      | FF  | -0.101351  |
+| Peeling Saanen      | EF  | -0.101351  |
+| Peeling Saanen      | EE  |  9.42568   |
+| Peeling Saanen      | CO  | 35.9797    |
+| Peeling Saanen      | CF  | -0.101351  |
+| Peeling Saanen      | CE  | -0.304054  |
+| Peeling Saanen      | CE  | -0.202703  |
+| Peeling Saanen      | BO  | -0.405405  |
+| Peeling Saanen      | BO  | -0.304054  |
+| Peeling Saanen      | BE  |  0.810811  |
+| Peeling Saanen      | BE  |  2.63514   |
+| Peeling Saanen      | BB  | -0.304054  |
+| Peeling Saanen      | AO  | -0.304054  |
+| Peeling Saanen      | AE  | 39.7297    |
+| Peeling Saanen      | AE  |  3.64865   |
+| Peeling Saanen      | AO  | -0.202703  |
+| Peeling Saanen      | AB  |  0.304054  |
+| Peeling Saanen      | AB  |  3.9527    |
+| Peeling Saanen      | AA  |  2.22973   |
+| Gene content Saanen | FF  | -0.202703  |
+| Gene content Saanen | EF  | -0.202703  |
+| Gene content Saanen | EE  |  5.27027   |
+| Gene content Saanen | CO  |  6.68919   |
+| Gene content Saanen | CF  | -0.506757  |
+| Gene content Saanen | CE  | -0.202703  |
+| Gene content Saanen | CC  | -0.202703  |
+| Gene content Saanen | CC  | -0.304054  |
+| Gene content Saanen | BF  | -0.304054  |
+| Gene content Saanen | BE  | -0.101351  |
+| Gene content Saanen | BE  |  3.85135   |
+| Gene content Saanen | BB  | -0.506757  |
+| Gene content Saanen | BB  | -0.202703  |
+| Gene content Saanen | AF  | -0.202703  |
+| Gene content Saanen | AE  |  0.506757  |
+| Gene content Saanen | AC  | 74.7973    |
+| Gene content Saanen | AC  |  2.43243   |
+| Gene content Saanen | AB  | -0.304054  |
+| Gene content Saanen | AA  |  4.66216   |

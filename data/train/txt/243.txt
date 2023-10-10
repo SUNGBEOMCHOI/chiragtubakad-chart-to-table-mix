@@ -1,0 +1,7 @@
+| Category                 |   first quartile |       max |     median |      min |   third quartile | x   |
+| [unnamed data series #0] |        0.0751592 |  1.89936  |  0.961783  | -1.76943 |         1.73631  | Pancreatic Cancer
+n=25     |
+| [unnamed data series #0] |       -1.02548   |  1.30828  | -0.0165605 | -2.22803 |         0.350318 | Benign
+n=10     |
+| [unnamed data series #0] |       -1.14777   | -0.363057 | -0.86242   | -1.21911 |        -0.689172 | Healthy
+n=24     |

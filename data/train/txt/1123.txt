@@ -1,0 +1,13 @@
+| title                       |   Normal |
+| Multiple anomalies          | 47.7115  |
+| Single organ system anomaly | 80.7212  |
+| IUGR                        | 14.4244  |
+| NT                          | 30.7906  |
+| Multiple anomalies          |  6.38003 |
+| Single organ system anomaly |  3.32871 |
+| IUGR                        |  1.94175 |
+| NT                          |  1.10957 |
+| Multiple anomalies          |  5.82524 |
+| Single organ system anomaly |  4.99307 |
+| IUGR                        |  0       |
+| NT                          |  3.32871 |

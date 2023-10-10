@@ -1,0 +1,4 @@
+| Category                 |   first quartile |      max |    median |       min |   third quartile | x   |
+| [unnamed data series #0] |        0.0284267 | 0.124979 | 0.0284267 | 0.012374  |        0.0919294 | Euploid
+blastocysts     || [unnamed data series #0] |        0.0822505 | 0.292116 | 0.106094  | 0.0237053 |        0.192967  | Aneuploid
+blastocysts     |

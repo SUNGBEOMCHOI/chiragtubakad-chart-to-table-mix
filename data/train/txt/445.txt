@@ -1,0 +1,15 @@
+| title                      |   [unnamed data series #0] |
+| Relative (N=1487)          |                    59.7061 |
+| Doctor (N=215)             |                    53.598  |
+| Pharmacy (N=174)           |                    37.1063 |
+| Village doctor (N=173)     |                    48.7116 |
+| Teaching hospital (N=157)  |                    15.8809 |
+| Gov't hospital (N=57)      |                    21.0727 |
+| Pharmacy & doctor (N=39)   |                    38.1752 |
+| Neighbors (N=39)           |                    30.5402 |
+| Privet clinic (N=22)       |                    45.0468 |
+| Privet hospital (N=17)     |                    29.3186 |
+| NGO clinic / worker (N=17) |                    46.7265 |
+| Community clinic (N=16)    |                    24.8902 |
+| Other (N=14)               |                    28.4024 |
+| Friend (N=10)              |                    69.3262 |

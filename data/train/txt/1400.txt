@@ -1,0 +1,11 @@
+| title          |   [unnamed data series #0] |
+| Wounds         |                   30.459   |
+| Fractures      |                   28.6426  |
+| Burns          |                   20.2417  |
+| Foreign body   |                    8.20792 |
+| Poisioning     |                    7.52676 |
+| Suffocation    |                    4.91567 |
+| Drowning       |                    1.85048 |
+| Electric shock |                    1.62342 |
+| Animal bites   |                    1.5099  |
+| Sunstroke      |                    1.28285 |

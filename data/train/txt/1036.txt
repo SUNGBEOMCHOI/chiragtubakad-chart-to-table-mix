@@ -1,0 +1,5 @@
+| title   |   Availability |
+| Level 1 |        36.5132 |
+| Level 2 |        52.0457 |
+| Level 3 |        62.1669 |
+| Level 4 |        64.4718 |

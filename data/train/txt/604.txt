@@ -1,0 +1,17 @@
+| title                       |   HIA UK |
+| Physical Activity           |  64.1737 |
+| Mental Wellbeing            |  54.6035 |
+| Environmental Health Issues |  91.2893 |
+| Unintentional Injury        |  45.5649 |
+| Physical Activity           |  90.226  |
+| Mental Wellbeing            |  64.1737 |
+| Environmental Health Issues |  54.0718 |
+| Unintentional Injury        |  54.0718 |
+| Physical Activity           | 100.328  |
+| Mental Wellbeing            |  20.0443 |
+| Environmental Health Issues |  60.4519 |
+| Unintentional Injury        |  60.4519 |
+| Physical Activity           |  32.8046 |
+| Mental Wellbeing            |  11.0058 |
+| Environmental Health Issues |  88.6309 |
+| Unintentional Injury        |  44.5016 |

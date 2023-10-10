@@ -1,0 +1,11 @@
+| title           |   Female |
+| Place           | 0.457452 |
+| Time            | 0.615038 |
+| Perceptual      | 0.250338 |
+| Emotion/Thought | 0.250338 |
+| Overall         | 0.34489  |
+| Place           | 0.405673 |
+| Time            | 0.459703 |
+| Perceptual      | 0.171544 |
+| Emotion/Thought | 0.207564 |
+| Overall         | 0.277353 |

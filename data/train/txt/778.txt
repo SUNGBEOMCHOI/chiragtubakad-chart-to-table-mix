@@ -1,0 +1,122 @@
+| Category                     |       X |           Y |
+| Functional surface (0 ug/mL) | 1.99846 | 1.67127e-08 |
+| Functional surface (0 ug/mL) | 2.10011 | 1.88156e-08 |
+| Functional surface (0 ug/mL) | 2.20406 | 2.07315e-08 |
+| Functional surface (0 ug/mL) | 2.30109 | 2.309e-08   |
+| Functional surface (0 ug/mL) | 2.40735 | 2.57168e-08 |
+| Functional surface (0 ug/mL) | 2.50207 | 2.86424e-08 |
+| Functional surface (0 ug/mL) | 2.59909 | 3.22464e-08 |
+| Functional surface (0 ug/mL) | 2.70536 | 3.51492e-08 |
+| Functional surface (0 ug/mL) | 2.80238 | 3.91479e-08 |
+| Functional surface (0 ug/mL) | 2.90172 | 4.31342e-08 |
+| Functional surface (0 ug/mL) | 2.99874 | 4.70171e-08 |
+| Functional surface (0 ug/mL) | 3.09808 | 5.12495e-08 |
+| Functional surface (0 ug/mL) | 3.19972 | 5.5863e-08  |
+| Functional surface (0 ug/mL) | 3.30137 | 6.02392e-08 |
+| Functional surface (0 ug/mL) | 3.4007  | 6.70922e-08 |
+| Functional surface (0 ug/mL) | 3.49773 | 7.15727e-08 |
+| Functional surface (0 ug/mL) | 3.59937 | 7.80156e-08 |
+| Functional surface (0 ug/mL) | 3.69871 | 8.41272e-08 |
+| Functional surface (0 ug/mL) | 3.80266 | 8.97454e-08 |
+| Functional surface (0 ug/mL) | 3.89738 | 9.88839e-08 |
+| Functional surface (0 ug/mL) | 3.99902 | 1.07785e-07 |
+| Functional surface (0 ug/mL) | 4.09605 | 1.13751e-07 |
+| Functional surface (0 ug/mL) | 4.19753 | 1.21507e-07 |
+| Functional surface (0 ug/mL) | 4.99931 | 1.92859e-07 |
+| Functional surface (0 ug/mL) | 4.89719 | 1.86725e-07 |
+| Functional surface (0 ug/mL) | 4.79711 | 1.76732e-07 |
+| Functional surface (0 ug/mL) | 4.70152 | 1.60822e-07 |
+| Functional surface (0 ug/mL) | 4.60614 | 1.49496e-07 |
+| Functional surface (0 ug/mL) | 4.50032 | 1.44178e-07 |
+| Functional surface (0 ug/mL) | 4.39844 | 1.37963e-07 |
+| Functional surface (0 ug/mL) | 4.298   | 1.29581e-07 |
+| E. Coli fragments (10ug/mL)  | 2.00308 | 1.65856e-07 |
+| E. Coli fragments (10ug/mL)  | 2.10011 | 1.94949e-07 |
+| E. Coli fragments (10ug/mL)  | 2.20175 | 2.19479e-07 |
+| E. Coli fragments (10ug/mL)  | 2.30109 | 2.49772e-07 |
+| E. Coli fragments (10ug/mL)  | 2.40042 | 2.78187e-07 |
+| E. Coli fragments (10ug/mL)  | 2.50207 | 3.20012e-07 |
+| E. Coli fragments (10ug/mL)  | 2.6014  | 3.64182e-07 |
+| E. Coli fragments (10ug/mL)  | 2.69612 | 4.10006e-07 |
+| E. Coli fragments (10ug/mL)  | 2.80007 | 4.71651e-07 |
+| E. Coli fragments (10ug/mL)  | 2.89248 | 5.42564e-07 |
+| E. Coli fragments (10ug/mL)  | 3.00105 | 6.04288e-07 |
+| E. Coli fragments (10ug/mL)  | 3.10039 | 6.95144e-07 |
+| E. Coli fragments (10ug/mL)  | 3.20434 | 8.25929e-07 |
+| E. Coli fragments (10ug/mL)  | 3.30137 | 9.39927e-07 |
+| E. Coli fragments (10ug/mL)  | 3.39839 | 1.11677e-06 |
+| E. Coli fragments (10ug/mL)  | 4.98622 | 1.16334e-05 |
+| E. Coli fragments (10ug/mL)  | 4.89535 | 9.93289e-06 |
+| E. Coli fragments (10ug/mL)  | 4.79987 | 8.79111e-06 |
+| E. Coli fragments (10ug/mL)  | 4.69668 | 7.6696e-06  |
+| E. Coli fragments (10ug/mL)  | 4.59966 | 6.54853e-06 |
+| E. Coli fragments (10ug/mL)  | 4.49955 | 5.79578e-06 |
+| E. Coli fragments (10ug/mL)  | 4.39945 | 5.09284e-06 |
+| E. Coli fragments (10ug/mL)  | 4.29934 | 4.34842e-06 |
+| E. Coli fragments (10ug/mL)  | 4.19924 | 3.79368e-06 |
+| E. Coli fragments (10ug/mL)  | 4.09913 | 3.23915e-06 |
+| E. Coli fragments (10ug/mL)  | 4.00056 | 2.8057e-06  |
+| E. Coli fragments (10ug/mL)  | 3.90046 | 2.37844e-06 |
+| E. Coli fragments (10ug/mL)  | 3.70025 | 1.78448e-06 |
+| E. Coli fragments (10ug/mL)  | 3.60014 | 1.53462e-06 |
+| E. Coli fragments (10ug/mL)  | 3.4985  | 1.30093e-06 |
+| E. Coli fragments (25 ug/mL) | 2.00154 | 4.00545e-07 |
+| E. Coli fragments (25 ug/mL) | 2.10319 | 4.59116e-07 |
+| E. Coli fragments (25 ug/mL) | 2.20021 | 5.26251e-07 |
+| E. Coli fragments (25 ug/mL) | 2.30073 | 5.92531e-07 |
+| E. Coli fragments (25 ug/mL) | 2.40042 | 6.52798e-07 |
+| E. Coli fragments (25 ug/mL) | 2.49899 | 7.59082e-07 |
+| E. Coli fragments (25 ug/mL) | 2.60063 | 8.33378e-07 |
+| E. Coli fragments (25 ug/mL) | 2.70074 | 9.34877e-07 |
+| E. Coli fragments (25 ug/mL) | 2.79776 | 1.04874e-06 |
+| E. Coli fragments (25 ug/mL) | 2.89941 | 1.18495e-06 |
+| E. Coli fragments (25 ug/mL) | 2.99951 | 1.33885e-06 |
+| E. Coli fragments (25 ug/mL) | 3.09962 | 1.51273e-06 |
+| E. Coli fragments (25 ug/mL) | 3.19972 | 1.69697e-06 |
+| E. Coli fragments (25 ug/mL) | 3.29983 | 1.89002e-06 |
+| E. Coli fragments (25 ug/mL) | 3.4985  | 2.32773e-06 |
+| E. Coli fragments (25 ug/mL) | 3.59706 | 2.59254e-06 |
+| E. Coli fragments (25 ug/mL) | 3.69871 | 2.92926e-06 |
+| E. Coli fragments (25 ug/mL) | 3.79881 | 3.3818e-06  |
+| E. Coli fragments (25 ug/mL) | 3.89892 | 3.76652e-06 |
+| E. Coli fragments (25 ug/mL) | 3.99594 | 4.19501e-06 |
+| E. Coli fragments (25 ug/mL) | 4.09913 | 4.73986e-06 |
+| E. Coli fragments (25 ug/mL) | 4.1977  | 5.43295e-06 |
+| E. Coli fragments (25 ug/mL) | 4.29934 | 6.05102e-06 |
+| E. Coli fragments (25 ug/mL) | 4.39791 | 7.03621e-06 |
+| E. Coli fragments (25 ug/mL) | 4.49801 | 7.78058e-06 |
+| E. Coli fragments (25 ug/mL) | 4.59812 | 8.79111e-06 |
+| E. Coli fragments (25 ug/mL) | 4.69668 | 9.79121e-06 |
+| E. Coli fragments (25 ug/mL) | 4.80141 | 1.09837e-05 |
+| E. Coli fragments (25 ug/mL) | 4.99238 | 1.40221e-05 |
+| E. Coli fragments (25 ug/mL) | 4.89381 | 1.24997e-05 |
+| E. Coli fragments (100ug/mL) | 5.00008 | 5.10887e-05 |
+| E. Coli fragments (100ug/mL) | 4.89997 | 4.39355e-05 |
+| E. Coli fragments (100ug/mL) | 4.80141 | 3.80562e-05 |
+| E. Coli fragments (100ug/mL) | 4.7013  | 3.27277e-05 |
+| E. Coli fragments (100ug/mL) | 4.6012  | 2.83482e-05 |
+| E. Coli fragments (100ug/mL) | 4.49647 | 2.40312e-05 |
+| E. Coli fragments (100ug/mL) | 4.39791 | 2.09655e-05 |
+| E. Coli fragments (100ug/mL) | 4.29934 | 1.73939e-05 |
+| E. Coli fragments (100ug/mL) | 4.20078 | 1.50663e-05 |
+| E. Coli fragments (100ug/mL) | 4.10067 | 1.30502e-05 |
+| E. Coli fragments (100ug/mL) | 3.99902 | 1.11426e-05 |
+| E. Coli fragments (100ug/mL) | 3.90354 | 9.65156e-06 |
+| E. Coli fragments (100ug/mL) | 3.80035 | 8.30018e-06 |
+| E. Coli fragments (100ug/mL) | 3.70179 | 7.2413e-06  |
+| E. Coli fragments (100ug/mL) | 3.59706 | 6.05102e-06 |
+| E. Coli fragments (100ug/mL) | 3.50158 | 5.35546e-06 |
+| E. Coli fragments (100ug/mL) | 3.40147 | 4.63881e-06 |
+| E. Coli fragments (100ug/mL) | 3.30137 | 3.96075e-06 |
+| E. Coli fragments (100ug/mL) | 2.00154 | 7.59082e-07 |
+| E. Coli fragments (100ug/mL) | 2.10165 | 8.45437e-07 |
+| E. Coli fragments (100ug/mL) | 2.20329 | 9.90172e-07 |
+| E. Coli fragments (100ug/mL) | 2.3034  | 1.11877e-06 |
+| E. Coli fragments (100ug/mL) | 2.40042 | 1.28237e-06 |
+| E. Coli fragments (100ug/mL) | 2.50515 | 1.45937e-06 |
+| E. Coli fragments (100ug/mL) | 2.60679 | 1.64891e-06 |
+| E. Coli fragments (100ug/mL) | 2.6992  | 1.86307e-06 |
+| E. Coli fragments (100ug/mL) | 2.90095 | 2.37844e-06 |
+| E. Coli fragments (100ug/mL) | 3.00105 | 2.72623e-06 |
+| E. Coli fragments (100ug/mL) | 3.10116 | 3.03637e-06 |
+| E. Coli fragments (100ug/mL) | 3.20126 | 3.50546e-06 |

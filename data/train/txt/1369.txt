@@ -1,0 +1,14 @@
+| title           |   [unnamed data series #0] |
+| Pes-35-BDP      |                  82.7692   |
+| Pes-25-BDP      |                  86.4615   |
+| Pes-20-BDP      |                  90.3077   |
+| Pes-10-BDP      |                  92.6154   |
+| Pes-20-ExOP1230 |                  77.6154   |
+| Pes-15-ExOP1230 |                  64.1538   |
+| Pes-10-ExOP1230 |                  69.9231   |
+| Pes-5-ExOP1230  |                  59.1538   |
+| Pes-20-ExOP935  |                  82.6154   |
+| Pes-15-ExOP935  |                  66.4615   |
+| Pes-10-ExOP935  |                  71.0769   |
+| Pes-5-ExOP935   |                  70.3077   |
+| Pe9             |                  -0.153846 |

@@ -1,0 +1,8 @@
+| title       |   [unnamed data series #0] |
+| Autumn-2011 |                   10.5151  |
+| Winter-2011 |                   12.2083  |
+| Spring 2011 |                   12.2083  |
+| Summer 2012 |                   19.3841  |
+| Autumn 2012 |                    4.7906  |
+| Winter 2012 |                   16.7234  |
+| Spring 2012 |                    9.70885 |

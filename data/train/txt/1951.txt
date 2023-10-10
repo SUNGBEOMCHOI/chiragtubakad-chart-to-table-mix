@@ -1,0 +1,115 @@
+| Category                                 |        X |         Y |
+| Scenario 1: Blended Diet                 | 1.60712  | 0.0485922 |
+| Scenario 1: Blended Diet                 | 1.97271  | 0.0990374 |
+| Scenario 1: Blended Diet                 | 2.2297   | 0.147938  |
+| Scenario 1: Blended Diet                 | 2.39621  | 0.198898  |
+| Scenario 1: Blended Diet                 | 2.60615  | 0.247799  |
+| Scenario 1: Blended Diet                 | 2.74369  | 0.298245  |
+| Scenario 1: Blended Diet                 | 2.96087  | 0.34766   |
+| Scenario 1: Blended Diet                 | 3.13823  | 0.39862   |
+| Scenario 1: Blended Diet                 | 3.33008  | 0.446492  |
+| Scenario 1: Blended Diet                 | 3.45676  | 0.499511  |
+| Scenario 1: Blended Diet                 | 3.63051  | 0.547383  |
+| Scenario 1: Blended Diet                 | 3.71376  | 0.598857  |
+| Scenario 1: Blended Diet                 | 3.93818  | 0.648788  |
+| Scenario 1: Blended Diet                 | 4.11916  | 0.698718  |
+| Scenario 1: Blended Diet                 | 4.2748   | 0.747105  |
+| Scenario 1: Blended Diet                 | 4.52456  | 0.800124  |
+| Scenario 1: Blended Diet                 | 4.76346  | 0.850054  |
+| Scenario 1: Blended Diet                 | 5.11094  | 0.896381  |
+| Scenario 1: Blended Diet                 | 5.5091   | 0.949915  |
+| Scenario 2: Bt grain and Bt DDGS         | 0.745647 | 0.0501364 |
+| Scenario 2: Bt grain and Bt DDGS         | 0.962826 | 0.0995522 |
+| Scenario 2: Bt grain and Bt DDGS         | 1.13657  | 0.152056  |
+| Scenario 2: Bt grain and Bt DDGS         | 1.28859  | 0.201472  |
+| Scenario 2: Bt grain and Bt DDGS         | 1.44062  | 0.249344  |
+| Scenario 2: Bt grain and Bt DDGS         | 1.59264  | 0.300304  |
+| Scenario 2: Bt grain and Bt DDGS         | 1.73381  | 0.352808  |
+| Scenario 2: Bt grain and Bt DDGS         | 1.91841  | 0.399135  |
+| Scenario 2: Bt grain and Bt DDGS         | 2.10302  | 0.448551  |
+| Scenario 2: Bt grain and Bt DDGS         | 2.23332  | 0.501055  |
+| Scenario 2: Bt grain and Bt DDGS         | 2.39621  | 0.550471  |
+| Scenario 2: Bt grain and Bt DDGS         | 2.54823  | 0.599887  |
+| Scenario 2: Bt grain and Bt DDGS         | 2.73283  | 0.649303  |
+| Scenario 2: Bt grain and Bt DDGS         | 2.96087  | 0.700263  |
+| Scenario 2: Bt grain and Bt DDGS         | 3.18891  | 0.751223  |
+| Scenario 2: Bt grain and Bt DDGS         | 3.40609  | 0.800638  |
+| Scenario 2: Bt grain and Bt DDGS         | 3.6667   | 0.851598  |
+| Scenario 2: Bt grain and Bt DDGS         | 3.99247  | 0.901014  |
+| Scenario 2: Bt grain and Bt DDGS         | 4.58971  | 0.948886  |
+| Scenario 3: non-Bt grain and non-Bt DDGS | 1.83154  | 0.0485922 |
+| Scenario 3: non-Bt grain and non-Bt DDGS | 2.30934  | 0.0980079 |
+| Scenario 3: non-Bt grain and non-Bt DDGS | 2.74369  | 0.150512  |
+| Scenario 3: non-Bt grain and non-Bt DDGS | 3.08032  | 0.199928  |
+| Scenario 3: non-Bt grain and non-Bt DDGS | 3.46038  | 0.250888  |
+| Scenario 3: non-Bt grain and non-Bt DDGS | 3.73186  | 0.301848  |
+| Scenario 3: non-Bt grain and non-Bt DDGS | 4.01419  | 0.349719  |
+| Scenario 3: non-Bt grain and non-Bt DDGS | 4.26394  | 0.402224  |
+| Scenario 3: non-Bt grain and non-Bt DDGS | 4.60057  | 0.450095  |
+| Scenario 3: non-Bt grain and non-Bt DDGS | 4.8829   | 0.501055  |
+| Scenario 3: non-Bt grain and non-Bt DDGS | 5.14352  | 0.548927  |
+| Scenario 3: non-Bt grain and non-Bt DDGS | 5.5453   | 0.599887  |
+| Scenario 3: non-Bt grain and non-Bt DDGS | 5.75162  | 0.647758  |
+| Scenario 3: non-Bt grain and non-Bt DDGS | 6.07739  | 0.700263  |
+| Scenario 3: non-Bt grain and non-Bt DDGS | 6.46831  | 0.748134  |
+| Scenario 3: non-Bt grain and non-Bt DDGS | 6.83751  | 0.79755   |
+| Scenario 3: non-Bt grain and non-Bt DDGS | 7.4239   | 0.84851   |
+| Scenario 3: non-Bt grain and non-Bt DDGS | 7.86911  | 0.896381  |
+| Scenario 3: non-Bt grain and non-Bt DDGS | 9.0636   | 0.95043   |
+| Scenario 4: Bt and non-Bt grain          | 0.930249 | 0.0501364 |
+| Scenario 4: Bt and non-Bt grain          | 1.2343   | 0.101096  |
+| Scenario 4: Bt and non-Bt grain          | 1.38632  | 0.150512  |
+| Scenario 4: Bt and non-Bt grain          | 1.52749  | 0.199928  |
+| Scenario 4: Bt and non-Bt grain          | 1.64694  | 0.250888  |
+| Scenario 4: Bt and non-Bt grain          | 1.73381  | 0.300304  |
+| Scenario 4: Bt and non-Bt grain          | 1.86412  | 0.351264  |
+| Scenario 4: Bt and non-Bt grain          | 1.92927  | 0.400679  |
+| Scenario 4: Bt and non-Bt grain          | 2.01614  | 0.450095  |
+| Scenario 4: Bt and non-Bt grain          | 2.10302  | 0.501055  |
+| Scenario 4: Bt and non-Bt grain          | 2.20075  | 0.550471  |
+| Scenario 4: Bt and non-Bt grain          | 2.33105  | 0.599887  |
+| Scenario 4: Bt and non-Bt grain          | 2.46136  | 0.650847  |
+| Scenario 4: Bt and non-Bt grain          | 2.53737  | 0.701807  |
+| Scenario 4: Bt and non-Bt grain          | 2.66768  | 0.749678  |
+| Scenario 4: Bt and non-Bt grain          | 2.81971  | 0.799094  |
+| Scenario 4: Bt and non-Bt grain          | 2.98259  | 0.850054  |
+| Scenario 4: Bt and non-Bt grain          | 3.17805  | 0.901014  |
+| Scenario 4: Bt and non-Bt grain          | 3.55811  | 0.95043   |
+| Scenario 5: Bt grain                     | 0.452456 | 0.0485922 |
+| Scenario 5: Bt grain                     | 0.561045 | 0.0995522 |
+| Scenario 5: Bt grain                     | 0.691353 | 0.150512  |
+| Scenario 5: Bt grain                     | 0.832519 | 0.201472  |
+| Scenario 5: Bt grain                     | 0.908532 | 0.250888  |
+| Scenario 5: Bt grain                     | 1.00626  | 0.300304  |
+| Scenario 5: Bt grain                     | 1.14743  | 0.349719  |
+| Scenario 5: Bt grain                     | 1.2343   | 0.400679  |
+| Scenario 5: Bt grain                     | 1.33203  | 0.448551  |
+| Scenario 5: Bt grain                     | 1.4189   | 0.499511  |
+| Scenario 5: Bt grain                     | 1.50577  | 0.550471  |
+| Scenario 5: Bt grain                     | 1.61436  | 0.599887  |
+| Scenario 5: Bt grain                     | 1.71209  | 0.647758  |
+| Scenario 5: Bt grain                     | 1.83154  | 0.701807  |
+| Scenario 5: Bt grain                     | 1.96185  | 0.749678  |
+| Scenario 5: Bt grain                     | 2.11387  | 0.799094  |
+| Scenario 5: Bt grain                     | 2.24418  | 0.850054  |
+| Scenario 5: Bt grain                     | 2.51565  | 0.901014  |
+| Scenario 5: Bt grain                     | 2.83056  | 0.948886  |
+| Scenario 6: non-Bt grain                 | 1.06056  | 0.0532249 |
+| Scenario 6: non-Bt grain                 | 1.34289  | 0.0995522 |
+| Scenario 6: non-Bt grain                 | 1.6035   | 0.150512  |
+| Scenario 6: non-Bt grain                 | 1.79896  | 0.201472  |
+| Scenario 6: non-Bt grain                 | 2.04872  | 0.250888  |
+| Scenario 6: non-Bt grain                 | 2.2659   | 0.300304  |
+| Scenario 6: non-Bt grain                 | 2.47222  | 0.351264  |
+| Scenario 6: non-Bt grain                 | 2.65682  | 0.400679  |
+| Scenario 6: non-Bt grain                 | 2.77627  | 0.450095  |
+| Scenario 6: non-Bt grain                 | 3.00431  | 0.504144  |
+| Scenario 6: non-Bt grain                 | 3.17805  | 0.550471  |
+| Scenario 6: non-Bt grain                 | 3.36265  | 0.599887  |
+| Scenario 6: non-Bt grain                 | 3.4821   | 0.649303  |
+| Scenario 6: non-Bt grain                 | 3.69928  | 0.700263  |
+| Scenario 6: non-Bt grain                 | 3.99247  | 0.751223  |
+| Scenario 6: non-Bt grain                 | 4.28566  | 0.799094  |
+| Scenario 6: non-Bt grain                 | 4.568    | 0.851598  |
+| Scenario 6: non-Bt grain                 | 4.94806  | 0.904103  |
+| Scenario 6: non-Bt grain                 | 5.79506  | 0.951974  |

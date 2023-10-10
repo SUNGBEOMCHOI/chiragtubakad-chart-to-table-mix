@@ -1,0 +1,21 @@
+| title                    |   with HFpEF |
+| Decreased estimated GFR* |         15.1 |
+| Anemia                   |          5.2 |
+| Hyperuricaemia*          |         11.1 |
+| Dyslipidemia             |          5.8 |
+| History of heart disease |          9.5 |
+| History of stroke*       |         11.2 |
+| Abdominal obesity        |          6.5 |
+| General obesity          |          5.3 |
+| Diabetes                 |          6.3 |
+| Hypertension*            |          9   |
+| Decreased estimated GFR* |          4.5 |
+| Anemia                   |          4.9 |
+| Hyperuricaemia*          |          4.3 |
+| Dyslipidemia             |          4.4 |
+| History of heart disease |          3.7 |
+| History of stroke*       |          4.2 |
+| Abdominal obesity        |          4.4 |
+| General obesity          |          4.9 |
+| Diabetes                 |          4.7 |
+| Hypertension*            |          1.9 |

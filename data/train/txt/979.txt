@@ -1,0 +1,23 @@
+| title                                |   Remote 2002 |
+| Death family member/close friend     |      55.2708  |
+| Serious illness or disability family |      34.1032  |
+| Alcohol and/or drug problem          |      36.5336  |
+| Not able to get a job                |      24.9306  |
+| Trouble with the police              |      21.6379  |
+| Gambling problem                     |      26.3418  |
+| Serious accident someone close       |      18.6588  |
+| Witness to violence                  |      29.9481  |
+| Abuse or violentcrime                |      17.2476  |
+| Lost job, made redundant, sacked     |       5.01749 |
+| Divorce or sepration                 |      12.3869  |
+| Death family member/close friend     |      44.9222  |
+| Serious illness or disability family |      26.8122  |
+| Alcohol and/or drug problem          |      25.009   |
+| Not able to get a job                |      19.1292  |
+| Trouble with the police              |      14.2685  |
+| Gambling problem                     |      14.0333  |
+| Serious accident someone close       |      10.9758  |
+| Witness to violence                  |       9.0158  |
+| Abuse or violentcrime                |       6.58545 |
+| Lost job, made redundant, sacked     |       6.27186 |
+| Divorce or sepration                 |       5.95827 |

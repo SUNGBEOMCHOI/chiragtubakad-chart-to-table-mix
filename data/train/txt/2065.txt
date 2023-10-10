@@ -1,0 +1,13 @@
+| title      |     Adipose |
+| NR-HD GNEA | 13.0308     |
+| IS-HD GNEA | 13.0308     |
+| NR-HD DEA  |  3.04227    |
+| IS-HD DEA  |  0.0228497  |
+| NR-HD GNEA |  9.01583    |
+| IS-HD GNEA | 13.0308     |
+| NR-HD DEA  |  2.01404    |
+| IS-HD DEA  |  1.03476    |
+| NR-HD GNEA |  9.01583    |
+| IS-HD GNEA | 19.0534     |
+| NR-HD DEA  |  1.03476    |
+| IS-HD DEA  | -0.00979272 |

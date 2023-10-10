@@ -1,0 +1,13 @@
+| title                  |     Top 10 |
+| Neutral on supplements | 29.8871    |
+| Neutral on food        | -0.137922  |
+| Against supplements    | 59.8581    |
+| Against food           | -0.0839525 |
+| Pro supplements        |  9.93638   |
+| Pro food               | 90.081     |
+| Neutral on supplements |  5.96063   |
+| Neutral on food        |  1.24729   |
+| Against supplements    | 48.5245    |
+| Against food           |  2.88437   |
+| Pro supplements        | 17.9958    |
+| Pro food               | 69.4287    |

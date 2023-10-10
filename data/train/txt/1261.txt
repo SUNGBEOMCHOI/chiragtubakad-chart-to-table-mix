@@ -1,0 +1,27 @@
+| title                                |   Female data |
+| cell cycle                           |     -0.346154 |
+| intracellular organelle part         |     -0.323077 |
+| primary metabolic process            |     21.6923   |
+| external encapsulating structure     |      5.30769  |
+| homeostatic process                  |      7.15385  |
+| organic substance metabolic process  |     25.3846   |
+| organelle part                       |      1.8      |
+| regulation of biological quality     |     10.9385   |
+| macromolecule metabolic process      |     16.2692   |
+| cellular metabolic process           |     16.2692   |
+| multicellular organismal development |     12.7385   |
+| oxidoreductase activity              |      9        |
+| system process                       |      9.04615  |
+| cell cycle                           |     15.2308   |
+| intracellular organelle part         |     11.7692   |
+| primary metabolic process            |     41.1923   |
+| external encapsulating structure     |     -0.346154 |
+| homeostatic process                  |      0.6      |
+| organic substance metabolic process  |     43.3846   |
+| organelle part                       |     12.4615   |
+| regulation of biological quality     |      2.72308  |
+| macromolecule metabolic process      |     32.0769   |
+| cellular metabolic process           |     32.0769   |
+| multicellular organismal development |     26.4231   |
+| oxidoreductase activity              |      2.07692  |
+| system process                       |      2.12308  |

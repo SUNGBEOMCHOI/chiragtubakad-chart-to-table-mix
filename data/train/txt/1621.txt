@@ -1,0 +1,3 @@
+| Category                 |   first quartile |      max |   median |      min |   third quartile | x             |
+| [unnamed data series #0] |         -20.8533 | -11.8649 | -18.7915 | -26.5753 |         -15.9653 | Controls      |
+| [unnamed data series #0] |         -17.5637 | -10.8456 | -15.4093 | -20.9228 |         -13.417  | Schizophrenia |

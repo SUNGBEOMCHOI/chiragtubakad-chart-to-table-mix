@@ -1,0 +1,13 @@
+| Category   |         X |          Y |
+| Behavioral |  0.95672  |    4.9643  |
+| Behavioral | 25.6948   |  355.539   |
+| Biomedical |  1.16173  |   25.9892  |
+| Biomedical |  2.9385   |   57.6696  |
+| Biomedical | 21.7312   |  987.813   |
+| Biomedical | 30.82     |  133.307   |
+| Biomedical | 42.0273   |  192.582   |
+| Biomedical | 60.2733   |  289.821   |
+| Structural | 34.9157   | 1052.42    |
+| Structural | 13.5945   |  394.597   |
+| Structural |  0.615034 |    2.85899 |
+| Structural |  1.02506  |    4.86387 |

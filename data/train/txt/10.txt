@@ -1,0 +1,13 @@
+| title     |   Control |
+| May       |   64.8597 |
+| June      |   72.5219 |
+| July      |   43.987  |
+| August    |   15.1878 |
+| September |   18.0941 |
+| October   |   15.1878 |
+| May       |   75.6925 |
+| June      |   77.2777 |
+| July      |   70.5843 |
+| August    |   37.2936 |
+| September |   42.9301 |
+| October   |   26.0205 |

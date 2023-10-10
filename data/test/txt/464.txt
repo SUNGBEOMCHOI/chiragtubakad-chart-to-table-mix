@@ -1,0 +1,17 @@
+| title                                    |   HIV negative |
+| Women doing well on ARVs can use IUD*    |       0.198125 |
+| HIV positive women can use IUD*          |       0.556029 |
+| Quick return to fertility after removal* |       0.679591 |
+| Breastfeeding women can safely use 1UD*  |       0.317427 |
+| Changes in bleeding possible side effect of
+IUD*                                          |       0.319557 |
+| IUD effective in preventing pregnancy for 10
+years*                                          |       0.462292 |
+| Women doing well on ARVs can use IUD*    |       0.234342 |
+| HIV positive women can use IUD*          |       0.547507 |
+| Quick return to fertility after removal* |       0.636983 |
+| Breastfeeding women can safely use 1UD*  |       0.287601 |
+| Changes in bleeding possible side effect of
+IUD*                                          |       0.264167 |
+| IUD effective in preventing pregnancy for 10
+years*                                          |       0.398381 |

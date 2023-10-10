@@ -1,0 +1,5 @@
+| title       |   Never Smoker |
+| European    |        76.4604 |
+| South Asian |        75.8845 |
+| European    |        52.273  |
+| South Asian |        57.456  |

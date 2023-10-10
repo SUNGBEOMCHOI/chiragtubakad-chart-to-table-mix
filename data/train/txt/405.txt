@@ -1,0 +1,14 @@
+| Category                 |   first quartile |     max |   median |      min |   third quartile | x   |
+| [unnamed data series #0] |         43692.3  | 80791.2 | 47120.9  | 30417.6  |         65230.8  | VEGF
+Control     |
+| [unnamed data series #0] |         20483.5  | 28747.3 | 23560.4  | 16351.6  |         26022    | Medium 
+Control     |
+| [unnamed data series #0] |          4483.52 | 15736.3 |  5978.02 |  2989.01 |          9142.86 | Suramin
+Control     |
+| [unnamed data series #0] |         56000    | 90637.4 | 68219.8  | 42901.1  |         76659.3  | VEGF
+10 ng/ml     |
+| [unnamed data series #0] |         47033    | 53978   | 48879.1  | 39912.1  |         53978    | VEGF
+ELISA     || [unnamed data series #0] |         16967    | 30153.8 | 20395.6  | 11956    |         24263.7  | HMGBI
+100 ng/ml     |
+| [unnamed data series #0] |         14329.7  | 37538.5 | 18989    |  9846.15 |         25142.9  | HMGBI
+ELISA     |

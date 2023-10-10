@@ -1,0 +1,5 @@
+| Category   | X                            |       Y |
+| 2.5 GPa    | Normal (284 HB)              | 4.79494 |
+| 2.5 GPa    | UNSM-treated normal (356 HB) | 6.70793 |
+| 3.0 GPa    | UNSM-treated normal (356 HB) | 6.52054 |
+| 3.0 GPa    | Normal (284 HB)              | 4.17094 |

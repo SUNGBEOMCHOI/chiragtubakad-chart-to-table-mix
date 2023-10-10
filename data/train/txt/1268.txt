@@ -1,0 +1,4 @@
+| title       |   [unnamed data series #0] |
+| PFA         |                    86.402  |
+| t-value     |                    79.8954 |
+| Searchlight |                    70.0194 |

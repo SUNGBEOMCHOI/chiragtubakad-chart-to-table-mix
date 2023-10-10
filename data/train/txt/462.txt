@@ -1,0 +1,10 @@
+| title   |   Cattle fecal matter |
+| ETEC    |             0.810256  |
+| STEC    |             0.502564  |
+| EAEC    |             0.0034188 |
+| ETEC    |             0.0205128 |
+| STEC    |             0.495726  |
+| EAEC    |             0.994872  |
+| ETEC    |             0.167521  |
+| STEC    |             0         |
+| EAEC    |             0         |

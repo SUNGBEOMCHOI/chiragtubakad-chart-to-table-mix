@@ -1,0 +1,11 @@
+| title      |   [unnamed data series #0] |
+| strawberry |                        645 |
+| vanilla    |                        618 |
+| tobacco    |                        580 |
+| menthol    |                        435 |
+| custard    |                        435 |
+| banana     |                        348 |
+| cinnamon   |                        309 |
+| apple      |                        303 |
+| candy      |                        286 |
+| blueberry  |                        267 |

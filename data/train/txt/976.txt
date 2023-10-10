@@ -1,0 +1,3 @@
+| Category                 |   first quartile |     max |   median |     min |   third quartile | x           |
+| [unnamed data series #0] |          9.55269 | 9.67587 |  9.63336 | 9.48292 |          9.67151 | Control     |
+| [unnamed data series #0] |          9.66116 | 9.78325 |  9.73201 | 9.65352 |          9.77398 | Pridopidine |

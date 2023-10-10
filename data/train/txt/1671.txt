@@ -1,0 +1,46 @@
+| title                                   |   More than a month |
+| Stay indoors                            |            27.5371  |
+| Stay home from work                     |            28.4653  |
+| Keep children at home/ away from school |            36.742   |
+| Avoid medical professionals             |            39.7587  |
+| Avoid social contact                    |            48.8861  |
+| Shop less                               |            67.7599  |
+| Avoid participation in clubs            |            70.854   |
+| Avoid public transportation             |            68.7655  |
+| Avoid places of entertainment           |            75.8818  |
+| Stay indoors                            |             4.64109 |
+| Stay home from work                     |             5.2599  |
+| Keep children at home/ away from school |             3.01671 |
+| Avoid medical professionals             |             4.9505  |
+| Avoid social contact                    |             6.96163 |
+| Shop less                               |            11.0613  |
+| Avoid participation in clubs            |             7.11634 |
+| Avoid public transportation             |             8.89542 |
+| Avoid places of entertainment           |             7.88985 |
+| Stay indoors                            |            21.6584  |
+| Stay home from work                     |            12.0668  |
+| Keep children at home/ away from school |             7.88985 |
+| Avoid medical professionals             |            12.1442  |
+| Avoid social contact                    |            15.0062  |
+| Shop less                               |            10.8292  |
+| Avoid participation in clubs            |             5.02785 |
+| Avoid public transportation             |             6.18812 |
+| Avoid places of entertainment           |             3.86757 |
+| Stay indoors                            |            25.6807  |
+| Stay home from work                     |            20.7302  |
+| Keep children at home/ away from school |             8.97277 |
+| Avoid medical professionals             |            18.6417  |
+| Avoid social contact                    |            13.5365  |
+| Shop less                               |             4.17698 |
+| Avoid participation in clubs            |             2.7073  |
+| Avoid public transportation             |             2.7073  |
+| Avoid places of entertainment           |             2.16584 |
+| Stay indoors                            |            17.3267  |
+| Stay home from work                     |            12.6856  |
+| Keep children at home/ away from school |             9.59158 |
+| Avoid medical professionals             |            21.349   |
+| Avoid social contact                    |            12.3762  |
+| Shop less                               |             5.2599  |
+| Avoid participation in clubs            |             5.56931 |
+| Avoid public transportation             |             6.49752 |
+| Avoid places of entertainment           |             6.49752 |

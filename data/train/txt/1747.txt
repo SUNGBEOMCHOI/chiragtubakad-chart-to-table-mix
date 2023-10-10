@@ -1,0 +1,4 @@
+| title             |   [unnamed data series #0] |
+| Smoking any       |                    1.22462 |
+| Smoking Cigarette |                    1.1205  |
+| Smoking Bidi      |                    1.89113 |

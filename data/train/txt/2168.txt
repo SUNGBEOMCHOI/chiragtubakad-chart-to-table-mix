@@ -1,0 +1,6 @@
+| title    |   [unnamed data series #0] |
+| DPP4     |                   798.824  |
+| Con      |                    97.4363 |
+| DPP4i 25 |                    39.7523 |
+| HCD      |                    58.9803 |
+| MSN-HCD  |                   282.407  |

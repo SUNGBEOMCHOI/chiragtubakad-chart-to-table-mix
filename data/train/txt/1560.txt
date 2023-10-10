@@ -1,0 +1,5 @@
+| title                 |   [unnamed data series #0] |
+| daily                 |                       70.9 |
+| several times a week  |                       61.3 |
+| Several times a month |                       58.9 |
+| once a month and less |                       44   |

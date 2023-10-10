@@ -1,0 +1,7 @@
+| title                             |   [unnamed data series #0] |
+| I want more Children              |                         36 |
+| I do not have any child of my own |                         22 |
+| My partner wants a child          |                         20 |
+| Other reasons                     |                          9 |
+| I am on ART/1 feel healthy        |                          7 |
+| My family or in-laws want a child |                          5 |

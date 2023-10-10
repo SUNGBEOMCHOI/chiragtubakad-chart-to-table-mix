@@ -1,0 +1,3 @@
+| Category                 |   first quartile |     max |   median |      min |   third quartile | x                 |
+| [unnamed data series #0] |          306.806 | 557.749 | 373.787  | 105.863  |         470.013  | Operatlng workers |
+| [unnamed data series #0] |           58.221 | 113.881 |  70.4852 |  27.0889 |          94.5418 | Support staff     |

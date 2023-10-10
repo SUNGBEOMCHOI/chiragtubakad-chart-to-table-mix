@@ -1,0 +1,9 @@
+| title   |   Expression level |
+| FMF Patients with
+lowest expression         |           0.204777 |
+| Healthy Controls with
+highest expression         |           0.415123 |
+| FMF Patients with
+lowest expression         |           0.842    |
+| Healthy Controls with
+highest expression         |           0.736828 |

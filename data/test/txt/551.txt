@@ -1,0 +1,7 @@
+| title                         |   [unnamed data series #0] |
+| Zero valent iron              |                   28.4294  |
+| Granular ferric oxide         |                   38.171   |
+| Iron-coated activated alumina |                   44.9304  |
+| Activated alumina             |                   37.3757  |
+| Iron oxide                    |                    2.18688 |
+| Basic yttrium carbonate       |                  100.199   |

@@ -1,0 +1,81 @@
+| Category            |          X |       Y |
+| Reference pad       |   1279.18  | 39.3213 |
+| Reference pad       |  10873     | 42.971  |
+| Reference pad       |  21746.1   | 43.9315 |
+| Reference pad       |  31659.7   | 42.5868 |
+| Reference pad       |  41893.2   | 43.5473 |
+| Reference pad       |  52446.4   | 43.9315 |
+| Reference pad       |  62999.7   | 44.5078 |
+| Reference pad       |  73872.7   | 44.5078 |
+| Reference pad       |  84426     | 44.1236 |
+| Reference pad       |  95299     | 44.6999 |
+| Reference pad       | 106172     | 44.5078 |
+| Reference pad       | 115766     | 44.6999 |
+| Reference pad       | 127279     | 44.6999 |
+| Reference pad       | 137832     | 44.6999 |
+| Reference pad       | 147106     | 44.6999 |
+| Reference pad       | 157979     | 44.6999 |
+| Reference pad       | 168532     | 44.6999 |
+| Reference pad       | 179085     | 44.8919 |
+| Reference pad       | 190278     | 44.5078 |
+| Reference pad       | 200512     | 44.6999 |
+| Tire pad            |    959.386 | 48.7338 |
+| Tire pad            |  11192.8   | 51.6152 |
+| Tire pad            |  21426.3   | 51.4231 |
+| Tire pad            |  31659.7   | 52.5756 |
+| Tire pad            |  42213     | 52.3835 |
+| Tire pad            |  53405.8   | 52.5756 |
+| Tire pad            |  63639.3   | 51.9994 |
+| Tire pad            |  73872.7   | 52.3835 |
+| Tire pad            |  84426     | 51.9994 |
+| Tire pad            |  95299     | 52.3835 |
+| Tire pad            | 105532     | 52.3835 |
+| Tire pad            | 116086     | 52.5756 |
+| Tire pad            | 126639     | 52.3835 |
+| Tire pad            | 137512     | 52.5756 |
+| Tire pad            | 147745     | 52.5756 |
+| Tire pad            | 158299     | 52.5756 |
+| Tire pad            | 168852     | 53.1519 |
+| Tire pad            | 178766     | 53.1519 |
+| Tire pad            | 190278     | 53.1519 |
+| Tire pad            | 200512     | 53.344  |
+| Tire pad + Tire USP |    959.386 | 27.9878 |
+| Tire pad + Tire USP |  11192.8   | 29.1404 |
+| Tire pad + Tire USP |  20786.7   | 30.1008 |
+| Tire pad + Tire USP |  31979.5   | 30.485  |
+| Tire pad + Tire USP |  42213     | 30.485  |
+| Tire pad + Tire USP |  53405.8   | 30.1008 |
+| Tire pad + Tire USP |  62999.7   | 30.1008 |
+| Tire pad + Tire USP |  74192.5   | 30.2929 |
+| Tire pad + Tire USP |  84426     | 30.2929 |
+| Tire pad + Tire USP |  95299     | 30.2929 |
+| Tire pad + Tire USP | 105532     | 30.6771 |
+| Tire pad + Tire USP | 116086     | 30.485  |
+| Tire pad + Tire USP | 127279     | 30.6771 |
+| Tire pad + Tire USP | 137832     | 30.6771 |
+| Tire pad + Tire USP | 148065     | 30.8692 |
+| Tire pad + Tire USP | 158299     | 30.8692 |
+| Tire pad + Tire USP | 168532     | 30.6771 |
+| Tire pad + Tire USP | 179405     | 30.8692 |
+| Tire pad + Tire USP | 189639     | 30.8692 |
+| Tire pad + Tire USP | 200512     | 30.8692 |
+| Tire pad + Tire UBM |    959.386 | 25.4906 |
+| Tire pad + Tire UBM |  11192.8   | 27.0274 |
+| Tire pad + Tire UBM |  21106.5   | 28.7562 |
+| Tire pad + Tire UBM |  31659.7   | 28.5641 |
+| Tire pad + Tire UBM |  42852.6   | 29.3325 |
+| Tire pad + Tire UBM |  53086     | 28.9483 |
+| Tire pad + Tire UBM |  62999.7   | 27.7957 |
+| Tire pad + Tire UBM |  74832.1   | 27.2195 |
+| Tire pad + Tire UBM |  84106.2   | 27.0274 |
+| Tire pad + Tire UBM |  95299     | 25.4906 |
+| Tire pad + Tire UBM | 105213     | 27.0274 |
+| Tire pad + Tire UBM | 116086     | 27.7957 |
+| Tire pad + Tire UBM | 127279     | 27.7957 |
+| Tire pad + Tire UBM | 136872     | 28.372  |
+| Tire pad + Tire UBM | 147745     | 28.5641 |
+| Tire pad + Tire UBM | 158299     | 28.1799 |
+| Tire pad + Tire UBM | 168212     | 28.5641 |
+| Tire pad + Tire UBM | 178766     | 28.7562 |
+| Tire pad + Tire UBM | 189958     | 29.1404 |
+| Tire pad + Tire UBM | 200831     | 29.1404 |

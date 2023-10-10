@@ -1,0 +1,5 @@
+| title                             |   [unnamed data series #0] |
+| 2015 DPH survey (N=70)            |                       0.89 |
+| 2014 DPH survey (N=86)            |                       0.88 |
+| 2015 Elected member survey (N=35) |                       0.69 |
+| 2014 Elected member survey (N=46) |                       0.65 |

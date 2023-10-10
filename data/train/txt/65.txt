@@ -1,0 +1,4 @@
+| title                 |   [unnamed data series #0] |
+| A LOT OF EFFORT       |                    9.0103  |
+| AVERAGE EFFORT        |                    2.03433 |
+| EFFORTS WORTH OUTCOME |                   11.0433  |

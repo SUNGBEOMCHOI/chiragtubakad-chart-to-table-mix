@@ -1,0 +1,31 @@
+| title               |   Pedestrian |
+| Water               |   27.8057    |
+| Wind                |   15.724     |
+| Vegetation          |    0         |
+| Animals             |    6.77694   |
+| Music               |    0.304581  |
+| Commercial          |    5.06367   |
+| Voices/steps        |   22.9198    |
+| Engines             |    2.9316    |
+| Construction sounds |    0.152291  |
+| Traffic             |   18.3891    |
+| Water               |   10.1273    |
+| Wind                |   10.1273    |
+| Vegetation          |    0.0888362 |
+| Animals             |    0.152291  |
+| Music               |    0         |
+| Commercial          |    0         |
+| Voices/steps        |    6.66272   |
+| Engines             |    0.266509  |
+| Construction sounds |    1.2564    |
+| Traffic             |   71.4243    |
+| Water               |   13.8585    |
+| Wind                |   13.8585    |
+| Vegetation          |    0         |
+| Animals             |    1.33254   |
+| Music               |    2.39858   |
+| Commercial          |    0         |
+| Voices/steps        |   17.5896    |
+| Engines             |    2.39858   |
+| Construction sounds |    0.533017  |
+| Traffic             |   48.7711    |

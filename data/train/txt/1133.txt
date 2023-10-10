@@ -1,0 +1,17 @@
+| title             |   Job |
+| Israeli women     |    15 |
+| Palestinian women |     3 |
+| Israeli men       |    22 |
+| Palestinian men   |    39 |
+| Israeli women     |    36 |
+| Palestinian women |    65 |
+| Israeli men       |    25 |
+| Palestinian men   |    24 |
+| Israeli women     |    22 |
+| Palestinian women |    16 |
+| Israeli men       |    29 |
+| Palestinian men   |    20 |
+| Israeli women     |    27 |
+| Palestinian women |    16 |
+| Israeli men       |    24 |
+| Palestinian men   |    17 |

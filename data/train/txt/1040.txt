@@ -1,0 +1,7 @@
+| title         |   [unnamed data series #0] |
+| HIV           |                 1580.1     |
+| Campylobacter |                  720.874   |
+| Salmonella    |                  717.233   |
+| tuberculosis  |                   77.6699  |
+| influenza     |                    9.70874 |
+| measles       |                    2.42718 |

@@ -1,0 +1,7 @@
+| title             |   [unnamed data series #0] |
+| Commute           |                       0.41 |
+| Shopping          |                       0.38 |
+| Go to a doctor    |                       0.28 |
+| Visiting          |                       0.44 |
+| Business activity |                       0.64 |
+| Ferry children    |                       0.34 |

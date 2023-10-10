@@ -1,0 +1,17 @@
+| title                      |    HIA UK |
+| Considered                 | 99.9606   |
+| Recommendations in plan    | 45.7984   |
+| Evidence of implementation |  8.78117  |
+| Post adoption evidence     |  0.431404 |
+| Considered                 | 99.9606   |
+| Recommendations in plan    | 71.9054   |
+| Evidence of implementation |  0.431404 |
+| Post adoption evidence     |  0.431404 |
+| Considered                 | 99.9606   |
+| Recommendations in plan    | 39.9536   |
+| Evidence of implementation |  0.208744 |
+| Post adoption evidence     |  0.431404 |
+| Considered                 | 99.9606   |
+| Recommendations in plan    | 44.2398   |
+| Evidence of implementation |  0.208744 |
+| Post adoption evidence     | 44.2398   |

@@ -1,0 +1,4 @@
+| Category                 |   first quartile |      max |   median |      min |   third quartile | x          |
+| [unnamed data series #0] |         79.8198  | 134.434  | 90.5506  | 79.8198  |         109.93   | untreated  |
+| [unnamed data series #0] |          4.86489 |  12.2323 |  9.34937 |  1.50152 |          12.2323 | PEG-DEX-AT |
+| [unnamed data series #0] |         10.951   |  40.5806 | 20.7207  |  6.62665 |          36.2563 | PEI-AT     |

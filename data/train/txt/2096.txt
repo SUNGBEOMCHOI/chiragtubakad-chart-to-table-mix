@@ -1,0 +1,9 @@
+| title              |   [unnamed data series #0] |
+| pGL3_SV40prom      |                 0.963603   |
+| pGL3_DRB1prom      |                 1.60055    |
+| pGL3_DRB1 prom_del |                 1.03276    |
+| pGL3_DRB1prom_hap1 |                 1.30937    |
+| pGL3_SV40prom      |                -0.00454959 |
+| pGL3_DRB1prom      |                 2.69609    |
+| pGL3_DRB1 prom_del |                 1.12375    |
+| pGL3_DRB1prom_hap1 |                 1.48044    |

@@ -1,0 +1,32 @@
+| title                            |          Alcohol dependent individuals
+|----------------------------------|----------|
+| Serious depression               | 22.8522  |
+| Serious anxiety/tentsion uptight | 28.3505  |
+| Hallucinations                   |  6.87285 |
+| Troubles in understanding,
+concentrating, or remembering                                  | 10.8247  |
+| Troubles in contolling violent
+behavior                                  |  9.45017 |
+| Serious thoughts of suicide      | 28.0069  |
+| Suicide attemps                  | 11.512   |
+| Medication                       | 15.1203  |
+| Serious depression               | 33.9633  |
+| Serious anxiety/tentsion uptight | 43.5853  |
+| Hallucinations                   | 13.0011  |
+| Troubles in understanding,
+concentrating, or remembering                                  |  8.0756  |
+| Troubles in contolling violent
+behavior                                  | 19.4444  |
+| Serious thoughts of suicide      | 43.299   |
+| Suicide attemps                  | 22.5086  |
+| Medication                       | 27.4341  |
+| Serious depression               | 49.1695  |
+| Serious anxiety/tentsion uptight | 54.1523  |
+| Hallucinations                   | 40.4926  |
+| Troubles in understanding,
+concentrating, or remembering                                  | 40.4066  |
+| Troubles in contolling violent
+behavior                                  | 52.606   |
+| Serious thoughts of suicide      | 61.9702  |
+| Suicide attemps                  | 41.4376  |
+| Medication                       | 70.7904  |

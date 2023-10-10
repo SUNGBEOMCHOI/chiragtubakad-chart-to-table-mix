@@ -1,0 +1,3 @@
+| Category                 |   first quartile |      max |   median |       min |   third quartile | x           |
+| [unnamed data series #0] |         0.122025 | 0.482249 | 0.19268  | 0.0421034 |         0.199629 | Inside ROH  |
+| [unnamed data series #0] |         0.369896 | 0.998842 | 0.605027 | 0.245961  |         0.951352 | Outside ROH |

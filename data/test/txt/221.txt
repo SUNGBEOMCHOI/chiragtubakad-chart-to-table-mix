@@ -1,0 +1,18 @@
+| Category          | X          |        Y |
+| Untreated         | rox1\Delta | 1.61417  |
+| Untreated         | rox1\Delta | 1.57023  |
+| Untreated         | wild type  | 1.45432  |
+| Untreated         | wild type  | 1.40432  |
+| Untreated         | wild type  | 1.41644  |
+| Untreated         | mga2\Delta | 1.11417  |
+| Untreated         | mga2\Delta | 1.07174  |
+| Untreated         | mga2\Delta | 1.05659  |
+| 0.1 MM H_{2}O_{2} | mga2\Delta | 0.995985 |
+| 0.1 MM H_{2}O_{2} | mga2\Delta | 1.00356  |
+| 0.1 MM H_{2}O_{2} | mga2\Delta | 1.03917  |
+| 0.1 MM H_{2}O_{2} | wild type  | 1.33083  |
+| 0.1 MM H_{2}O_{2} | wild type  | 1.36871  |
+| 0.1 MM H_{2}O_{2} | wild type  | 1.38917  |
+| 0.1 MM H_{2}O_{2} | rox1\Delta | 1.57856  |
+| 0.1 MM H_{2}O_{2} | rox1\Delta | 1.55205  |
+| 0.1 MM H_{2}O_{2} | rox1\Delta | 1.53538  |

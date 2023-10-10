@@ -1,0 +1,4 @@
+| title        |   [unnamed data series #0] |
+| mutT p2      |                  1.00459   |
+| mutT p2-fldP |                  0.131592  |
+| mutT p2-isiB |                  0.0832595 |

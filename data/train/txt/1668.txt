@@ -1,0 +1,6 @@
+| title          |   [unnamed data series #0] |
+| CS:PVM/MA=1:0  |                   0.717114 |
+| CS:PVM/MA=1:1  |                   0.623127 |
+| CS:PVM/MA=5:1  |                   0.708973 |
+| CS:PVM/MA=10:1 |                   0.66235  |
+| Avitine        |                   0.654949 |

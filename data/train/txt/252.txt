@@ -1,0 +1,17 @@
+| title           |   TBLN POSITIVE |
+| CERVICAL        |       1133.4    |
+| AXILLARY        |        461.099  |
+| INGUINAL        |        150.317  |
+| SUPRACLAVICULAR |        207.4    |
+| SUBMANDIBULAR   |        308.88   |
+| AURICULAR       |         10.7824 |
+| NECK            |        102.749  |
+| OTHERS          |         10.7824 |
+| CERVICAL        |        423.045  |
+| AXILLARY        |        270.825  |
+| INGUINAL        |         61.5224 |
+| SUPRACLAVICULAR |         42.4949 |
+| SUBMANDIBULAR   |        182.03   |
+| AURICULAR       |         10.7824 |
+| NECK            |         45.6661 |
+| OTHERS          |         20.2962 |

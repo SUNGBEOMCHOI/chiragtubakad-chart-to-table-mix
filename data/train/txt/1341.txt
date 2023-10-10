@@ -1,0 +1,43 @@
+| title        |       None |
+| China        | 0.0679825  |
+| Ghana        | 0.0460526  |
+| India        | 0.0168129  |
+| Mexico       | 0.0153509  |
+| Russia       | 0.0211988  |
+| South Africa | 0.0109649  |
+| China        | 0.0964912  |
+| Ghana        | 0.0935673  |
+| India        | 0.122807   |
+| Mexico       | 0.229532   |
+| Russia       | 0.181287   |
+| South Africa | 0.270468   |
+| China        | 0.0190058  |
+| Ghana        | 0.0102339  |
+| India        | 0.0204678  |
+| Mexico       | 0.0789474  |
+| Russia       | 0.0438596  |
+| South Africa | 0.106725   |
+| China        | 0.25       |
+| Ghana        | 0.229532   |
+| India        | 0.137427   |
+| Mexico       | 0.111111   |
+| Russia       | 0.141813   |
+| South Africa | 0.0891813  |
+| China        | 0.326023   |
+| Ghana        | 0.368421   |
+| India        | 0.394737   |
+| Mexico       | 0.258772   |
+| Russia       | 0.276316   |
+| South Africa | 0.207602   |
+| China        | 0          |
+| Ghana        | 0.00146199 |
+| India        | 0          |
+| Mexico       | 0.00438596 |
+| Russia       | 0.00584795 |
+| South Africa | 0.0131579  |
+| China        | 0.236842   |
+| Ghana        | 0.25       |
+| India        | 0.305556   |
+| Mexico       | 0.299708   |
+| Russia       | 0.328947   |
+| South Africa | 0.302632   |

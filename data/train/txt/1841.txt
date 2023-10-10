@@ -1,0 +1,25 @@
+| title                       |     2020 |
+| Namibia                     | 25.9678  |
+| Botswana                    | 23.3642  |
+| Zimbabwe                    | 22.679   |
+| Mozambique                  | 19.9383  |
+| South Africa                | 19.9383  |
+| Kenya                       | 16.7866  |
+| Malawi                      | 13.7718  |
+| Uganda                      | 13.7033  |
+| United Republic of Tanzania | 12.7441  |
+| Central African Republic    | 12.6071  |
+| Cote o"lvoire               | 11.3738  |
+| Cameroon                    | 10.6886  |
+| Namibia                     |  3.01473 |
+| Botswana                    |  6.64611 |
+| Zimbabwe                    |  9.66084 |
+| Mozambique                  |  2.4095  |
+| South Africa                |  3.90545 |
+| Kenya                       |  3.90545 |
+| Malawi                      |  5.82391 |
+| Uganda                      | 12.8126  |
+| United Republic of Tanzania |  5.82391 |
+| Central African Republic    |  6.30353 |
+| Cote o"lvoire               |  5.61836 |
+| Cameroon                    |  2.98047 |

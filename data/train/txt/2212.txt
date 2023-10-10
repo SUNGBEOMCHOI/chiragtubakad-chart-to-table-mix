@@ -1,0 +1,22 @@
+| title               |        LA |
+| Green exercise      | 0.508149  |
+| Exercise in the gym | 0.130637  |
+| Organized sports    | 0.0874282 |
+| Active transport    | 0.205685  |
+| Walking the dog     | 0.107896  |
+| Occupational PA     | 0.157927  |
+| Other               | 0.057864  |
+| Green exercise      | 0.693872  |
+| Exercise in the gym | 0.32849   |
+| Organized sports    | 0.201136  |
+| Active transport    | 0.248894  |
+| Walking the dog     | 0.142008  |
+| Occupational PA     | 0.157927  |
+| Other               | 0.0760573 |
+| Green exercise      | 0.687808  |
+| Exercise in the gym | 0.370941  |
+| Organized sports    | 0.189008  |
+| Active transport    | 0.269361  |
+| Walking the dog     | 0.237523  |
+| Occupational PA     | 0.267087  |
+| Other               | 0.129879  |

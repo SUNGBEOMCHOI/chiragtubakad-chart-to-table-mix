@@ -1,0 +1,8 @@
+| Category                 |   first quartile |     max |   median |      min |   third quartile | x             |
+| [unnamed data series #0] |          16.436  | 32.0069 |  24.7405 | 10.1211  |          30.7093 | Institutional |
+| [unnamed data series #0] |          23.8754 | 51.0381 |  32.0069 | 17.9066  |          42.8201 | Industrial    |
+| [unnamed data series #0] |          10.5536 | 28.8927 |  15.7439 |  5.27682 |          20.3287 | Park          |
+| [unnamed data series #0] |          20.2422 | 67.474  |  30.7958 | 11.6782  |          46.2803 | Roadside      |
+| [unnamed data series #0] |          13.3218 | 37.0242 |  18.1661 |  7.69896 |          24.827  | Road
+greenbelt               |
+| [unnamed data series #0] |          24.2215 | 47.9239 |  30.7958 | 14.4464  |          39.5329 | Residential   |

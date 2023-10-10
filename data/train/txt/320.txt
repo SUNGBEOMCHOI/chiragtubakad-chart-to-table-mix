@@ -1,0 +1,4 @@
+| Category                 |   first quartile |     max |   median |     min |   third quartile | x        |
+| [unnamed data series #0] |          55.2808 | 154.483 |  64.0545 | 52.6319 |          75.0059 | ICP-MS   |
+| [unnamed data series #0] |          61.8469 | 707.884 |  68.7091 | 49.7597 |          84.5055 | PXRF     |
+| [unnamed data series #0] |          54.1296 | 615.223 |  59.2978 | 42.9439 |          72.9305 | Adj.PXRF |

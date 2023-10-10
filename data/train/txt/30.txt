@@ -1,0 +1,23 @@
+| title                     |   Intervention group |
+| Young (B)                 |           26.1679    |
+| Post (A)                  |           34.2214    |
+| Elderly (Men:C1, Woman:B) |           30.1772    |
+| Young (A)                 |           11.0721    |
+| Post (B)                  |           10.8977    |
+| Elderly (Men:C1,Woman:A)  |           10.8977    |
+| Young (C1)                |            6.9233    |
+| Post (B)                  |            8.91052   |
+| Elderly (C1)              |           21.043     |
+| Elderly (B)               |           11.9436    |
+| Elderly (C1)              |           10.8977    |
+| Young (B)                 |            9.1197    |
+| Post (A)                  |           10.0959    |
+| Elderly (Men:C1, Woman:B) |            8.21325   |
+| Young (A)                 |           -1.06043   |
+| Post (B)                  |           -0.0145264 |
+| Elderly (Men:C1,Woman:A)  |           -2.03661   |
+| Young (C1)                |           -0.990703  |
+| Post (B)                  |           -2.03661   |
+| Elderly (C1)              |            7.02789   |
+| Elderly (B)               |           -2.10633   |
+| Elderly (C1)              |           -0.920976  |

@@ -1,0 +1,35 @@
+| title             |   [unnamed data series #0] |
+| Swaziland 2006    |                   52.9299  |
+| Lesotho 2009      |                   39.8089  |
+| Lesotho 2004      |                   38.9172  |
+| Sao Tome 2009     |                   34.9682  |
+| Namibia 2007      |                   28.4713  |
+| Sierra Leone 2006 |                   27.707   |
+| Cameron 2004      |                   26.9427  |
+| Ghana 2008        |                   26.3057  |
+| Gabon 2000        |                   26.051   |
+| Cango 2005        |                   23.5032  |
+| Zimbabwe 2005     |                   21.8471  |
+| Nigeria 2008      |                   20.828   |
+| Kenya 2008        |                   20.828   |
+| Ghana 2003        |                   20.7006  |
+| Nigeria 2003      |                   20.0637  |
+| Tanzania 2010     |                   19.6815  |
+| Senegal 2005      |                   19.2994  |
+| Kenya 2003        |                   18.4076  |
+| Mali 2006         |                   18.0255  |
+| Niger 2008        |                   17.6433  |
+| Liberia 2007      |                   17.5159  |
+| Zambia 2007       |                   17.1338  |
+| Ruwanda 2000      |                   15.6051  |
+| Tanzania 2005     |                   15.6051  |
+| Burkina Faso 2003 |                   15.4777  |
+| Mali 2001         |                   13.949   |
+| Mozambique        |                   13.3121  |
+| Uganda 2006       |                   13.1847  |
+| Malawi 2000       |                   12.6752  |
+| Guinea 2003       |                   10.7643  |
+| Zambia 2002       |                    8.72611 |
+| Madagascar 2003   |                    8.59873 |
+| Benin 2004        |                    6.56051 |
+| Ethiopia 2005     |                    3.63057 |

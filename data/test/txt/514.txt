@@ -1,0 +1,12 @@
+| title              |   no alcohol |
+| Total              |    0.518997  |
+| Socials            |    0.352568  |
+| Ordinary sobers    |    0.956969  |
+| Consciously sobers |    0.928501  |
+| High spirits       |    0.111683  |
+| Ordinaries         |    0.499288  || Total              |    0.47958   |
+| Socials            |    0.646009  |
+| Ordinary sobers    |    0.0416074 |
+| Consciously sobers |    0.0700756 |
+| High spirits       |    0.886894  |
+| Ordinaries         |    0.499288  |

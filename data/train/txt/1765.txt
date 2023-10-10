@@ -1,0 +1,12 @@
+| title                                 |   [unnamed data series #0] |
+| Cognitive Function                    |                       0.01 |
+| Early Life Factors                    |                       0.01 |
+| Health and Medical History            |                       0.11 |
+| ICD10 Code                            |                       0.35 |
+| Life Style and Environment            |                       0.16 |
+| Physical Measures                     |                       0.09 |
+| Psychosocial Factors                  |                       0.07 |
+| Self-reported Cancer Code             |                       0.02 |
+| Self-reported Non-cancer Illness Code |                       0.14 |
+| Sex-specific Factors                  |                       0.03 |
+| Sociodemographics                     |                       0.01 |

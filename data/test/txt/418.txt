@@ -1,0 +1,7 @@
+| Category                 |   first quartile |       max |   median |      min |   third quartile | x                           |
+| [unnamed data series #0] |         -5.69712 | -0.216346 | -2.95673 | -5.69712 |        -0.216346 | Morro do Chapeu(0.375)      |
+| [unnamed data series #0] |          1.58654 |  2.43389  |  2.13041 |  1.58654 |         2.43389  | Miguel Calmon (0.503)       |
+| [unnamed data series #0] |         -3.04688 |  0.486779 | -1.28005 | -3.04688 |         0.486779 | Wensceslau Guimaraes(0.613) |
+| [unnamed data series #0] |         -6.94492 |  3.4976   | -2.33428 | -7.39183 |         2.62412  | Campo Formoso (0.632)       |
+| [unnamed data series #0] |          1.92909 |  4.84976  |  3.85817 |  1.92909 |         4.17969  | Chapada(0.652)              |
+| [unnamed data series #0] |         -3.18359 | -0.16226  | -2.35276 | -4.54327 |        -0.632512 | Salvador(0.739)             |

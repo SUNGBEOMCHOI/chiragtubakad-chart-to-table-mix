@@ -1,0 +1,21 @@
+| title             |   SO3 |
+| ESA 700\degree C  | 25.87 |
+| ESA 800\degree C  | 27.2  |
+| ESA 900\degree C  | 28.63 |
+| ESA 1000\degree C | 24.17 |
+| ESA 1100\degree C | 19.48 |
+| ESA 700\degree C  | 33.08 |
+| ESA 800\degree C  | 35.06 |
+| ESA 900\degree C  | 38.78 |
+| ESA 1000\degree C | 39.82 |
+| ESA 1100\degree C | 44.42 |
+| ESA 700\degree C  |  7.79 |
+| ESA 800\degree C  |  8.41 |
+| ESA 900\degree C  |  8.07 |
+| ESA 1000\degree C |  9.86 |
+| ESA 1100\degree C |  9.3  |
+| ESA 700\degree C  | 13.23 |
+| ESA 800\degree C  | 14    |
+| ESA 900\degree C  | 13.65 |
+| ESA 1000\degree C | 16.86 |
+| ESA 1100\degree C | 16.98 |

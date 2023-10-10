@@ -1,0 +1,16 @@
+| title                              |   cases without contact |
+| depression                         |                30.3546  |
+| day to day problem                 |                21.7532  |
+| stress                             |                18.9844  |
+| psychological or emotional problem |                 6.68369 |
+| other                              |                17.1234  |
+| depression                         |                33.6     |
+| day to day problem                 |                15.217   |
+| stress                             |                17.6227  |
+| psychological or emotional problem |                 8.77163 |
+| other                              |                19.983   |
+| depression                         |                25.6567  |
+| day to day problem                 |                24.1589  |
+| stress                             |                22.7064  |
+| psychological or emotional problem |                 3.8695  |
+| other                              |                20.2099  |

@@ -1,0 +1,5 @@
+| title        |   IPCC 2013 CWP 20y |
+| clay         |             99.9713 |
+| Diatomaceous |             79.3167 |
+| Sludge       |             69.9283 |
+| Bagasse      |             57.7233 |

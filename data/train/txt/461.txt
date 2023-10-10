@@ -1,0 +1,23 @@
+| title                                             |   [unnamed data series #0] |
+| DNA replication                                   |                    2.40566 |
+| DNA metabolic process                             |                    2.45283 |
+| sister chromatid cohesion                         |                    2.57547 |
+| cell cycle                                        |                    2.65094 |
+| DNA replication initiation                        |                    2.39623 |
+| reproductive process                              |                    1.85714 |
+| cell cycle process                                |                    1.73333 |
+| positive regulation of protein phosphorylation    |                    1.78095 |
+| positive regulation of phosphorylation            |                    1.82857 |
+| mitotic cell cycle process                        |                    1.65714 |
+| double-strand break repair                        |                    1.33333 |
+| DNA repair                                        |                    1.37143 |
+| budding cell bud growth                           |                    1.38095 |
+| mitotic sister chromatid cohesion                 |                    1.40952 |
+| meiotic cell cycle process                        |                    1.37143 |
+| single organism reproductive process              |                    1.12381 |
+| chromosome organization                           |                    1.04762 |
+| DNA strand elongation involved in DNA replication |                    1.02857 |
+| DNA strand elongation                             |                    1.05714 |
+| cellular response to stress                       |                    1.01905 |
+| cellular response to DNA damage stimulus          |                    1.00952 |
+| regulation of protein phosphorylation             |                    1.00952 |

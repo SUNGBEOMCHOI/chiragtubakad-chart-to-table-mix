@@ -1,0 +1,10 @@
+| title              |   [unnamed data series #0] |
+| Cells only         |                   102.254  |
+| VirB9-1            |                    99.5755 |
+| VirB9-1+SV-100     |                   100.245  |
+| VirB10             |                    99.2406 |
+| VirB10+SV-100      |                    97.2317 |
+| VirB9-1 + VirB10   |                    85.5127 |
+| VirB9-1/B10+SV-100 |                    82.1644 |
+| SV-100             |                   102.254  |
+| Triton-X 100       |                    12.1853 |

@@ -1,0 +1,9 @@
+| title      |      men |
+| without MI | 0.710198 |
+| with MI    | 2.13915  |
+| Without DM | 0.359378 |
+| with DM    | 3.43976  |
+| without MI | 0.496283 |
+| with MI    | 7.7095   |
+| Without DM | 0.667415 |
+| with DM    | 0.607519 |

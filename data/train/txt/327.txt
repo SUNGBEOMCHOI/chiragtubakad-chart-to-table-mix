@@ -1,0 +1,9 @@
+| Category                 |   first quartile |      max |   median |        min |   third quartile | x           |
+| [unnamed data series #0] |         0.360964 | 0.675846 | 0.509466 | 0.246988   |         0.625359 | Ershovskoye |
+| [unnamed data series #0] |         0.561768 | 1.00057  | 0.722892 | 0.447791   |         0.898451 | Martsy      |
+| [unnamed data series #0] |         0.412869 | 0.771084 | 0.565691 | 0.363454   |         0.713712 | Malysh      |
+| [unnamed data series #0] |         0.691752 | 1.00402  | 0.805508 | 0.62249    |         0.954676 | Goluboy     |
+| [unnamed data series #1] |         0.158467 | 0.574297 | 0.337349 | 0.00401606 |         0.486517 | Ershovskoye |
+| [unnamed data series #1] |         0.309208 | 0.81354  | 0.509466 | 0.214859   |         0.709122 | Martsy      |
+| [unnamed data series #1] |         0.224366 | 0.935743 | 0.555364 | 0.0037292  |         0.787149 | Malysh      |
+| [unnamed data series #1] |         0.485104 | 0.889558 | 0.686173 | 0.35743    |         0.827309 | Goluboy     |

@@ -1,0 +1,4 @@
+| title            |   [unnamed data series #0] |
+| Glucagon + Hemin |                   1.02128  |
+| Insulin + Hemin  |                   0.638298 |
+| Hemin            |                   0.995745 |

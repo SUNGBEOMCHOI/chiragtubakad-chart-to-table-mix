@@ -1,0 +1,16 @@
+| Category                      |       X |       Y |
+| rod stiffening                | 1.54296 | 1.00279 |
+| rod stiffening                | 2.07274 | 1.01126 |
+| rod stiffening                | 2.61111 | 1.01634 |
+| rod stiffening                | 3.14948 | 1.02818 |
+| rod stiffening                | 3.68499 | 1.03665 |
+| glass spheres stiffening      | 1.54296 | 1.26686 |
+| glass spheres stiffening      | 2.0756  | 1.4683  |
+| glass spheres stiffening      | 2.61111 | 1.61896 |
+| glass spheres stiffening      | 3.68213 | 1.8424  |
+| glass spheres stiffening      | 3.15521 | 1.74592 |
+| thickness increase stiffening | 1.54582 | 1.14837 |
+| thickness increase stiffening | 2.07274 | 1.27194 |
+| thickness increase stiffening | 2.61397 | 1.37689 |
+| thickness increase stiffening | 3.15235 | 1.46492 |
+| thickness increase stiffening | 3.68213 | 1.54278 |

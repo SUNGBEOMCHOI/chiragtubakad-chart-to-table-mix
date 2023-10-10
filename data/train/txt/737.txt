@@ -1,0 +1,13 @@
+| title      |         No |
+| income     |  689.369   |
+| occupation |  384.526   |
+| life       |  176.153   |
+| relocation | 1071.39    |
+| income     |  357.515   |
+| occupation |  654.64    |
+| life       | 1102.26    |
+| relocation |  222.458   |
+| income     |  249.469   |
+| occupation |  261.046   |
+| life       |   14.0845  |
+| relocation |    4.43758 |

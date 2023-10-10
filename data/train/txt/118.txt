@@ -1,0 +1,9 @@
+| Category                 |   first quartile |       max |      median |          min |   third quartile | x           |
+| [unnamed data series #0] |      0.00294118  | 0.0872549 | 0.00294118  |  0.00294118  |        0.0323529 | Correlation |
+| [unnamed data series #0] |      0.000980392 | 0.102941  | 0.000980392 |  0.000980392 |        0.0392157 | Cosine      |
+| [unnamed data series #0] |     -0.000980392 | 0.289815  | 0.0401961   | -0.000980392 |        0.117647  | Jaccard     |
+| [unnamed data series #0] |      0.143137    | 0.568571  | 0.221296    |  0.0127451   |        0.312963  | Wang        |
+| [unnamed data series #0] |      0.00294118  | 0.328704  | 0.0460784   |  0.00294118  |        0.135294  | Resnik      |
+| [unnamed data series #0] |      0.00294118  | 0.515238  | 0.0519608   |  0.00294118  |        0.212963  | Schlicker   |
+| [unnamed data series #0] |      0.00196078  | 0.646667  | 0.0911765   |  0.000980392 |        0.264815  | Lin         |
+| [unnamed data series #0] |      0.196078    | 0.966667  | 0.347222    | -0.000980392 |        0.499048  | Jiang       |

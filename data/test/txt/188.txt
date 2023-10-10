@@ -1,0 +1,6 @@
+| title      |   [unnamed data series #0] |
+| WGBS       |             4382.51        |
+| ChIP-Seq*  |            29624.8         |
+| ATAC-Seq   |             9896.12        |
+| DNAsel-Seq |            10211           |
+| HiC-Seq    |                8.86841e+06 |

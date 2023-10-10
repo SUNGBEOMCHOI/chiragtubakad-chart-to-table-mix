@@ -1,0 +1,16 @@
+| title                      |   [unnamed data series #0] |
+| High blood pressure        |                         82 |
+| Kidney disease             |                         61 |
+| Heart disease/heart attack |                         76 |
+| Stroke                     |                         64 |
+| Stomach cancer             |                         29 |
+| High blood pressure        |                          6 |
+| Kidney disease             |                         11 |
+| Heart disease/heart attack |                          9 |
+| Stroke                     |                         12 |
+| Stomach cancer             |                         20 |
+| High blood pressure        |                         12 |
+| Kidney disease             |                         28 |
+| Heart disease/heart attack |                         16 |
+| Stroke                     |                         24 |
+| Stomach cancer             |                         52 |

@@ -1,0 +1,5 @@
+| Category                 |   first quartile |     max |   median |     min |   third quartile | x   |
+| [unnamed data series #0] |          53.0479 | 330.003 |  81.6488 | 36.054  |         181.368  | Pre-regulation
+(n= 34)     || [unnamed data series #0] |          36.5211 | 135.761 |  63.116  | 15.8184 |          81.6488 | After regulation
+of bars >= 150 m^2
+(n= 34)     |

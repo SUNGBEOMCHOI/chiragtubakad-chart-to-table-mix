@@ -1,0 +1,26 @@
+| Category                 |   first quartile |      max |   median |      min |   third quartile | x                      |
+| [unnamed data series #0] |          945.205 |  6010.32 |  1466.98 |  362.205 |          2293.33 | 0                      |
+| [unnamed data series #0] |         1103.65  |  9650.43 |  1928.07 |  181.665 |          2747.4  | 100                    |
+| [unnamed data series #0] |         1040.24  |  8188.85 |  1848.27 |  248.658 |          2886.15 | 200                    |
+| [unnamed data series #0] |          955.918 |  5476.22 |  1727.42 |  275.307 |          2593.93 | 300                    |
+| [unnamed data series #0] |          748.099 |  6614.58 |  1318.02 |  292.153 |          2331.3  | 400                    |
+| [unnamed data series #0] |          723.227 |  8055.47 |  1231.84 |  393.163 |          2095.26 | 500                    |
+| [unnamed data series #0] |          814.085 |  7121.94 |  1386.59 |  410.2   |          2312.24 | [unnamed category #6]  |
+| [unnamed data series #0] |          814.085 |  5944.87 |  1318.02 |  490.199 |          2010.98 | [unnamed category #7]  |
+| [unnamed data series #0] |          908.645 |  5299.27 |  1351.87 |  538.005 |          2078.13 | [unnamed category #8]  |
+| [unnamed data series #0] |          988.793 |  6560.49 |  1521.71 |  595.442 |          2255.97 | [unnamed category #9]  |
+| [unnamed data series #0] |         1103.65  |  6614.58 |  1560.79 |  647.963 |          2274.57 | [unnamed category #10] |
+| [unnamed data series #0] |         1101.78  |  6779.55 |  1587.4  |  709.902 |          2369.9  | [unnamed category #11] |
+| [unnamed data series #0] |         1203.03  |  7359.75 |  1609.02 |  769.911 |          2255.97 | [unnamed category #12] |
+| [unnamed data series #0] |         1244.4   |  9571.51 |  1721.59 |  829.366 |          2409.15 | [unnamed category #13] |
+| [unnamed data series #0] |         1331.46  |  7924.25 |  1756.87 |  905.578 |          2449.04 | [unnamed category #14] |
+| [unnamed data series #0] |         1396     | 10843.9  |  1879.79 |  975.509 |          2636.88 | [unnamed category #15] |
+| [unnamed data series #0] |         1463.67  |  7239.87 |  1970.91 | 1036.72  |          2680.55 | [unnamed category #16] |
+| [unnamed data series #0] |         1555.52  |  6245.1  |  2024.23 | 1086.98  |          2815.92 | [unnamed category #17] |
+| [unnamed data series #0] |         1587.4   |  7359.75 |  2037.57 | 1155.19  |          2724.93 | [unnamed category #18] |
+| [unnamed data series #0] |         1675.64  |  7239.87 |  2175.92 | 1186.86  |          2815.92 | [unnamed category #19] |
+| [unnamed data series #0] |         1756.87  |  8256.37 |  2119.49 | 1304.72  |          2792.89 | [unnamed category #20] |
+| [unnamed data series #0] |         1817.29  |  7543.3  |  2248.58 | 1349.59  |          2862.55 | [unnamed category #21] |
+| [unnamed data series #0] |         1780.79  |  8324.45 |  2219.23 | 1377.25  |          2839.14 | [unnamed category #22] |
+| [unnamed data series #0] |         1918.31  |  6846.69 |  2308.44 | 1453.81  |          2905.17 | [unnamed category #23] |
+| [unnamed data series #0] |         1984.28  |  5733.91 |  2465.18 | 1534.63  |          3002.18 | [unnamed category #24] |

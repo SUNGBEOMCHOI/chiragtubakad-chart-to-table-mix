@@ -1,0 +1,9 @@
+| title         |   Hole Expansion Test |
+| DP780-Reamed  |              0.471281 |
+| DP780-Sheared |              0.250063 |
+| CP800-Reamed  |              1.07855  |
+| CP800-Sheared |              0.677318 |
+| DP780-Reamed  |              0.545021 |
+| DP780-Sheared |              0.278258 |
+| CP800-Reamed  |              1.00915  |
+| CP800-Sheared |              0.664305 |

@@ -1,0 +1,5 @@
+| Category                 |   first quartile |      max |   median |      min |   third quartile | x          |
+| [unnamed data series #0] |         0.901458 | 0.954248 | 0.912603 | 0.851014 |         0.927267 | Proposed
+method            |
+| [unnamed data series #0] |         0.92844  | 0.967739 | 0.937238 | 0.858053 |         0.953075 | FreeSurfer |
+| [unnamed data series #0] |         0.748953 | 0.889727 | 0.797637 | 0.65217  |         0.831657 | ITK-SNAP   |

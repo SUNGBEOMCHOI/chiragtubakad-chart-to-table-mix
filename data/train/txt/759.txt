@@ -1,0 +1,9 @@
+| title         |       FID |
+| Underweight   | -0.970803 |
+| Normal weight | -0.591241 |
+| Overweight    |  0.080292 |
+| Obese         |  0.751825 |
+| Underweight   | -2.43066  |
+| Normal weight | -0.868613 |
+| Overweight    |  0.956204 |
+| Obese         |  1.89051  |

@@ -1,0 +1,6 @@
+| title                     |   [unnamed data series #0] |
+| Behavior Change           |                         51 |
+| Design and Implementation |                         12 |
+| Impact on Public Health   |                         25 |
+| Media Coverage            |                          1 |
+| Public Opinion            |                         13 |

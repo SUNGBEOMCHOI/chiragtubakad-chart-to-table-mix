@@ -1,0 +1,7 @@
+| title                   |   PHQK >= 5 |
+| Primary school or below |       0.44  |
+| Middle school           |       0.388 |
+| High school or above    |       0.123 |
+| Primary school or below |       0.135 |
+| Middle school           |       0.125 |
+| High school or above    |       0.053 |

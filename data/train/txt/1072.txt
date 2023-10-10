@@ -1,0 +1,7 @@
+| title               |   [unnamed data series #0] |
+| 0                   |                   11.0991  |
+| Less than a month   |                   10.027   |
+| 1 month - 3 months  |                   12.045   |
+| 3 months - 6 months |                    6.18018 |
+| 6 months - one year |                   10.1532  |
+| More than a year    |                    7.06306 |

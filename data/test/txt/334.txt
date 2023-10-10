@@ -1,0 +1,29 @@
+| title      |   1st trimester |
+| Other      |        0.03764  |
+| Triploidy  |        1.01628  |
+| Monosomy
+X            |        3.0112   |
+| Trisomy 21 |        3.0112   |
+| Trisomy 18 |        1.05392  |
+| Trisomy 13 |        0.03764  |
+| Other      |        0.978639 |
+| Triploidy  |        4.96848  |
+| Monosomy
+X            |        8.95831  |
+| Trisomy 21 |       10.9532   |
+| Trisomy 18 |        1.95728  |
+| Trisomy 13 |        6.9634   |
+| Other      |        0.03764  |
+| Triploidy  |        0.03764  |
+| Monosomy
+X            |        0.03764  |
+| Trisomy 21 |        1.99492  |
+| Trisomy 18 |        0.978639 |
+| Trisomy 13 |        0.978639 |
+| Other      |        0        |
+| Triploidy  |        0        |
+| Monosomy
+X            |        0        |
+| Trisomy 21 |        1.99492  |
+| Trisomy 18 |        0.03764  |
+| Trisomy 13 |        1.01628  |

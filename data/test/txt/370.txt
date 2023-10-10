@@ -1,0 +1,23 @@
+| title                     |   Recruitment year in 2003 |
+| Cholesterol (g/d)*        |                 -0.0265139 |
+| w-6 fatty acid (% of E)*’ |                 -1.57704   |
+| w-S fatty acids (% of E)* |                 -0.170611  |
+| PUFA (% of E)*            |                 -0.847869  |
+| SFA (% of E)*             |                 -1         |
+| Fiber (g/d)*              |                  3         |
+| Cholesterol (g/d)*        |                 -0.0841529 |
+| w-6 fatty acid (% of E)*’ |                 -1.99492   |
+| w-S fatty acids (% of E)* |                 -0.185021  |
+| PUFA (% of E)*            |                 -1         |
+| SFA (% of E)*             |                 -1         |
+| Fiber (g/d)*              |                  2         || Cholesterol (g/d)*        |                 -0.0841529 |
+| w-6 fatty acid (% of E)*’ |                 -2         |
+| w-S fatty acids (% of E)* |                 -0.156202  |
+| PUFA (% of E)*            |                 -1         |
+| SFA (% of E)*             |                 -1.822     |
+| Fiber (g/d)*              |                  2         || Cholesterol (g/d)*        |                 -0.0985626 |
+| w-6 fatty acid (% of E)*’ |                 -2         |
+| w-S fatty acids (% of E)* |                 -0.199431  |
+| PUFA (% of E)*            |                 -1         |
+| SFA (% of E)*             |                 -1.46176   |
+| Fiber (g/d)*              |                  2         |

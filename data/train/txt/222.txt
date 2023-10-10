@@ -1,0 +1,14 @@
+| title       |   [unnamed data series #0] |
+| Stimulant   |                   90.4871  |
+| Calcein     |                   11.2429  |
+| Fluorescene |                    9.24818 |
+| 786         |                   12.8749  |
+| 780         |                    9.79219 |
+| Calcein +
+Stimulant             |                   70.7214  |
+| Floursc. +
+Stimulant             |                   69.6333  |
+| 786 +
+Stimulant             |                   94.6578  |
+| 780+
+Stimulant             |                   92.8444  |

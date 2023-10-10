@@ -1,0 +1,29 @@
+| title                   |   Nurses and Dietitians |
+| Parental counselling    |                 89.3212 |
+| Specialist psychologist |                 73.6325 |
+| General psychologist or
+psychiatrist                         |                 57.9437 |
+| Optimise diabetes       |                 41.9412 |
+| Weight program          |                 47.2754 |
+| Weight loss             |                 47.2754 |
+| Parental counselling    |                 71.436  |
+| Specialist psychologist |                 64.533  |
+| General psychologist or
+psychiatrist                         |                 53.5509 |
+| Optimise diabetes       |                 46.3341 |
+| Weight program          |                 57.0024 |
+| Weight loss             |                 53.5509 |
+| Parental counselling    |                 60.1402 |
+| Specialist psychologist |                 73.0049 |
+| General psychologist or
+psychiatrist                         |                 66.4156 |
+| Optimise diabetes       |                 53.2371 |
+| Weight program          |                 40.0586 |
+| Weight loss             |                 26.5663 |
+| Parental counselling    |                 81.4768 |
+| Specialist psychologist |                 58.8851 |
+| General psychologist or
+psychiatrist                         |                 63.5917 |
+| Optimise diabetes       |                 72.6911 |
+| Weight program          |                 49.7856 |
+| Weight loss             |                 45.3927 |

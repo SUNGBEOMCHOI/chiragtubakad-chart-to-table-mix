@@ -1,0 +1,55 @@
+| title                  |   no extra disease |
+| Diabetes mellitus      |         0.0448357  |
+| Coronary heart disease |         0.0275339  |
+| Arthritis              |         0.0353476  |
+| COPD                   |         0.0158134  |
+| Chronicneck or
+back disorder                        |         0.0331151  |
+| Cancer                 |         0.0269758  |
+| Stroke                 |         0.0135809  |
+| Depression             |         0.0148832  |
+| Heart failure          |         0.00595328 |
+| Anxiety disorder       |         0.00576724 |
+| Diabetes mellitus      |         0.0502308  |
+| Coronary heart disease |         0.0379522  |
+| Arthritis              |         0.0413009  |
+| COPD                   |         0.0253015  |
+| Chronicneck or
+back disorder                        |         0.0360918  |
+| Cancer                 |         0.0297664  |
+| Stroke                 |         0.0200923  |
+| Depression             |         0.0193482  |
+| Heart failure          |         0.0163715  |
+| Anxiety disorder       |         0.00706952 |
+| Diabetes mellitus      |         0.0353476  |
+| Coronary heart disease |         0.0312547  |
+| Arthritis              |         0.0308827  |
+| COPD                   |         0.023069   |
+| Chronicneck or
+back disorder                        |         0.0249294  |
+| Cancer                 |         0.0223248  |
+| Stroke                 |         0.0167436  |
+| Depression             |         0.0148832  |
+| Heart failure          |         0.018604   |
+| Anxiety disorder       |         0.00576724 |
+| Diabetes mellitus      |         0.0200923  |
+| Coronary heart disease |         0.0204644  |
+| Arthritis              |         0.0178598  |
+| COPD                   |         0.0159994  |
+| Chronicneck or
+back disorder                        |         0.0156274  |
+| Cancer                 |         0.0115345  |
+| Stroke                 |         0.0115345  |
+| Depression             |         0.0100462  |
+| Heart failure          |         0.0152553  |
+| Anxiety disorder       |         0.0037208  || Diabetes mellitus      |         0.0154413  |
+| Coronary heart disease |         0.0189761  |
+| Arthritis              |         0.0156274  |
+| COPD                   |         0.0167436  |
+| Chronicneck or
+back disorder                        |         0.0133949  |
+| Cancer                 |         0.0104182  |
+| Stroke                 |         0.0104182  |
+| Depression             |         0.0107903  |
+| Heart failure          |         0.0156274  |
+| Anxiety disorder       |         0.0037208  |

@@ -1,0 +1,8 @@
+| title                                                                  |   [unnamed data series #0] |
+| Mobile cloud                                                           |                   2.97872  |
+| Benefits, challenges, and opportunities of cloud                       |                   4.99696  |
+| Security                                                               |                   9.93313  |
+| Improvements proposed over the existing cloud based system             |                   2.97872  |
+| Treatment of chronic diseases                                          |                   2.00608  |
+| Diagnosis of disease particularly in rural, remote, and tribal regions |                   0.984802 |
+| lmplementation                                                         |                   0.984802 |

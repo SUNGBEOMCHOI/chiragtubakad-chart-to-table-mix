@@ -1,0 +1,8 @@
+| title                                                                   |   [unnamed data series #0] |
+| Afraid to find cancer or pre-cancer                                     |                       48.9 |
+| Being away from home or work                                            |                       26.2 |
+| Not sick have symptoms                                                  |                       26.5 |
+| Transportation                                                          |                       10.3 |
+| Worried about paying for treatment                                      |                       10.2 |
+| Other                                                                   |                       10   |
+| Husband/partner would not approve or have an issue if problem was found |                        8.5 |

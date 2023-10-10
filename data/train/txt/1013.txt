@@ -1,0 +1,25 @@
+| title           |   Low(<10ug/L) |
+| Gorogo          |     100.064    |
+| Kejetia         |      73.8837   |
+| K:Females       |      91.5515   |
+| K:Males         |      58.4645   |
+| K:Non-miners    |      83.8419   |
+| K:Miners        |      71.0729   |
+| K:Ever Hg use*  |      64.5679   |
+| K:Never Hg Use* |      87.6967   |
+| Gorogo          |      -0.401542 |
+| Kejetia         |      21.603    |
+| K:Females       |       8.19145  |
+| K:Males         |      33.087    |
+| K:Non-miners    |      15.9011   |
+| K:Miners        |      23.1288   |
+| K:Ever Hg use*  |      27.7064   |
+| K:Never Hg Use* |      12.0463   |
+| Gorogo          |       0.240925 |
+| Kejetia         |       4.09573  |
+| K:Females       |       0.240925 |
+| K:Males         |       8.19145  |
+| K:Non-miners    |       0.240925 |
+| K:Miners        |       5.7822   |
+| K:Ever Hg use*  |       7.7096   |
+| K:Never Hg Use* |       0.240925 |

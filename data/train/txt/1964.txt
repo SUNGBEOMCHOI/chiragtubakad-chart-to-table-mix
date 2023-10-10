@@ -1,0 +1,18 @@
+| title   |   [unnamed data series #0] |
+| restaurant
+smoking
+observed
+(1)         |                        320 |
+| restaurant
+smoking not
+observed (1)         |                         64 |
+| cafébar
+smoking
+observed
+(31)         |                        271 |
+| Office
+smoking
+observed (4)         |                        107 |
+| office
+smoking not
+observed (2)         |                         51 |

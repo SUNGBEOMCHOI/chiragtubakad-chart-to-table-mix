@@ -1,0 +1,4 @@
+| Category                 |   first quartile |        max |   median |      min |   third quartile | x   |
+| [unnamed data series #0] |         0.124408 |   0.167004 | 0.138898 | 0.116912 |         0.148017 | TT  |
+| [unnamed data series #0] |         0.154388 |  69.0565   | 0.16638  | 0.130404 |         0.183993 | CT  |
+| [unnamed data series #0] |         0.176373 | 119.989    | 0.188365 | 0.139897 |        10.6341   | CC  |

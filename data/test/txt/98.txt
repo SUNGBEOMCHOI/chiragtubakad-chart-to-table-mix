@@ -1,0 +1,24 @@
+| title                     |   Male |
+| Upper airways infection   |    7.4 |
+| Mycosis(genital excepted) |    6.6 |
+| Follicultis,Furunculosis  |    2.8 |
+| Scabies,Pediculosis       |    0.9 |
+| Hepitatis C infection     |    5.7 |
+| Hepitatis (chronic)       |    1.1 |
+| AIDS                      |    0.9 |
+| Tuberculosis(active)      |    0.2 || Upper airways infection   |   12   |
+| Mycosis(genital excepted) |    1.8 |
+| Follicultis,Furunculosis  |    0.9 |
+| Scabies,Pediculosis       |    0   |
+| Hepitatis C infection     |    7.4 |
+| Hepitatis (chronic)       |    0   |
+| AIDS                      |    2.8 |
+| Tuberculosis(active)      |    0   |
+| Upper airways infection   |    2.2 |
+| Mycosis(genital excepted) |    6.4 |
+| Follicultis,Furunculosis  |    2.7 |
+| Scabies,Pediculosis       |    0.9 |
+| Hepitatis C infection     |    5.7 |
+| Hepitatis (chronic)       |    1   |
+| AIDS                      |    1   |
+| Tuberculosis(active)      |    0.2 |

@@ -1,0 +1,11 @@
+| Category                 |   first quartile |      max |   median |      min |   third quartile | x             |
+| [unnamed data series #0] |         10.981   | 1123.72  | 247.072  | 10.981   |          472.182 | Maxcem Elite  |
+| [unnamed data series #0] |        115.3     | 1767.94  | 375.183  |  7.32064 |          790.63  | PermaCem 2.0  |
+| [unnamed data series #0] |          7.32064 | 1105.42  |  71.3763 |  7.32064 |          464.861 | G-Cem
+Automix               |
+| [unnamed data series #0] |        195.827   | 1054.17  | 452.05   |  7.32064 |          541.728 | Harvard
+Cement               |
+| [unnamed data series #0] |          7.32064 | 1200.59  | 225.11   |  7.32064 |          618.594 | RelyX Unicem
+2 Automix               |
+| [unnamed data series #0] |          3.66032 | 1039.53  | 261.713  |  3.66032 |          578.331 | Panavia F 2.0 |
+| [unnamed data series #0] |         42.0937  |  948.023 | 151.903  |  3.66032 |          567.35  | Bifix SE      |

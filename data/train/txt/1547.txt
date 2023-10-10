@@ -1,0 +1,25 @@
+| title              |   +/-1 SNP |
+| Bayes CO 50K       |   0.491503 |
+| Bayes CO 700K      |   0.727017 |
+| Bayes CO .996 50 K |   0.379098 |
+| Bayes CO.9997 700K |   0.721665 |
+| Bayes CO 50K       |   0.585173 |
+| Bayes CO 700K      |   0.75378  |
+| Bayes CO .996 50 K |   0.545029 |
+| Bayes CO.9997 700K |   0.668139 |
+| Bayes CO 50K       |   0.721665 |
+| Bayes CO 700K      |   0.775191 |
+| Bayes CO .996 50 K |   0.686873 |
+| Bayes CO.9997 700K |   0.692225 |
+| Bayes CO 50K       |   0.705607 |
+| Bayes CO 700K      |   0.769838 |
+| Bayes CO .996 50 K |   0.759133 |
+| Bayes CO.9997 700K |   0.831393 |
+| Bayes CO 50K       |   0.743075 |
+| Bayes CO 700K      |   0.759133 |
+| Bayes CO .996 50 K |   0.884919 |
+| Bayes CO.9997 700K |   0.863509 |
+| Bayes CO 50K       |   0.748428 |
+| Bayes CO 700K      |   0.761809 |
+| Bayes CO .996 50 K |   0.909006 |
+| Bayes CO.9997 700K |   0.882243 |

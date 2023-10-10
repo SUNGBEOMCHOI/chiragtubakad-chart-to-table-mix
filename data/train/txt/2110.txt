@@ -1,0 +1,13 @@
+| title   |   SE-DRC, n= 360 |
+| Free    |             97.2 |
+| Low     |             93.6 |
+| Medium  |             80.8 |
+| High    |             67.5 |
+| Free    |             98.7 |
+| Low     |             95.3 |
+| Medium  |             72.8 |
+| High    |             58.8 |
+| Free    |             93.5 |
+| Low     |             60.7 |
+| Medium  |             19.4 |
+| High    |             15.2 |

@@ -1,0 +1,3 @@
+| title   |   [unnamed data series #0] |
+| Control |                   0.511252 |
+| HgCl2   |                   0.440923 |

@@ -1,0 +1,25 @@
+| title                           |   hypermethylated genes (n=2399) |
+| apoptosis                       |                         107.516  |
+| cell adhesion                   |                         132.907  |
+| cell communication              |                         545.515  |
+| cell cycle                      |                         109.103  |
+| cellular component organization |                         105.136  |
+| cellular process                |                         724.047  |
+| developmental process           |                         236.059  |
+| immune system process           |                         271.765  |
+| metabolic process               |                         791.492  |
+| response to stimulus            |                         180.516  |
+| system process                  |                         205.907  |
+| transport                       |                         311.439  |
+| apoptosis                       |                          39.2771 |
+| cell adhesion                   |                          74.19   |
+| cell communication              |                         259.863  |
+| cell cycle                      |                          55.1466 |
+| cellular component organization |                          73.3965 |
+| cellular process                |                         366.983  |
+| developmental process           |                         136.875  |
+| immune system process           |                         140.842  |
+| metabolic process               |                         303.505  |
+| response to stimulus            |                         109.103  |
+| system process                  |                         105.136  |
+| transport                       |                         117.038  |

@@ -1,0 +1,7 @@
+| title   |   [unnamed data series #0] |
+| CYP1A2  |                   18.5156  |
+| CYP2B6  |                    2.26562 |
+| CYP2C9  |                   22.2656  |
+| CYP2D6  |                    1.5625  |
+| CYP3A4  |                    3.75    |
+| CYP3A5  |                    1.25    |

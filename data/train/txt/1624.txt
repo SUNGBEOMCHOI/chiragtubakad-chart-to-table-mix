@@ -1,0 +1,16 @@
+| title         |   Japan |
+| Biological    | 3.76289 |
+| Chemical      | 3.28271 |
+| Dirty Bomb    | 2.76696 |
+| Nuc Bomb      | 1.98445 |
+| Nuclear Power | 3.15822 |
+| Biological    | 3.85182 |
+| Chemical      | 2.96259 |
+| Dirty Bomb    | 3.14044 |
+| Nuc Bomb      | 1.94888 |
+| Nuclear Power | 3.03373 |
+| Biological    | 3.79846 |
+| Chemical      | 3.12265 |
+| Dirty Bomb    | 2.96259 |
+| Nuc Bomb      | 1.98445 |
+| Nuclear Power | 3.08708 |

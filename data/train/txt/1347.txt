@@ -1,0 +1,15 @@
+| Category    |       X |        Y |
+| Industrial  | 2013.96 |  9.25149 |
+| Industrial  | 2010.95 | 11.5833  |
+| Industrial  | 2005    | 13.5071  |
+| Industrial  | 2002.03 | 11.4667  |
+| Industrial  | 1997.02 |  9.54296 |
+| Industrial  | 1987.08 | 18.4622  |
+| Industrial  | 2008    |  9.85387 |
+| Kopisty (I) | 1987    | 19.4532  |
+| Kopisty (I) | 1997.02 |  7.26944 |
+| Kopisty (I) | 2001.99 |  7.96899 |
+| Kopisty (I) | 2005.05 | 11.8748  |
+| Kopisty (I) | 2008.06 | 11.1752  |
+| Kopisty (I) | 2013.96 |  7.44433 |
+| Kopisty (I) | 2010.95 |  9.95103 |

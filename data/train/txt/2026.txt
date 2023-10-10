@@ -1,0 +1,13 @@
+| title     |   [unnamed data series #0] |
+| January   |                    695.696 |
+| February  |                    625.231 |
+| March     |                    678.08  |
+| April     |                    669.271 |
+| May       |                    959.941 |
+| June      |                   1021.6   |
+| July      |                   1109.68  |
+| August    |                   1400.35  |
+| September |                   1109.68  |
+| October   |                    854.243 |
+| November  |                    642.847 |
+| December  |                    457.876 |

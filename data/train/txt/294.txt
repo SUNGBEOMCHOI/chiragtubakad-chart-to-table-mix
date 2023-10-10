@@ -1,0 +1,15 @@
+| title   |   [unnamed data series #0] |
+| 20 \mu g/mL
+Fe@Au         |                   87.1297  |
+| 40 \mu g/mL
+Fe@Au         |                   85.7926  |
+| 60 \mu g/mL
+Fe@Au         |                   88.4669  |
+| 80 \mu g/mL
+Fe@Au         |                   82.7839  |
+| 100 \mu g/mL
+Fe@Au         |                   82.4496  |
+| 50 \mu g/mL
+Fe@Au-ICG/MTX         |                   75.5966  |
+| 50 \mu g/mL
+Fe@Au-ICG/MTX and HFIW         |                    7.40093 |

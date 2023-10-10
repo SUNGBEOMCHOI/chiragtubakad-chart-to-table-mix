@@ -1,0 +1,18 @@
+| Category                        |       X |       Y |
+| Schema 1 (no adaptation)        | 77.3383 | 53.7078 |
+| Schema 1 (no adaptation)        | 52.5278 | 96.4839 |
+| Schema 1 (no adaptation)        | 55.6421 | 99.8866 |
+| Schema 1 (no adaptation)        | 70.4869 | 99.4005 |
+| Schema 1 (no adaptation)        | 79.8298 | 99.0764 |
+| Schema 1 (no adaptation)        | 89.8993 | 97.6181 |
+| Schema 1 (no adaptation)        | 91.9755 | 99.0764 |
+| Schema 1 (no adaptation)        | 94.8822 | 99.2385 |
+| Schema 2 (step size adaptation) | 52.6316 | 97.9422 |
+| Schema 2 (step size adaptation) | 55.9535 | 98.7524 |
+| Schema 2 (step size adaptation) | 55.6421 | 99.2385 |
+| Schema 2 (step size adaptation) | 70.5907 | 99.8866 |
+| Schema 2 (step size adaptation) | 77.3383 | 99.2385 |
+| Schema 2 (step size adaptation) | 79.8298 | 98.5903 |
+| Schema 2 (step size adaptation) | 94.986  | 46.9025 |
+| Schema 2 (step size adaptation) | 92.0793 | 47.8747 |
+| Schema 2 (step size adaptation) | 90.0031 | 49.8191 |

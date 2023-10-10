@@ -1,0 +1,33 @@
+| title                                              |   Child 2005 |
+| Sugary Foods***                                    |    24.547    |
+| Other fruits and vegetables ***+                   |    55.1895   |
+| Vitamin A-rich fruits and vegeables***+            |    45.3048   |
+| Eggs                                               |    49.9176   |
+| Meat, poultry, fish and shelfish, and organ meats* |    46.458    |
+| Dairy Products***+                                 |    85.0082   |
+| Legumes and Nuts                                   |    35.5848   |
+| Grains, roots, and tubers *                        |    85.0082   |
+| Sugary Foods***                                    |    52.7183   |
+| Other fruits and vegetables ***+                   |    36.9028   |
+| Vitamin A-rich fruits and vegeables***+            |    30.972    |
+| Eggs                                               |    48.1054   |
+| Meat, poultry, fish and shelfish, and organ meats* |    40.6919   |
+| Dairy Products***+                                 |    78.5832   |
+| Legumes and Nuts                                   |    33.4432   |
+| Grains, roots, and tubers *                        |    82.0428   |
+| Sugary Foods***                                    |    -0.164745 |
+| Other fruits and vegetables ***+                   |    67.8748   |
+| Vitamin A-rich fruits and vegeables***+            |    59.3081   |
+| Eggs                                               |    52.883    |
+| Meat, poultry, fish and shelfish, and organ meats* |    68.8633   |
+| Dairy Products***+                                 |    83.855    |
+| Legumes and Nuts                                   |    55.5189   |
+| Grains, roots, and tubers *                        |    94.7282   |
+| Sugary Foods***                                    |    -0.164745 |
+| Other fruits and vegetables ***+                   |    54.5305   |
+| Vitamin A-rich fruits and vegeables***+            |    52.7183   |
+| Eggs                                               |    53.3773   |
+| Meat, poultry, fish and shelfish, and organ meats* |    69.028    |
+| Dairy Products***+                                 |    71.8287   |
+| Legumes and Nuts                                   |    57.8254   |
+| Grains, roots, and tubers *                        |    96.0461   |

@@ -1,0 +1,9 @@
+| Category                     |          X |        Y |
+| Female participants only     |  0.0324826 | 0.124434 |
+| Female participants only     |  0.227378  | 0.214932 |
+| Female and male participants | -0.405259  | 0.224485 |
+| Female and male participants | -0.317092  | 0.359477 |
+| Female and male participants |  0.238206  | 0.357215 |
+| Female and male participants | -0.100541  | 0.157868 |
+| Female and male participants | -0.0850735 | 0.149321 |
+| Female and male participants |  0.173241  | 0.139015 |

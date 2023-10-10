@@ -1,0 +1,10 @@
+| Category                 |   first quartile |      max |   median |      min |   third quartile | x            |
+| [unnamed data series #0] |          85.1633 | 151.633  | 105.581  |  69.2831 |         126.679  | Titanium     |
+| [unnamed data series #0] |          40.245  |  81.7604 |  53.4029 |  38.4301 |          73.5935 | Titanium-PCL |
+| [unnamed data series #0] |         189.065  | 293.648  | 199.501  | 156.397  |         266.878  | Titanium-PCL
++VEGF
+Treatment              |
+| [unnamed data series #0] |          61.1162 | 100.817  |  85.1633 |  48.8657 |          89.02   | Titanium-PCL
++HMGB1              |
+| [unnamed data series #0] |          91.0617 | 204.719  | 125.091  |  52.9492 |         143.466  | Titanium-PCL
++HMGB1+VEGF              |

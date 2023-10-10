@@ -1,0 +1,4 @@
+| Category                 |   first quartile |      max |     median |       min |   third quartile | x                  |
+| [unnamed data series #0] |        -0.400881 | 0.814978 | -0.101322  | -0.480176 |         0.198238 | TSS                |
+| [unnamed data series #0] |        -0.215859 | 0.797357 |  0.0837004 | -0.770925 |         0.207048 | Transcribed region |
+| [unnamed data series #0] |        -0.409692 | 1.29956  | -0.0837004 | -0.806167 |         0.39207  | TES                |

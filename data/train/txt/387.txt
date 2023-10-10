@@ -1,0 +1,5 @@
+| title                    |   [unnamed data series #0] |
+| Structural               |                         14 |
+| Data and surveillance    |                         16 |
+| Technological            |                         16 |
+| Behavioral and awareness |                         18 |

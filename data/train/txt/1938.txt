@@ -1,0 +1,15 @@
+| title                              |     Han |
+| Awareness of TB infection          | 85.6031 |
+| TB curability                      | 84.599  |
+| Cough \geq3 weeks suggestive of TB | 26.8608 |
+| Mode of TB transmission            | 66.0223 |
+| Free TB detection/treament policy  | 54.2237 |
+| TB dispensaries at county level    | 67.0265 |
+| No stigmatization of TB patients   | 32.8857 |
+| Awareness of TB infection          | 88.6155 |
+| TB curability                      | 84.85   |
+| Cough \geq3 weeks suggestive of TB | 28.116  |
+| Mode of TB transmission            | 52.2154 |
+| Free TB detection/treament policy  | 69.7879 |
+| TB dispensaries at county level    | 71.7962 |
+| No stigmatization of TB patients   | 29.3712 |

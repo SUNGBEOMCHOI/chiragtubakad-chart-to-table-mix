@@ -1,0 +1,4 @@
+| Category                 |   first quartile |      max |   median |     min |   third quartile | x           |
+| [unnamed data series #0] |           7.6412 |  94.6844 |   7.6412 | 7.6412  |          46.5116 | Crawl space |
+| [unnamed data series #0] |           7.6412 |  83.3887 |  27.5748 | 7.6412  |          46.8439 | Slab        |
+| [unnamed data series #0] |          30.5648 | 170.432  |  53.1561 | 6.97674 |          91.0299 | Basement    |

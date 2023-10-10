@@ -1,0 +1,59 @@
+| title                             |              Dry |
+| 1. Signal transduction, apoptosis |  75584.3         |
+| 2. Storage                        | 131509           |
+| 3. Secreted protienase inhibitor  | 119433           |
+| 4. Nuclear                        |  34559.1         |
+| 5. Viral                          |  38053.3         |
+| 6. Immuity                        | 137997           |
+| 7. Unknown, conserved             |      1.0945e+06  |
+| 8. Unknown                        |      1.26462e+06 |
+| Metabolism, energy                |      2.39378e+06 |
+| 10. Transportable element         | 718140           |
+| 11. Cytoskeletal                  |      1.24949e+06 |
+| 12. Extracellular matrix          | 810022           |
+| 13. Signal transduction           | 839814           |
+| 14. Metabolism, intermediate      | 212865           |
+| 15. Metabolism, lipid             |      1.23453e+06 |
+| 16. Metabolism, amino acid        |      1.06846e+06 |
+| 17. Metabolism, nucleotide        | 294633           |
+| 18. Metabolism, carbohydrate      | 407810           |
+| 19. Oxidant                       | 251946           |
+| 20. Transporter/ storage          | 427930           |
+| Proteasome machinary              | 139668           |
+| Protien modification              |      1.60893e+06 |
+| 23. Protease                      | 551032           |
+| Protein export machinery          | 153790           |
+| Protein synthesis machinery       |      6.98947e+06 |
+| 26. Transcription machinery       | 482681           |
+| 27. Transcription factor          | 100907           |
+| 28. Nuclear regulation            | 370363           |
+| 29. Secreted                      | 357224           |
+| 1. Signal transduction, apoptosis |   1065.25        |
+| 2. Storage                        |   1052.5         |
+| 3. Secreted protienase inhibitor  |   1065.25        |
+| 4. Nuclear                        |   1039.9         |
+| 5. Viral                          |   1052.5         |
+| 6. Immuity                        |   1065.25        |
+| 7. Unknown, conserved             |  57302           |
+| 8. Unknown                        | 839814           |
+| Metabolism, energy                |   1078.15        |
+| 10. Transportable element         |   1039.9         |
+| 11. Cytoskeletal                  |   1052.5         |
+| 12. Extracellular matrix          |   1065.25        |
+| 13. Signal transduction           |   8654.76        |
+| 14. Metabolism, intermediate      |   1052.5         |
+| 15. Metabolism, lipid             | 571298           |
+| 16. Metabolism, amino acid        |   1052.5         |
+| 17. Metabolism, nucleotide        |   1065.25        |
+| 18. Metabolism, carbohydrate      |   1039.9         |
+| 19. Oxidant                       |   1052.5         |
+| 20. Transporter/ storage          |   1027.46        |
+| Proteasome machinary              |   1039.9         |
+| Protien modification              |   1039.9         |
+| 23. Protease                      |   1039.9         |
+| Protein export machinery          |   1065.25        |
+| Protein synthesis machinery       |      3.56151e+06 |
+| 26. Transcription machinery       |   1052.5         |
+| 27. Transcription factor          |   1039.9         |
+| 28. Nuclear regulation            |   1052.5         |
+| 29. Secreted                      |      1.42214e+07 |

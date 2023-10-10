@@ -1,0 +1,5 @@
+| title                  |   3 days |
+| TCP                    | 0.613508 |
+| W—D glass ceramic foam | 0.464212 |
+| TCP                    | 1.19482  |
+| W—D glass ceramic foam | 0.89717  |

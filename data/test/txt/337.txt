@@ -1,0 +1,7 @@
+| title             |   Foetal calf serum |
+| unblocked         |            25.8522  |
+| 1 wt% BSA-blocked |             3.16742 |
+| 10 mM EA-capped   |            -3.83107 |
+| unblocked         |           111.282   |
+| 1 wt% BSA-blocked |            22.9563  |
+| 10 mM EA-capped   |            93.4238  |

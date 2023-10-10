@@ -1,0 +1,3 @@
+| Category                 |   first quartile |      max |   median |       min |   third quartile | x                     |
+| [unnamed data series #0] |         5.71352  | 11.6416  | 6.54506  |  5.04292  |         8.12768  | Single SNP Analysis   |
+| [unnamed data series #0] |        -0.026824 |  1.39485 | 0.214592 | -0.804721 |         0.509657 | Multiple SNP Analysis |

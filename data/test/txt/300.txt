@@ -1,0 +1,70 @@
+| Category                 | X      |        Y |
+| [unnamed data series #0] | LdcA1  | 1.72323  |
+| [unnamed data series #0] | LdcA1  | 1.54034  |
+| [unnamed data series #0] | LdcA1  | 1.10784  |
+| [unnamed data series #0] | LdcA1  | 0.990256 |
+| [unnamed data series #0] | AmiD   | 0.69251  |
+| [unnamed data series #0] | AmiD   | 0.763947 |
+| [unnamed data series #0] | AmiD   | 1.01131  |
+| [unnamed data series #0] | AmiD   | 1.59657  |
+| [unnamed data series #0] | bLys   | 1.67557  |
+| [unnamed data series #0] | bLys   | 1.08477  |
+| [unnamed data series #0] | bLys   | 0.903974 |
+| [unnamed data series #0] | bLys   | 0.854657 |
+| [unnamed data series #0] | RlpA1  | 0.687671 |
+| [unnamed data series #0] | RlpA1  | 0.753307 |
+| [unnamed data series #0] | RlpA1  | 0.936232 |
+| [unnamed data series #0] | RlpA1  | 1.02559  |
+| [unnamed data series #0] | RlpA2  | 0.860671 |
+| [unnamed data series #0] | RlpA2  | 0.80803  |
+| [unnamed data series #0] | RlpA2  | 0.707233 |
+| [unnamed data series #0] | RlpA2  | 0.632171 |
+| [unnamed data series #0] | RlpA3  | 0.687671 |
+| [unnamed data series #0] | RlpA3  | 0.769323 |
+| [unnamed data series #0] | RlpA3  | 0.897657 |
+| [unnamed data series #0] | RlpA3  | 0.962865 |
+| [unnamed data series #0] | RlpA4  | 1.58415  |
+| [unnamed data series #0] | RlpA4  | 1.35768  |
+| [unnamed data series #0] | RlpA4  | 1.12348  |
+| [unnamed data series #0] | RlpA4  | 0.780189 |
+| [unnamed data series #0] | RlpA5  | 1.01843  |
+| [unnamed data series #0] | RlpA5  | 0.94282  |
+| [unnamed data series #0] | RlpA5  | 0.819443 |
+| [unnamed data series #0] | RlpA5  | 0.742816 |
+| [unnamed data series #0] | u DnaE | 0.732471 |
+| [unnamed data series #0] | u DnaE | 1.06219  |
+| [unnamed data series #0] | u DnaE | 1.12348  |
+| [unnamed data series #0] | u DnaE | 1.33877  |
+| [unnamed data series #0] | u AtpH | 1.56209  |
+| [unnamed data series #0] | u AtpH | 0.956137 |
+| [unnamed data series #0] | u AtpH | 0.831016 |
+| [unnamed data series #0] | u AtpH | 0.627753 |
+| [unnamed data series #1] | LdcA1  | 1.37685  |
+| [unnamed data series #1] | LdcA1  | 1.11563  |
+| [unnamed data series #1] | LdcA1  | 0.831016 |
+| [unnamed data series #1] | AmiD   | 1.18831  |
+| [unnamed data series #1] | AmiD   | 0.929689 |
+| [unnamed data series #1] | AmiD   | 0.606124 |
+| [unnamed data series #1] | bLys   | 1.38654  |
+| [unnamed data series #1] | bLys   | 0.866728 |
+| [unnamed data series #1] | RlpA1  | 1.21358  |
+| [unnamed data series #1] | RlpA1  | 0.956137 |
+| [unnamed data series #1] | RlpA1  | 0.742816 |
+| [unnamed data series #1] | RlpA2  | 0.69251  |
+| [unnamed data series #1] | RlpA2  | 0.929689 |
+| [unnamed data series #1] | RlpA2  | 1.08477  |
+| [unnamed data series #1] | RlpA3  | 1.15544  |
+| [unnamed data series #1] | RlpA3  | 0.923193 |
+| [unnamed data series #1] | RlpA3  | 0.785679 |
+| [unnamed data series #1] | RlpA4  | 0.58115  |
+| [unnamed data series #1] | RlpA4  | 1.21358  |
+| [unnamed data series #1] | RlpA4  | 1.32941  |
+| [unnamed data series #1] | RlpA5  | 1.32012  |
+| [unnamed data series #1] | RlpA5  | 1.05477  |
+| [unnamed data series #1] | RlpA5  | 0.854657 |
+| [unnamed data series #1] | u DnaE | 1.2481   |
+| [unnamed data series #1] | u DnaE | 0.956137 |
+| [unnamed data series #1] | u DnaE | 0.813716 |
+| [unnamed data series #1] | u AtpH | 1.23072  |
+| [unnamed data series #1] | u AtpH | 1.10784  |
+| [unnamed data series #1] | u AtpH | 0.831016 |

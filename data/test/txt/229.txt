@@ -1,0 +1,53 @@
+| title     |         7+ |
+| UAS-hmgcr | 0.814763   |
+| UAS-qm    | 0.198468   |
+| UAS-gg1   | 0.203691   |
+| UAS-hh
+2nd           | 0.219359   |
+| UAS-hh
+3rd           | 0.276811   |
+| UAS-
+hh-GFP           | 0.0783426  |
+| UAS-
+hh-N           | 0.12796    |
+| UAS-ttv   | 0.159297   |
+| UAS-shf   | 0.352542   |
+| UAS-hmgcr | 0.099234   |
+| UAS-qm    | 0.242862   |
+| UAS-gg1   | 0.154074   |
+| UAS-hh
+2nd           | 0.185411   |
+| UAS-hh
+3rd           | 0.164519   |
+| UAS-
+hh-GFP           | 0.235028   |
+| UAS-
+hh-N           | 0.0861769  |
+| UAS-ttv   | 0.154074   |
+| UAS-shf   | 0.219359   |
+| UAS-hmgcr | 0.080954   |
+| UAS-qm    | 0.242862   |
+| UAS-gg1   | 0.180188   |
+| UAS-hh
+2nd           | 0.279422   |
+| UAS-hh
+3rd           | 0.248085   |
+| UAS-
+hh-GFP           | 0.295091   |
+| UAS-
+hh-N           | 0.360376   |
+| UAS-ttv   | 0.31337    |
+| UAS-shf   | 0.193245   |
+| UAS-hmgcr | 0.00261142 |
+| UAS-qm    | 0.31337    |
+| UAS-gg1   | 0.45961    |
+| UAS-hh
+2nd           | 0.31337    |
+| UAS-hh
+3rd           | 0.308148   |
+| UAS-
+hh-GFP           | 0.389102   |
+| UAS-
+hh-N           | 0.42305    |
+| UAS-ttv   | 0.370822   |
+| UAS-shf   | 0.232416   |

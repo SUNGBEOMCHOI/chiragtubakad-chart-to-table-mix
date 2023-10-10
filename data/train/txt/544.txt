@@ -1,0 +1,82 @@
+| title                      |   [unnamed data series #0] |
+| Ministry/Dept of Finance   |                   0.999924 |
+| PMO                        |                   0.999924 |
+| MoHFW                      |                   1.00126  |
+| State PC/HDI               |                   1.00126  |
+| NIN Hyderabad              |                   1.00126  |
+| ICMR                       |                   0.898405 |
+| Lancet/Scientific...       |                   0.901076 |
+| Ministry/Dept of Social... |                   0.848981 |
+| Politician                 |                   0.800893 |
+| WHO                        |                   0.800893 |
+| IIPS/TISS                  |                   0.775513 |
+| Court/Judiciary/PLI        |                   0.752805 |
+| SIHFW/PHI                  |                   0.751469 |
+| Food Security Act          |                   0.70071  |
+| PATH/Bill Gates...         |                   0.703381 |
+| State Statistical Dept     |                   0.684681 |
+| SEARCH/Abhay Bang          |                   0.652622 |
+| DMER                       |                   0.604534 |
+| FNB                        |                   0.603198 |
+| Human Rights...            |                   0.60587  |
+| WASH                       |                   0.600527 |
+| Mahila Arthik Vikas...     |                   0.551103 |
+| Ministry/Dept of Tribal... |                   0.548431 |
+| Nursing School             |                   0.551103 |
+| Int. Research Fund         |                   0.501679 |
+| Media                      |                   0.503015 |
+| PDS                        |                   0.503015 |
+| UNFPA India                |                   0.501679 |
+| CHETNA                     |                   0.501679 |
+| MUHS                       |                   0.45092  |
+| ESRC                       |                   0.449584 |
+| Mr Banthia                 |                   0.401496 |
+| SNDT Mumbai                |                   0.402832 |
+| FOGSI                      |                   0.353408 |
+| Aga Khan Foundation        |                   0.326693 |
+| IAPSM/IPHA                 |                   0.303984 |
+| NNF                        |                   0.303984 |
+| TATA Trust                 |                   0.303984 |
+| Ninja...                   |                   0.203801 |
+| Trade Unions               |                   0.203801 |
+| World Vision               |                   0.203801 || Ministry/Dept of Finance   |                   0.999924 |
+| PMO                        |                   0.999924 |
+| MoHFW                      |                   0.999924 |
+| State PC/HDI               |                   1.00126  |
+| NIN Hyderabad              |                   1.0026   |
+| ICMR                       |                   0.901076 |
+| Lancet/Scientific...       |                   0.901076 |
+| Ministry/Dept of Social... |                   0.848981 |
+| Politician                 |                   0.800893 |
+| WHO                        |                   0.800893 |
+| IIPS/TISS                  |                   0.748798 |
+| Court/Judiciary/PLI        |                   0.750134 |
+| SIHFW/PHI                  |                   0.70071  |
+| Food Security Act          |                   0.703381 |
+| PATH/Bill Gates...         |                   0.706053 |
+| State Statistical Dept     |                   0.652622 |
+| SEARCH/Abhay Bang          |                   0.622901 |
+| DMER                       |                   0.603198 |
+| FNB                        |                   0.604534 |
+| Human Rights...            |                   0.603198 |
+| WASH                       |                   0.600527 |
+| Mahila Arthik Vikas...     |                   0.551103 |
+| Ministry/Dept of Tribal... |                   0.548431 |
+| Nursing School             |                   0.549767 |
+| Int. Research Fund         |                   0.501679 |
+| Media                      |                   0.503015 |
+| PDS                        |                   0.503015 |
+| UNFPA India                |                   0.500343 |
+| CHETNA                     |                   0.45092  |
+| MUHS                       |                   0.449584 |
+| ESRC                       |                   0.398825 |
+| Mr Banthia                 |                   0.402832 |
+| SNDT Mumbai                |                   0.402832 |
+| FOGSI                      |                   0.326693 |
+| Aga Khan Foundation        |                   0.303984 |
+| IAPSM/IPHA                 |                   0.303984 |
+| NNF                        |                   0.303984 |
+| TATA Trust                 |                   0.251889 |
+| Ninja...                   |                   0.203801 |
+| Trade Unions               |                   0.203801 |
+| World Vision               |                   0.203801 |

@@ -1,0 +1,7 @@
+| Category                 |   first quartile |     max |   median |     min |   third quartile | x          |
+| [unnamed data series #0] |         1000.54  | 1330.57 | 1060.66  | 842.462 |         1155.68  | TCS        |
+| [unnamed data series #0] |          917.297 | 1074.11 | 1016.94  | 814.715 |         1053.09  | Envirofit  |
+| [unnamed data series #0] |          881.982 | 1089.25 |  925.285 | 837.417 |         1019.46  | Greenway   |
+| [unnamed data series #0] |          948.408 | 1044.68 |  969.85  | 915.616 |         1015.26  | BioLite    |
+| [unnamed data series #0] |          907.207 | 1038.8  |  961.441 | 834.895 |          986.667 | Philips    |
+| [unnamed data series #0] |         1013.99  | 1127.09 | 1026.19  | 941.682 |         1072.43  | Eco-Chulha |

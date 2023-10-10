@@ -1,0 +1,8 @@
+| title     |   [unnamed data series #0] |
+| Sunday    |                    11.5506 |
+| Monday    |                    48.0604 |
+| Tuesday   |                    62.1862 |
+| Wednesday |                    88.2647 |
+| Thursday  |                    73.0523 |
+| Friday    |                    49.3643 |
+| Saturday  |                    25.8937 |

@@ -1,0 +1,5 @@
+| Category                 |   first quartile |     max |   median |     min |   third quartile | x                  |
+| [unnamed data series #0] |          38.257  | 51.7725 |  41.2851 | 29.9114 |          45.7903 | Start of NBR       |
+| [unnamed data series #0] |          41.2112 | 65.805  |  46.4549 | 29.4682 |          53.3235 | End of NBR         |
+| [unnamed data series #0] |          39.7341 | 72.452  |  46.3072 | 33.3087 |          53.6189 | 6-month follow-up  |
+| [unnamed data series #0] |          43.2792 | 63.4417 |  46.8981 | 31.9793 |          54.8006 | 12-month follow-up |

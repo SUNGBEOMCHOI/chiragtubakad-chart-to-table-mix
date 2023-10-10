@@ -1,0 +1,19 @@
+| title         |   Facilities 2005 |
+| Kwazalu-Natal |          25.629   |
+| Gauteng       |          92.4458  |
+| Eastern Cape  |          25.629   |
+| Mplumalanga   |           7.94213 |
+| Limpopo       |           7.94213 |
+| Free State    |           2.04653 |
+| North West    |           2.04653 |
+| Western Cape  |           2.04653 |
+| Northern Cape |           2.04653 |
+| Kwazalu-Natal |         351.853   |
+| Gauteng       |         330.235   |
+| Eastern Cape  |         202.497   |
+| Mplumalanga   |         112.098   |
+| Limpopo       |          88.5154  |
+| Free State    |          66.8982  |
+| North West    |          62.9678  |
+| Western Cape  |          31.5246  |
+| Northern Cape |           7.94213 |

@@ -1,0 +1,6 @@
+| Category                 |   first quartile |     max |   median |     min |   third quartile | x       |
+| [unnamed data series #0] |          53.7773 | 59.2207 |  55.522  | 53.4865 |          56.0454 | HPS+APS |
+| [unnamed data series #0] |          49.2992 | 58.2669 |  52.4978 | 43.5999 |          55.5801 | APS+APS
+HPS+LPS         |
+| [unnamed data series #0] |          44.9956 | 57.2201 |  47.7871 | 42.2623 |          51.1021 | APS+LPS |
+| [unnamed data series #0] |          40.4013 | 47.3219 |  42.3204 | 33.3062 |          45.3446 | LPS+LPS |

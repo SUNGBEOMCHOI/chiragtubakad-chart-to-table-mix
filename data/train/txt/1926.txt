@@ -1,0 +1,13 @@
+| title                             |   [unnamed data series #0] |
+| Medical officer (n=63)            |                   0.619765 |
+| Clinical officer (n=46)           |                   0.563186 |
+| Nurse (n=619)                     |                   0.685278 |
+| Administration staff (n=160)      |                   0.878839 |
+| Classified Daily Employee (m=454) |                   0.472362 |
+| Laboratory staff (n=76)           |                   0.369626 |
+| Environmental Officer (n=16)      |                   0.499162 |
+| Pharmacy staff (n=40)             |                   0.525963 |
+| Other (n=145)                     |                   0.649544 |
+| SUBTOTAL paid HCW (n=1619)        |                   0.624232 |
+| Treatment supporter (n=136)       |                   0.515541 |
+| TOTAL (n=1757)                    |                   0.621254 |

@@ -1,0 +1,155 @@
+| Category        |         X |           Y |
+| Uni-Directional | 53.7952   | 0.0254308   |
+| Uni-Directional | 65.7229   | 0.0169257   |
+| Uni-Directional | 54.6988   | 0.0175892   |
+| Uni-Directional | 57.6807   | 0.0155384   |
+| Uni-Directional | 43.7651   | 0.0174083   |
+| Uni-Directional | 60.8434   | 0.0134272   |
+| Uni-Directional | 68.7952   | 0.011316    |
+| Uni-Directional | 76.9277   | 0.00600784  |
+| Uni-Directional | 69.8795   | 0.00594752  |
+| Uni-Directional | 64.6386   | 0.00763647  |
+| Uni-Directional | 63.6446   | 0.00751583  |
+| Uni-Directional | 75.753    | 0.00262994  |
+| Uni-Directional | 72.7711   | 0.00365537  |
+| Uni-Directional | 70.6928   | 0.00323314  |
+| Uni-Directional | 71.6867   | 0.00232834  |
+| Uni-Directional | 73.6747   | 0.00166482  |
+| Uni-Directional | 74.759    | 0.00172514  |
+| Uni-Directional | 67.7108   | 0.0028109   |
+| Uni-Directional | 66.8072   | 0.0022077   |
+| Uni-Directional | 62.741    | 0.00347441  |
+| Uni-Directional | 61.747    | 0.00480145  |
+| Uni-Directional | 59.6687   | 0.00407761  |
+| Uni-Directional | 58.7651   | 0.00383633  |
+| Uni-Directional | 52.8012   | 0.00823967  |
+| Uni-Directional | 51.8072   | 0.00721424  |
+| Uni-Directional | 55.6024   | 0.00413793  |
+| Uni-Directional | 56.6867   | 0.00299186  |
+| Uni-Directional | 32.8313   | 0.0117985   |
+| Uni-Directional | 14.8494   | 0.00926511  |
+| Uni-Directional |  6.71687  | 0.00522369  |
+| Uni-Directional |  5.90361  | 0.00456017  |
+| Uni-Directional |  0.753012 | 0.000639389 |
+| Uni-Directional |  1.74699  | 0.000940987 |
+| Uni-Directional |  2.83133  | 0.00166482  |
+| Uni-Directional |  3.91566  | 0.00154418  |
+| Uni-Directional |  4.90964  | 0.00118227  |
+| Uni-Directional |  7.89157  | 0.00383633  |
+| Uni-Directional |  9.87952  | 0.00317282  |
+| Uni-Directional |  8.79518  | 0.00214738  |
+| Uni-Directional | 10.8735   | 0.0016045   |
+| Uni-Directional | 13.7651   | 0.0025093   |
+| Uni-Directional | 15.753    | 0.00546496  |
+| Uni-Directional | 11.7771   | 0.000880668 |
+| Uni-Directional | 12.9518   | 0.000639389 |
+| Uni-Directional | 23.7952   | 0.00401729  |
+| Uni-Directional | 16.8373   | 0.00100131  |
+| Uni-Directional | 50.7229   | 0.00118227  |
+| Uni-Directional | 49.8193   | 0.00130291  |
+| Uni-Directional | 48.7349   | 0.000940987 |
+| Uni-Directional | 47.8313   | 0.00124259  |
+| Uni-Directional | 46.8373   | 0.00130291  |
+| Uni-Directional | 45.8434   | 0.00112195  |
+| Uni-Directional | 44.759    | 0.000639389 |
+| Uni-Directional | 42.8614   | 0.00178546  |
+| Uni-Directional | 41.7771   | 0.00425857  |
+| Uni-Directional | 40.7831   | 0.00443953  |
+| Uni-Directional | 39.7892   | 0.000579069 |
+| Uni-Directional | 38.8855   | 0.000639389 |
+| Uni-Directional | 37.8916   | 0.00118227  |
+| Uni-Directional | 36.8976   | 0.00148386  |
+| Uni-Directional | 35.7229   | 0.0028109   |
+| Uni-Directional | 34.7289   | 0.00166482  |
+| Uni-Directional | 33.9157   | 0.00238866  |
+| Uni-Directional | 31.747    | 0.00275058  |
+| Uni-Directional | 30.753    | 0.00208706  |
+| Uni-Directional | 29.8494   | 0.0019061   |
+| Uni-Directional | 28.8554   | 0.00039811  |
+| Uni-Directional | 26.8675   | 0.00130291  |
+| Uni-Directional | 27.8614   | 0.00172514  |
+| Uni-Directional | 25.7831   | 0.00208706  |
+| Uni-Directional | 24.8795   | 0.00154418  |
+| Uni-Directional | 22.8916   | 0.0019061   |
+| Uni-Directional | 21.8072   | 0.00196642  |
+| Uni-Directional | 20.7229   | 0.00118227  |
+| Uni-Directional | 19.8193   | 0.000940987 |
+| Uni-Directional | 18.8253   | 0.00142354  |
+| Uni-Directional | 17.8313   | 0.000940987 |
+| Bi- Directional |  0.753012 | 0.000518749 |
+| Bi- Directional |  1.74699  | 0.000880668 |
+| Bi- Directional |  2.74096  | 0.0019061   |
+| Bi- Directional |  3.91566  | 0.0016045   |
+| Bi- Directional |  4.81928  | 0.00118227  |
+| Bi- Directional |  5.72289  | 0.00468081  |
+| Bi- Directional |  6.80723  | 0.00449985  |
+| Bi- Directional |  7.89157  | 0.00395697  |
+| Bi- Directional |  9.78916  | 0.0031125   |
+| Bi- Directional |  8.70482  | 0.00214738  |
+| Bi- Directional | 10.7831   | 0.00166482  |
+| Bi- Directional | 11.7771   | 0.000940987 |
+| Bi- Directional | 12.5904   | 0.000760028 |
+| Bi- Directional | 13.7651   | 0.00262994  |
+| Bi- Directional | 15.8434   | 0.0055856   |
+| Bi- Directional | 14.759    | 0.00992862  |
+| Bi- Directional | 32.8313   | 0.0114366   |
+| Bi- Directional | 16.747    | 0.000880668 |
+| Bi- Directional | 17.8313   | 0.000940987 |
+| Bi- Directional | 18.8253   | 0.00142354  |
+| Bi- Directional | 19.9096   | 0.000880668 |
+| Bi- Directional | 20.6325   | 0.00124259  |
+| Bi- Directional | 21.988    | 0.00202674  |
+| Bi- Directional | 22.7108   | 0.00196642  |
+| Bi- Directional | 24.8795   | 0.00154418  |
+| Bi- Directional | 25.8735   | 0.00208706  |
+| Bi- Directional | 26.8675   | 0.00142354  |
+| Bi- Directional | 27.7711   | 0.0019061   |
+| Bi- Directional | 28.7651   | 0.00039811  |
+| Bi- Directional | 29.8494   | 0.00202674  |
+| Bi- Directional | 30.8434   | 0.00214738  |
+| Bi- Directional | 32.0181   | 0.00262994  |
+| Bi- Directional | 23.7952   | 0.00401729  |
+| Bi- Directional | 33.9157   | 0.00244898  |
+| Bi- Directional | 35.8133   | 0.00293154  |
+| Bi- Directional | 34.6386   | 0.00172514  |
+| Bi- Directional | 36.8072   | 0.00154418  |
+| Bi- Directional | 37.7108   | 0.00130291  |
+| Bi- Directional | 38.8855   | 0.000760028 |
+| Bi- Directional | 39.8795   | 0.000639389 |
+| Bi- Directional | 40.6928   | 0.00148386  |
+| Bi- Directional | 42.9518   | 0.00172514  |
+| Bi- Directional | 41.7771   | 0.00425857  |
+| Bi- Directional | 43.7651   | 0.0180115   |
+| Bi- Directional | 53.7952   | 0.0250689   |
+| Bi- Directional | 54.7892   | 0.0171067   |
+| Bi- Directional | 57.7711   | 0.0155384   |
+| Bi- Directional | 60.8434   | 0.014151    |
+| Bi- Directional | 65.7229   | 0.0134272   |
+| Bi- Directional | 76.6566   | 0.00540464  |
+| Bi- Directional | 68.7048   | 0.00799839  |
+| Bi- Directional | 64.6386   | 0.00775711  |
+| Bi- Directional | 63.6446   | 0.00775711  |
+| Bi- Directional | 69.6988   | 0.00624912  |
+| Bi- Directional | 52.8012   | 0.006792    |
+| Bi- Directional | 51.8976   | 0.00739519  |
+| Bi- Directional | 44.759    | 0.000699708 |
+| Bi- Directional | 45.6627   | 0.00112195  |
+| Bi- Directional | 46.747    | 0.00124259  |
+| Bi- Directional | 47.741    | 0.00124259  |
+| Bi- Directional | 48.7349   | 0.00100131  |
+| Bi- Directional | 49.9096   | 0.00124259  |
+| Bi- Directional | 50.6325   | 0.00124259  |
+| Bi- Directional | 55.7831   | 0.00425857  |
+| Bi- Directional | 56.6867   | 0.00287122  |
+| Bi- Directional | 58.7651   | 0.00383633  |
+| Bi- Directional | 59.6687   | 0.00401729  |
+| Bi- Directional | 61.747    | 0.00480145  |
+| Bi- Directional | 62.741    | 0.00232834  |
+| Bi- Directional | 66.8072   | 0.00214738  |
+| Bi- Directional | 67.8012   | 0.00262994  |
+| Bi- Directional | 70.8735   | 0.0031125   |
+| Bi- Directional | 72.6807   | 0.00377601  |
+| Bi- Directional | 75.8434   | 0.00256962  |
+| Bi- Directional | 74.759    | 0.00172514  |
+| Bi- Directional | 73.7651   | 0.0016045   |
+| Bi- Directional | 71.7771   | 0.00238866  |

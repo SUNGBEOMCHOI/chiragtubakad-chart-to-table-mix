@@ -1,0 +1,7 @@
+| title                               |   [unnamed data series #0] |
+| Respiratory Infection (Influenza)   |                  82.8103   |
+| Gastrointestinal Infection          |                   6.67349  |
+| Febrile and Vector -borne Infection |                  14.2319   |
+| Antimicrobial Resistance            |                   3.35518  |
+| Sexually Transmitted Infection      |                   0.589922 |
+| Other                               |                  17.1815   |

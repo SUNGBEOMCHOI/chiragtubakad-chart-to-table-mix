@@ -1,0 +1,5 @@
+| title                               |   [unnamed data series #0] |
+| empty vector                        |                    1.75353 |
+| c.-1031 +1_{complete}               |                   99.5616  |
+| c.-1031 +1_{complete} [c.-403C>T]   |                   97.8081  |
+| C.-1031 +1_{complete} [C.-1088C >A] |                   48.1247  |

@@ -1,0 +1,6 @@
+| Category                 |   first quartile |     max |   median |      min |   third quartile | x           |
+| [unnamed data series #0] |         0.341596 | 1.12982 | 0.594829 | 0.265288 |         0.92575  | control 72h |
+| [unnamed data series #0] |         0.249773 | 1.27735 | 0.564495 | 0.211513 |         0.991934 | Ti6AI4V     |
+| [unnamed data series #0] |         0.325308 | 1.24702 | 0.640331 | 0.248742 |         0.910583 | SLM Ti6AI4V |
+| [unnamed data series #0] |         0.346571 | 1.40558 | 0.647225 | 0.23909  |         1.03744  | NiTi        |
+| [unnamed data series #0] |         0.319313 | 1.40145 | 0.614133 | 0.194967 |         1.02365  | NiTi+DLC    |

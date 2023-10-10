@@ -1,0 +1,5 @@
+| title         |   Rural |
+| Pre-exposure  | 65.1579 |
+| Post-exposure | 64.3968 |
+| Pre-exposure  | 67.0608 |
+| Post-exposure | 67.5936 |

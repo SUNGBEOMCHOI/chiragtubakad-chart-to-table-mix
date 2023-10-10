@@ -1,0 +1,11 @@
+| title   |      N <0.5\mu m |
+| Control |      9.91823e+06 |
+| Mask    |      3.40043e+07 |
+| Hand    |      4.10293e+07 |
+| Tissue  |      5.20688e+07 |
+| Sleeve  |      3.12444e+07 |
+| Control | 501792           |
+| Mask    | 250896           |
+| Hand    | 878136           |
+| Tissue  | 752688           |
+| Sleeve  | 689964           |

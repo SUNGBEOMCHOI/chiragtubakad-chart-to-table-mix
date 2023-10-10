@@ -1,0 +1,6 @@
+| title               |   [unnamed data series #0] |
+| Rural Uttar Pradesh |                    99.8483 |
+| Hyderabad           |                    78.789  |
+| Nicaragua           |                    82.8593 |
+| Uganda              |                    99.8483 |
+| All Sites           |                    90.292  |

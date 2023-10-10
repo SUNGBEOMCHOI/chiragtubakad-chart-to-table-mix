@@ -1,0 +1,15 @@
+| title   |   [unnamed data series #0] |
+| wt
+(n=60)         |                       3.53 |
+| control MO
+(n=54)         |                       3.48 |
+| crxMO
+(n=55)         |                       2    |
+| cep290 MO
+(n=84)         |                       2.46 |
+| cep290 MO
++ N-terminus
+(n=64)         |                       3.48 |
+| cep290 MO
++ C-terminus
+(n=41)         |                       2.44 |

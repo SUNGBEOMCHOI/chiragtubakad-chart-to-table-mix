@@ -1,0 +1,18 @@
+| Category                 |   first quartile |     max |   median |      min |   third quartile | x              |
+| [unnamed data series #0] |         1.15057  | 2.72356 | 1.35575  | 0.394253 |         1.54885  | winter 2010    |
+| [unnamed data series #0] |         0.74023  | 2.48218 | 0.993678 | 0.168966 |         1.20287  | spring 2010    |
+| [unnamed data series #0] |         0.466667 | 1.91897 | 0.591379 | 0.12069  |         0.720115 | summer 2010    |
+| [unnamed data series #0] |         0.764368 | 3.02931 | 0.961494 | 0.168966 |         1.19483  | fall 2010      |
+| [unnamed data series #0] |         1.18276  | 2.9408  | 1.39598  | 0.378161 |         1.62931  | winter 2010-11 |
+| [unnamed data series #0] |         0.828736 | 2.73161 | 1.07414  | 0.193103 |         1.32356  | spring 2011    |
+| [unnamed data series #0] |         0.490805 | 2.12011 | 0.591379 | 0.128736 |         0.736207 | summer 2011    |
+| [unnamed data series #0] |         0.7      | 2.80402 | 0.92931  | 0.168966 |         1.20287  | fall 2011      |
+| [unnamed data series #0] |         1.08621  | 2.82011 | 1.29138  | 0.362069 |         1.50862  | winter 2011-12 |
+| [unnamed data series #0] |         0.708046 | 3.0454  | 0.92931  | 0.185057 |         1.19483  | spring 2012    |
+| [unnamed data series #0] |         0.482759 | 2.1523  | 0.615517 | 0.128736 |         0.776437 | summer 2012    |
+| [unnamed data series #0] |         0.732184 | 2.84425 | 0.96954  | 0.104598 |         1.22701  | fall 2012      |
+| [unnamed data series #0] |         1.02184  | 2.68333 | 1.23506  | 0.337931 |         1.42816  | winter 2012    |
+| [unnamed data series #0] |         0.691954 | 2.98908 | 0.985632 | 0.152874 |         1.33966  | HTHD           |
+| [unnamed data series #0] |         0.603448 | 3.02126 | 0.88908  | 0.12069  |         1.21897  | HTLD           |
+| [unnamed data series #0] |         0.667816 | 3.06954 | 0.961494 | 0.104598 |         1.28333  | LTLD           |
+| [unnamed data series #0] |         0.667816 | 3.06149 | 0.961494 | 0.112644 |         1.29138  | ALL            |

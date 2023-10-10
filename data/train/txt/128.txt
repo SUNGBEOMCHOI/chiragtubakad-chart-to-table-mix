@@ -1,0 +1,7 @@
+| title       |      OR |
+| PFA         | 86.3876 |
+| t-value     | 81.3146 |
+| Searchlight | 73.2921 |
+| PFA         | 82.8483 |
+| t-value     | 76.1236 |
+| Searchlight | 68.2191 |

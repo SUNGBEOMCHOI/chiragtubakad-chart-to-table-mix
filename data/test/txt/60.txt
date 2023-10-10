@@ -1,0 +1,6 @@
+| title                         |   <0.01 |
+| Others                        | 20.2846 |
+| Wasteland                     | 22.8971 |
+| Industry                      | 23.6436 |
+| Park near residence           | 26.2561 |
+| Food production near industry | 45.2904 |

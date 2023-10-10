@@ -1,0 +1,7 @@
+| title               |   [unnamed data series #0] |
+| Asia/Pacific        |                   27.5872  |
+| Global              |                   16.9167  |
+| Latin America       |                   15.5833  |
+| North America       |                    9.43396 |
+| Africa /Middle East |                    5.09434 |
+| Europe              |                    4.59308 |

@@ -1,0 +1,10 @@
+| title                       |   [unnamed data series #0] |
+| Taking a mental break       |                    52.5511 |
+| Growing vegetables to eat   |                    49.5842 |
+| Having contact with nature  |                    46.0778 |
+| Enjoying social interaction |                    21.1283 |
+| Physical excercise          |                    18.0265 |
+| Relaxing                    |                    14.3853 |
+| Learning more about nature  |                    13.7109 |
+| Getting in shape            |                    13.1715 |
+| Other                       |                     1.1688 |

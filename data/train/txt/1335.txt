@@ -1,0 +1,17 @@
+| title                             |   Onto A in Td |
+| Control, other tissue             |      0.038381  |
+| Control, testes specific          |      0.146546  |
+| Drive-associated, other tissue    |      0.0174459 |
+| Drive-associated, testes specific |      0.0802512 |
+| Control, other tissue             |      0.806001  |
+| Control, testes specific          |      0.558269  |
+| Drive-associated, other tissue    |      0.327983  |
+| Drive-associated, testes specific |      0.0314027 |
+| Control, other tissue             |      0.0174459 |
+| Control, testes specific          |      0.205862  |
+| Drive-associated, other tissue    |      0.122121  |
+| Drive-associated, testes specific |      0.568737  |
+| Control, other tissue             |      0.136078  |
+| Control, testes specific          |      0.0872296 |
+| Drive-associated, other tissue    |      0.530356  |
+| Drive-associated, testes specific |      0.317516  |

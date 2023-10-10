@@ -1,0 +1,10 @@
+| title   |   Fasted, Chow |
+| Adamts9 |       0.98487  |
+| Hhex    |       0.974922 |
+| Jazf1   |       0.992332 |
+| Adamts9 |       0.253679 |
+| Hhex    |       0.435233 |
+| Jazf1   |       0.281036 |
+| Adamts9 |       0.425285 |
+| Hhex    |       1.04953  |
+| Jazf1   |       0.430259 |

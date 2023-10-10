@@ -1,0 +1,12 @@
+| title                             |   [unnamed data series #0] |
+| Phone masts on a school roof      |                       3.34 |
+| Mobile phone calls                |                       2.93 |
+| Laptop use on the lap             |                       2.82 |
+| Connecting laptop with the internet via
+smartphone                                   |                       2.57 |
+| WLAN Router in a dose position    |                       2.42 |
+| Surfing with mobile phones        |                       2.4  |
+| Watching TV                       |                       2.33 |
+| Mobile phone use in presence
+of other people                                   |                       2.32 |
+| WLAN Router in a distant position |                       2.24 |

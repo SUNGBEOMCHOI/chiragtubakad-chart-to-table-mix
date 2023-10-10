@@ -1,0 +1,23 @@
+| title             |   Alcohol |
+| Mouth             |        38 |
+| Lungs             |        97 |
+| Ears              |         4 |
+| Brain             |        37 |
+| Liver             |        34 |
+| Esophagus         |        15 |
+| Kidneys           |        33 |
+| Bladder           |         8 |
+| Heart             |        78 |
+| Blood circulation |        55 |
+| Fetus             |        74 |
+| Mouth             |        14 |
+| Lungs             |        20 |
+| Ears              |         3 |
+| Brain             |        49 |
+| Liver             |        62 |
+| Esophagus         |        26 |
+| Kidneys           |        48 |
+| Bladder           |        32 |
+| Heart             |        54 |
+| Blood circulation |        54 |
+| Fetus             |        59 |

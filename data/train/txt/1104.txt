@@ -1,0 +1,6 @@
+| title           |   [unnamed data series #0] |
+| Drinking water  |                   348.281  |
+| Washing clothes |                    94.6263 |
+| Amusement       |                   418.118  |
+| Aquaculture     |                   137.451  |
+| Others          |                    16.8828 |

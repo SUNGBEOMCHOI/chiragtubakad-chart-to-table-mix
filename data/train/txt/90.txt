@@ -1,0 +1,4 @@
+| Category                 |        X |       Y |
+| [unnamed data series #0] | 18.0275  | 207.9   |
+| [unnamed data series #0] | 11.9863  | 172.557 |
+| [unnamed data series #0] |  6.02746 | 102.911 |

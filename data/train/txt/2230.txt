@@ -1,0 +1,39 @@
+| title                                         |   Least Effective |
+| Fliers/posters/Ads/Mailouts                   |           5.10204 |
+| Newsletters/ Newspapers                       |           0       |
+| Internet                                      |           0       |
+| TV/radio                                      |           2.091   |
+| Promotion via mail to doctor's surgeries      |           1.92372 |
+| Media campaign                                |           0       |
+| Financial incentives                          |           0       |
+| Free gifts e.g. Pedometers, water bottles     |           0       |
+| Diaries                                       |           0       |
+| Phoneline                                     |           0       |
+| Email                                         |           0       |
+| Word of mouth (usually one to one)            |           0       |
+| Info sessions to groups/ health professionals |           0       |
+| Phone calls                                   |           0.08364 |
+| Referrals                                     |           0       |
+| Community stalls                              |           0       |
+| Referral home visits                          |           0.92004 |
+| Walk promotion through partnerships           |           0       |
+| [unnamed category #18]                        |           0.08364 |
+| Fliers/posters/Ads/Mailouts                   |           3.93108 |
+| Newsletters/ Newspapers                       |           6.02208 |
+| Internet                                      |           2.00736 |
+| TV/radio                                      |           2.9274  |
+| Promotion via mail to doctor's surgeries      |           0.08364 |
+| Media campaign                                |           1.00368 |
+| Financial incentives                          |           1.00368 |
+| Free gifts e.g. Pedometers, water bottles     |           1.00368 |
+| Diaries                                       |           1.00368 |
+| Phoneline                                     |           0       |
+| Email                                         |           0       |
+| Word of mouth (usually one to one)            |           0       |
+| Info sessions to groups/ health professionals |          21.0773  |
+| Phone calls                                   |           2.9274  |
+| Referrals                                     |           0       |
+| Community stalls                              |           1.08732 |
+| Referral home visits                          |           0.08364 |
+| Walk promotion through partnerships           |           0       |
+| [unnamed category #18]                        |           2.9274  |

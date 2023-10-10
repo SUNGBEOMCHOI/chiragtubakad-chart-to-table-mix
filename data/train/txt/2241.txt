@@ -1,0 +1,12 @@
+| title      |   [unnamed data series #0] |
+| Bam        |                 0.301918   |
+| Jiroft     |                 0.301918   |
+| Kahnooj    |                 0.169912   |
+| Kerman     |                 0.137803   |
+| Baft       |                 0.062881   |
+| Rafsanjan  |                 0.0438532  |
+| Bardsir    |                 0.0272039  |
+| Sirjan     |                 0.0200685  |
+| Shahrbabak |                 0.00341916 |
+| Zarand     |                 0.00341916 |
+| Ravar      |                 0.00341916 |

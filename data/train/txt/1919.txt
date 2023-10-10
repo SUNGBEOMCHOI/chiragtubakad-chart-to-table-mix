@@ -1,0 +1,7 @@
+| title   |   [unnamed data series #0] |
+| Job     |                   0.670336 |
+| Time1   |                   0.642351 |
+| Year    |                   0.505224 |
+| Time2   |                   0.443657 |
+| Bir     |                   0.270149 |
+| Age     |                   0.105037 |

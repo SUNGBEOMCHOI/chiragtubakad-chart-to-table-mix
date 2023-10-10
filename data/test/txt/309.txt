@@ -1,0 +1,13 @@
+| title                    |   Acamprosate |
+| Acamprosate              |      869.305  |
+| Other  drugs             |       97.431  |
+| Physician& examination   |      460.666  |
+| Acute hospitalization    |     1209.84   |
+| Lon-term hospitalization |     2640.08   |
+| Total                    |     5228.13   |
+| Acamprosate              |       29.3245 |
+| Other  drugs             |       74.7288 |
+| Physician& examination   |      460.666  |
+| Acute hospitalization    |     1959.01   |
+| Lon-term hospitalization |     3275.74   |
+| Total                    |     5750.28   |

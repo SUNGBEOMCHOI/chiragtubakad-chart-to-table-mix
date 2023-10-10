@@ -1,0 +1,11 @@
+| title               |       Fall |
+| Wisconsin Card Sort |  0.0173829 |
+| Flanker             |  0.0222115 |
+| Memory Span         |  0.316755  |
+| Trail Making        |  0.270884  |
+| Stroop Color Word   | -0.0960888 |
+| Wisconsin Card Sort |  0.0270401 |
+| Flanker             |  0.0801545 |
+| Memory Span         |  0.457991  |
+| Trail Making        |  0.389184  |
+| Stroop Color Word   |  0.269676  |

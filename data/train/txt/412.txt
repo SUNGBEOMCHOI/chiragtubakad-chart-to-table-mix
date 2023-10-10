@@ -1,0 +1,23 @@
+| title           |   [unnamed data series #0] |
+| Seitsamo et al. 1997
+(respiratory)
+(Low; 30.6)                 |                  0.912921  |
+| Seitsamo et al. 1997
+(cardiovascular)
+Low; 30.6)                 |                  9.97191   |
+| Seitsamo et al. 1997
+(musculoskeletal)
+(Low; 30.6)                 |                 10.941     |
+| Martin et al. 1966
+(serious illness)
+(Low; 4.1)                 |                -14.1292    |
+| Ekerdt et al. 1983 (AJPH)
+(serious chronic or irreversible illness)
+High;1.5)                 |                  2.00843   |
+| Ekerdt et al. 1983 (J Geron)
+(serious health problems)
+Low; 1.8)                 |                 -0.0140449 |
+| Ekerdt et al. 1982
+(health problems)
+(High;0.8)                 |                  3.01966   |
+| Mean difference |                  1.92416   |

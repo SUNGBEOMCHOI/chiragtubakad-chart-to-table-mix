@@ -1,0 +1,19 @@
+| title                                     |   [unnamed data series #0] |
+| The amount of kilojoules/calories in food |                       22.6 |
+| The amount of salt in food                |                       16.6 |
+| The amount of fat in food                 |                       14.7 |
+| Healthy eating                            |                       12.3 |
+| The amount of saturated fat in food       |                       11.7 |
+| The amount of sugar in food               |                       11.2 |
+| The amount of kilojoules/calories in food |                       38.4 |
+| The amount of salt in food                |                       37.6 |
+| The amount of fat in food                 |                       35.5 |
+| Healthy eating                            |                       35.7 |
+| The amount of saturated fat in food       |                       30.3 |
+| The amount of sugar in food               |                       30.7 |
+| The amount of kilojoules/calories in food |                       39   |
+| The amount of salt in food                |                       45.8 |
+| The amount of fat in food                 |                       49.8 |
+| Healthy eating                            |                       52   |
+| The amount of saturated fat in food       |                       58   |
+| The amount of sugar in food               |                       58.1 |

@@ -1,0 +1,69 @@
+| Category          |         X |         Y |
+| Nearest Neighbor  | 0.0141185 | 27.9877   |
+| Nearest Neighbor  | 0.0210055 | 27.0034   |
+| Nearest Neighbor  | 0.0210055 | 25.9743   |
+| Nearest Neighbor  | 0.024449  | 24.9452   |
+| Nearest Neighbor  | 0.0864325 | 15.9519   |
+| Nearest Neighbor  | 0.0967631 | 15.0123   |
+| Nearest Neighbor  | 0.0995179 | 13.9832   |
+| Nearest Neighbor  | 0.0726584 | 16.981    |
+| Nearest Neighbor  | 0.0699036 | 17.9653   |
+| Nearest Neighbor  | 0.0630165 | 17.9653   |
+| Nearest Neighbor  | 0.0382231 | 22.9765   |
+| Nearest Neighbor  | 0.0382231 | 21.9474   |
+| Nearest Neighbor  | 0.0416667 | 20.9631   |
+| Nearest Neighbor  | 0.0519972 | 19.9787   |
+| Nearest Neighbor  | 0.02927   | 23.9609   |
+| Nearest Neighbor  | 0.0340909 | 23.8714   |
+| Nearest Neighbor  | 0.059573  | 18.9049   |
+| Nearest Neighbor  | 0.149793  | 11.9698   |
+| Nearest Neighbor  | 0.165634  | 10.9407   |
+| Nearest Neighbor  | 0.170455  |  9.95638  |
+| Nearest Neighbor  | 0.181474  |  8.97204  |
+| Nearest Neighbor  | 0.182163  |  7.9877   |
+| Nearest Neighbor  | 0.185606  |  6.95861  |
+| Nearest Neighbor  | 0.227617  |  5.97427  |
+| Nearest Neighbor  | 0.231749  |  5.03468  |
+| Nearest Neighbor  | 0.244146  |  3.96085  |
+| Nearest Neighbor  | 0.248278  |  2.93177  |
+| Nearest Neighbor  | 0.248967  |  1.94743  |
+| Nearest Neighbor  | 0.266185  |  0.963087 |
+| UPGMA             | 0.0327135 | 23.9609   |
+| UPGMA             | 0.10365   | 16.9362   |
+| UPGMA             | 0.125172  | 15.9519   |
+| UPGMA             | 0.0705923 | 17.9206   |
+| UPGMA             | 0.129132  | 14.9676   |
+| UPGMA             | 0.137397  | 13.9385   |
+| UPGMA             | 0.153237  | 12.9485   |
+| UPGMA             | 0.19938   | 12.0145   |
+| UPGMA             | 0.214532  | 10.9407   |
+| UPGMA             | 0.228994  | 10.0011   |
+| UPGMA             | 0.246901  |  8.97204  |
+| UPGMA             | 0.246212  |  7.94295  |
+| UPGMA             | 0.253788  |  6.95861  |
+| UPGMA             | 0.277893  |  5.97427  |
+| UPGMA             | 0.293044  |  4.98993  |
+| UPGMA             | 0.298554  |  3.96085  |
+| UPGMA             | 0.304752  |  2.97651  |
+| UPGMA             | 0.330234  |  2.03691  |
+| UPGMA             | 0.354339  |  0.963087 |
+| Farthest Neighbor | 0.485882  |  0.963087 |
+| Farthest Neighbor | 0.447314  |  1.94743  |
+| Farthest Neighbor | 0.424587  |  2.97651  |
+| Farthest Neighbor | 0.377755  |  3.96085  |
+| Farthest Neighbor | 0.312328  |  4.94519  |
+| Farthest Neighbor | 0.31095   |  5.97427  |
+| Farthest Neighbor | 0.305441  |  6.95861  |
+| Farthest Neighbor | 0.304063  |  7.94295  |
+| Farthest Neighbor | 0.266185  |  8.97204  |
+| Farthest Neighbor | 0.254477  |  9.95638  |
+| Farthest Neighbor | 0.23657   | 10.9855   |
+| Farthest Neighbor | 0.206956  | 11.9698   |
+| Farthest Neighbor | 0.158747  | 12.9989   |
+| Farthest Neighbor | 0.155992  | 13.9832   |
+| Farthest Neighbor | 0.151171  | 14.9228   |
+| Farthest Neighbor | 0.14635   | 15.9519   |
+| Farthest Neighbor | 0.132576  | 16.981    |
+| Farthest Neighbor | 0.0809229 | 17.9206   |
+| Farthest Neighbor | 0.0623278 | 18.9944   |
+| Farthest Neighbor | 0.0382231 | 23.9161   |

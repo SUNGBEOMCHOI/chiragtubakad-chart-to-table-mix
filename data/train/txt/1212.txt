@@ -1,0 +1,15 @@
+| title                         |   [unnamed data series #0] |
+| CrattalStT 05                 |                    3.19162 |
+| NitDisSIT as02/ AmpCofSITas02 |                   18.3518  |
+| AmpCofSITs06                  |                   42.5882  |
+| NitDisSITas03/ AmpCofSITas03  |                   14.1628  |
+| AmpCofSITs07                  |                   65.0293  |
+| NitDisSIT as04/ AmpCofStTas04 |                   24.3361  |
+| AmpCofSITs08                  |                  105.922   |
+| NitDisSITs06/AmpCofSITas05    |                   69.2183  |
+| AmpCofSITas06                 |                   36.3047  |
+| NitDisSIT s07/AmpCofSITs03    |                   72.4099  |
+| AmpCofSITas07                 |                   31.2181  |
+| NitDisSIT s08/ AmpCofSITas09  |                   33.3126  |
+| AmpCofSITas08                 |                   24.3361  |
+| Cy3-Marker                    |                    8.17853 |

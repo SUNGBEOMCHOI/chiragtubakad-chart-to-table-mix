@@ -1,0 +1,5 @@
+| title   |   [unnamed data series #0] |
+| PVDF    |                   10.0415  |
+| SWNT    |                   78.7805  |
+| PVDF    |                   73.9024  |
+| SWNT    |                    7.43331 |

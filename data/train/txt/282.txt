@@ -1,0 +1,13 @@
+| title                           |   A: ICD-10 code |
+| All UCODs (n=450)               |         47.6629  |
+| All malignant neoplasms (n=156) |         80.5973  |
+| Heart diseases (n=53)           |         54.8225  |
+| Pneumonia (n=57)                |          9.20528 |
+| All UCODs (n=450)               |         59.5275  |
+| All malignant neoplasms (n=156) |         87.3479  |
+| Heart diseases (n=53)           |         75.4833  |
+| Pneumonia (n=57)                |         18.206   |
+| All UCODs (n=450)               |         69.3464  |
+| All malignant neoplasms (n=156) |         93.0756  |
+| Heart diseases (n=53)           |         83.0521  |
+| Pneumonia (n=57)                |         35.5937  |

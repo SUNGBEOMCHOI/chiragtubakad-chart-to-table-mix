@@ -1,0 +1,16 @@
+| title          |   [unnamed data series #0] |
+| wt             |                  1.01677   |
+| holD argE::ssb
+lexAind                |                  0.727279  |
+| holD argE::ssb |                  1.4536    |
+| lexAdef        |                  0.83159   |
+| wt             |                  0.622001  |
+| holD argE::ssb
+lexAind                |                  0.83159   |
+| holD argE::ssb |                  0.0104336 |
+| lexAdef        |                  0.929858  |
+| wt             |                  0.83159   |
+| holD argE::ssb
+lexAind                |                  1.27127   |
+| holD argE::ssb |                  1.06322   |
+| lexAdef        |                  0.850376  |

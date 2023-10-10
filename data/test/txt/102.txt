@@ -1,0 +1,4 @@
+| title    |   [unnamed data series #0] |
+| None     |                    57.3329 |
+| Mild     |                    42.5803 |
+| Moderate |                    50.1012 |

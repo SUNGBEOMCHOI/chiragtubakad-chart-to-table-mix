@@ -1,0 +1,5 @@
+| title     |   [unnamed data series #0] |
+| Sham      |                    134.524 |
+| 2.5 mg/kg |                    123.944 |
+| 5 mg/kg   |                    186.098 |
+| 10 mg/kg  |                    291.892 |

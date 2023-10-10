@@ -1,0 +1,5 @@
+| title         |   [unnamed data series #0] |
+| Baseline      |                   0.328505 |
+| Lit           |                   0.342894 |
+| Audio warning |                   0.466641 |
+| Lit+Audio     |                   0.365917 |

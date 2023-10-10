@@ -1,0 +1,19 @@
+| title                                        |   2015 {N=64-67) |
+| Set up any new services directed at health,
+improvement                                              |         0.721372 |
+| Changed provider of existing services
+directed at health improvernent                                              |         0.892931 |
+| Re-designed existing services directed at
+health improvement                                              |         0.936337 |
+| De-commissioned services directed at
+health improvement                                              |         0.686234 |
+| Started the process of re-tendering services |         0.996279 |
+| Set up any new services directed at health,
+improvement                                              |         0.686234 |
+| Changed provider of existing services
+directed at health improvernent                                              |         0.675899 |
+| Re-designed existing services directed at
+health improvement                                              |         0.861926 |
+| De-commissioned services directed at
+health improvement                                              |         0.570484 |
+| Started the process of re-tendering services |         0.936337 |

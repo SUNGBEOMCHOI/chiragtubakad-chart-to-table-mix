@@ -1,0 +1,19 @@
+| title          |       Skin |
+| Wastewater     | 6.00157    |
+| Human excreta  | 0.00472193 |
+| Animal excreta | 1.99974    |
+| Wastewater     | 4.01836    |
+| Human excreta  | 1.99974    |
+| Animal excreta | 1.00813    |
+| Wastewater     | 3.02676    |
+| Human excreta  | 7.98478    |
+| Animal excreta | 3.02676    |
+| Wastewater     | 1.00813    |
+| Human excreta  | 1.00813    |
+| Animal excreta | 0.00472193 || Wastewater     | 1.00813    |
+| Human excreta  | 0.0283316  |
+| Animal excreta | 0.00472193 || Wastewater     | 0.0283316  |
+| Human excreta  | 2.99134    |
+| Animal excreta | 0.00472193 || Wastewater     | 0.0283316  |
+| Human excreta  | 1.00813    |
+| Animal excreta | 0.00472193 |

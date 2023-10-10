@@ -1,0 +1,5 @@
+| title                  |   [unnamed data series #0] |
+| Pharmacotherapy        |                      0.94  |
+| Individual counselling |                      0.84  |
+| Group therapy          |                      0.625 |
+| Other treatments*      |                      0.2   |

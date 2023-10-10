@@ -1,0 +1,45 @@
+| title   |        no |
+| Globally
+satisfied         | 0         |
+| Intervention
+length was
+acceptable         | 0         |
+| Physical
+annoyances
+were
+acceptable         | 0.0893997 |
+| Recommend
+toa friend         | 0         |
+| Globally
+satisfied         | 0         |
+| Intervention
+length was
+acceptable         | 0.0297999 |
+| Physical
+annoyances
+were
+acceptable         | 0.0595998 |
+| Recommend
+toa friend         | 0.0297999 |
+| Globally
+satisfied         | 0.0595998 |
+| Intervention
+length was
+acceptable         | 0.0893997 |
+| Physical
+annoyances
+were
+acceptable         | 0.229885  |
+| Recommend
+toa friend         | 0.0893997 |
+| Globally
+satisfied         | 0.936569  |
+| Intervention
+length was
+acceptable         | 0.876969  |
+| Physical
+annoyances
+were
+acceptable         | 0.617284  |
+| Recommend
+toa friend         | 0.876969  |

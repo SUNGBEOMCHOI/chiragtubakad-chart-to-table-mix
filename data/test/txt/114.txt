@@ -1,0 +1,3 @@
+| title        |   [unnamed data series #0] |
+| Non-lesional |                   0.433617 |
+| Lesional     |                   0.524245 |

@@ -1,0 +1,15 @@
+| title                     |   low riskk of bias |
+| Xu et al., 2012           |            0.697468 |
+| Wu et al., 2011           |            0.798101 |
+| Bich et al., 2011         |            0.697468 |
+| Huang et al., 2010        |            0.898734 |
+| Biswas et al., 2010       |            0.594937 |
+| Sjoberg & Yearwood., 2007 |            0.496203 |
+| Kar et al., 2007          |            0.798101 |
+| Norris et al., 2006       |            0.796203 |
+| Kar & Bastia., 2006       |            0.598734 |
+| Kohn et al., 2005         |            0.796203 |
+| Kar et al., 2004          |            0.598734 |
+| Goenjian et al.,2001      |            0.796203 |
+| Caldera et al., 2001      |            0.697468 |
+| Patrick & Patrick., 1981  |            0.397468 |

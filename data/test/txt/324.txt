@@ -1,0 +1,31 @@
+| title         |     1990 |
+| South Africa  | 0.719014 |
+| Western Cape  | 0.786502 |
+| Northern Cape | 0.712089 |
+| North West    | 0.672069 |
+| Mpumalanga    | 0.710915 |
+| Limpopo       | 0.62305  |
+| Kwazulu Natal | 0.704343 |
+| Gauteng       | 0.81127  |
+| Free State    | 0.725939 |
+| Estern Cape   | 0.657356 |
+| South Africa  | 0.733099 |
+| Western Cape  | 0.791432 |
+| Northern Cape | 0.718897 |
+| North West    | 0.678736 |
+| Mpumalanga    | 0.722653 |
+| Limpopo       | 0.640544 |
+| Kwazulu Natal | 0.713732 |
+| Gauteng       | 0.817937 |
+| Free State    | 0.73885  |
+| Estern Cape   | 0.67046  |
+| South Africa  | 0.667241 |
+| Western Cape  | 0.77054  |
+| Northern Cape | 0.684713 |
+| North West    | 0.605792 |
+| Mpumalanga    | 0.648818 |
+| Limpopo       | 0.593866 |
+| Kwazulu Natal | 0.629669 |
+| Gauteng       | 0.733685 |
+| Free State    | 0.67069  |
+| Estern Cape   | 0.61643  |

@@ -1,0 +1,9 @@
+| title   |   [unnamed data series #0] |
+| VCD     |                    20.4164 |
+| VCD+MP  |                    77.8822 |
+| VCD+PP  |                    76.0976 |
+| VCD+BP  |                    71.8144 |
+| VCD     |                    83.2362 |
+| VCD+MP  |                    85.7347 |
+| VCD+PP  |                    85.0208 |
+| VCD+BP  |                    88.9471 |

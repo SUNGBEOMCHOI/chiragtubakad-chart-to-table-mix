@@ -1,0 +1,5 @@
+| title   |   [unnamed data series #0] |
+| MINE    |                  -0.924933 |
+| ICMg    |                   1.84718  |
+| WGCNA   |                   3.18901  |
+| MICA    |                   3.42493  |

@@ -1,0 +1,11 @@
+| title       |   IBBA-1 |
+| Regular     |      8.4 |
+| Occassional |     13.2 |
+| Paid        |     19.5 |
+| Regular     |      2   |
+| Paid        |     25.9 |
+| Regular     |     75.8 |
+| Occassional |     86.2 |
+| Paid        |     93.8 |
+| Regular     |     15.7 |
+| Paid        |     94.2 |

@@ -1,0 +1,21 @@
+| title                                                    |   Wildlife Official |
+| Lack of sustainable funding/ resources                   |           0.954009  |
+| Lack of existing government wildlife surveillance*       |           0.908019  |
+| Insufficient human capacity*                             |           0.862028  |
+| Insufficient laboratory capacity                         |           0.862028  |
+| Insufficient communication or coordination               |           0.862028  |
+| Limited interest/ awareness regarding wildlife disease * |           0.770047  |
+| Large country size/ remoteness/ limited infrastructure   |           0.678066  |
+| Political issues                                         |           0.497642  |
+| Cultural acceptability*                                  |           0.40566   |
+| Detrimental consequences for tourism and exports         |           0.317217  |
+| Lack of sustainable funding/ resources                   |           0.808962  |
+| Lack of existing government wildlife surveillance*       |           0.497642  |
+| Insufficient human capacity*                             |           0.433962  |
+| Insufficient laboratory capacity                         |           0.621462  |
+| Insufficient communication or coordination               |           0.561321  |
+| Limited interest/ awareness regarding wildlife disease * |           0.373821  |
+| Large country size/ remoteness/ limited infrastructure   |           0.433962  |
+| Political issues                                         |           0.310142  |
+| Cultural acceptability*                                  |           0.0589623 |
+| Detrimental consequences for tourism and exports         |           0.0589623 |

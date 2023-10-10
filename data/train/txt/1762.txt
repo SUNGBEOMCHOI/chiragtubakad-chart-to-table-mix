@@ -1,0 +1,7 @@
+| title      |   [unnamed data series #0] |
+| Living     |                   0.992546 |
+| Africa     |                   3.00214  |
+| Provincial |                   9.00643  |
+| Buisness   |                   0.992546 |
+| News       |                  10.9915   |
+| Op/Ed      |                   9.03094  |

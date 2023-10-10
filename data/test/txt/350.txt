@@ -1,0 +1,25 @@
+| title                                 |   Overall |
+| Young, unsuitable at our age          |     0.627 |
+| Condoms promote sexual experimentation
+and activity                                       |     0.167 |
+| Can not use condoms properly          |     0.037 |
+| it is a sin against God               |     0.022 |
+| Condoms cause AIDS and other diseases |     0.011 |
+| Large, do fit sexual organs           |     0.01  |
+| Undisclosed                           |     0.127 |
+| Young, unsuitable at our age          |     0.723 |
+| Condoms promote sexual experimentation
+and activity                                       |     0.14  |
+| Can not use condoms properly          |     0.036 |
+| it is a sin against God               |     0.011 |
+| Condoms cause AIDS and other diseases |     0.009 |
+| Large, do fit sexual organs           |     0.011 |
+| Undisclosed                           |     0.07  |
+| Young, unsuitable at our age          |     0.504 |
+| Condoms promote sexual experimentation
+and activity                                       |     0.202 |
+| Can not use condoms properly          |     0.038 |
+| it is a sin against God               |     0.035 |
+| Condoms cause AIDS and other diseases |     0.014 |
+| Large, do fit sexual organs           |     0.008 |
+| Undisclosed                           |     0.199 |

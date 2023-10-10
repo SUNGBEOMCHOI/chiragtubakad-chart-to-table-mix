@@ -1,0 +1,13 @@
+| title                         |   sexual ipv |
+| limits contact with family    |         0.3  |
+| no trust with money           |         0.36 |
+| no permission to meet friends |         0.38 |
+| accusses of unfaithfullness   |         0.4  |
+| insists onknowing whereabout  |         0.62 |
+| jealous                       |         0.72 |
+| limits contact with family    |         0.18 |
+| no trust with money           |         0.31 |
+| no permission to meet friends |         0.29 |
+| accusses of unfaithfullness   |         0.35 |
+| insists onknowing whereabout  |         0.54 |
+| jealous                       |         0.68 |

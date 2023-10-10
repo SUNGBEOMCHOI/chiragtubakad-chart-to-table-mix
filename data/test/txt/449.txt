@@ -1,0 +1,9 @@
+| title               |   [unnamed data series #0] |
+| Retired             |                  0.188571  |
+| Self-employed       |                  0.0802817 |
+| Employed            |                  0.299296  |
+| Homemaker           |                  0.0732394 |
+| Student             |                  0.065493  |
+| Unemployed < 1 Year |                  0.0633803 |
+| Unemployed > 1 Year |                  0.0661972 |
+| Unable to Work      |                  0.0767606 |

@@ -1,0 +1,11 @@
+| title               |      pre |
+| Concepts            |  7.92234 |
+| Relations           |  4.49955 |
+| Structure relations |  1.73498 |
+| Process relations   |  2.62359 |
+| 'Junctions'         |  1.73498 |
+| Concepts            | 13.0894  |
+| Relations           | 12.2008  |
+| Structure relations |  4.89449 |
+| Process relations   |  7.00082 |
+| 'Junctions'         |  3.01853 |

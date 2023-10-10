@@ -1,0 +1,28 @@
+| title            |   2 + risk factors |
+| No CHD or stroke |              0.443 |
+| CHD or stroke    |              0.52  |
+| Total            |              0.451 |
+| No CHD or stroke |              0.497 |
+| CHD or stroke    |              0.518 |
+| Total            |              0.5   |
+| No CHD or stroke |              0.394 |
+| CHD or Stroke    |              0.524 |
+| Total            |              0.404 |
+| No CHD or stroke |              0.398 |
+| CHD or stroke    |              0.353 |
+| Total            |              0.393 |
+| No CHD or stroke |              0.38  |
+| CHD or stroke    |              0.35  |
+| Total            |              0.376 |
+| No CHD or stroke |              0.414 |
+| CHD or Stroke    |              0.358 |
+| Total            |              0.41  |
+| No CHD or stroke |              0.159 |
+| CHD or stroke    |              0.127 |
+| Total            |              0.156 |
+| No CHD or stroke |              0.123 |
+| CHD or stroke    |              0.132 |
+| Total            |              0.124 |
+| No CHD or stroke |              0.192 |
+| CHD or Stroke    |              0.118 |
+| Total            |              0.186 |

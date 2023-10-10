@@ -1,0 +1,6 @@
+| title   |   [unnamed data series #0] |
+| w/oM    |                    23.3544 |
+| w/oM    |                    29.71   |
+| wM      |                    31.0214 |
+| w/oM    |                    21.034  |
+| wM      |                    23.8588 |

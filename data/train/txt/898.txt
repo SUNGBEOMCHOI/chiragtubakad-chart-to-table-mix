@@ -1,0 +1,16 @@
+| title                                                                 |   [unnamed data series #0] |
+| GO:0051173~positive regulation of nitrogen compound metabolic process |                0.000178808 |
+| GO:003128~positive regulation of cellular biosynthetic process        |                0.000329801 |
+| GO:0009611~response to wounding                                       |                0.000361589 |
+| GO:0009891~positive regulation of biosynthesis process                |                0.000375497 |
+| GO:0045935~positive regulation of nucleobase                          |                0.00044702  |
+| GO:0051272~positive regulation of cell motion                         |                0.000649669 |
+| GO:0010557~positive regulation of macrobole biosynthetic process      |                0.000691391 |
+| GO:0008284~positive regulation of cell proliferation                  |                0.000703311 |
+| GO:0042445~hormone metabolic process                                  |                0.000929801 |
+| GO:0030879~mammary gland development                                  |                0.00103113  |
+| GO:0019216~regulation of lip[id metabolic process                     |                0.00119205  |
+| GO:0042127~regulation of cell proliferation                           |                0.00126954  |
+| GO:0042060~wound healing                                              |                0.00237219  |
+| GO:0051270~regulation of cell motion                                  |                0.00249934  |
+| GO:0048372~gland development                                          |                0.00272185  |

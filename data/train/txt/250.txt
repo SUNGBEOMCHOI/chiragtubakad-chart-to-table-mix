@@ -1,0 +1,7 @@
+| title                                                                                |   Baseline coverage |
+| %Supplies]: % health centers without interruption in stock of iron for the past year |           0.905983  |
+| [% Staff]: % health workers trained in ANC in post                                   |           0.818803  |
+| [% Access]: % of population living within one hour of health post                    |           0.692308  |
+| [% Utilisation]: % of women with one or more antenatal visit in last pregnancy       |           0.560684  |
+| [% Continuity]: % of women with three or more antenatal visits                       |           0.290598  |
+| [% Quality]: % of women with full antenatal care                                     |           0.0205128 |

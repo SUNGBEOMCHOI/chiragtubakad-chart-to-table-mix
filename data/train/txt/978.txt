@@ -1,0 +1,10 @@
+| title       |   Business owners |
+| Repairers   |           2.65334 |
+| Dismantlers |           3.03719 |
+| Butchers    |           6.03599 |
+| Repairers   |           3.57697 |
+| Dismantlers |           3.45702 |
+| Butchers    |           5.28029 |
+| Repairers   |           2.43743 |
+| Dismantlers |           4.32067 |
+| Butchers    |           5.66413 |

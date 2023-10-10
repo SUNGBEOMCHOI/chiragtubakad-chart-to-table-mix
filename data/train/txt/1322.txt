@@ -1,0 +1,9 @@
+| title           |   % Point mutations |
+| High n= 18      |           0.223914  |
+| Moderate n = 18 |           0.251013  |
+| Low n= 128      |           0.470585  |
+| General n= 160  |           0.421251  |
+| High n= 18      |           0         |
+| Moderate n = 18 |           0         |
+| Low n= 128      |           0.0465547 |
+| General n= 160  |           0.036132  |

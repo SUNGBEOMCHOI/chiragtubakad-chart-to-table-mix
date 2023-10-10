@@ -1,0 +1,8 @@
+| Category                 |   first quartile |     max |   median |     min |   third quartile | x              |
+| [unnamed data series #0] |          39.0838 | 57.2125 |  47.1735 | 33.1384 |          52.6316 | wildtype       |
+| [unnamed data series #0] |          38.694  | 66.3743 |  43.8596 | 35.8674 |          54.7758 | wildtype(oxic) |
+| [unnamed data series #0] |          40.0585 | 66.1793 |  48.1481 | 31.9688 |          56.9201 | \delta maml    |
+| [unnamed data series #0] |          39.4737 | 62.8655 |  46.0039 | 31.1891 |          50.6823 | \delta mamN    |
+| [unnamed data series #0] |          30.8967 | 44.347  |  34.6979 | 27.2904 |          37.8168 | \delta mamM    |
+| [unnamed data series #0] |          31.8713 | 40.2534 |  34.5029 | 29.0448 |          37.037  | \delta mamL    |
+| [unnamed data series #0] |          30.117  | 39.4737 |  34.1131 | 27.8752 |          36.8421 | \delta mamQ    |

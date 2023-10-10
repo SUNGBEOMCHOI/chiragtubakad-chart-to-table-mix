@@ -1,0 +1,8 @@
+| title                                    |   [unnamed data series #0] |
+| fln-1(tm545); lfe-2(sy326) unc-57(ad592) |                    45.1662 |
+| fln-1(tm545) itr-1(sy290) dpy-20(e1282)  |                    45.7964 |
+| fln-1(tm545) itr-1(sy290) unc-24(e138)   |                    46.0065 |
+| fln-1(tm545) itr-1(sy328) unc-24(e138)   |                    58.2959 |
+| fln-1(tm545) itr-1(sy327) unc-24(e138)   |                    63.2326 |
+| fln-1(tm545) unc-24(e138)                |                    20.7974 |
+| fin-1(tm545)                             |                    24.3687 |

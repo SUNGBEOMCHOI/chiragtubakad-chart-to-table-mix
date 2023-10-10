@@ -1,0 +1,3 @@
+| title                    |   [unnamed data series #0] |
+| Sustainability threshold |                      0.29  |
+| Concentration threshold  |                      0.465 |

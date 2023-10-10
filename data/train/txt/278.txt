@@ -1,0 +1,7 @@
+| title                         |   Before yoga |
+| (alpha + theeta)/(alpha+beta) |         4.077 |
+| beta/ (alpha+theeta)          |         0.092 |
+| (delta+teeta)/ alpha          |         6.472 |
+| (alpha + theeta)/(alpha+beta) |         2.048 |
+| beta/ (alpha+theeta)          |         0.228 |
+| (delta+teeta)/ alpha          |         3.82  |

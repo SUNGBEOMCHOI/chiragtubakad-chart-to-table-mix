@@ -1,0 +1,7 @@
+| title                                             |   [unnamed data series #0] |
+| Tested recently                                   |                    5.78571 |
+| Don't want to know status                         |                   16.1429  |
+| Not at risk                                       |                   26.4375  |
+| No symptoms                                       |                   27.2857  |
+| Do not want to be tested in context of this study |                   31.2857  |
+| No time/too far away                              |                   44.0714  |

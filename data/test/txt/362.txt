@@ -1,0 +1,28 @@
+| title             |   Health facility |
+| Fires             |          43.8604  |
+| Road traffic
+injuries                   |          22.9617  |
+| Venomous plants
+and animals                   |          21.7957  |
+| Mechanical forces |          15.6068  |
+| Falls             |          14.2614  |
+| Forces of nature  |           5.38165 |
+| Drowning          |           2.95991 |
+| Fires             |          39.7345  |
+| Road traffic
+injuries                   |          13.2747  |
+| Venomous plants
+and animals                   |          53.1886  |
+| Mechanical forces |          52.9195  |
+| Falls             |          71.3068  |
+| Forces of nature  |          67.2706  |
+| Drowning          |          33.8147  |
+| Fires             |          16.3243  |
+| Road traffic
+injuries                   |          63.5035  |
+| Venomous plants
+and animals                   |          25.1144  |
+| Mechanical forces |          31.4826  |
+| Falls             |          14.1717  |
+| Forces of nature  |          27.267   |
+| Drowning          |          63.1447  |

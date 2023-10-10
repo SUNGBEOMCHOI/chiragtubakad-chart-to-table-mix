@@ -1,0 +1,17 @@
+| title   |   GFR 30-59 |
+| Garg et al. [23],
+2004 (Canada)         |  0.315903   |
+| Hemmelgarn et al. [24],
+2006 (Canada)         |  0.310437   |
+| Manjunath et al. (26),
+2003 (USA)         |  0.224124   |
+| Wasen et al. [35],
+2004 (Finland)         |  0.33892    |
+| Garg et al. [23],
+2004 (Canada)         |  0.0385528  |
+| Hemmelgarn et al. [24],
+2006 (Canada)         |  0.0388405  |
+| Manjunath et al. (26),
+2003 (USA)         |  0.00431562 |
+| Wasen et al. [35],
+2004 (Finland)         |  0.0172625  |

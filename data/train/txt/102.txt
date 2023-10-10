@@ -1,0 +1,19 @@
+| title     |      pGB2 |
+| wild-type | 1.00624   |
+| lexaDef   | 1.00624   |
+| \delta hold
+\delta trkA           | 1.02521   |
+| \delta hold \delta trkA
+lexAind           | 1.00624   |
+| wild-type | 0.883561  |
+| lexaDef   | 0.668758  |
+| \delta hold
+\delta trkA           | 0.0101723 |
+| \delta hold \delta trkA
+lexAind           | 0.496863  |
+| wild-type | 0.733823  |
+| lexaDef   | 0.761589  |
+| \delta hold
+\delta trkA           | 1.04453   |
+| \delta hold \delta trkA
+lexAind           | 0.790405  |

@@ -1,0 +1,19 @@
+| title              |      Low |
+| Overweight/Obesity | 0.264534 |
+| Abodiminal Obesity | 0.23123  |
+| Hypertension       | 0.355098 |
+| Hyperglycemia      | 0.217207 |
+| \geq 1 cardiometabolic
+risk marker                    | 0.297838 |
+| Overweight/Obesity | 0.303097 |
+| Abodiminal Obesity | 0.324131 |
+| Hypertension       | 0.394245 |
+| Hyperglycemia      | 0.350424 |
+| \geq 1 cardiometabolic
+risk marker                    | 0.325884 |
+| Overweight/Obesity | 0.429886 |
+| Abodiminal Obesity | 0.446246 |
+| Hypertension       | 0.464943 |
+| Hyperglycemia      | 0.385481 |
+| \geq 1 cardiometabolic
+risk marker                    | 0.380806 |

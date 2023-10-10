@@ -1,0 +1,37 @@
+| title                            |   Health promotion |
+| endocrine and metabolic diseases |           0.141911 |
+| congenital malformations         |           0.141911 |
+| musculoskeletal dieseases        |           0.141911 |
+| perinatal dieseases, pregnancy   |           1.2772   |
+| neoplasms                        |           2.98013  |
+| digestive system                 |           0.141911 |
+| non-disease specific             |          16.036    |
+| mental disorders                 |           5.81835  |
+| circulatory system               |           1.2772   |
+| respiratory system               |           0.709555 |
+| injuries                         |           0.709555 |
+| infectious dieseases             |           0.709555 |
+| endocrine and metabolic diseases |           1.13529  |
+| congenital malformations         |           1.13529  |
+| musculoskeletal dieseases        |           0.567644 |
+| perinatal dieseases, pregnancy   |          -0.567644 |
+| neoplasms                        |           1.13529  |
+| digestive system                 |           0        |
+| non-disease specific             |           6.81173  |
+| mental disorders                 |          33.491    |
+| circulatory system               |           2.27058  |
+| respiratory system               |          99.3377   |
+| injuries                         |         225.355    |
+| infectious dieseases             |         250.331    |
+| endocrine and metabolic diseases |          -0.567644 |
+| congenital malformations         |           0        |
+| musculoskeletal dieseases        |           5.1088   |
+| perinatal dieseases, pregnancy   |           7.94702  |
+| neoplasms                        |           4.54115  |
+| digestive system                 |          30.6528   |
+| non-disease specific             |          17.0293   |
+| mental disorders                 |           0.567644 |
+| circulatory system               |          55.0615   |
+| respiratory system               |           0        |
+| injuries                         |           0        |
+| infectious dieseases             |           9.08231  |

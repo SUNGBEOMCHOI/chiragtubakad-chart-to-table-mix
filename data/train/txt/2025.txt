@@ -1,0 +1,9 @@
+| title                |      Men |
+| Overweight(25<30)    | 1.25213  |
+| Obese I (30<35)      | 1.21276  |
+| Obese II (35<40)     | 1.18214  |
+| Obese III (> or =40) | 1.22807  |
+| Overweight(25<30)    | 1.01154  |
+| Obese I (30<35)      | 0.856258 |
+| Obese II (35<40)     | 0.880316 |
+| Obese III (> or =40) | 1.04654  |

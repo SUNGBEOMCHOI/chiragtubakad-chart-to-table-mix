@@ -1,0 +1,21 @@
+| title     |   MSUP_PA |
+| Cluster 1 |  1.21529  |
+| Cluster 2 | -0.925308 |
+| Cluster 3 |  0.213533 |
+| Cluster 4 | -0.550967 |
+| Cluster 5 |  0.202988 |
+| Cluster 1 |  1.20475  |
+| Cluster 2 | -0.888401 |
+| Cluster 3 |  0.387522 |
+| Cluster 4 | -0.413884 |
+| Cluster 5 | -0.751318 |
+| Cluster 1 |  0.872583 |
+| Cluster 2 | -1.19947  |
+| Cluster 3 | -0.672232 |
+| Cluster 4 |  0.461336 |
+| Cluster 5 |  0.51406  |
+| Cluster 1 |  0.756591 |
+| Cluster 2 | -0.809315 |
+| Cluster 3 | -0.108084 |
+| Cluster 4 |  0.877856 |
+| Cluster 5 | -1.07293  |

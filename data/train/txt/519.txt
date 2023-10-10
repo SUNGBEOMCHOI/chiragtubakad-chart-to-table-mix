@@ -1,0 +1,11 @@
+| title        |       HTM |
+| FDT          | 20.2015   |
+| EDOT-AZO     | 10.9449   |
+| PTAA         | 22.178    |
+| NiO          | 15.8532   |
+| Spiro-FL-III | 20.745    |
+| FDT          | 19.7403   |
+| EDOT-AZO     | 11.9002   |
+| PTAA         |  0.107061 |
+| NiO          |  0.107061 |
+| Spiro-FL-III | 18.7685   |

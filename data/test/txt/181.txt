@@ -1,0 +1,16 @@
+| title     |      0 min |
+| WT-no-DSB |   0.111536 |
+| WT-tel    |  32.0805   |
+| WT-cen    |  30.8644   |
+| rad30-cen |  37.4435   |
+| rev3-cen  |   1.21874  |
+| WT-no-DSB |   0.173952 |
+| WT-tel    |  92.8531   |
+| WT-cen    | 213.132    |
+| rad30-cen | 326.039    |
+| rev3-cen  |   3.14134  |
+| WT-no-DSB |   0.294515 |
+| WT-tel    | 156.451    |
+| WT-cen    | 366.118    |
+| rad30-cen | 518.412    |
+| rev3-cen  |   3.03689  |

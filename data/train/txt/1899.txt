@@ -1,0 +1,9 @@
+| title                      |   [unnamed data series #0] |
+| YPK9                       |                  101.148   |
+| YJR2                       |                  314.091   |
+| YJR2 ATP1-111              |                  175.678   |
+| YPK9 cox4\Delta            |                  145.067   |
+| YJR2 ATP1-111 rtg2\Delta   |                    8.42899 |
+| YJR2 ATP1-111 rtg3\Delta   |                    7.54173 |
+| YPK9 cox4\Delta rtg2\Delta |                    9.31625 |
+| YPK9 cox4\Delta rtg3\Delta |                    7.54173 |

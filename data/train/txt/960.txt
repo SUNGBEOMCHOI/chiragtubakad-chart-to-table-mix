@@ -1,0 +1,7 @@
+| title    |     Male |
+| Direct   |  76.2483 |
+| Indirect | 454.854  |
+| Total    | 519.025  |
+| Direct   | 249.509  |
+| Indirect | 454.854  |
+| Total    | 701.911  |

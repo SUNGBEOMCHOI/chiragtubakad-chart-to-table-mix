@@ -1,0 +1,8 @@
+| title   |   [unnamed data series #0] |
+| LSB     |                   108.279  |
+| LCBS-1  |                    44.6657 |
+| LCBS-2  |                    46.2589 |
+| LCBS-3  |                    44.2105 |
+| LCBA-1  |                    13.4851 |
+| LCBA-2  |                    14.8506 |
+| LCBA-3  |                    25.0925 |

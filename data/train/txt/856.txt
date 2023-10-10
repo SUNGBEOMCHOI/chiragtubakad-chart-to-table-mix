@@ -1,0 +1,5 @@
+| title      |   No Opportunity to Derogate |
+| Threat     |                    0.0832623 |
+| Non-Threat |                    0.0711904 |
+| Threat     |                    0.119478  |
+| Non-Threat |                    0.0844695 |

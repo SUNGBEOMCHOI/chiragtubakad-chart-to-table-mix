@@ -1,0 +1,17 @@
+| title             |   [unnamed data series #0] |
+| Acidithiobacillus |                   12.1913  |
+| Rhodanobacter     |                    7.32077 |
+| Thiobacillus      |                    5.99792 |
+| Leptospirillum    |                    5.54695 |
+| Acidiphilium      |                    4.49468 |
+| Arthrobacter      |                    3.89339 |
+| Thiomonas         |                    3.14177 |
+| Intrasporangium   |                    2.84112 |
+| Dyella            |                    2.63067 |
+| Burkholderia      |                    2.36008 |
+| Bradyrhizobium    |                    2.11957 |
+| Pseudomonas       |                    1.90911 |
+| Streptomyces      |                    1.24769 |
+| Clavibacter       |                    1.21762 |
+| Pseudoxanthomonas |                    1.15749 |
+| Xanthomonas       |                    1.03723 |

@@ -1,0 +1,16 @@
+| title                  |   [unnamed data series #0] |
+| Birth Weight           |                       0.1  |
+| Current Weight         |                       0.33 |
+| Velocity Weight Gain   |                       0.21 |
+| Crossing Centile Lines |                       0.15 |
+| Waking at Night        |                       0.34 |
+| Large Vol Formula      |                       0.58 |
+| Reﬂux                  |                       0.14 |
+| Frequency of Feeding   |                       0.38 |
+| Crying                 |                       0.1  |
+| Head Control           |                       0.09 |
+| Gender                 |                       0.01 |
+| Medical History        |                       0.02 |
+| Ethnicity              |                       0.04 |
+| Mothers wishes         |                       0.31 |
+| Other                  |                       0.04 |

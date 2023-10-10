@@ -1,0 +1,5 @@
+| Category                 |   first quartile |      max |   median |      min |   third quartile | x                  |
+| [unnamed data series #0] |         0.672189 | 1.04096  | 0.930627 | 0.589687 |         0.982315 | Real-Time Normal   |
+| [unnamed data series #0] |         0.405798 | 0.583723 | 0.460468 | 0.293477 |         0.489294 | Real-Time Deletion |
+| [unnamed data series #0] |         1.01611  | 1.06879  | 1.02903  | 1.00319  |         1.04792  | MLPA Normal        |
+| [unnamed data series #0] |         0.535018 | 0.641375 | 0.535018 | 0.494264 |         0.580741 | MLPA Deletion      |

@@ -1,0 +1,11 @@
+| title    |   Sampling frame |
+| 1st year |            0.312 |
+| 2nd year |            0.296 |
+| 3th year |            0.199 |
+| 4th year |            0.194 |
+| 5th year |            0.043 |
+| 1st year |            0.275 |
+| 2nd year |            0.283 |
+| 3th year |            0.232 |
+| 4th year |            0.21  |
+| 5th year |            0.058 |

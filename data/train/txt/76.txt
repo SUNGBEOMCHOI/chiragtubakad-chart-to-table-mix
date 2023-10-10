@@ -1,0 +1,6 @@
+| title   |   [unnamed data series #0] |
+| Col-0   |                    1.00353 |
+| lacs2-3 |                    3.37713 |
+| lacs2-4 |                    4.92272 |
+| pec1- 2 |                    1.57761 |
+| pec 1-3 |                    1.24641 |

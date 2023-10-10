@@ -1,0 +1,37 @@
+| title            |   Bout length: 30-40 min |
+| Native language  |                     18.9 |
+| Mathematics      |                     18.2 |
+| Science          |                     16.6 |
+| Foreign language |                     12.1 |
+| Music            |                      6.6 |
+| Crafts           |                      7.5 |
+| Native language  |                     36.1 |
+| Mathematics      |                     39.6 |
+| science          |                     34.9 |
+| Foreign language |                     31.5 |
+| Music            |                     19.5 |
+| Crafts           |                      7.9 |
+| Native language  |                     52.2 |
+| Mathematics      |                     56.8 |
+| Science          |                     43.9 |
+| Foreign language |                     54.7 |
+| Music            |                     62.3 |
+| Crafts           |                     18.2 |
+| Native language  |                     16.6 |
+| Mathematics      |                     14.6 |
+| Science          |                     12.2 |
+| Foreign language |                     12.2 |
+| Music            |                     12.1 |
+| Crafts           |                     11.3 |
+| Native language  |                     20.7 |
+| Mathematics      |                     17.9 |
+| science          |                     18.8 |
+| Foreign language |                     17.1 |
+| Music            |                     18   |
+| Crafts           |                     11.7 |
+| Native language  |                     13.9 |
+| Mathematics      |                     15.5 |
+| Science          |                      7.3 |
+| Foreign language |                     12.6 |
+| Music            |                      9.8 |
+| Crafts           |                     10.9 |

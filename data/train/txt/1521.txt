@@ -1,0 +1,9 @@
+| Category                 |   first quartile |      max |   median |        min |   third quartile | x            |
+| [unnamed data series #0] |        2.2007    |  9.0669  |  4.13732 |  0.132042  |          7.08627 | Titanium     |
+| [unnamed data series #0] |        0.0440141 |  3.16901 |  0.22007 |  0.0440141 |          2.24472 | Titanium-PCL |
+| [unnamed data series #0] |       29.2254    | 38.2042  | 35.8275  | 24.2518    |         37.1919  | Titanium-PCL
++VEGF              |
+| [unnamed data series #0] |        1.05634   |  7.04225 |  3.16901 |  0.132042  |          4.09331 | Titanium-PCL
++HMGB1              |
+| [unnamed data series #0] |        9.24296   | 23.1514  | 11.2676  |  1.18838   |         22.1391  | Titanium-PCL
++HMGB1+VEGF              |

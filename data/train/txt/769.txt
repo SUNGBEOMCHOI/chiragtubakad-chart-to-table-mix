@@ -1,0 +1,9 @@
+| title     |   non-syntenic |
+| Type I    |             34 |
+| Type Il   |             15 |
+| Type IllA |             57 |
+| Type IIIB |             68 |
+| Type I    |              6 |
+| Type Il   |              4 |
+| Type IllA |              9 |
+| Type IIIB |             17 |

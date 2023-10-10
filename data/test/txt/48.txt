@@ -1,0 +1,15 @@
+| Category                       |         X |       Y |
+| N. Africa Populations | Qatar  | 0.034635  | 12562.9 |
+| N. Africa Populations | Qatar  | 0.039562  | 14417.2 |
+| N. Africa Populations | Qatar  | 0.0404015 | 14726.3 |
+| N. Africa Populations | Qatar  | 0.0416788 | 15211.9 |
+| N. Africa Populations | Qatar  | 0.0539781 | 19891.8 |
+| N. Africa Populations | Qatar  | 0.060073  | 22320.1 |
+| N. Africa Populations | Qatar  | 0.0631752 | 23556.3 |
+| N. Africa Populations | Europe | 0.0286861 | 14328.9 |
+| N. Africa Populations | Europe | 0.0325547 | 16271.5 |
+| N. Africa Populations | Europe | 0.0363504 | 18125.8 |
+| N. Africa Populations | Europe | 0.0376642 | 19008.8 |
+| N. Africa Populations | Europe | 0.0442336 | 22099.3 |
+| N. Africa Populations | Europe | 0.0527737 | 26690.9 |
+| N. Africa Populations | Europe | 0.0571533 | 28898.5 |

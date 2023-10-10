@@ -1,0 +1,9 @@
+| title                          |   [unnamed data series #0] |
+| Television or radio            |                       3213 |
+| Internet sites                 |                       2908 |
+| Newspaper or magazine          |                       2881 |
+| Friend or family menber        |                       2016 |
+| Doctor/physician               |                       1163 |
+| Other health care professional |                       1052 |
+| Other                          |                       1916 |
+| Never heard                    |                        261 |

@@ -1,0 +1,13 @@
+| Category   | X     |        Y |
+| Rep-1      | NEXUS | 0.852802 |
+| Rep-1      | ADM   | 0.874353 |
+| Rep-1      | SaRa  | 0.720618 |
+| Rep-1      | CBS   | 0.904526 |
+| Rep-2      | NEXUS | 0.967744 |
+| Rep-2      | ADM   | 0.983549 |
+| Rep-2      | CBS   | 0.926078 |
+| Rep-2      | SaRa  | 0.805388 |
+| Rep-3      | NEXUS | 0.868606 |
+| Rep-3      | ADM   | 0.882974 |
+| Rep-3      | SaRa  | 0.699066 |
+| Rep-3      | CBS   | 0.847055 |

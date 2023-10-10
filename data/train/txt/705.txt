@@ -1,0 +1,25 @@
+| title     |      A549 |
+| E-Liquid vapor 0,0 %
+nicotine           | 0.877884  |
+| E-Liquid vapor 2,4 %
+nicotine           | 0.877884  |
+| Cigarette
+mainstream smoke           | 0.215492  |
+| Incubator | 1.02795   |
+| Clean air | 0.998319  |
+| E-Liquid vapor 0,0 %
+nicotine           | 0.754582  |
+| E-Liquid vapor 2,4 %
+nicotine           | 0.702967  |
+| Cigarette
+mainstream smoke           | 0.106528  |
+| Incubator | 1.0203    |
+| Clean air | 0.995452  |
+| E-Liquid vapor 0,0 %
+nicotine           | 0.59209   |
+| E-Liquid vapor 2,4 %
+nicotine           | 0.523271  |
+| Cigarette
+mainstream smoke           | 0.0835876 |
+| Incubator | 0.95913   |
+| Clean air | 0.997363  |

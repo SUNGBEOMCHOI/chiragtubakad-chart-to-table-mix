@@ -1,0 +1,7 @@
+| title   |   expansions |
+| PolB+/+ |     94.4123  |
+| PolB+/c |     90.468   |
+| PolB+/+ |      4.43321 |
+| PolB+/c |      8.62402 |
+| PolB+/+ |      1.72152 |
+| PolB+/c |      1.72152 |

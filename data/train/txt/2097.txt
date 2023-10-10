@@ -1,0 +1,7 @@
+| title                            |   [unnamed data series #0] |
+| were not advisedby doctors       |                       6.06 |
+| being away from residential area |                      15.16 |
+| duration was to long             |                      13.63 |
+| forgetfulness                    |                      24.24 |
+| too busy to take the drug        |                      22.72 |
+| side effect                      |                      18.19 |

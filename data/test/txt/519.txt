@@ -1,0 +1,10 @@
+| title                                         |   [unnamed data series #0] |
+| Midwife advisd not to get vaccinated          |                        1.8 |
+| Because of temporal and organisational issues |                        2   |
+| Sick for vaccination appointment              |                        2.8 |
+| Physician advised not to get vaccinated       |                        4   |
+| Didn't remember upcoming vaccinations         |                       10.1 |
+| Vaccination could stress physically           |                       18   |
+| Afraid of side effects and vaccination damage |                       18.3 |
+| Didn't know vaccination recommendation        |                       44.1 |
+| Vaccination not necessary                     |                       52.2 |

@@ -1,0 +1,181 @@
+| Category             |       X |         Y |
+| Total infected MSM   | 2017.99 | 4.88903   |
+| Total infected MSM   | 2017.85 | 4.73789   |
+| Total infected MSM   | 2017.71 | 4.58675   |
+| Total infected MSM   | 2017.56 | 4.44356   |
+| Total infected MSM   | 2017.42 | 4.30833   |
+| Total infected MSM   | 2017.17 | 4.06968   |
+| Total infected MSM   | 2016.9  | 3.83899   |
+| Total infected MSM   | 2016.66 | 3.62421   |
+| Total infected MSM   | 2016.42 | 3.40148   |
+| Total infected MSM   | 2016.17 | 3.19465   |
+| Total infected MSM   | 2015.92 | 2.99578   |
+| Total infected MSM   | 2015.66 | 2.82873   |
+| Total infected MSM   | 2015.4  | 2.64577   |
+| Total infected MSM   | 2015.17 | 2.49463   |
+| Total infected MSM   | 2014.92 | 2.31167   |
+| Total infected MSM   | 2014.67 | 2.16053   |
+| Total infected MSM   | 2014.42 | 2.03325   |
+| Total infected MSM   | 2014.15 | 1.89802   |
+| Total infected MSM   | 2013.91 | 1.77074   |
+| Total infected MSM   | 2013.66 | 1.65937   |
+| Total infected MSM   | 2013.41 | 1.54801   |
+| Total infected MSM   | 2013.16 | 1.44459   |
+| Total infected MSM   | 2012.91 | 1.33323   |
+| Total infected MSM   | 2012.66 | 1.24572   |
+| Total infected MSM   | 2012.41 | 1.16618   |
+| Total infected MSM   | 2012.16 | 1.07867   |
+| Total infected MSM   | 2007.97 | 0.307056  |
+| Total infected MSM   | 2008.1  | 0.33092   |
+| Total infected MSM   | 2008.2  | 0.338875  |
+| Total infected MSM   | 2008.31 | 0.338875  |
+| Total infected MSM   | 2008.41 | 0.34683   |
+| Total infected MSM   | 2008.68 | 0.378649  |
+| Total infected MSM   | 2008.91 | 0.410469  |
+| Total infected MSM   | 2009.17 | 0.434333  |
+| Total infected MSM   | 2009.42 | 0.466152  |
+| Total infected MSM   | 2009.67 | 0.505926  |
+| Total infected MSM   | 2009.92 | 0.56161   |
+| Total infected MSM   | 2010.17 | 0.601384  |
+| Total infected MSM   | 2010.42 | 0.641158  |
+| Total infected MSM   | 2010.67 | 0.704797  |
+| Total infected MSM   | 2010.91 | 0.752526  |
+| Total infected MSM   | 2011.16 | 0.816164  |
+| Total infected MSM   | 2011.41 | 0.871848  |
+| Total infected MSM   | 2011.66 | 0.943441  |
+| Total infected MSM   | 2011.91 | 1.00708   |
+| Infected Versatile   | 2017.97 | 3.75945   |
+| Infected Versatile   | 2017.85 | 3.62421   |
+| Infected Versatile   | 2017.7  | 3.52876   |
+| Infected Versatile   | 2017.57 | 3.40943   |
+| Infected Versatile   | 2017.41 | 3.30602   |
+| Infected Versatile   | 2017.16 | 3.13102   |
+| Infected Versatile   | 2016.92 | 2.9401    |
+| Infected Versatile   | 2016.67 | 2.75714   |
+| Infected Versatile   | 2016.41 | 2.59804   |
+| Infected Versatile   | 2016.17 | 2.4469    |
+| Infected Versatile   | 2015.92 | 2.28781   |
+| Infected Versatile   | 2015.67 | 2.15257   |
+| Infected Versatile   | 2015.42 | 2.0253    |
+| Infected Versatile   | 2015.18 | 1.89006   |
+| Infected Versatile   | 2014.93 | 1.77074   |
+| Infected Versatile   | 2014.67 | 1.65142   |
+| Infected Versatile   | 2014.4  | 1.55596   |
+| Infected Versatile   | 2014.16 | 1.45255   |
+| Infected Versatile   | 2013.93 | 1.34118   |
+| Infected Versatile   | 2013.66 | 1.26959   |
+| Infected Versatile   | 2013.43 | 1.17413   |
+| Infected Versatile   | 2013.16 | 1.10254   |
+| Infected Versatile   | 2012.94 | 1.02299   |
+| Infected Versatile   | 2012.66 | 0.943441  |
+| Infected Versatile   | 2012.41 | 0.895712  |
+| Infected Versatile   | 2012.16 | 0.816164  |
+| Infected Versatile   | 2011.92 | 0.768435  |
+| Infected Versatile   | 2011.66 | 0.712752  |
+| Infected Versatile   | 2011.41 | 0.657068  |
+| Infected Versatile   | 2011.17 | 0.601384  |
+| Infected Versatile   | 2010.92 | 0.569565  |
+| Infected Versatile   | 2010.67 | 0.529791  |
+| Infected Versatile   | 2010.41 | 0.490017  |
+| Infected Versatile   | 2010.17 | 0.450243  |
+| Infected Versatile   | 2009.92 | 0.434333  |
+| Infected Versatile   | 2009.68 | 0.394559  |
+| Infected Versatile   | 2009.43 | 0.36274   |
+| Infected Versatile   | 2009.18 | 0.322966  |
+| Infected Versatile   | 2008.94 | 0.307056  |
+| Infected Versatile   | 2008.66 | 0.283191  |
+| Infected Versatile   | 2008.41 | 0.259327  |
+| Infected Versatile   | 2008.34 | 0.259327  |
+| Infected Versatile   | 2008.24 | 0.251372  |
+| Infected Versatile   | 2008.1  | 0.243417  |
+| Infected Versatile   | 2008    | 0.235463  |
+| Infected Only-Bottom | 2017.97 | 0.720706  |
+| Infected Only-Bottom | 2017.84 | 0.712752  |
+| Infected Only-Bottom | 2017.71 | 0.688887  |
+| Infected Only-Bottom | 2017.56 | 0.672977  |
+| Infected Only-Bottom | 2017.41 | 0.657068  |
+| Infected Only-Bottom | 2017.17 | 0.617294  |
+| Infected Only-Bottom | 2016.91 | 0.569565  |
+| Infected Only-Bottom | 2016.66 | 0.5457    |
+| Infected Only-Bottom | 2016.41 | 0.521836  |
+| Infected Only-Bottom | 2016.16 | 0.490017  |
+| Infected Only-Bottom | 2015.92 | 0.450243  |
+| Infected Only-Bottom | 2015.67 | 0.434333  |
+| Infected Only-Bottom | 2015.42 | 0.402514  |
+| Infected Only-Bottom | 2015.17 | 0.386604  |
+| Infected Only-Bottom | 2014.92 | 0.354785  |
+| Infected Only-Bottom | 2014.67 | 0.338875  |
+| Infected Only-Bottom | 2014.42 | 0.315011  |
+| Infected Only-Bottom | 2014.16 | 0.299101  |
+| Infected Only-Bottom | 2013.94 | 0.275237  |
+| Infected Only-Bottom | 2013.68 | 0.251372  |
+| Infected Only-Bottom | 2013.41 | 0.243417  |
+| Infected Only-Bottom | 2013.17 | 0.243417  |
+| Infected Only-Bottom | 2012.91 | 0.211598  |
+| Infected Only-Bottom | 2012.67 | 0.195688  |
+| Infected Only-Bottom | 2012.42 | 0.179779  |
+| Infected Only-Bottom | 2012.17 | 0.163869  |
+| Infected Only-Bottom | 2011.92 | 0.163869  |
+| Infected Only-Bottom | 2011.66 | 0.14796   |
+| Infected Only-Bottom | 2011.43 | 0.140005  |
+| Infected Only-Bottom | 2011.18 | 0.13205   |
+| Infected Only-Bottom | 2010.91 | 0.11614   |
+| Infected Only-Bottom | 2010.67 | 0.108186  |
+| Infected Only-Bottom | 2010.42 | 0.0843211 |
+| Infected Only-Bottom | 2010.17 | 0.0922759 |
+| Infected Only-Bottom | 2009.93 | 0.0843211 |
+| Infected Only-Bottom | 2009.68 | 0.0763662 |
+| Infected Only-Bottom | 2009.43 | 0.0604566 |
+| Infected Only-Bottom | 2009.15 | 0.0684114 |
+| Infected Only-Bottom | 2008.91 | 0.0604566 |
+| Infected Only-Bottom | 2008.66 | 0.0525018 |
+| Infected Only-Bottom | 2008.41 | 0.0525018 |
+| Infected Only-Bottom | 2008.33 | 0.0525018 |
+| Infected Only-Bottom | 2008.2  | 0.0525018 |
+| Infected Only-Bottom | 2008.09 | 0.0525018 |
+| Infected Only-Bottom | 2007.97 | 0.0525018 |
+| Infected Only-Top    | 2007.99 | 0.0286373 |
+| Infected Only-Top    | 2008.09 | 0.0365922 |
+| Infected Only-Top    | 2008.2  | 0.0286373 |
+| Infected Only-Top    | 2008.33 | 0.0286373 |
+| Infected Only-Top    | 2008.41 | 0.0365922 |
+| Infected Only-Top    | 2008.68 | 0.0365922 |
+| Infected Only-Top    | 2008.94 | 0.0365922 |
+| Infected Only-Top    | 2009.17 | 0.044547  |
+| Infected Only-Top    | 2009.43 | 0.0525018 |
+| Infected Only-Top    | 2009.68 | 0.0525018 |
+| Infected Only-Top    | 2009.92 | 0.0604566 |
+| Infected Only-Top    | 2010.16 | 0.0525018 |
+| Infected Only-Top    | 2010.42 | 0.0763662 |
+| Infected Only-Top    | 2010.66 | 0.0604566 |
+| Infected Only-Top    | 2010.93 | 0.0684114 |
+| Infected Only-Top    | 2011.17 | 0.0604566 |
+| Infected Only-Top    | 2011.41 | 0.0843211 |
+| Infected Only-Top    | 2011.68 | 0.0922759 |
+| Infected Only-Top    | 2011.93 | 0.100231  |
+| Infected Only-Top    | 2012.16 | 0.100231  |
+| Infected Only-Top    | 2012.41 | 0.108186  |
+| Infected Only-Top    | 2012.67 | 0.108186  |
+| Infected Only-Top    | 2012.92 | 0.11614   |
+| Infected Only-Top    | 2013.16 | 0.124095  |
+| Infected Only-Top    | 2013.43 | 0.140005  |
+| Infected Only-Top    | 2013.66 | 0.13205   |
+| Infected Only-Top    | 2013.91 | 0.14796   |
+| Infected Only-Top    | 2014.16 | 0.155914  |
+| Infected Only-Top    | 2014.42 | 0.163869  |
+| Infected Only-Top    | 2014.67 | 0.179779  |
+| Infected Only-Top    | 2014.94 | 0.187734  |
+| Infected Only-Top    | 2015.17 | 0.211598  |
+| Infected Only-Top    | 2015.4  | 0.219553  |
+| Infected Only-Top    | 2015.66 | 0.235463  |
+| Infected Only-Top    | 2015.92 | 0.251372  |
+| Infected Only-Top    | 2016.17 | 0.251372  |
+| Infected Only-Top    | 2016.43 | 0.283191  |
+| Infected Only-Top    | 2016.67 | 0.307056  |
+| Infected Only-Top    | 2016.92 | 0.322966  |
+| Infected Only-Top    | 2017.17 | 0.338875  |
+| Infected Only-Top    | 2017.42 | 0.354785  |
+| Infected Only-Top    | 2017.55 | 0.378649  |
+| Infected Only-Top    | 2017.67 | 0.370694  |
+| Infected Only-Top    | 2017.84 | 0.378649  |
+| Infected Only-Top    | 2017.97 | 0.394559  |

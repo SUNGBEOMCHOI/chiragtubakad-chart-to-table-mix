@@ -1,0 +1,9 @@
+| title                         |   unhealthy snacks |
+| 25% healthy at top shelves    |                 23 |
+| 25% healthy at bottom shelves |                 41 |
+| 75% healthy at bottom shelves |                 10 |
+| 75% healthy at top shelves    |                 17 |
+| 25% healthy at top shelves    |                 33 |
+| 25% healthy at bottom shelves |                 11 |
+| 75% healthy at bottom shelves |                 65 |
+| 75% healthy at top shelves    |                 91 |

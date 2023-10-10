@@ -1,0 +1,4 @@
+| Category             | X                           |       Y |
+| Maximum permeability | Sr-B-P-O + silica nanosheet | 386.762 |
+| Maximum permeability | Sr-B-P-O + colloidal silica | 210.25  |
+| Maximum permeability | Sr-B-P-O                    | 630.303 |

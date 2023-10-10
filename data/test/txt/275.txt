@@ -1,0 +1,3 @@
+| Category                 |   first quartile |     max |   median |     min |   third quartile | x         |
+| [unnamed data series #0] |          9.98075 | 19.076  |  13.0606 | 8.05582 |          16.0924 | asthma    |
+| [unnamed data series #0] |         10.077   | 21.0972 |  14.0712 | 7.09336 |          17.8248 | no asthma |

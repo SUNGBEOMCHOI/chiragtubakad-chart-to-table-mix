@@ -1,0 +1,7 @@
+| title       |   normal weight |
+| MVPA        |       132.973   |
+| Moderate PA |       125.571   |
+| Vigorous PA |         7.12523 |
+| MVPA        |       182.326   |
+| Moderate PA |       171.221   |
+| Vigorous PA |        13.2943  |

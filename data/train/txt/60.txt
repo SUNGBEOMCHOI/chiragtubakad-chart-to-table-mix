@@ -1,0 +1,5 @@
+| Category                 |   first quartile |     max |   median |     min |   third quartile | x             |
+| [unnamed data series #0] |          2.37593 | 4.82817 |  2.93157 | 1.56854 |          3.50683 | Stunted |     |
+| [unnamed data series #0] |          2.51287 | 3.60859 |  2.90272 | 2.14689 |          3.24221 | Underweight | |
+| [unnamed data series #0] |          2.56307 | 2.9099  |  2.81786 | 2.53994 |          2.9099  | Wasted        |
+| [unnamed data series #0] |          2.29132 | 5.25573 |  2.92192 | 1.50166 |          3.46127 | Normal        |

@@ -1,0 +1,25 @@
+| title                    |   Control group |
+| Hat flashes and sweating |          0.4434 |
+| Cardiac problems         |          0.1038 |
+| Sleep disturbances       |          0.3962 |
+| Rheumatic type of pain   |          0.132  |
+| Hot flashes and sweating |          0.5189 |
+| Cardiac problems         |          0.1603 |
+| Sleep disturbances       |          0.5472 |
+| Rheumatic type of pain   |          0.2264 |
+| Hat flashes and sweating |          0.5726 |
+| Cardiac problems         |          0.1452 |
+| Sleep disturbances       |          0.5323 |
+| Rheumatic type of pain   |          0.2662 |
+| Hot flashes and sweating |          0.7661 |
+| Cardiac problems         |          0.1775 |
+| Sleep disturbances       |          0.5725 |
+| Rheumatic type of pain   |          0.2983 |
+| Hat flashes and sweating |          0.6105 |
+| Cardiac problems         |          0.1579 |
+| Sleep disturbances       |          0.5684 |
+| Rheumatic type of pain   |         28.42   |
+| Hot flashes and sweating |          0.779  |
+| Cardiac problems         |          0.2    |
+| Sleep disturbances       |          0.6    |
+| Rheumatic type of pain   |          0.3052 |

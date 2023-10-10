@@ -1,0 +1,43 @@
+| Category                      |       X |         Y |
+| Theoretical Maximum; filled   | 39.9802 | 10.7486   |
+| Theoretical Maximum; filled   | 34.9696 |  9.97572  |
+| Theoretical Maximum; filled   | 29.9924 |  8.9948   |
+| Theoretical Maximum; filled   | 24.9817 |  7.86525  |
+| Theoretical Maximum; filled   | 20.0379 |  6.91405  |
+| Theoretical Maximum; filled   | 15.0273 |  5.75477  |
+| Theoretical Maximum; filled   | 10.0167 |  4.47659  |
+| Measured; airgap, no coating  | 40.0136 | 11.997    |
+| Measured; airgap, no coating  | 35.003  | 11.6701   |
+| Measured; airgap, no coating  | 29.9924 | 11.462    |
+| Measured; airgap, no coating  | 25.0486 | 12.4132   |
+| Measured; airgap, no coating  | 20.0379 | 13.3644   |
+| Measured; airgap, no coating  | 15.0273 | 14.4345   |
+| Measured; airgap, no coating  | 10.0167 | 16.6044   |
+| Measured; filled, no coating  |  9.9833 |  1.14739  |
+| Measured; filled, no coating  | 15.0273 |  1.14739  |
+| Measured; filled, no coating  | 20.0045 |  1.20684  |
+| Measured; filled, no coating  | 24.9483 |  1.20684  |
+| Measured; filled, no coating  | 29.9924 |  1.35546  |
+| Measured; filled, no coating  | 35.003  |  1.47436  |
+| Measured; filled, no coating  | 40.0136 |  1.71216  |
+| Measured; air gap, AI coating | 39.9468 |  1.47436  |
+| Measured; air gap, AI coating | 35.003  |  1.11766  |
+| Measured; air gap, AI coating | 29.9924 |  0.879861 |
+| Measured; air gap, AI coating | 24.9817 |  0.642061 |
+| Measured; air gap, AI coating | 19.9711 |  0.701511 |
+| Measured; air gap, AI coating | 15.0273 |  0.760961 |
+| Measured; air gap, AI coating |  9.9833 |  0.463711 |
+| Measured; filled, AI coating  | 39.9802 |  0.790686 |
+| Measured; filled, AI coating  | 34.9362 |  0.760961 |
+| Measured; filled, AI coating  | 29.959  |  0.731236 |
+| Measured; filled, AI coating  | 24.9817 |  0.790686 |
+| Measured; filled, AI coating  | 20.0379 |  0.969036 |
+| Measured; filled, AI coating  | 15.0273 |  1.26629  |
+| Measured; filled, AI coating  | 10.0835 |  2.09859  |
+| Measured; filled, AI coating  | 40.0136 |  0.196185 |
+| Measured; filled, AI coating  | 34.9696 |  0.255635 |
+| Measured; filled, AI coating  | 29.9924 |  0.22591  |
+| Measured; filled, AI coating  |  9.9833 |  1.56354  |
+| Measured; filled, AI coating  | 15.0273 |  0.433986 |
+| Measured; filled, AI coating  | 19.9377 |  0.344811 |
+| Measured; filled, AI coating  | 25.0152 |  0.28536  |

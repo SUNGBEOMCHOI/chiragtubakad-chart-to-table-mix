@@ -1,0 +1,4 @@
+| title                                   |   [unnamed data series #0] |
+| High total sitting time/insutficient PA |                    67.5031 |
+| High total sitting time/sufficient PA   |                    74.7282 |
+| Low total sitting time/sufficient PA    |                    80.0382 |

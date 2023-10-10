@@ -1,0 +1,6 @@
+| title    |   [unnamed data series #0] |
+| cP-Ti    |                    25.5965 |
+| Ti-5Nb   |                    29.3283 |
+| Ti -10Nb |                    21.1929 |
+| Ti-15Nb  |                    18.8046 |
+| Ti-20Nb  |                    18.8792 |

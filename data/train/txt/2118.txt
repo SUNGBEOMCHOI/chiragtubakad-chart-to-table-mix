@@ -1,0 +1,9 @@
+| title                         |   One episode of LTRI |
+| Never exposed to IAP          |                  11.8 |
+| Exposed to IAP in round 1     |                  18.4 |
+| Exposed to IAP in round 2     |                  16.3 |
+| Exposed to IAP in both rounds |                  25.7 |
+| Never exposed to IAP          |                   3.7 |
+| Exposed to IAP in round 1     |                   4.6 |
+| Exposed to IAP in round 2     |                   5.9 |
+| Exposed to IAP in both rounds |                   8.3 |

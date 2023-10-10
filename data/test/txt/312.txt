@@ -1,0 +1,3 @@
+| title   |   [unnamed data series #0] |
+| No      |                    54.6679 |
+| Yes     |                    50.0481 |

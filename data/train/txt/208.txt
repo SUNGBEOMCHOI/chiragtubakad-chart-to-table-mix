@@ -1,0 +1,17 @@
+| title               |   Neuchite |
+| Biological control  |   76.3724  |
+| Deer protection     |   51.185   |
+| Rodents protection  |   41.5583  |
+| Deer reduction      |   30.4811  |
+| Fencing             |   13.3379  |
+| Rodents vaccination |   25.9975  |
+| Acaricides          |   12.2829  |
+| Landscaping         |    9.84326 |
+| Biological control  |   86.065   |
+| Deer protection     |   66.4161  |
+| Rodents protection  |   50.7893  |
+| Deer reduction      |   46.5695  |
+| Fencing             |   37.3385  |
+| Rodents vaccination |   32.5251  |
+| Acaricides          |   28.8987  |
+| Landscaping         |   16.239   |

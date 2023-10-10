@@ -1,0 +1,206 @@
+| Category                   |       X |         Y |
+| No intervention            | 2008.51 | 0.0179134 |
+| No intervention            | 2011.69 | 0.043071  |
+| No intervention            | 2011.92 | 0.045799  |
+| No intervention            | 2012.2  | 0.0494362 |
+| No intervention            | 2012.45 | 0.0592204 |
+| No intervention            | 2012.71 | 0.0719508 |
+| No intervention            | 2012.95 | 0.0819532 |
+| No intervention            | 2013.2  | 0.0965022 |
+| No intervention            | 2013.44 | 0.108323  |
+| No intervention            | 2013.69 | 0.122872  |
+| No intervention            | 2013.94 | 0.140149  |
+| No intervention            | 2014.2  | 0.156517  |
+| No intervention            | 2014.44 | 0.170156  |
+| No intervention            | 2014.7  | 0.193798  |
+| No intervention            | 2014.95 | 0.196005  |
+| No intervention            | 2015.23 | 0.188731  |
+| No intervention            | 2015.43 | 0.182669  |
+| No intervention            | 2015.71 | 0.173575  |
+| No intervention            | 2015.97 | 0.166604  |
+| No intervention            | 2016.2  | 0.156905  |
+| No intervention            | 2016.45 | 0.152188  |
+| No intervention            | 2016.7  | 0.160978  |
+| No intervention            | 2016.95 | 0.170678  |
+| No intervention            | 2017.2  | 0.18068   |
+| No intervention            | 2017.44 | 0.191289  |
+| No intervention            | 2017.6  | 0.197957  |
+| No intervention            | 2017.74 | 0.203716  |
+| No intervention            | 2017.89 | 0.211597  |
+| No intervention            | 2011.46 | 0.0403431 |
+| No intervention            | 2011.18 | 0.0376152 |
+| No intervention            | 2010.93 | 0.0348872 |
+| No intervention            | 2010.67 | 0.0318562 |
+| No intervention            | 2010.25 | 0.0276128 |
+| No intervention            | 2010.43 | 0.0309469 |
+| No intervention            | 2010.18 | 0.0279159 |
+| No intervention            | 2009.93 | 0.0260972 |
+| No intervention            | 2009.69 | 0.0239755 |
+| No intervention            | 2009.42 | 0.02246   |
+| No intervention            | 2009.18 | 0.0209445 |
+| No intervention            | 2008.94 | 0.0203383 |
+| No intervention            | 2008.68 | 0.0179134 |
+| No intervention            | 2008.35 | 0.0176103 |
+| No intervention            | 2008.23 | 0.0154886 |
+| No intervention            | 2008.1  | 0.0151855 |
+| No intervention            | 2018.03 | 0.216699  |
+| HAART, not change behavior | 2009.52 | 0.016701  |
+| HAART, not change behavior | 2009.79 | 0.0179134 |
+| HAART, not change behavior | 2010.02 | 0.0179134 |
+| HAART, not change behavior | 2009.25 | 0.0163979 |
+| HAART, not change behavior | 2009.01 | 0.0163979 |
+| HAART, not change behavior | 2008.75 | 0.0154886 |
+| HAART, not change behavior | 2010.25 | 0.0182165 |
+| HAART, not change behavior | 2010.55 | 0.0182165 |
+| HAART, not change behavior | 2010.78 | 0.0188227 |
+| HAART, not change behavior | 2011.05 | 0.0203383 |
+| HAART, not change behavior | 2011.52 | 0.0203686 |
+| HAART, not change behavior | 2011.78 | 0.021096  |
+| HAART, not change behavior | 2012.02 | 0.0218235 |
+| HAART, not change behavior | 2012.29 | 0.0213385 |
+| HAART, not change behavior | 2012.54 | 0.0223084 |
+| HAART, not change behavior | 2012.8  | 0.0223084 |
+| HAART, not change behavior | 2013.04 | 0.0230359 |
+| HAART, not change behavior | 2013.28 | 0.0235209 |
+| HAART, not change behavior | 2013.53 | 0.0240058 |
+| HAART, not change behavior | 2013.76 | 0.0244908 |
+| HAART, not change behavior | 2014.03 | 0.0247333 |
+| HAART, not change behavior | 2014.3  | 0.0254607 |
+| HAART, not change behavior | 2014.53 | 0.0261882 |
+| HAART, not change behavior | 2014.79 | 0.0269156 |
+| HAART, not change behavior | 2015.04 | 0.0269156 |
+| HAART, not change behavior | 2015.28 | 0.0274006 |
+| HAART, not change behavior | 2015.53 | 0.0283705 |
+| HAART, not change behavior | 2015.79 | 0.0283705 |
+| HAART, not change behavior | 2016.05 | 0.029098  |
+| HAART, not change behavior | 2016.28 | 0.029098  |
+| HAART, not change behavior | 2016.54 | 0.0303104 |
+| HAART, not change behavior | 2016.79 | 0.0310378 |
+| HAART, not change behavior | 2017.05 | 0.0312803 |
+| HAART, not change behavior | 2017.28 | 0.0317653 |
+| HAART, not change behavior | 2017.47 | 0.0324927 |
+| HAART, not change behavior | 2017.65 | 0.0327352 |
+| HAART, not change behavior | 2017.84 | 0.0329777 |
+| HAART, not change behavior | 2018.02 | 0.0337051 |
+| HAART, not change behavior | 2011.28 | 0.0203686 |
+| HAART, not change behavior | 2008.53 | 0.0150339 |
+| HAART, not change behavior | 2008.27 | 0.0147915 |
+| HAART, change behavior     | 2009.27 | 0.0196411 |
+| HAART, change behavior     | 2009.51 | 0.0213385 |
+| HAART, change behavior     | 2009.77 | 0.0225509 |
+| HAART, change behavior     | 2010.02 | 0.0230359 |
+| HAART, change behavior     | 2010.28 | 0.0249758 |
+| HAART, change behavior     | 2010.53 | 0.0269156 |
+| HAART, change behavior     | 2010.76 | 0.0283705 |
+| HAART, change behavior     | 2011.01 | 0.0298254 |
+| HAART, change behavior     | 2011.27 | 0.0320078 |
+| HAART, change behavior     | 2011.51 | 0.0339476 |
+| HAART, change behavior     | 2011.77 | 0.0358875 |
+| HAART, change behavior     | 2012.03 | 0.0373424 |
+| HAART, change behavior     | 2012.28 | 0.0383123 |
+| HAART, change behavior     | 2012.53 | 0.0402522 |
+| HAART, change behavior     | 2012.78 | 0.042192  |
+| HAART, change behavior     | 2013.02 | 0.0451018 |
+| HAART, change behavior     | 2013.27 | 0.0470417 |
+| HAART, change behavior     | 2013.52 | 0.0494665 |
+| HAART, change behavior     | 2013.78 | 0.0556741 |
+| HAART, change behavior     | 2014.03 | 0.0614937 |
+| HAART, change behavior     | 2014.29 | 0.0709505 |
+| HAART, change behavior     | 2014.52 | 0.078225  |
+| HAART, change behavior     | 2014.77 | 0.0869544 |
+| HAART, change behavior     | 2015.04 | 0.0964113 |
+| HAART, change behavior     | 2015.29 | 0.105868  |
+| HAART, change behavior     | 2015.52 | 0.114597  |
+| HAART, change behavior     | 2015.78 | 0.124054  |
+| HAART, change behavior     | 2018.01 | 0.19355   |
+| HAART, change behavior     | 2017.84 | 0.19646   |
+| HAART, change behavior     | 2017.66 | 0.198885  |
+| HAART, change behavior     | 2017.47 | 0.194617  |
+| HAART, change behavior     | 2017.28 | 0.186615  |
+| HAART, change behavior     | 2017.05 | 0.174976  |
+| HAART, change behavior     | 2016.79 | 0.163337  |
+| HAART, change behavior     | 2016.53 | 0.15388   |
+| HAART, change behavior     | 2016.28 | 0.144423  |
+| HAART, change behavior     | 2016.04 | 0.135694  |
+| Vaccine, efficacy=0.3      | 2008    | 0.0155189 |
+| Vaccine, efficacy=0.3      | 2008.09 | 0.0155189 |
+| Vaccine, efficacy=0.3      | 2008.2  | 0.0162464 |
+| Vaccine, efficacy=0.3      | 2008.31 | 0.0162464 |
+| Vaccine, efficacy=0.3      | 2008.41 | 0.0172163 |
+| Vaccine, efficacy=0.3      | 2008.52 | 0.0174588 |
+| Vaccine, efficacy=0.3      | 2008.76 | 0.0181862 |
+| Vaccine, efficacy=0.3      | 2009    | 0.0196411 |
+| Vaccine, efficacy=0.3      | 2009.26 | 0.021096  |
+| Vaccine, efficacy=0.3      | 2009.52 | 0.0225509 |
+| Vaccine, efficacy=0.3      | 2009.76 | 0.0235209 |
+| Vaccine, efficacy=0.3      | 2010.02 | 0.0257032 |
+| Vaccine, efficacy=0.3      | 2010.26 | 0.0269156 |
+| Vaccine, efficacy=0.3      | 2010.51 | 0.0283705 |
+| Vaccine, efficacy=0.3      | 2010.76 | 0.0303104 |
+| Vaccine, efficacy=0.3      | 2011.01 | 0.0317653 |
+| Vaccine, efficacy=0.3      | 2011.26 | 0.0344326 |
+| Vaccine, efficacy=0.3      | 2011.52 | 0.0366149 |
+| Vaccine, efficacy=0.3      | 2011.75 | 0.0378274 |
+| Vaccine, efficacy=0.3      | 2012    | 0.0404947 |
+| Vaccine, efficacy=0.3      | 2012.26 | 0.042677  |
+| Vaccine, efficacy=0.3      | 2012.51 | 0.0451018 |
+| Vaccine, efficacy=0.3      | 2012.77 | 0.0475267 |
+| Vaccine, efficacy=0.3      | 2013    | 0.0513094 |
+| Vaccine, efficacy=0.3      | 2013.26 | 0.0585839 |
+| Vaccine, efficacy=0.3      | 2013.52 | 0.0673133 |
+| Vaccine, efficacy=0.3      | 2013.76 | 0.0760427 |
+| Vaccine, efficacy=0.3      | 2014    | 0.0854995 |
+| Vaccine, efficacy=0.3      | 2014.26 | 0.0956838 |
+| Vaccine, efficacy=0.3      | 2014.52 | 0.103686  |
+| Vaccine, efficacy=0.3      | 2014.77 | 0.115325  |
+| Vaccine, efficacy=0.3      | 2015.01 | 0.124782  |
+| Vaccine, efficacy=0.3      | 2015.27 | 0.136421  |
+| Vaccine, efficacy=0.3      | 2015.52 | 0.146605  |
+| Vaccine, efficacy=0.3      | 2015.77 | 0.158972  |
+| Vaccine, efficacy=0.3      | 2016.01 | 0.170611  |
+| Vaccine, efficacy=0.3      | 2016.27 | 0.183705  |
+| Vaccine, efficacy=0.3      | 2016.52 | 0.197527  |
+| Vaccine, efficacy=0.3      | 2016.78 | 0.19646   |
+| Vaccine, efficacy=0.3      | 2017.02 | 0.191853  |
+| Vaccine, efficacy=0.3      | 2017.27 | 0.18676   |
+| Vaccine, efficacy=0.3      | 2017.53 | 0.181668  |
+| Vaccine, efficacy=0.3      | 2017.64 | 0.179486  |
+| Vaccine, efficacy=0.3      | 2017.76 | 0.176576  |
+| Vaccine, efficacy=0.3      | 2017.9  | 0.173909  |
+| Vaccine, efficacy=0.3      | 2018.03 | 0.171484  |
+| Vaccine, efficacy=0.7      | 2009.78 | 0.0213991 |
+| Vaccine, efficacy=0.7      | 2010.01 | 0.0232177 |
+| Vaccine, efficacy=0.7      | 2010.28 | 0.0248343 |
+| Vaccine, efficacy=0.7      | 2010.52 | 0.0262488 |
+| Vaccine, efficacy=0.7      | 2010.76 | 0.0274612 |
+| Vaccine, efficacy=0.7      | 2011.01 | 0.0290778 |
+| Vaccine, efficacy=0.7      | 2011.26 | 0.0300881 |
+| Vaccine, efficacy=0.7      | 2011.51 | 0.0310984 |
+| Vaccine, efficacy=0.7      | 2011.77 | 0.0325129 |
+| Vaccine, efficacy=0.7      | 2012.01 | 0.0335233 |
+| Vaccine, efficacy=0.7      | 2012.27 | 0.0345336 |
+| Vaccine, efficacy=0.7      | 2012.51 | 0.035746  |
+| Vaccine, efficacy=0.7      | 2012.77 | 0.0371605 |
+| Vaccine, efficacy=0.7      | 2013.01 | 0.0381709 |
+| Vaccine, efficacy=0.7      | 2013.27 | 0.0391812 |
+| Vaccine, efficacy=0.7      | 2013.52 | 0.0405957 |
+| Vaccine, efficacy=0.7      | 2013.78 | 0.0418081 |
+| Vaccine, efficacy=0.7      | 2014.02 | 0.0432226 |
+| Vaccine, efficacy=0.7      | 2014.27 | 0.0436267 |
+| Vaccine, efficacy=0.7      | 2014.52 | 0.0450412 |
+| Vaccine, efficacy=0.7      | 2014.76 | 0.0458495 |
+| Vaccine, efficacy=0.7      | 2015.02 | 0.0466578 |
+| Vaccine, efficacy=0.7      | 2015.27 | 0.0476681 |
+| Vaccine, efficacy=0.7      | 2015.53 | 0.0492847 |
+| Vaccine, efficacy=0.7      | 2015.78 | 0.0508851 |
+| Vaccine, efficacy=0.7      | 2016.02 | 0.0533099 |
+| Vaccine, efficacy=0.7      | 2016.27 | 0.0563409 |
+| Vaccine, efficacy=0.7      | 2016.52 | 0.0599782 |
+| Vaccine, efficacy=0.7      | 2016.78 | 0.0617968 |
+| Vaccine, efficacy=0.7      | 2017.01 | 0.0648278 |
+| Vaccine, efficacy=0.7      | 2017.27 | 0.0684651 |
+| Vaccine, efficacy=0.7      | 2017.52 | 0.0708899 |
+| Vaccine, efficacy=0.7      | 2017.64 | 0.0727085 |
+| Vaccine, efficacy=0.7      | 2017.78 | 0.073921  |
+| Vaccine, efficacy=0.7      | 2017.9  | 0.0751334 |
+| Vaccine, efficacy=0.7      | 2018.04 | 0.0763458 |

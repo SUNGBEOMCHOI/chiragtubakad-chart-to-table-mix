@@ -1,0 +1,4 @@
+| Category                 |   first quartile |      max |   median |        min |   third quartile | x                |
+| [unnamed data series #0] |        0.119461  | 1.46746  | 0.509916 | 0.0264952  |         1.27688  | MYOD-A           |
+| [unnamed data series #0] |        0.0915711 | 0.323985 | 0.17524  | 0.0264952  |         0.244964 | MYOD-G           |
+| [unnamed data series #0] |        0.158971  | 0.535482 | 0.279826 | 0.00557794 |         0.33793  | negative control |

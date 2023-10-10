@@ -1,0 +1,25 @@
+| title                   |   Less than 30 |
+| HBP                     |       34.5914  |
+| Diabetes                |        2.81327 |
+| CVD                     |        2.0208  |
+| CeVD                    |        1.70381 |
+| Bone and joint diseases |        3.76424 |
+| Digestive diseases      |        4.08123 |
+| HBP                     |       43.3086  |
+| Diabetes                |        4.71521 |
+| CVD                     |        4.08123 |
+| CeVD                    |        2.1793  |
+| Bone and joint diseases |       12.7984  |
+| Digestive diseases      |       10.104   |
+| HBP                     |       62.3279  |
+| Diabetes                |        7.25111 |
+| CVD                     |        6.14165 |
+| CeVD                    |        2.81327 |
+| Bone and joint diseases |       17.2363  |
+| Digestive diseases      |       10.2625  |
+| HBP                     |       76.1961  |
+| Diabetes                |       15.1758  |
+| CVD                     |        8.51907 |
+| CeVD                    |        4.08123 |
+| Bone and joint diseases |       22.3081  |
+| Digestive diseases      |       11.055   |

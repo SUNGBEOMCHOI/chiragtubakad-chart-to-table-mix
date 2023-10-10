@@ -1,0 +1,25 @@
+| title            |   Male |
+| Bacteria/germ    |  0.209 |
+| Cold air         |  0.447 |
+| Shortage of food |  0.097 |
+| Smoking/chewing  |  0.384 |
+| Dust             |  0.102 |
+| Sunlight         |  0.083 |
+| Hot climate      |  0.039 |
+| Other            |  0.17  |
+| Bacteria/germ    |  0.25  |
+| Cold air         |  0.392 |
+| Shortage of food |  0.078 |
+| Smoking/chewing  |  0.378 |
+| Dust             |  0.059 |
+| Sunlight         |  0.088 |
+| Hot climate      |  0.015 |
+| Other            |  0.118 |
+| Bacteria/germ    |  0.229 |
+| Cold air         |  0.419 |
+| Shortage of food |  0.089 |
+| Smoking/chewing  |  0.38  |
+| Dust             |  0.08  |
+| Sunlight         |  0.085 |
+| Hot climate      |  0.027 |
+| Other            |  0.144 |

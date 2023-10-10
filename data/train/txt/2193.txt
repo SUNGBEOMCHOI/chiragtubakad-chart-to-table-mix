@@ -1,0 +1,18 @@
+| title                  |   [unnamed data series #0] |
+| Air particulate matter |                78409.1     |
+| Noise                  |                 7099.58    |
+| Passive smoking        |                 6480.67    |
+| Radon                  |                 3749.24    |
+| UV                     |                 3636.97    |
+| Dioxins                |                 2525.16    |
+| Lead                   |                 2104.09    |
+| Heat                   |                  983.915   |
+| Fungus and moist       |                  795.295   |
+| CO                     |                  604.909   |
+| Ozon                   |                  552.176   |
+| Benzene                |                   11.6183  |
+| Electromagnetic fields |                    1.99203 |
+| Formaldehyde           |                    1.02048 |
+| Cadmium                |                    1.02048 |
+| Arsenic                |                    1.02048 |
+| Nickel                 |                    1.02048 |

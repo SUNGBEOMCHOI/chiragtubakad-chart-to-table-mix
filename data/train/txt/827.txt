@@ -1,0 +1,25 @@
+| title                                   |   Daily |
+| Internal Data & Reports                 |    52.7 |
+| Policy, Legislation & Legal Information |    56.9 |
+| Medical & Clinical Evidence             |    53.5 |
+| Experience, Expertise & Advice          |    57.9 |
+| Academic Research Evidence              |     5.5 |
+| Information Online                      |    27.5 |
+| Internal Data & Reports                 |    34.6 |
+| Policy, Legislation & Legal Information |    25.9 |
+| Medical & Clinical Evidence             |    23.7 |
+| Experience, Expertise & Advice          |    31.2 |
+| Academic Research Evidence              |    23.4 |
+| Information Online                      |    47.8 |
+| Internal Data & Reports                 |     9.8 |
+| Policy, Legislation & Legal Information |    11.4 |
+| Medical & Clinical Evidence             |    16.2 |
+| Experience, Expertise & Advice          |     8.8 |
+| Academic Research Evidence              |    35.9 |
+| Information Online                      |    16.5 |
+| Internal Data & Reports                 |     2.9 |
+| Policy, Legislation & Legal Information |     5.8 |
+| Medical & Clinical Evidence             |     6.6 |
+| Experience, Expertise & Advice          |     2.1 |
+| Academic Research Evidence              |    35.2 |
+| Information Online                      |     8.2 |

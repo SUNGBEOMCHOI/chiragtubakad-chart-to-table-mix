@@ -1,0 +1,9 @@
+| title      |   [unnamed data series #0] |
+| Home       |                    6.0271  |
+| Waterpipe
+café            |                   58.0151  |
+| Other café |                   27.9369  |
+| Restaurant |                    1.523   |
+| Tea house/
+garden            |                    5.79808 |
+| Other      |                    1.67568 |

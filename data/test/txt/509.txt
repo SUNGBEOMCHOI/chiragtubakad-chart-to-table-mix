@@ -1,0 +1,8 @@
+| Category                 |   first quartile |     max |   median |       min |   third quartile | x      |
+| [unnamed data series #0] |          2.80576 | 14.8741 |  4.8741  | 0         |          7.67986 | Total  |
+| [unnamed data series #0] |          3.99281 | 16.5288 |  6.49281 | 0.0719424 |          9.04676 | Farm   |
+| [unnamed data series #0] |          2.05036 | 13.6151 |  4.11871 | 0.0359712 |          6.70863 | Forest |
+| [unnamed data series #0] |          1.90647 | 10.9173 |  3.32734 | 0.0719424 |          5.6295  | Grass  |
+| [unnamed data series #0] |          3.70504 | 14.4424 |  5.66547 | 0.0359712 |          7.93165 | Water  |
+| [unnamed data series #0] |          3.59712 | 14.1187 |  5.55755 | 0.0359712 |          7.7518  | Urban  |
+| [unnamed data series #0] |          2.84173 | 15.4496 |  5.19784 | 0.0359712 |          7.89568 | Others |

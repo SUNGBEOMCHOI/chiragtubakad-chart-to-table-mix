@@ -1,0 +1,6 @@
+| title   |   [unnamed data series #0] |
+| Normal  |                    57.5573 |
+| AgNO3   |                    65.5791 |
+| Ethanol |                    31.7271 |
+| EDTA    |                    39.1072 |
+| N2      |                    48.252  |

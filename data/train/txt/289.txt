@@ -1,0 +1,3 @@
+| title            |   [unnamed data series #0] |
+| Giardia-free     |                    14.413  |
+| Giardia-infected |                    13.9034 |

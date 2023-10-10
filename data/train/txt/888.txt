@@ -1,0 +1,16 @@
+| Category   |        X |          Y |
+| Oak ash    |  4.98649 |   0.074173 |
+| Oak ash    |  8.72637 |   9.71666  |
+| Oak ash    | 21.8159  |  31.2268   |
+| Oak ash    | 41.1386  |  88.34     |
+| Oak ash    | 83.3853  | 166.222    |
+| Pine
+sawdust            |  2.07771 |  21.5843   |
+| Pine
+sawdust            |  2.70102 |  28.2599   |
+| Pine
+sawdust            |  6.85643 |  66.0881   |
+| Pine
+sawdust            | 11.8429  | 120.234    |
+| Pine
+sawdust            | 22.647   | 227.785    |

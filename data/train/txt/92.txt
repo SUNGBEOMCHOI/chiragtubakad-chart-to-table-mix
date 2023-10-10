@@ -1,0 +1,3 @@
+| title          |   [unnamed data series #0] |
+| Kiswahili      |                   97.1184  |
+| Local language |                    2.47772 |

@@ -1,0 +1,8 @@
+| title                 |   Television |
+| [unnamed category #0] |     630.094  |
+| [unnamed category #0] |    1601.88   |
+| [unnamed category #0] |      42.3197 |
+| [unnamed category #0] |     191.223  |
+| [unnamed category #0] |     183.386  |
+| [unnamed category #0] |      57.9937 |
+| [unnamed category #0] |     144.201  |

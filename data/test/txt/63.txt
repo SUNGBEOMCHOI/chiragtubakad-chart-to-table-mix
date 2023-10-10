@@ -1,0 +1,9 @@
+| title            |   No unfavourable parental behavioral factor |
+| Doctor's visits  |                                     0.997365 |
+| In-hospital care |                                     1.01054  |
+| Doctor's visits  |                                     1.36627  |
+| In-hospital care |                                     1.53755  |
+| Doctor's visits  |                                     1.5639   |
+| In-hospital care |                                     1.5639   |
+| Doctor's visits  |                                     1.99868  |
+| In-hospital care |                                     2.03821  |

@@ -1,0 +1,9 @@
+| title                            |   [unnamed data series #0] |
+| lack of knowledge towards the concept
+and importance of using barcod                                  |                       0.8  |
+| problems of the barcod Iable     |                       0.5  |
+| HIS problems                     |                       0.92 |
+| lack of adequate bar cod scnners |                       0.97 |
+| dissatisfaction quality of Iable |                       0.95 |
+| weakness of policy establishing by the
+authorities                                  |                       0.7  |

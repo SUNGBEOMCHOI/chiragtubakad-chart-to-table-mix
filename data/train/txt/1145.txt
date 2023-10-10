@@ -1,0 +1,17 @@
+| Category                |          X |        Y |
+| Meerding et al., 2007   |  9.01005   | 0.740046 |
+| Meerding et al., 2007   |  5.01005   | 0.740046 |
+| Meerding et al., 2007   |  2.02261   | 0.629861 |
+| Polinder et al., 2005   |  9.00072   | 0.760516 |
+| Polinder et al., 2005   |  4.9921    | 0.700198 |
+| Polinder et al., 2005   |  2.0201    | 0.598611 |
+| Sutherland et al., 2005 |  6.02872   | 0.615443 |
+| Sutherland et al., 2005 |  2.0341    | 0.609491 |
+| Watson et al.           | 12.0108    | 0.730456 |
+| Watson et al.           |  0.0204594 | 0.440079 |
+| Gabbe et al., 2008      | 12.0216    | 0.670046 |
+| Gabbe et al., 2008      |  6.0201    | 0.539769 |
+| Gabbe et al., 2008      |  1.01005   | 0.590046 |
+| Holbrook et al, 1998    |  6.02656   | 0.63082  |
+| Holbrook et al, 1998    |  0.0118449 | 0.399769 |
+| Soberg et al., 2007     | 12.002     | 0.719537 |

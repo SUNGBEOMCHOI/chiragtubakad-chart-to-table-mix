@@ -1,0 +1,45 @@
+| title   |   2 rings |
+| Mvudi River
+Water         |  1.45003  |
+| Nzhelele
+River Water         |  3.19006  |
+| WWTP    |  0.455722 |
+| WSPs    |  0.952874 |
+| Mvudi River
+Sediment         |  0.704298 |
+| Nzhelele
+River
+Sediment         |  1.94718  |
+| Mvudi River
+Water         | 24.4847   |
+| Nzhelele
+River Water         | 20.3418   |
+| WWTP    | 29.7877   |
+| WSPs    | 48.4309   |
+| Mvudi River
+Sediment         | 44.9508   |
+| Nzhelele
+River
+Sediment         | 10.3988   |
+| Mvudi River
+Water         | 22.0818   |
+| Nzhelele
+River Water         | 19.8446   |
+| WWTP    |  0.290005 |
+| WSPs    | 13.3817   |
+| Mvudi River
+Sediment         | 28.2962   |
+| Nzhelele
+River
+Sediment         | 54.1481   |
+| Mvudi River
+Water         | 52.9052   |
+| Nzhelele
+River Water         | 57.131    |
+| WWTP    | 70.057    |
+| WSPs    | 37.4935   |
+| Mvudi River
+Sediment         | 26.059    |
+| Nzhelele
+River
+Sediment         | 33.2677   |

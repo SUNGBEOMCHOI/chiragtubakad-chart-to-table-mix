@@ -1,0 +1,13 @@
+| title               |    Users |
+| Vitality            |  9.19679 |
+| General Health      |  9.19679 |
+| Self Control        |  7.91165 |
+| Positive Well Being |  7.87595 |
+| Depressed Mood      |  9.08969 |
+| Anxiety             | 11.4458  |
+| Vitality            | 13.2664  |
+| General Health      | 11.0174  |
+| Self Control        | 11.7314  |
+| Positive Well Being | 11.7314  |
+| Depressed Mood      | 12.3025  |
+| Anxiety             | 17.2646  |

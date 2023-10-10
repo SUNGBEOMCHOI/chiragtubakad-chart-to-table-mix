@@ -1,0 +1,7 @@
+| Category                 |   first quartile |      max |   median |      min |   third quartile | x       |
+| [unnamed data series #0] |         0.56496  | 0.851397 | 0.737253 | 0.41205  |         0.814785 | Normal  |
+| [unnamed data series #0] |         0.179454 | 0.666182 | 0.295752 | 0.147149 |         0.515426 | Disease |
+| [unnamed data series #0] |         0.50035  | 0.883702 | 0.618802 | 0.338825 |         0.74156  | S1      |
+| [unnamed data series #0] |         0.422818 | 0.857858 | 0.543423 | 0.147149 |         0.707102 | S2      |
+| [unnamed data series #0] |         0.409896 | 0.909546 | 0.511118 | 0.132074 |         0.601572 | S3      |
+| [unnamed data series #0] |         0.452969 | 0.799709 | 0.545577 | 0.265601 |         0.627416 | S4      |

@@ -1,0 +1,17 @@
+| title            |   Western R. |
+| Chicken          |   0.294658   |
+| Human            |   0.109726   |
+| Dog              |   0.183699   |
+| Cat              |   0.0369863  |
+| Goat             |   0.0357534  |
+| Guinea pig       |   0          |
+| Rat              |   0.109726   |
+| Multiple sources |   0.223151   |
+| Chicken          |   0.382192   |
+| Human            |   0.231781   |
+| Dog              |   0.145479   |
+| Cat              |   0.207123   |
+| Goat             |   0.0887671  |
+| Guinea pig       |  -0.00123288 |
+| Rat              |   0.0283562  |
+| Multiple sources |   0.146712   |

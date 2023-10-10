@@ -1,0 +1,5 @@
+| title       |   [unnamed data series #0] |
+| control     |                    6.60754 |
+| 50 mg/kg/d  |                    5.69818 |
+| 250 mg/kg/d |                    6.08971 |
+| 500 mg/kg/d |                    6.0013  |

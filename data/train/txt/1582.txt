@@ -1,0 +1,13 @@
+| title                    |   Public health aspects |
+| MEDICAL PROFESSIONALS    |                      22 |
+| HEALTHTH AUTHRITIES      |                      22 |
+| PATIENT REPRESENTATIVES  |                      24 |
+| INDUSTRY REPRESENTATIVES |                      25 |
+| MEDICAL PROFESSIONALS    |                      32 |
+| HEALTHTH AUTHRITIES      |                      36 |
+| PATIENT REPRESENTATIVES  |                      30 |
+| INDUSTRY REPRESENTATIVES |                      32 |
+| MEDICAL PROFESSIONALS    |                      46 |
+| HEALTHTH AUTHRITIES      |                      42 |
+| PATIENT REPRESENTATIVES  |                      46 |
+| INDUSTRY REPRESENTATIVES |                      43 |

@@ -1,0 +1,19 @@
+| Category               |       X |        Y |
+| Average diameter       | 1.01137 | 205.755  |
+| Average diameter       | 2.01676 | 154.406  |
+| Average diameter       | 3.02214 |  93.2659 |
+| Average diameter       | 4.00958 |  94.7889 |
+| Average diameter       | 5.02095 |  78.4704 |
+| Average diameter       | 6.02035 |  83.2572 |
+| Average diameter       | 7.01376 |  83.0396 |
+| Average diameter       | 8.01915 |  69.5496 |
+| Average diameter       | 9.02454 |  71.2903 |
+| Average polydispersity | 1.01137 | 178.993  |
+| Average polydispersity | 2.00479 | 125.033  |
+| Average polydispersity | 3.02214 |  75.2067 |
+| Average polydispersity | 4.01556 |  77.3825 |
+| Average polydispersity | 5.02095 |  74.7715 |
+| Average polydispersity | 6.02035 |  72.1606 |
+| Average polydispersity | 7.01975 |  74.1188 |
+| Average polydispersity | 8.02513 |  76.077  |
+| Average polydispersity | 9.01257 |  82.1693 |

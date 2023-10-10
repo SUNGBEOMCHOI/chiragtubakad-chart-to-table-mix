@@ -1,0 +1,4 @@
+| title   |   [unnamed data series #0] |
+| Clay    |                    20.7843 |
+| Silt    |                    26.9996 |
+| Sand    |                    30.9952 |

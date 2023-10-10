@@ -1,0 +1,10 @@
+| Category       | X             |       Y |
+| Cotton-NBB 6h  | 1-tetradecene | 30.1475 |
+| Cotton-NBB 6h  | 1-decene      | 35.0636 |
+| Cotton-NBB 6h  | Before click  | 40.0376 |
+| Cotton-NBB 16h | 1-tetradecene | 30.0897 |
+| Cotton-NBB 16h | 1-decene      | 35.0636 |
+| Cotton-NBB 16h | Before click  | 44.8959 |
+| Cotton-NBB 80h | 1-tetradecene | 30.0897 |
+| Cotton-NBB 80h | 1-decene      | 35.1215 |
+| Cotton-NBB 80h | Before click  | 40.0376 |

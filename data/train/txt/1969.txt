@@ -1,0 +1,11 @@
+| title    |   Too expensive |
+| NCMS     |       0.0262985 |
+| Non-NCMS |       0.0999343 |
+| NCMS     |       0.186719  |
+| Non-NCMS |       0.373439  |
+| NCMS     |       0.68902   |
+| Non-NCMS |       0.486522  |
+| NCMS     |       0.0815253 |
+| Non-NCMS |       0.0105194 |
+| NCMS     |       0.0131492 |
+| Non-NCMS |       0.0262985 |

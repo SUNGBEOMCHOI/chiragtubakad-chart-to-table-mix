@@ -1,0 +1,27 @@
+| Category                 | X                            |        Y |
+| [unnamed data series #0] | Disease-free controls        | 0.454876 |
+| [unnamed data series #0] | Disease-free controls        | 0.757753 |
+| [unnamed data series #0] | Disease-free controls        | 0.894545 |
+| [unnamed data series #0] | Disease-free controls        | 1.21731  |
+| [unnamed data series #0] | Disease-free controls        | 1.36154  |
+| [unnamed data series #0] | Disease-free controls        | 2.15     |
+| [unnamed data series #0] | Disease-free controls        | 1.79423  |
+| [unnamed data series #0] | Disease-free controls        | 1.48654  |
+| [unnamed data series #0] | Disease-free controls        | 1.33269  |
+| [unnamed data series #0] | Disease-free controls        | 0.985455 |
+| [unnamed data series #0] | Disease-free controls        | 0.870303 |
+| [unnamed data series #0] | Disease-free controls        | 0.780225 |
+| [unnamed data series #0] | Disease-free controls        | 0.681348 |
+| [unnamed data series #0] | Disease-free controls        | 0.613933 |
+| [unnamed data series #0] | Disease-free controls        | 0.618427 |
+| [unnamed data series #0] | Disease-free controls        | 0.699326 |
+| [unnamed data series #0] | Disease-free controls        | 0.780225 |
+| [unnamed data series #0] | Disease-free controls        | 0.870303 |
+| [unnamed data series #0] | Disease-free controls        | 0.979394 |
+| [unnamed data series #0] | Disease-free controls        | 1.32308  |
+| [unnamed data series #0] | Disease-free controls        | 1.44808  |
+| [unnamed data series #0] | Disease-free controls        | 1.80385  |
+| [unnamed data series #0] | New control                  | 1.79423  |
+| [unnamed data series #1] | BRCA1 carrier cancer patient | 1.13077  |
+| [unnamed data series #1] | BRCA1 carrier cancer patient | 1.21731  |
+| [unnamed data series #1] | Sporadic breast cancer       | 1.70769  |

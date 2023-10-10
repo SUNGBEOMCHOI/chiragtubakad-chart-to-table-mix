@@ -1,0 +1,13 @@
+| title      |   [unnamed data series #0] |
+| Harju      |                   4057.69  |
+| Hiiu       |                   1288.46  |
+| Jogeva     |                   1692.31  |
+| Jarva      |                   5115.38  |
+| Laane      |                   4173.08  |
+| Laane-Viru |                    269.231 |
+| Parnu      |                   8500     |
+| Rapla      |                   5346.15  |
+| Saare      |                   2211.54  |
+| Tartu      |                   5269.23  |
+| Valga      |                   1576.92  |
+| Viljandi   |                   3692.31  |

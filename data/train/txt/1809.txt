@@ -1,0 +1,7 @@
+| title                          |   [unnamed data series #0] |
+| Working extra hour             |                         22 |
+| Cutting down cost on education |                         21 |
+| Selling assets                 |                         13 |
+| Taking another loan            |                         10 |
+| Cutting down amount of food    |                         49 |
+| Cutting down type of food      |                         50 |

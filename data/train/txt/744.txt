@@ -1,0 +1,17 @@
+| title                                   |   Indoor use |
+| pyrethroids                             |    63.1124   |
+| aromatic, nitrogen containing, lactones |    57.3487   |
+| carbamate                               |    50.1441   |
+| organophosphate                         |     5.47545  |
+| metals/inorganic compounds              |     5.83568  |
+| organochlorin                           |     4.39476  |
+| halogenated                             |     0.432218 |
+| botanical                               |     0.972564 |
+| pyrethroids                             |    15.9221   |
+| aromatic, nitrogen containing, lactones |    45.4611   |
+| carbamate                               |    18.4438   |
+| organophosphate                         |    56.6282   |
+| metals/inorganic compounds              |     5.11522  |
+| organochlorin                           |    13.0403   |
+| halogenated                             |    45.8213   |
+| botanical                               |     2.23337  |

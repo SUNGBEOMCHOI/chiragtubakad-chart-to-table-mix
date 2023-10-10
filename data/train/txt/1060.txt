@@ -1,0 +1,21 @@
+| title                           |     Score |
+| CPC commission/government       | 0.0291306 |
+| CPC propaganda department       | 0.0183025 |
+| Housing security administration | 0.0188439 |
+| Placement center                | 0.0188439 |
+| City management bureau          | 0.0188439 |
+| Storm water company             | 0.0166783 |
+| Civil affairs bureau            | 0.0193853 |
+| Electricity bureau              | 0.0193853 |
+| Hydrology bureau                | 0.0188439 |
+| Transportation bureau           | 0.0183025 |
+| Information commission          | 0.0139713 |
+| Commerce bureau                 | 0.0193853 |
+| Construction bureau             | 0.0188439 |
+| Finance bureau                  | 0.0188439 |
+| Health bureau                   | 0.0166783 |
+| Water conservancy bureau        | 0.119004  |
+| Public security bureau          | 0.146616  |
+| Armed police                    | 0.166106  |
+| Meteorology bureau              | 0.0139713 |
+| Emergency center                | 0.218623  |

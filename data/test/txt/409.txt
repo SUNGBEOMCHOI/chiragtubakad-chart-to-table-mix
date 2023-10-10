@@ -1,0 +1,5 @@
+| title              |   [unnamed data series #0] |
+| poor/very poor     |                    170.341 |
+| either good or bad |                    208.419 |
+| good               |                    300.838 |
+| very good          |                    346.849 |

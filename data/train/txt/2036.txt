@@ -1,0 +1,8 @@
+| title    |   [unnamed data series #0] |
+| wt (N=7) |                    9.15659 |
+| freq flyer only
+(N=9)          |                    8.28169 |
+| Htr2c only
+(N=11)          |                    6.37283 |
+| double mutant
+(N=7)          |                    5.33886 |

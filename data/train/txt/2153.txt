@@ -1,0 +1,72 @@
+| Category              |         X |       Y |
+| HTHD participants     |  -64.6931 | 5.65885 |
+| HTHD participants     |  -14.8333 | 5.64713 |
+| HTHD participants     | -353.88   | 3.87735 |
+| HTHD participants     |  -89.6229 | 4.25241 |
+| HTHD participants     | -129.511  | 2.6936  |
+| HTHD participants     |  -58.4606 | 3.92424 |
+| HTHD participants     |   68.6818 | 5.00251 |
+| HTHD participants     |  -54.7211 | 3.01005 |
+| HTHD participants     |  -83.3905 | 2.65843 |
+| HTHD participants     |  -39.7632 | 3.17413 |
+| HTHD participants     |  -14.8333 | 3.27961 |
+| HTHD participants     |  -27.2982 | 2.63499 |
+| HTHD participants     |  -12.3403 | 2.65843 |
+| HTHD participants     |   72.4213 | 3.03349 |
+| HTHD participants     |   53.7239 | 3.37338 |
+| HTHD participants     |   52.4774 | 2.59983 |
+| HTHD participants     |  -49.7351 | 2.84596 |
+| HTHD participants     |  -28.5447 | 3.17413 |
+| HD to LD participants |   13.8361 | 2.85768 |
+| HD to LD participants |  -33.5307 | 2.79908 |
+| HD to LD participants |   27.5475 | 3.80703 |
+| HD to LD participants |   72.4213 | 4.14692 |
+| HD to LD participants |  -95.8554 | 3.64295 |
+| HD to LD participants | -204.3    | 3.05693 |
+| HD to LD participants | -222.998  | 4.20553 |
+| HTLD participants     |  165.908  | 2.22478 |
+| HTLD participants     |  103.584  | 2.51779 |
+| HTLD participants     |  118.542  | 2.79908 |
+| HTLD participants     |  187.099  | 3.45542 |
+| HTLD participants     |  154.69   | 3.74843 |
+| HTLD participants     |   74.9143 | 2.89284 |
+| HTLD participants     |   37.5195 | 2.77564 |
+| HTLD participants     |   25.0545 | 2.89284 |
+| HTLD participants     |   51.2309 | 2.91628 |
+| HTLD participants     |   31.287  | 3.43198 |
+| HTLD participants     |   52.4774 | 3.5023  |
+| HTLD participants     |   64.9423 | 3.91252 |
+| HTLD participants     |   98.5977 | 5.61197 |
+| HTLD participants     |   44.9984 | 5.54165 |
+| HTLD participants     |  -44.7491 | 7.11218 |
+| HTLD participants     | -318.978  | 6.45584 |
+| HTLD participants     | -242.942  | 5.37756 |
+| HTLD participants     | -385.042  | 2.61155 |
+| HTLD participants     | -244.188  | 2.58811 |
+| HTLD participants     | -229.23   | 3.81875 |
+| HTLD participants     | -216.765  | 3.97112 |
+| HTLD participants     | -189.342  | 4.11176 |
+| HTLD participants     |  -89.6229 | 5.07283 |
+| HTLD participants     |  -27.2982 | 4.88531 |
+| HTLD participants     |  -36.0237 | 4.66262 |
+| HTLD participants     |  -53.4746 | 4.38133 |
+| HTLD participants     |  -77.158  | 4.06488 |
+| HTLD participants     |  -41.0097 | 3.9594  |
+| HTLD participants     |  -24.8052 | 4.25241 |
+| HTLD participants     |   12.5896 | 4.17036 |
+| HTLD participants     |  -11.0938 | 3.57262 |
+| HTLD participants     |  -17.3263 | 3.5023  |
+| HTLD participants     |  -21.0658 | 3.17413 |
+| HTLD participants     |  -47.2421 | 3.10381 |
+| HTLD participants     |  -45.9956 | 3.37338 |
+| HTLD participants     |  -68.4325 | 3.17413 |
+| HTLD participants     | -149.455  | 3.3851  |
+| HTLD participants     | -140.729  | 3.12725 |
+| HTLD participants     | -114.553  | 2.71704 |
+| HTLD participants     |  -59.7071 | 2.79908 |
+| HTLD participants     |  -54.7211 | 2.84596 |
+| HTLD participants     |  -58.4606 | 2.54123 |
+| HTLD participants     |  -34.7772 | 2.41231 |
+| HTLD participants     |  -11.0938 | 2.54123 |
+| HTLD participants     | -144.469  | 3.3851  |
+| HTLD participants     | -154.441  | 3.43198 |

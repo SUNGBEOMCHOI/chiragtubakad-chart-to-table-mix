@@ -1,0 +1,9 @@
+| title        |     MSI-H |
+| Methylated   | 0.910853  |
+| Unmethylated | 0.0879547 |
+| Methylated   | 0.800537  |
+| Unmethylated | 0.198271  |
+| Methylated   | 0.579905  |
+| Unmethylated | 0.418903  |
+| Methylated   | 0.860167  |
+| Unmethylated | 0.13864   |

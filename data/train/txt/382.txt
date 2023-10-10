@@ -1,0 +1,6 @@
+| title                         |   [unnamed data series #0] |
+| Water quality                 |                    79.8875 |
+| Channel blockage              |                    40.3726 |
+| Disappearance of small rivers |                    39.3883 |
+| Riparian zone destruction     |                    10.4201 |
+| Channel straightening         |                    57.4583 |

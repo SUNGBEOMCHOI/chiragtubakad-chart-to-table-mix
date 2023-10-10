@@ -1,0 +1,4 @@
+| Category                 |   first quartile |     max |   median |     min |   third quartile | x   |
+| [unnamed data series #0] |          22.2787 | 41.2335 |  26.4878 | 19.2279 |          30.1318 | GT  |
+| [unnamed data series #0] |          21.3748 | 42.2505 |  23.2109 | 19.1996 |          29.2279 | TT  |
+| [unnamed data series #0] |          25.2166 | 74.1149 |  31.2335 | 20.2166 |          35.2166 | GG  |

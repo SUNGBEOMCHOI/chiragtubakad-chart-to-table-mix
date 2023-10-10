@@ -1,0 +1,3 @@
+| Category                 |   first quartile |     max |   median |     min |   third quartile | x          |
+| [unnamed data series #0] |          90.1562 | 99.9479 |  95.0521 | 75.0521 |          99.9479 | WHtR < 0.5 |
+| [unnamed data series #0] |          80.0521 | 99.9479 |  90.1562 | 49.9479 |          99.9479 | WHR >= 0.5 |

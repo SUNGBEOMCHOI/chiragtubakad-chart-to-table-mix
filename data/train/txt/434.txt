@@ -1,0 +1,13 @@
+| title                    |      SPA |
+| Unmatched bases          | 1.00121  |
+| Internal unmatched bases | 0.997976 |
+| Bases in unmapped ends   | 1.00121  |
+| Bases in unmapped clones | 0.994737 |
+| Splice boundary errors   | 1.00445  |
+| Unknown spice boundries  | 1.00121  |
+| Unmatched bases          | 1.78502  |
+| Internal unmatched bases | 1.21498  |
+| Bases in unmapped ends   | 1.98583  |
+| Bases in unmapped clones | 2.63684  |
+| Splice boundary errors   | 1.64575  |
+| Unknown spice boundries  | 2.85709  |

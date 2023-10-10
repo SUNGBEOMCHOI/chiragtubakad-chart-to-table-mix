@@ -1,0 +1,7 @@
+| title    |   Control |
+| AcH3     |  7.52828  |
+| H3trimK4 |  4.29362  |
+| H3trimK9 |  1.13598  |
+| AcH3     | 13.1504   |
+| H3trimK4 |  9.29964  |
+| H3trimK9 |  0.981949 |

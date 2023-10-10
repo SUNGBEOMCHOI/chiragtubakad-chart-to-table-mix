@@ -1,0 +1,25 @@
+| title   |   LMW PAHs |
+| Mvudi River
+water         |    25.1878 |
+| Nzhelele
+River water         |    22.9653 |
+| Effluent from
+WWTP         |    30.0031 |
+| Effluent from
+WSPs         |    49.6347 |
+| Mvudi River
+Sediment         |    45.5602 |
+| Nzhelele
+River         |    12.9643 |
+| Mvudi River
+water         |    75.1929 |
+| Nzhelele
+River water         |    77.4154 |
+| Effluent from
+WWTP         |    70.3776 |
+| Effluent from
+WSPs         |    50.746  |
+| Mvudi River
+Sediment         |    54.45   |
+| Nzhelele
+River         |    87.4164 |

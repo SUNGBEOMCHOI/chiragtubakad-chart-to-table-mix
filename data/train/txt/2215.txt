@@ -1,0 +1,5 @@
+| Category                 |   first quartile |      max |   median |      min |   third quartile | x           |
+| [unnamed data series #0] |          70.4954 |  303.254 |  123.079 |  3.69822 |          184.103 | 2-3 years   |
+| [unnamed data series #0] |         170.974  |  673.077 |  247.589 | 11.0947  |          381.965 | 4-8 years   |
+| [unnamed data series #0] |         247.781  |  880.178 |  379.068 | 36.9822  |          562.13  | 9-13 years  |
+| [unnamed data series #0] |         316.198  | 1050.3   |  382.766 | 51.7751  |          615.754 | 14-16 years |

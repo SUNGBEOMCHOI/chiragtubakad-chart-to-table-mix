@@ -1,0 +1,13 @@
+| title                       |        yes |
+| abandoned manure pit        | 10.9664    |
+| tree-hole                   |  1.98148   |
+| rain barrel                 | 11.0006    |
+| small artificial containers |  0.956575  |
+| natural waters              |  0.956575  |
+| other habitats              |  6.96933   |
+| abandoned manure pit        |  4.98785   |
+| tree-hole                   |  0.0341634 |
+| rain barrel                 | 14.007     |
+| small artificial containers |  3.99712   |
+| natural waters              |  1.98148   |
+| other habitats              |  1.98148   |

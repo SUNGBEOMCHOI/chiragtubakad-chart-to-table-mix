@@ -1,0 +1,3 @@
+| title         |   [unnamed data series #0] |
+| Gram positive |                   37.8325  |
+| Gram negative |                    9.95074 |

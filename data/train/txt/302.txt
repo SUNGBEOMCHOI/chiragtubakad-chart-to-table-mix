@@ -1,0 +1,18 @@
+| title   |          Current and required workforce
+|---------|----------|
+| Additional Generalist Physical
+Activity Workforce         |  49.2746 |
+| Current Generalist Physical
+Activity Workforce         | 331.782  |
+| Additional Specialist Physical
+Activity Workforce         |  52.5595 |
+| Current Specialist Physical
+Activity Workforce         |  45.9896 |
+| Additional Generalist Nutrition
+Workforce         |  59.1295 |
+| Current Generalist Nutrition
+Workforce         | 525.595  |
+| Additional Specialist Nutrition
+Workforce         |  78.8393 |
+| Current Specialist Nutrition
+Workforce         |  49.2746 |

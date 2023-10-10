@@ -1,0 +1,5 @@
+| title         |   2.2kW, 8mm/s |
+| Vertical up   |       0.980392 |
+| Vertical down |      81.6176   |
+| Vertical up   |      10.049    |
+| Vertical down |      28.9216   |

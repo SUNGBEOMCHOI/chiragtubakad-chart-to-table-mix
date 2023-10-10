@@ -1,0 +1,12 @@
+| title                                  |   [unnamed data series #0] |
+| Family and couple troubles             |                   31.9485  |
+| Anxiety                                |                   18.2911  |
+| Depressive symptoms                    |                   17.1937  |
+| Management of difﬁcult life situations |                    8.04809 |
+| Relational and social issues           |                    4.54839 |
+| Psychiatric diseases                   |                    3.41434 |
+| Emotional management                   |                    1.95105 |
+| Panic                                  |                    1.70717 |
+| Eating disorders                       |                    1.58523 |
+| Alcohol abuse and drug addictions      |                    1.58523 |
+| Others                                 |                    8.6578  |

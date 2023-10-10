@@ -1,0 +1,11 @@
+| title                             |   [unnamed data series #0] |
+| Forgetfullness                    |                      0.284 |
+| Child's refusal to take the drugs |                      0.193 |
+| Transportation problem            |                      0.191 |
+| Run out of pills                  |                      0.132 |
+| Illness of the caregivers         |                      0.055 |
+| Pill burden                       |                      0.043 |
+| Side effects of drugs             |                      0.043 |
+| Illness of the child              |                      0.032 |
+| Taste of the drugs                |                      0.018 |
+| Others                            |                      0.009 |

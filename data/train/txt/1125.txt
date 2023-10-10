@@ -1,0 +1,6 @@
+| title       |   molar mass |
+| non treated |     302.162  |
+| 10 kGy      |     161.302  |
+| 50 kGy      |     107.961  |
+| 100 kGy     |      54.9386 |
+| 200 kGy     |      43.4398 |

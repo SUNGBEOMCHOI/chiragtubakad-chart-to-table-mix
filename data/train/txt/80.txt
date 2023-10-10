@@ -1,0 +1,7 @@
+| title     |   [unnamed data series #0] |
+| Knowledge |                   0.368806 |
+| Attitude  |                   0.63964  |
+| Practice  |                   0.660473 |
+| Knowledge |                   0.629505 |
+| Attitude  |                   0.358671 |
+| Practice  |                   0.337838 |

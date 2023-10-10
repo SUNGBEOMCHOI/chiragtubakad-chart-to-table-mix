@@ -1,0 +1,13 @@
+| title   |   95% confidence interval |
+| Jan     |                   44515.8 |
+| Feb     |                   42690.9 |
+| Mar     |                   60484.2 |
+| April   |                   67784   |
+| May     |                   65730.9 |
+| June    |                   66415.3 |
+| July    |                   68240.2 |
+| Aug     |                   64818.4 |
+| Sept    |                   52956.2 |
+| Oct     |                   50675   |
+| Nov     |                   56834.3 |
+| Dec     |                   51815.6 |

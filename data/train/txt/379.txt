@@ -1,0 +1,16 @@
+| title                                           |   current smokers |
+| passive smoking can cause heart diseases        |           45.9533 |
+| children with smoking parents are more likely to develop asthma or
+otherrespiratory diseases than those with nonsmoking parents                                                 |           66.5183 |
+| women with smoking husbands are more likely to getlung cancer
+than those with nonsmoking husbands                                                 |           53.9036 |
+| Passive smoking can cause lung cancer           |           74.3626 |
+| passive smoking is harmful to nonsmokers health |           94.7156 |
+| smoking is harmful to smokers’ health           |           98.4258 || passive smoking can cause heart diseases        |           54.2217 |
+| children with smoking parents are more likely to develop asthma or
+otherrespiratory diseases than those with nonsmoking parents                                                 |           74.9987 |
+| women with smoking husbands are more likely to getlung cancer
+than those with nonsmoking husbands                                                 |           63.9741 |
+| Passive smoking can cause lung cancer           |           74.5747 |
+| passive smoking is harmful to nonsmokers health |           96.6237 |
+| smoking is harmful to smokers’ health           |           98.4258 |

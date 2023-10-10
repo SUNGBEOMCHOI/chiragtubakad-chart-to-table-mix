@@ -1,0 +1,6 @@
+| title        |   [unnamed data series #0] |
+| Bicycle      |                    37.6471 |
+| Radio        |                    72.1569 |
+| Mobile phone |                    46.5359 |
+| Livestock    |                    65.8824 |
+| Land         |                    32.9412 |

@@ -1,0 +1,9 @@
+| title        |   Dermatophagoides farinae |
+| Strong       |                 0.119356   |
+| + Stronger   |                 0.0796332  |
+| ++ Stronger  |                 0.0240213  |
+| +++ Stronger |                 0.00813214 |
+| Strong       |                 0.214029   |
+| + Stronger   |                 0.127301   |
+| ++ Stronger  |                 0.0511652  |
+| +++ Stronger |                 0.020711   |

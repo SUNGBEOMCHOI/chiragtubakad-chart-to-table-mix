@@ -1,0 +1,19 @@
+| title                     |   Very trustworthy |
+| General practitioner      |           55.9983  |
+| Community health services |           49.203   |
+| Patient organizations     |           28.3138  |
+| Municipal government      |           15.2265  |
+| National government       |           17.1141  |
+| State departments         |           16.2332  |
+| Family and friends        |           10.3188  |
+| Neighbours                |            6.16611 |
+| Media                     |            3.52349 |
+| General practitioner      |           41.2752  |
+| Community health services |           46.057   |
+| Patient organizations     |           56.8792  |
+| Municipal government      |           59.8993  |
+| National government       |           54.9916  |
+| State departments         |           53.8591  |
+| Family and friends        |           42.0302  |
+| Neighbours                |           35.9899  |
+| Media                     |           28.943   |

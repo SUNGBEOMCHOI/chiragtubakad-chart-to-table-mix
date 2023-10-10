@@ -1,0 +1,7 @@
+| title     |   Ibadan |
+| Morning   |  73.9957 |
+| Afternoon |  72.2939 |
+| Evening   |  73.2145 |
+| Morning   |  68.5835 |
+| Afternoon |  68.9183 |
+| Evening   |  70.3132 |

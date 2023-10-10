@@ -1,0 +1,19 @@
+| title      |          HL |
+| FA-R (min) |  0          |
+| FA-R (max) |  0          |
+| HL-R (min) |  0.0297619  |
+| HL-R (max) |  0.167857   |
+| HL-S (min) |  0.0309524  |
+| HL-S (max) |  0.167857   |
+| FA-R (min) |  0.1        |
+| FA-R (max) |  0.15       |
+| HL-R (min) |  0.15       |
+| HL-R (max) |  0.209524   |
+| HL-S (min) |  0.15119    |
+| HL-S (max) |  0.208333   |
+| FA-R (min) |  0          |
+| FA-R (max) |  0.00119048 |
+| HL-R (min) |  0.00119048 |
+| HL-R (max) | -0.00238095 |
+| HL-S (min) |  0.471911   |
+| HL-S (max) |  0.551833   |

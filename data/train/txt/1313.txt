@@ -1,0 +1,21 @@
+| title                |      1998 |
+| Increasing Drinkers  | 0.452286  |
+| Decreasing Drinkers  | 4.45328   |
+| Stable Drinkers      | 6.15805   |
+| Non/Infreq. Drinkers | 0.0695825 |
+| Increasing Drinkers  | 0.730616  |
+| Decreasing Drinkers  | 3.45129   |
+| Stable Drinkers      | 5.9841    |
+| Non/Infreq. Drinkers | 0.083499  || Increasing Drinkers  | 1.35686   |
+| Decreasing Drinkers  | 2.54672   |
+| Stable Drinkers      | 5.87972   |
+| Non/Infreq. Drinkers | 0.083499  || Increasing Drinkers  | 2.57455   |
+| Decreasing Drinkers  | 1.69781   |
+| Stable Drinkers      | 6.15805   |
+| Non/Infreq. Drinkers | 0.083499  || Increasing Drinkers  | 2.7833    |
+| Decreasing Drinkers  | 0.487078  |
+| Stable Drinkers      | 6.05368   |
+| Non/Infreq. Drinkers | 0.083499  || Increasing Drinkers  | 3.45129   |
+| Decreasing Drinkers  | 0.125249  |
+| Stable Drinkers      | 5.9493    |
+| Non/Infreq. Drinkers | 0.083499  |

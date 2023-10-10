@@ -1,0 +1,5 @@
+| Category                 |   first quartile |      max |   median |     min |   third quartile | x   |
+| [unnamed data series #0] |          965.81  | 1283.47  | 1001.11  | 954.045 |         1135.23  | ZOC |
+| [unnamed data series #0] |         1069.34  | 1603.49  | 1245.82  | 972.869 |         1417.6   | UH  |
+| [unnamed data series #0] |          862.276 | 1026.99  |  930.514 | 836.392 |          975.222 | FHJ |
+| [unnamed data series #0] |          521.083 |  539.908 |  521.083 | 521.083 |          521.083 | JCH |

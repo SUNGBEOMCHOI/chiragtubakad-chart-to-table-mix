@@ -1,0 +1,4 @@
+| Category                 |   first quartile |     max |   median |       min |   third quartile | x                    |
+| [unnamed data series #0] |         1.72414  | 4.70027 |  2.09019 | -2.03183  |          4.23873 | All retrotransposons |
+| [unnamed data series #0] |         2.09019  | 4.68435 |  3.85676 |  1.70822  |          4.49337 | Ty1                  |
+| [unnamed data series #0] |        -0.281167 | 2.13793 |  1.72414 | -0.535809 |          2.01061 | Ty2                  |

@@ -1,0 +1,23 @@
+| Category                 | X          |         Y |
+| no rupture before 0.4 mm | PS         | 0.3997    |
+| no rupture before 0.4 mm | PS         | 0.400899  |
+| no rupture before 0.4 mm | PLA        | 0.400899  |
+| no rupture before 0.4 mm | PLA        | 0.402097  |
+| no rupture before 0.4 mm | PMMA-2     | 0.400899  |
+| Specimens                | PMMA_1     | 0.037603  |
+| Specimens                | PMMA_1     | 0.0795506 |
+| Specimens                | PS         | 0.0898876 |
+| Specimens                | PMMA_1-PEG | 0.245993  |
+| Specimens                | PMMA_1-PEG | 0.120449  |
+| Specimens                | PMMA_1-PEG | 0.314607  |
+| Specimens                | PLA        | 0.253633  |
+| Specimens                | PMMA-2     | 0.391311  |
+| Specimens                | PMMA-2     | 0.390562  |
+| Specimens                | PMMA-2     | 0.296629  |
+| average                  | PS         | 0.070412  |
+| average                  | PLA        | 0.229213  |
+| average                  | PMMA-2     | 0.358801  |
+| model output             | PS         | 0.0951311 |
+| model output             | PMMA_1-PEG | 0.138577  |
+| model output             | PLA        | 0.162547  |
+| model output             | PMMA-2     | 0.393258  |

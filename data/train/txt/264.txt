@@ -1,0 +1,16 @@
+| title   |   Very early (day 0) |
+| First   |              9.03837 |
+| Second  |              3.99337 |
+| Third   |             12.9465  |
+| Fourth  |             17.9915  |
+| Fifth   |             26.163   |
+| First   |              1.009   |
+| Second  |              7.11985 |
+| Third   |              3.14069 |
+| Fourth  |              1.009   |
+| Fifth   |             15.0782  |
+| First   |              3.99337 |
+| Second  |              2.1459  |
+| Third   |              4.84604 |
+| Fourth  |              3.06964 |
+| Fifth   |              6.19612 |

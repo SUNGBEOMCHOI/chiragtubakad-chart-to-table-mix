@@ -1,0 +1,17 @@
+| title                                                      |   [unnamed data series #0] |
+| Phosphatid yinositol signaling system                      |                    6.39072 |
+| Gap junction                                               |                    4.71754 |
+| Adherens junction                                          |                    3.08517 |
+| ECMreceptor interaction                                    |                    2.98723 |
+| Focal adhesion                                             |                    2.61995 |
+| Axon guidance                                              |                    2.05678 |
+| Prostate cancer                                            |                    2.00781 |
+| Epithelial cell signaling in Helicobacter p yori infection |                    2.02414 |
+| Calcium signaling pathway                                  |                    1.94252 |
+| Melanogenesis                                              |                    1.73031 |
+| Vibrio cholerae infection                                  |                    1.66501 |
+| Leukocyte transendothelial migration                       |                    1.61604 |
+| Shigellosis                                                |                    1.59156 |
+| Pathogenic Escherichia coli infection                      |                    1.59156 |
+| Pathways in cancer                                         |                    1.5181  |
+| Acute myeloid leukemia                                     |                    1.3467  |

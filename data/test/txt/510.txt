@@ -1,0 +1,8 @@
+| title        |   [unnamed data series #0] |
+| IBD-GS       |                   0.143829 |
+| GBLUP (1K)   |                   0.332814 |
+| GBLUP (2K)   |                   0.407757 |
+| GBLUP (4K)   |                   0.466407 |
+| GBLUP (22K)  |                   0.507137 |
+| GBLUP (55K)  |                   0.512024 |
+| GBLUP (220K) |                   0.516912 |

@@ -1,0 +1,15 @@
+| Category                        |          X |        Y |
+| Multiple component intervention | 0.248826   | 0.149001 |
+| Multiple component intervention | 0.319249   | 0.168644 |
+| Multiple component intervention | 0.50939    | 0.150156 |
+| Multiple component intervention | 0.382629   | 0.21833  |
+| Multiple component intervention | 0.0798122  | 0.318858 |
+| Multiple component intervention | 0.57277    | 0.308458 |
+| Multiple component intervention | 0.50939    | 0.189443 |
+| Multiple component intervention | 0.657277   | 0.179043 |
+| Multiple component intervention | 1.29812    | 0.288815 |
+| Multiple component intervention | 1.29812    | 0.329257 |
+| Multiple component intervention | 1.3615     | 0.388187 |
+| Single component intervention   | 0.798122   | 0.258772 |
+| Single component intervention   | 0.00938967 | 0.167488 |
+| Single component intervention   | 0.0586854  | 0.158244 |

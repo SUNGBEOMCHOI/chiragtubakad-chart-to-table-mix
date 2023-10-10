@@ -1,0 +1,44 @@
+| title               |   Grade 9 |
+| Current Smoker      |       4.9 |
+| Current Marijuana
+Use                     |      11.7 |
+| Current Binge
+Drinking                     |      13.9 |
+| Overweight / Obese  |      23.3 |
+| Physically Inactive |      24.5 |
+| Highly Sedentary    |      88   |
+| Inadequate Fruit &
+Vegetable
+Consumption                     |      92.8 |
+| Current Smoker      |       7.4 |
+| Current Marijuana
+Use                     |      17.3 |
+| Current Binge
+Drinking                     |      20   |
+| Overweight / Obese  |      23.4 |
+| Physically Inactive |      28.2 |
+| Highly Sedentary    |      89   |
+| Inadequate Fruit &
+Vegetable
+Consumption                     |      93.7 || Current Smoker      |       9.9 |
+| Current Marijuana
+Use                     |      20.4 |
+| Current Binge
+Drinking                     |      31.5 |
+| Overweight / Obese  |      21.6 |
+| Physically Inactive |      32.6 |
+| Highly Sedentary    |      89.6 |
+| Inadequate Fruit &
+Vegetable
+Consumption                     |      94.1 |
+| Current Smoker      |      13.1 |
+| Current Marijuana
+Use                     |      26.3 |
+| Current Binge
+Drinking                     |      37.1 |
+| Overweight / Obese  |      22.1 |
+| Physically Inactive |      40.2 |
+| Highly Sedentary    |      91.1 |
+| Inadequate Fruit &
+Vegetable
+Consumption                     |      93.7 |

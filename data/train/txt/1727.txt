@@ -1,0 +1,39 @@
+| Category                                                 |        X |        Y |
+| Finned heat sink (Aavind S120 | anodised | vertical)     | 10.2268  |  2.75378 |
+| Finned heat sink (Aavind S120 | anodised | vertical)     | 20.269   |  6.68774 |
+| Finned heat sink (Aavind S120 | anodised | vertical)     | 30.0897  | 11.4823  |
+| Finned heat sink (Aavind S120 | anodised | vertical)     | 40.1319  | 16.6456  |
+| Finned heat sink (Aavind S120 | anodised | vertical)     | 50.1741  | 22.1777  |
+| Finned heat sink (Aavind S120 | anodised | vertical)     | 60.0686  | 28.2016  |
+| Finned heat sink (Aavind S120 | anodised | vertical)     | 69.8892  | 34.7172  |
+| Finned heat sink (Aavid S120 | anodised | horizontal)    |  9.93143 |  2.5079  |
+| Finned heat sink (Aavid S120 | anodised | horizontal)    | 19.3829  |  6.50334 |
+| Finned heat sink (Aavid S120 | anodised | horizontal)    | 28.9082  | 11.3593  |
+| Finned heat sink (Aavid S120 | anodised | horizontal)    | 40.7964  | 17.4447  |
+| Finned heat sink (Aavid S120 | anodised | horizontal)    | 50.3956  | 23.53    |
+| Finned heat sink (Aavid S120 | anodised | horizontal)    | 60.1424  | 28.8778  |
+| Finned heat sink (Aavid S120 | anodised | horizontal)    | 70.1108  | 35.209   |
+| Aluminium foam (O=0,946 | 10 PPI | painted | vertical)   | 11.1129  |  2.56937 |
+| Aluminium foam (O=0,946 | 10 PPI | painted | vertical)   | 20.5643  |  5.0281  |
+| Aluminium foam (O=0,946 | 10 PPI | painted | vertical)   | 31.0496  |  8.40885 |
+| Aluminium foam (O=0,946 | 10 PPI | painted | vertical)   | 41.2395  | 11.9125  |
+| Aluminium foam (O=0,946 | 10 PPI | painted | vertical)   | 51.3555  | 15.7236  |
+| Aluminium foam (O=0,946 | 10 PPI | painted | vertical)   | 61.6192  | 19.7805  |
+| Aluminium foam (O=0,946 | 10 PPI | painted | vertical)   | 70.1108  | 23.2842  |
+| Aluminium foam (O=0,946 | 10 PPI | painted | horizontal) |  9.41456 |  2.38497 |
+| Aluminium foam (O=0,946 | 10 PPI | painted | horizontal) | 19.0876  |  5.15104 |
+| Aluminium foam (O=0,946 | 10 PPI | painted | horizontal) | 28.8344  |  8.71619 |
+| Aluminium foam (O=0,946 | 10 PPI | painted | horizontal) | 39.615   | 12.7731  |
+| Aluminium foam (O=0,946 | 10 PPI | painted | horizontal) | 48.9188  | 17.1988  |
+| Aluminium foam (O=0,946 | 10 PPI | painted | horizontal) | 58.3703  | 21.563   |
+| Aluminium foam (O=0,946 | 10 PPI | painted | horizontal) | 68.1909  | 26.419   |
+| Only Baseplate (painted | vertical)                      | 19.8259  |  3.18405 |
+| Only Baseplate (painted | vertical)                      | 39.4673  |  6.99508 |
+| Only Baseplate (painted | vertical)                      | 29.6466  |  4.65929 |
+| Only Baseplate (painted | vertical)                      | 46.6297  |  8.77766 |
+| Only Baseplate (painted | vertical)                      | 67.5264  | 14.0025  |
+| Only Baseplate (painted | horizontal)                    | 67.8956  | 13.8181  |
+| Only Baseplate (painted | horizontal)                    | 47.3681  |  8.77766 |
+| Only Baseplate (painted | horizontal)                    | 38.9504  |  6.81068 |
+| Only Baseplate (painted | horizontal)                    | 29.942   |  4.90516 |
+| Only Baseplate (painted | horizontal)                    | 20.0475  |  3.12259 |

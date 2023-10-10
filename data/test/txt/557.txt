@@ -1,0 +1,21 @@
+| title                                     |   [unnamed data series #0] |
+| cheese, dessert, other milk products      |                      0.014 |
+| liver, heart, other organs                |                      0.056 |
+| yogurt                                    |                      0.059 |
+| fortified baby food                       |                      0.06  |
+| food made from beans, peas, lentils, nuts |                      0.063 |
+| baby formula                              |                      0.068 |
+| mangoes, papayas, other vitamin A fruits  |                      0.07  |
+| pumpkin, carrots, squash{yellow or...     |                      0.072 |
+| meat{beef, pork, lamd, chicken,etc}       |                      0.129 |
+| juice                                     |                      0.135 |
+| other liquid other than juice             |                      0.136 |
+| any other fruits                          |                      0.186 |
+| tinned, powdered or fresh milk            |                      0.238 |
+| eggs                                      |                      0.268 |
+| any dark green leafy vegetables           |                      0.302 |
+| fish or shellfish                         |                      0.372 |
+| potatoes, cassava, or other tubers        |                      0.428 |
+| other solid-semisolid food                |                      0.469 |
+| bread, noodles, other made from grains    |                      0.759 |
+| plain water                               |                      0.96  |

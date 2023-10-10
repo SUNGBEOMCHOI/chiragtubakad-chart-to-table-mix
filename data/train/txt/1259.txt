@@ -1,0 +1,47 @@
+| title                |      CRI |
+| SCHOOL 3 classroom1  | 0.483871 |
+| SCHOOL 2 classroom 2 | 0.429326 |
+| SCHOOL 6 classroom 3 | 9.62639  |
+| SCHOOL 6 classroom 1 | 9.67742  |
+| SCHOOL 6 classroom 2 | 8.09384  |
+| SCHOOL 1 classroom 3 | 7.91789  |
+| SCHOOL 5 classroom 2 | 6.86217  |
+| SCHOOL 1 classroom 2 | 6.86217  |
+| SCHOOL 5 classroom 1 | 6.51026  |
+| SCHOOL 4 classroom 2 | 6.15836  |
+| SCHOOL 5 classroom 3 | 5.80645  |
+| SCHOOL 1 classroom 1 | 5.80645  |
+| SCHOOL 2 classroom 1 | 4.57478  |
+| SCHOOL 3 classroom 3 | 3.87097  |
+| SCHOOL 3 classroom 2 | 3.58944  |
+| SCHOOL 7 classroom 2 | 2.9912   |
+| SCHOOL 4 classroom 1 | 2.81525  |
+| SCHOOL 7 classroom 3 | 2.04106  |
+| SCHOOL 4 classroom 3 | 1.75953  |
+| SCHOOL 8 classroom 1 | 1.58358  |
+| SCHOOL 7 classroom 1 | 1.61877  |
+| SCHOOL 8 classroom 3 | 1.54839  |
+| SCHOOL 8 classroom 2 | 1.19648  |
+| SCHOOL 3 classroom1  | 0.52434  |
+| SCHOOL 2 classroom 2 | 0.357185 |
+| SCHOOL 6 classroom 3 | 6.35015  |
+| SCHOOL 6 classroom 1 | 2.5566   |
+| SCHOOL 6 classroom 2 | 0.256891 |
+| SCHOOL 1 classroom 3 | 6.17771  |
+| SCHOOL 5 classroom 2 | 3.0739   |
+| SCHOOL 1 classroom 2 | 7.38475  |
+| SCHOOL 5 classroom 1 | 6.86745  |
+| SCHOOL 4 classroom 2 | 7.55718  |
+| SCHOOL 5 classroom 3 | 8.24692  |
+| SCHOOL 1 classroom 1 | 7.03988  |
+| SCHOOL 2 classroom 1 | 9.85337  |
+| SCHOOL 3 classroom 3 | 8.26979  |
+| SCHOOL 3 classroom 2 | 7.39003  |
+| SCHOOL 7 classroom 2 | 5.77126  |
+| SCHOOL 4 classroom 1 | 7.21408  |
+| SCHOOL 7 classroom 3 | 4.39883  |
+| SCHOOL 4 classroom 3 | 4.22287  |
+| SCHOOL 8 classroom 1 | 4.39883  |
+| SCHOOL 7 classroom 1 | 3.51906  |
+| SCHOOL 8 classroom 3 | 4.04692  |
+| SCHOOL 8 classroom 2 | 5.10264  |

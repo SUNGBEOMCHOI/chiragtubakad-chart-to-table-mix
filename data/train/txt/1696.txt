@@ -1,0 +1,19 @@
+| title    |   Without disability |
+| South
+Africa          |                    6 |
+| Vietnam  |                    6 |
+| Tanzania |                   21 |
+| Zambia   |                   10 |
+| Uganda   |                   16 |
+| Mozambiqu
+
+e          |                   27 |
+| South
+Africa          |                   23 |
+| Vietnam  |                   30 |
+| Tanzania |                   42 |
+| Zambia   |                   23 |
+| Uganda   |                   42 |
+| Mozambiqu
+
+e          |                   38 |

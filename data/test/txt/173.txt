@@ -1,0 +1,13 @@
+| title           |   Exertion |
+| Bricklayer      |   1.19543  |
+| Carpenter       |   0.523842 |
+| Concrete worker |   0.120887 |
+| Foreman         |   0.120887 |
+| Henchman        |   1.59839  |
+| Project leader  |   0.120887 |
+| Bricklayer      |   0.65816  |
+| Carpenter       |   1.19543  |
+| Concrete worker |   5.49362  |
+| Foreman         |   7.57555  |
+| Henchman        |   4.15044  |
+| Project leader  |   5.22498  |

@@ -1,0 +1,36 @@
+| title                           |   0-5 years |
+| Baseline                        |    58.4372  |
+| School Closure                  |    30       |
+| 90% Case Isolation              |    16.6397  |
+| 50% Workplace Nonattendance     |    48.4615  |
+| 505 Community Contact Reduction |    30.0972  |
+| Baseline                        |    57.0769  |
+| School Closure                  |    30       |
+| 90% Case Isolation              |    15.7328  |
+| 50% Workplace Nonattendance     |    47.3279  |
+| 505 Community Contact Reduction |    31.6842  |
+| Baseline                        |    57.3036  |
+| School Closure                  |    30       |
+| 90% Case Isolation              |    13.0121  |
+| 50% Workplace Nonattendance     |    45.0607  |
+| 505 Community Contact Reduction |    30       |
+| Baseline                        |    44.6073  |
+| School Closure                  |    27.9757  |
+| 90% Case Isolation              |     7.4251  |
+| 50% Workplace Nonattendance     |    30       |
+| 505 Community Contact Reduction |    27.9757  |
+| Baseline                        |    39.3927  |
+| School Closure                  |    23.4413  |
+| 90% Case Isolation              |     7.19838 |
+| 50% Workplace Nonattendance     |    30       |
+| 505 Community Contact Reduction |    26.1619  |
+| Baseline                        |    30       |
+| School Closure                  |    12.1053  |
+| 90% Case Isolation              |     4.02429 |
+| 50% Workplace Nonattendance     |    20.2672  |
+| 505 Community Contact Reduction |    10.7449  |
+| Baseline                        |    30       |
+| School Closure                  |    13.919   |
+| 90% Case Isolation              |     4.02429 |
+| 50% Workplace Nonattendance     |    25.7085  |
+| 505 Community Contact Reduction |     8.33198 |

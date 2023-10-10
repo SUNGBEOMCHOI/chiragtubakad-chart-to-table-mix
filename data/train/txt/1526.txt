@@ -1,0 +1,7 @@
+| Category                 |   first quartile |       max |    median |          min |   third quartile | x       |
+| [unnamed data series #0] |       0.0169226  | 0.0281155 | 0.0179886 |  0.00999365  |        0.0217195 | ATM     |
+| [unnamed data series #0] |       0.0159898  | 0.0341117 | 0.0199873 |  0.00586294  |        0.0239848 | BRCA1   |
+| [unnamed data series #0] |       0.00959391 | 0.031047  | 0.0141244 | -0.000266497 |        0.0191878 | BRCA2   |
+| [unnamed data series #0] |       0.0197208  | 0.0522335 | 0.0271827 |  0.00479695  |        0.0327792 | PTEN    |
+| [unnamed data series #0] |       0.0169226  | 0.0342449 | 0.0199873 |  0.00706218  |        0.0239848 | RADS51C |
+| [unnamed data series #0] |       0.0147906  | 0.0339784 | 0.0179886 |  0.00506345  |        0.0231853 | TP53    |

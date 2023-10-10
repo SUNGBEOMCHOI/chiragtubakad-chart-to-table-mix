@@ -1,0 +1,7 @@
+| title   |   [unnamed data series #0] |
+| Col-0   |                   3.55932  |
+| ddc     |                   7.95254  |
+| Ler     |                   0.935593 |
+| ago4    |                   2.27797  |
+| Col-0   |                   6.09153  |
+| rdd     |                   6.54915  |

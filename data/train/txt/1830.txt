@@ -1,0 +1,46 @@
+| title                                                               |   Strongly agree |
+| Screening among migrants is useful                                  |        56.1205   |
+| Pre-entry screening is useful                                       |         8.28625  |
+| Screening at entry point is useful                                  |        11.8644   |
+| Screening at the holding level is useful                            |        44.0678   |
+| Screening at the community level is useful                          |        37.3823   |
+| Europe- wide guidelines for screening would be useful               |        56.1205   |
+| Europe-wide guidelines on alternatives to screening would be useful |        37.4765   |
+| Training courses on screening would be useful                       |        44.0678   |
+| Technical support for your country on screening would be useful     |        12.1469   |
+| Screening among migrants is useful                                  |        39.6422   |
+| Pre-entry screening is useful                                       |        24.9529   |
+| Screening at entry point is useful                                  |        16.0075   |
+| Screening at the holding level is useful                            |        51.6008   |
+| Screening at the community level is useful                          |        41.2429   |
+| Europe- wide guidelines for screening would be useful               |        39.6422   |
+| Europe-wide guidelines on alternatives to screening would be useful |        45.7627   |
+| Training courses on screening would be useful                       |        27.4953   |
+| Technical support for your country on screening would be useful     |        51.8832   |
+| Screening among migrants is useful                                  |         3.86064  |
+| Pre-entry screening is useful                                       |        37.3823   |
+| Screening at entry point is useful                                  |        36.1582   |
+| Screening at the holding level is useful                            |         0        |
+| Screening at the community level is useful                          |        12.7119   |
+| Europe- wide guidelines for screening would be useful               |         4.14313  |
+| Europe-wide guidelines on alternatives to screening would be useful |        12.4294   |
+| Training courses on screening would be useful                       |        19.9623   |
+| Technical support for your country on screening would be useful     |        27.5895   |
+| Screening among migrants is useful                                  |         0.188324 |
+| Pre-entry screening is useful                                       |        20.8098   |
+| Screening at entry point is useful                                  |        27.4953   |
+| Screening at the holding level is useful                            |         3.86064  |
+| Screening at the community level is useful                          |         4.04896  |
+| Europe- wide guidelines for screening would be useful               |         0.094162 |
+| Europe-wide guidelines on alternatives to screening would be useful |         4.04896  |
+| Training courses on screening would be useful                       |         8.28625  |
+| Technical support for your country on screening would be useful     |         8.09793  |
+| Screening among migrants is useful                                  |         0        |
+| Pre-entry screening is useful                                       |         8.19209  |
+| Screening at entry point is useful                                  |         8.09793  |
+| Screening at the holding level is useful                            |        -0.094162 |
+| Screening at the community level is useful                          |         4.33145  |
+| Europe- wide guidelines for screening would be useful               |        -0.094162 |
+| Europe-wide guidelines on alternatives to screening would be useful |         0.094162 |
+| Training courses on screening would be useful                       |         0.188324 |
+| Technical support for your country on screening would be useful     |        -0.094162 |

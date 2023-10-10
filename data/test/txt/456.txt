@@ -1,0 +1,7 @@
+| title                   |   [unnamed data series #0] |
+| Case 1: biological risk |                 0.638133   |
+| Case 2: chemical risk   |                 0.0163184  |
+| Case 3: GM-risk         |                 0.00257658 |
+| Case 1: biological risk |                 0.777841   |
+| Case 2: chemical risk   |                 0.270541   |
+| Case 3: GM-risk         |                 0.91984    |

@@ -1,0 +1,29 @@
+| title                                                         |   Absence |
+| Photosynthetic apparatus and carbon fixation                  |        54 |
+| Chlorophyll and carotenoid metabolism                         |        22 |
+| Hypothetical proteins                                         |        33 |
+| DUF (Domain of Unknown Function) proteins                     |        28 |
+| Electron carriers and reduction/oxidation enzymes             |        15 |
+| Lipid metabolism                                              |         9 |
+| Cell cycle and division                                       |         4 |
+| General function proteins                                     |        25 |
+| Cofactor metabolism                                           |         3 |
+| Signal transduction                                           |         8 |
+| Protein and small molecule trafficking and transport          |        18 |
+| Protein maturation and degradation                            |        27 |
+| Nucleic acid binding, modification, and transcription factors |        15 |
+| Starch and sugar metabolism                                   |         1 |
+| Photosynthetic apparatus and carbon fixation                  |         8 |
+| Chlorophyll and carotenoid metabolism                         |         6 |
+| Hypothetical proteins                                         |        17 |
+| DUF (Domain of Unknown Function) proteins                     |        27 |
+| Electron carriers and reduction/oxidation enzymes             |        17 |
+| Lipid metabolism                                              |        13 |
+| Cell cycle and division                                       |         6 |
+| General function proteins                                     |        39 |
+| Cofactor metabolism                                           |         6 |
+| Signal transduction                                           |        18 |
+| Protein and small molecule trafficking and transport          |        42 |
+| Protein maturation and degradation                            |        66 |
+| Nucleic acid binding, modification, and transcription factors |        56 |
+| Starch and sugar metabolism                                   |        14 |

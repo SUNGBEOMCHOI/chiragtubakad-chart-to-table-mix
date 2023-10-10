@@ -1,0 +1,11 @@
+| title                |   [unnamed data series #0] |
+| Training             |                   370.991  |
+| Workplace            |                   364.314  |
+| Friends and families |                   167.357  |
+| Colleagues           |                   162.016  |
+| TV and radio         |                   117.284  |
+| SafeWorkSA           |                   112.61   |
+| None                 |                    76.5572 |
+| Internet             |                    60.5336 |
+| Newspaper            |                    40.5041 |
+| Others               |                    49.8512 |

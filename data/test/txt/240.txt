@@ -1,0 +1,9 @@
+| title    |   spacer devices |
+| Sample 1 |          289.321 |
+| Sample 2 |          303.943 |
+| Sample 3 |          273.969 |
+| Sample 4 |          320.026 |
+| Sample 1 |          209.634 |
+| Sample 2 |          225.718 |
+| Sample 3 |          233.76  |
+| Sample 4 |          237.415 |

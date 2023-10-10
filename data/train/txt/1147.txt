@@ -1,0 +1,6 @@
+| title                |   No Sn layer interface |
+| Van der Waals energy |                156.266  |
+| Electrostatic energy |               4748.09   |
+| Bonding energy       |                 14.8488 || Van der Waals energy |                212.833  |
+| Electrostatic energy |               5349.05   |
+| Bonding energy       |                 14.8488 |

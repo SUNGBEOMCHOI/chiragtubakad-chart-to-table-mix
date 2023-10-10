@@ -1,0 +1,11 @@
+| title                    |   [unnamed data series #0] |
+| HIV/AIDS                 |                    2.59669 |
+| Malaria                  |                    2.59669 |
+| STD excluding HIV        |                   16.616   |
+| Intestinal nematode      |                   16.8094  |
+| Tuberculosis             |                   31.4088  |
+| Diarrheal diseases       |                   80.1381  |
+| Nutritional deficiencies |                   84.779   |
+| Maternal Conditions      |                   87.1961  |
+| Respiratory infections   |                  142.21    |
+| Perinatal conditions     |                  152.555   |

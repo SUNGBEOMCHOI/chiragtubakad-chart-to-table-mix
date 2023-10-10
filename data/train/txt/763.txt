@@ -1,0 +1,11 @@
+| title                               |   [unnamed data series #0] |
+| no idea/ no answer                  |                   23.5872  |
+| none                                |                  382.31    |
+| others                              |                   28.5012  |
+| quitting to childsit                |                   21.6216  |
+| emotional disruption                |                  454.054   |
+| discriminated when seeking new jobs |                    1.9656  |
+| laid off                            |                    9.23833 |
+| social in workplace                 |                   16.7076  |
+| lawsuit/funeral                     |                  297.789   |
+| concerns from employer              |                   20.2457  |

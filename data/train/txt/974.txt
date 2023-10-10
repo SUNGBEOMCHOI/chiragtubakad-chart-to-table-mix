@@ -1,0 +1,7 @@
+| title     |   [unnamed data series #0] |
+| G-FA      |                    30.5349 |
+| G-FA-Ep10 |                    36.192  |
+| G-FA-Ep20 |                    48.9205 |
+| G-MK      |                    42.4553 |
+| G-MK-Ep10 |                    47.5063 |
+| G-MK-Ep20 |                    51.345  |

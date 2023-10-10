@@ -1,0 +1,6 @@
+| title     |   [unnamed data series #0] |
+| Internet  |                    32.8219 |
+| Newspaper |                    15.7324 |
+| Book      |                    17.6312 |
+| Lecture   |                    10.4827 |
+| TV        |                    17.8546 |

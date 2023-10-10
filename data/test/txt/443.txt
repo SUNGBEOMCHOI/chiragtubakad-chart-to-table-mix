@@ -1,0 +1,14 @@
+| title                                              |   [unnamed data series #0] |
+| ..will mainly talk about the types of foods that
+are not allowed (n=418)                                                    |                    45.8265 |
+| ..will help a patient to stick to a diet (n=416)   |                    83.0021 |
+| ...will help a patient to become motivated
+(n=418)                                                    |                    87.6783 |
+| ...will help a patient to remain motivated (n=418) |                    92.1206 |
+| ...will deliver good quality of care (n=409)       |                    94.6925 |
+| ...will support a patient to achieve his or her
+goals (n=418)                                                    |                    94.6925 |
+| ...will give a personal dietary advice (n=410)     |                    98.1997 |
+| ...will formulate goals which are discussed with a
+patient (n=417)                                                    |                    98.1997 |
+| ... is a food and nutrition specialist (n=410)     |                    98.5504 |

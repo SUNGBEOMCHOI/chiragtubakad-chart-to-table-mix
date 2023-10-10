@@ -1,0 +1,45 @@
+| Category     |             X |         Y |
+| viscosity    | 5345.25       | 0.053986  |
+| viscosity    | 3112.1        | 0.053986  |
+| viscosity    | 1698.04       | 0.0612366 |
+| viscosity    |  988.629      | 0.0677321 |
+| viscosity    |  551.22       | 0.0768288 |
+| viscosity    |  307.338      | 0.0818255 |
+| viscosity    |  175.108      | 0.0871472 |
+| viscosity    |   97.633      | 0.0939921 |
+| viscosity    |   56.8436     | 0.0963912 |
+| viscosity    |   30.3515     | 0.0988515 |
+| viscosity    |   17.2929     | 0.101375  |
+| viscosity    |    9.85273    | 0.100105  |
+| viscosity    |    5.49349    | 0.0988515 |
+| viscosity    |    3.06295    | 0.100105  |
+| viscosity    |    1.7833     | 0.0988515 |
+| viscosity    |    0.542515   | 0.16995   |
+| viscosity    |    0.973016   | 0.053986  |
+| viscosity    |    0.100341   | 0.241859  |
+| viscosity    |    0.0559459  | 0.852822  |
+| viscosity    |    0.0311932  | 2.03466   |
+| viscosity    |    0.0173921  | 4.06916   |
+| viscosity    |    0.00969713 | 8.34571   |
+| shear stress | 5230.84       | 4.85429   |
+| shear stress | 3045.49       | 3.41101   |
+| shear stress | 1698.04       | 2.65109   |
+| shear stress |  988.629      | 2.00918   |
+| shear stress |  539.422      | 1.4848    |
+| shear stress |  314.06       | 1.13956   |
+| shear stress |  175.108      | 0.842142  |
+| shear stress |   99.7684     | 0.59926   |
+| shear stress |   55.6269     | 0.437312  |
+| shear stress |   31.6937     | 0.311187  |
+| shear stress |   17.2929     | 0.218665  |
+| shear stress |    9.85273    | 0.159572  |
+| shear stress |    5.61364    | 0.112128  |
+| shear stress |    3.12994    | 0.079789  |
+| shear stress |    0.00969713 | 0.0360701 |
+| shear stress |    0.0173921  | 0.0330245 |
+| shear stress |    0.0311932  | 0.0306195 |
+| shear stress |    0.0559459  | 0.0256671 |
+| shear stress |    0.0981929  | 0.0169344 |
+| shear stress |    0.994298   | 0.0280342 |
+| shear stress |    1.70778    | 0.0567771 |
+| shear stress |    0.542515   | 0.0389031 |

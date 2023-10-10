@@ -1,0 +1,17 @@
+| title              |   Minimal depression |
+| Start of NBR       |             21.8576  |
+| End of NBR         |             51.0567  |
+| 6-month follow-up  |             53.8376  |
+| 12-month follow-up |             60.7898  |
+| Start of NBR       |             16.0178  |
+| End of NBR         |             12.9588  |
+| 6-month follow-up  |             19.911   |
+| 12-month follow-up |             17.1301  |
+| Start of NBR       |             32.9811  |
+| End of NBR         |             22.97    |
+| 6-month follow-up  |             21.8576  |
+| 12-month follow-up |             17.1301  |
+| Start of NBR       |             29.0879  |
+| End of NBR         |             12.9588  |
+| 6-month follow-up  |              3.78198 |
+| 12-month follow-up |              3.78198 |

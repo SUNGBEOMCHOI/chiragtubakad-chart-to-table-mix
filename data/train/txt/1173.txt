@@ -1,0 +1,8 @@
+| Category                 |   first quartile |      max |   median |       min |   third quartile | x   |
+| [unnamed data series #0] |         0.236136 | 0.906977 | 0.348837 | 0.059034  |         0.565295 | MAST Bivariate
+Pedigree     |
+| [unnamed data series #0] |         0.719141 | 0.978533 | 0.779964 | 0.533095  |         0.842576 | MAST Bivariate
+Single-step     || [unnamed data series #0] |         0.368515 | 0.957066 | 0.515206 | 0.0143113 |         0.728086 | SCS Bivariate
+Pedigree     |
+| [unnamed data series #0] |         0.753131 | 0.980322 | 0.810376 | 0.584973  |         0.86941  | SCS Bivariate
+Single-step     |

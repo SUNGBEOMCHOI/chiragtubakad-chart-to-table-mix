@@ -1,0 +1,19 @@
+| title                  |   Students with low screen time |
+| Internet use, girls    |                         3.26282 |
+| Internet use, boys     |                         2.7651  |
+| Console gaming, girls  |                         1.93557 |
+| Console gaming, boys   |                         4.42417 |
+| Computer gaming, girls |                         1.76967 |
+| Computer gaming, boys  |                         6.58095 |
+| Internet use, girls    |                         7.24457 |
+| Internet use, boys     |                         5.08779 |
+| Console gaming, girls  |                         5.75142 |
+| Console gaming, boys   |                        17.8626  |
+| Computer gaming, girls |                         5.08779 |
+| Computer gaming, boys  |                        11.3922  |
+| Internet use, girls    |                        26.6556  |
+| Internet use, boys     |                        20.5171  |
+| Console gaming, girls  |                         9.23545 |
+| Console gaming, boys   |                        23.0057  |
+| Computer gaming, girls |                        16.7012  |
+| Computer gaming, boys  |                        32.1305  |

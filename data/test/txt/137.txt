@@ -1,0 +1,13 @@
+| title                          |   [unnamed data series #0] |
+| Threatened premature delivery  |                   0.295554 |
+| Incompetent cervix             |                   0.366893 |
+| Pregnancy induced hypertension |                   0.122863 |
+| Placental abruption            |                   0.25336  |
+| Pretem PROM                    |                   0.406042 |
+| Chorio amnionitis              |                   0.406042 |
+| Threatened premature delivery  |                   0.275545 |
+| Incompetent cervix             |                   0.386467 |
+| Pregnancy induced hypertension |                   0.165927 |
+| Placental abruption            |                   0.270325 |
+| Pretem PROM                    |                   0.402127 |
+| Chorio amnionitis              |                   0.394732 |

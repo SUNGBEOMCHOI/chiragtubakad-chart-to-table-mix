@@ -1,0 +1,13 @@
+| title                     |   [unnamed data series #0] |
+| Ecuador - Nambija (2005)* |                         71 |
+| Ecuador-Nambija (2006)*   |                         53 |
+| Ecuador-Paquisha (2015)*  |                         86 |
+| Ecuador-Portovelo         |                        865 |
+| Zimbabwe (2006)           |                         79 |
+| Mongolia                  |                        155 |
+| Philippines- Monkayo      |                         72 |
+| Philippines-Mt. Diwalwal  |                        119 |
+| Zimbabwe (2004)           |                        157 |
+| Tanzania                  |                        184 |
+| Indonesia- Sulawesi       |                        101 |
+| Indoniesia- Kalimanatan   |                        168 |

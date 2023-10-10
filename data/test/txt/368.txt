@@ -1,0 +1,9 @@
+| title                    |   Boys (n=977) |
+| Low-income neighborhood  |           18.1 |
+| Middle-income 
+neighborhood                          |            2.4 |
+| High-income neighborhood |            1.9 |
+| Low-income neighborhood  |           14.7 |
+| Middle-income 
+neighborhood                          |            5.5 |
+| High-income neighborhood |            2.2 |

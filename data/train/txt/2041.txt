@@ -1,0 +1,33 @@
+| title                                 |   Multip section |
+| Latin Americaand Caribbean            |             23.8 |
+| Somanlian                             |             14.6 |
+| African (excl. Somalia, North Africa) |             21.3 |
+| Vietnamese                            |              8.8 |
+| Southeast Asian                       |             23.5 |
+| Iranian, Iraqi, Afghan                |             13.1 |
+| Chinese                               |             13.6 |
+| South Asian                           |             17.7 |
+| Middle East, North African            |             14.1 |
+| Baltic                                |              8.4 |
+| Former Soviet Union, Russian          |             10.6 |
+| former Eastern Europe                 |              6.2 |
+| Western                               |             11.7 |
+| Nordic                                |             12   |
+| All migrants                          |             12.6 |
+| Finnish                               |             13.1 |
+| Latin Americaand Caribbean            |             31   |
+| Somanlian                             |             28.8 |
+| African (excl. Somalia, North Africa) |             40.5 |
+| Vietnamese                            |             18.5 |
+| Southeast Asian                       |             28.6 |
+| Iranian, Iraqi, Afghan                |            206   |
+| Chinese                               |             22.1 |
+| South Asian                           |             20   |
+| Middle East, North African            |             17.3 |
+| Baltic                                |             14.8 |
+| Former Soviet Union, Russian          |             15.2 |
+| former Eastern Europe                 |             13   |
+| Western                               |             16   |
+| Nordic                                |             12.8 |
+| All migrants                          |             17.8 |
+| Finnish                               |             19.7 |

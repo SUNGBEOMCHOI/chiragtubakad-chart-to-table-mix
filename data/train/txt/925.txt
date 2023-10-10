@@ -1,0 +1,13 @@
+| Category                                                       |   first quartile |     max |   median |     min |   third quartile | x                        |
+| Healthy life expectancy (HALE) at birth (years), males, 2002   |          58.9423 | 68.7019 |  63.0769 | 52.7404 |          64.7596 | Residual                 |
+| Healthy life expectancy (HALE) at birth (years), males, 2002   |          58.5577 | 67.0673 |  60.5769 | 56.8269 |          63.6538 | Emerging                 |
+| Healthy life expectancy (HALE) at birth (years), males, 2002   |          58.3173 | 64.1346 |  59.7115 | 56.9712 |          61.2981 | Informal                 |
+| Healthy life expectancy (HALE) at birth (years), males, 2002   |          53.1471 | 63.0288 |  57.0153 | 45.5288 |          59.5374 | Post-Communist           |
+| Healthy life expectancy (HALE) at birth (years), males, 2002   |          47.1154 | 60.2404 |  55.3365 | 33.0288 |          59.1346 | Less Successful Informal |
+| Healthy life expectancy (HALE) at birth (years), males, 2002   |          36.2008 | 55.2404 |  40.9594 | 33.2212 |          47.016  | Insecure                 |
+| Healthy life expectancy (HALE) at birth (years), females, 2002 |          66.0096 | 72.1154 |  68.2692 | 62.3558 |          70.625  | Residual                 |
+| Healthy life expectancy (HALE) at birth (years), females, 2002 |          63.2212 | 69.5673 |  65.3365 | 60.5288 |          67.7885 | Emerging                 |
+| Healthy life expectancy (HALE) at birth (years), females, 2002 |          62.0929 | 65.2404 |  62.6955 | 61.4904 |          63.6346 | Informal                 |
+| Healthy life expectancy (HALE) at birth (years), females, 2002 |          56.3221 | 66.8269 |  61.6827 | 49.4231 |          63.726  | Post-Communist           |
+| Healthy life expectancy (HALE) at birth (years), females, 2002 |          49.7596 | 63.8942 |  59.4712 | 35.1442 |          61.875  | Less Successful Informal |
+| Healthy life expectancy (HALE) at birth (years), females, 2002 |          37.6202 | 55.1923 |  41.6346 | 33.1731 |          47.2115 | Insecure                 |

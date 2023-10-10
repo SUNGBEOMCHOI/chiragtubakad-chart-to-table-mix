@@ -1,0 +1,27 @@
+| Category            |       X |        Y |
+| Urban, ground       | 1987    | 13.324   |
+| Urban, ground       | 1988.98 |  7.63272 |
+| Urban, ground       | 1991.95 |  5.67444 |
+| Urban, ground       | 1994.01 |  4.45051 |
+| Urban, ground       | 1995.95 |  4.08333 |
+| Urban, ground       | 2007.95 |  1.97205 |
+| Prague (U), ground  | 1987    | 14.7621  |
+| Prague (U), ground  | 1988.98 |  6.95956 |
+| Prague (U), ground  | 1991.95 |  7.69392 |
+| Prague (U), ground  | 1994.01 |  5.61324 |
+| Prague (U), ground  | 1995.99 |  5.64384 |
+| Prague (U), ground  | 2007.99 |  3.07359 |
+| Prague (U), ground  | 1999.99 |  3.96094 |
+| Urban, blasted      | 2013.93 |  4.48111 |
+| Urban, blasted      | 2010.96 |  3.25718 |
+| Urban, blasted      | 2007.95 |  3.65495 |
+| Urban, blasted      | 2004.98 |  5.00127 |
+| Urban, blasted      | 2002.01 |  5.46025 |
+| Urban, blasted      | 1999.99 |  4.02213 |
+| Urban, blasted      | 1996.98 |  4.6035  |
+| Prague (U), blasted | 2013.97 |  3.28778 |
+| Prague (U), blasted | 2011    |  3.68555 |
+| Prague (U), blasted | 2004.98 |  4.14453 |
+| Prague (U), blasted | 2001.97 |  4.41991 |
+| Prague (U), blasted | 2000.03 |  4.5729  |
+| Prague (U), blasted | 1996.98 |  4.11393 |

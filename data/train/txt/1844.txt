@@ -1,0 +1,7 @@
+| title       |   Average P recovery |
+| No aeration |              10.0973 |
+| 50          |              23.9291 |
+| 150         |              22.0105 |
+| No aeration |              14.7823 |
+| 50          |              17.8163 |
+| 150         |              21.5643 |

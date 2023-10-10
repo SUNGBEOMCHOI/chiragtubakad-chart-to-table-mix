@@ -1,0 +1,13 @@
+| title            |   [unnamed data series #0] |
+| Coca Cola        |                  0.449153  |
+| Pepsico          |                  0.271186  |
+| Parmala          |                  0.0654875 |
+| Lion             |                  0.0499569 |
+| Campbell Arnotts |                  0.0499569 |
+| Deliveroo        |                  0.0206212 |
+| Mars             |                  0.0206212 |
+| Uncle Tobys      |                  0.0154443 |
+| Frucor           |                  0.0137187 |
+| Mc Donalds       |                  0.0137187 |
+| Sanitarium       |                  0.0137187 |
+| Unilever         |                  0.0137187 |

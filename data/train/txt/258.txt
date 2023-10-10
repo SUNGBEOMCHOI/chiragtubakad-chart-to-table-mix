@@ -1,0 +1,16 @@
+| title                           |   Male |
+| Alleged victim of violence      |    8   |
+| Contusion [without skin lesion] |    6.8 |
+| Contusion( with skin lesion)    |    5.9 |
+| Sprained ankle                  |    2   |
+| Periarticular lesion            |    1.6 |
+| Alleged victim of violence      |    6.5 |
+| Contusion [without skin lesion] |    6.5 |
+| Contusion( with skin lesion)    |    2.8 |
+| Sprained ankle                  |    0.9 |
+| Periarticular lesion            |    0   |
+| Alleged victim of violence      |    7.9 |
+| Contusion [without skin lesion] |    6.7 |
+| Contusion( with skin lesion)    |    5.8 |
+| Sprained ankle                  |    1.9 |
+| Periarticular lesion            |    1.5 |

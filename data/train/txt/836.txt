@@ -1,0 +1,17 @@
+| title              |   Minimal anxiety |
+| Start of NBR       |           22.0039 |
+| End of NBR         |           32.0236 |
+| 6-month follow-up  |           32.0236 |
+| 12-month follow-up |           34.9705 |
+| Start of NBR       |           31.1395 |
+| End of NBR         |           32.9077 |
+| 6-month follow-up  |           34.0864 |
+| 12-month follow-up |           45.8743 |
+| Start of NBR       |           22.0039 |
+| End of NBR         |           18.1729 |
+| 6-month follow-up  |           29.9607 |
+| 12-month follow-up |           15.2259 |
+| Start of NBR       |           24.9509 |
+| End of NBR         |           13.1631 |
+| 6-month follow-up  |            4.0275 |
+| 12-month follow-up |            4.0275 |

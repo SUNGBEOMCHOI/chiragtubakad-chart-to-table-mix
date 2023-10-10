@@ -1,0 +1,9 @@
+| title                                 |   [unnamed data series #0] |
+| Pursue funding opportunities          |                    12.0172 |
+| Institute evaluation                  |                    16.0818 |
+| Improve FP activities where OA reside |                    16.0818 |
+| Enhance date collection               |                    16.9654 |
+| Increase provider participation       |                    19.0861 |
+| Build and leverage FP network         |                    21.03   |
+| Increase awareness                    |                    24.0343 |
+| Increase availability of programs     |                    29.9546 |

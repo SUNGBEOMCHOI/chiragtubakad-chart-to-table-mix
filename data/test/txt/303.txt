@@ -1,0 +1,7 @@
+| Category                 |   first quartile |     max |   median |     min |   third quartile | x             |
+| [unnamed data series #0] |          12.409  | 12.9567 |  12.6586 | 12.1386 |          12.7903 | Col-0_N       |
+| [unnamed data series #0] |          17.9688 | 19.1127 |  18.4402 | 17.8232 |          18.974  | SALK_003381_N |
+| [unnamed data series #0] |          18.1352 | 19.279  |  18.3154 | 17.7539 |          19.0572 | SALK_035035_N |
+| [unnamed data series #0] |          15.7088 | 16.2565 |  15.8198 | 15.3553 |          16.104  | Col-0_S       |
+| [unnamed data series #0] |          19.2998 | 20.1109 |  19.383  | 19.2097 |          19.7366 | SALK_003381_S |
+| [unnamed data series #0] |          18.3016 | 19.3484 |  18.8423 | 17.9203 |          19.1542 | SALK_035035_S |

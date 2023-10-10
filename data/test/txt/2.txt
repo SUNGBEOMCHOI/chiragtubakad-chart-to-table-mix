@@ -1,0 +1,5 @@
+| Category                 |   first quartile |     max |   median |      min |   third quartile | x   |
+| [unnamed data series #0] |          9.04772 | 15.9129 |  11.4944 |  4.00836 |          15.9129 | non-
+smokers     || [unnamed data series #0] |         11.4944  | 15.9494 |  13.0281 | 10.9831  |          15.9494 | occasional
+smokers     || [unnamed data series #0] |          8.06175 | 15.9129 |  12.0056 |  4.04488 |          15.9129 | current
+smokers     |

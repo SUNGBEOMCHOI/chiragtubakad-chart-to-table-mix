@@ -1,0 +1,11 @@
+| title                   |   Women |
+| Elevated triglycerides  | 38.0278 |
+| Hypertension            | 44.942  |
+| Elevated plasma glucose | 43.9542 |
+| Low HDL                 | 95.5634 |
+| Centripetal obesity     | 81.7351 |
+| Elevated triglycerides  | 50.1276 |
+| Hypertension            | 33.0891 |
+| Elevated plasma glucose | 39.2625 |
+| Low HDL                 | 94.5757 |
+| Centripetal obesity     | 34.0769 |

@@ -1,0 +1,7 @@
+| title                      |   KiGGS baseline study(2003-06) |
+| SHS exposure at home       |                            23.9 |
+| At least one parent smokes |                            49.8 |
+| Both parents smoke         |                            21   |
+| SHS exposure at home       |                             6.6 |
+| At least one parent smokes |                            41.8 |
+| Both parents smoke         |                            15.4 |

@@ -1,0 +1,17 @@
+| title        |   [unnamed data series #0] |
+| Peru         |                   0.498295 |
+| Jordan       |                   0.598135 |
+| Syria        |                   0.714313 |
+| Pakistan     |                   0.748804 |
+| Morocco      |                   0.759696 |
+| Malaysia     |                   0.763326 |
+| Nigeria      |                   0.78874  |
+| Kuwait       |                   0.78874  |
+| Shanghai     |                   0.794186 |
+| Shandong     |                   0.796001 |
+| Tunisia      |                   0.808708 |
+| Kazakistan   |                   0.8196   |
+| Lebanon      |                   0.85046  |
+| South Africa |                   0.901288 |
+| Phillipines  |                   0.923071 |
+| Kyrgyzstaan  |                   0.999831 |

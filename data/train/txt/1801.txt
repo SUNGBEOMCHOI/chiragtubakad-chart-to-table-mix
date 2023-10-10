@@ -1,0 +1,13 @@
+| title                  |        - |
+| WT                     | 101.538  |
+| hem25\delta            |  29.457  |
+| ymc1\delta             |  92.888  |
+| hem25\delta ymc1\delta |  13.1187 |
+| WT                     | 107.304  |
+| hem25\delta            | 108.265  |
+| ymc1\delta             |  94.8102 |
+| hem25\delta ymc1\delta |  21.7684 |
+| WT                     | 109.226  |
+| hem25\delta            |  75.5887 |
+| ymc1\delta             | 165.93   |
+| hem25\delta ymc1\delta |  58.2893 |

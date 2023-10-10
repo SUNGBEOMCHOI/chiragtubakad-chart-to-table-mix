@@ -1,0 +1,4 @@
+| Category                 |   first quartile |      max |   median |      min |   third quartile | x         |
+| [unnamed data series #0] |         0.40411  | 0.556804 | 0.430776 | 0.315342 |         0.464384 | Grade 0   |
+| [unnamed data series #0] |         0.442831 | 0.629863 | 0.486301 | 0.373059 |         0.537443 | Grade 1   |
+| [unnamed data series #0] |         0.502009 | 0.676621 | 0.54621  | 0.431507 |         0.59589  | Grade 2/3 |

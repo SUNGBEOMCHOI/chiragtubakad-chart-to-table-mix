@@ -1,0 +1,19 @@
+| title                 |   Splitting tensile strength |
+| Emulsion              |                     114.011  |
+| Ethoxyline resin      |                     130.663  |
+| Synthetic resin       |                     139.297  |
+| Amino-acrylate        |                     123.879  |
+| Choloroprene adhesive |                     121.412  |
+| Unsaturated resins    |                      95.5096 |
+| Emulsion              |                      78.2415 |
+| Ethoxyline resin      |                     107.227  |
+| Synthetic resin       |                     111.544  |
+| Amino-acrylate        |                     101.06   |
+| Choloroprene adhesive |                     103.527  |
+| Unsaturated resins    |                     101.677  |
+| Emulsion              |                      89.9592 |
+| Ethoxyline resin      |                     100.443  |
+| Synthetic resin       |                     104.144  |
+| Amino-acrylate        |                     104.144  |
+| Choloroprene adhesive |                     101.677  |
+| Unsaturated resins    |                      99.2099 |

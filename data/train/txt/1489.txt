@@ -1,0 +1,7 @@
+| Category                 |   first quartile |     max |   median |     min |   third quartile | x   |
+| [unnamed data series #0] |          2.49093 | 6.00605 |  2.99516 | 1.98307 |          4.00363 | mapman/MF
+(n=64)     |
+| [unnamed data series #0] |          1.99033 | 2.99516 |  1.99033 | 1.99033 |          2.99516 | mapman/BP
+(n=8)     |
+| [unnamed data series #0] |          1.99033 | 4.51149 |  3.00242 | 1.99033 |          4.00363 | mapman/MF/BP
+(n=10)     |

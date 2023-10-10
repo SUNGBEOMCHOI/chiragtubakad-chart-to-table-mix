@@ -1,0 +1,5 @@
+| title   |   healthy snacks at top shelf position |
+| 25%     |                                  0.175 |
+| 75%     |                                  0.436 |
+| 25%     |                                  0.103 |
+| 75%     |                                  0.45  |

@@ -1,0 +1,7 @@
+| title                    |   [unnamed data series #0] |
+| Reputation of researcher |                   0.34053  |
+| Backs up policy          |                   0.34053  |
+| Recency                  |                   0.750056 |
+| Risk of bias             |                   0.750056 |
+| Quality of data          |                   0.883597 |
+| Consistency and strength |                   0.883597 |

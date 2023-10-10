@@ -1,0 +1,17 @@
+| title        |   unclear |
+| cytogenetics | 81.6107   |
+| MLPA         | 37.8984   |
+| iFISH        | 23.9018   |
+| overall      | 21.1025   |
+| cytogenetics |  0.430663 |
+| MLPA         | 32.7304   |
+| iFISH        | 45.2196   |
+| overall      | 44.789    |
+| cytogenetics |  3.01464  |
+| MLPA         |  3.44531  |
+| iFISH        |  2.79931  |
+| overall      |  3.44531  |
+| cytogenetics | 15.0732   |
+| MLPA         | 26.2705   |
+| iFISH        | 28.2084   |
+| overall      | 31.0078   |

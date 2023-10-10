@@ -1,0 +1,7 @@
+| title                     |   [unnamed data series #0] |
+| polystyrene               |                   0.162693 |
+| ctrl                      |                   0.231216 |
+| treated                   |                   0.451324 |
+| polystirene + inﬂammation |                   0.141928 |
+| ctrl + inflammation       |                   0.283129 |
+| treated + inﬂammation     |                   0.492853 |

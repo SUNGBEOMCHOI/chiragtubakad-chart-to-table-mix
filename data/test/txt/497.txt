@@ -1,0 +1,23 @@
+| title                  |   suburbs |
+| green or water present |  98.3294  |
+| quiet/tranquil         |  78.8691  |
+| well kept, clean       |  78.1872  |
+| nice colours           |  72.6271  |
+| no noise               |  77.4004  |
+| spacious               |  77.0332  |
+| nice sounds            |  61.4021  |
+| nice odours            |  59.776   |
+| intimate               |  35.9097  |
+| few people             |  55.0028  |
+| nice buildings         |   8.42403 |
+| green or water present |  95.0248  |
+| quiet/tranquil         |  80.705   |
+| well kept, clean       |  76.6661  |
+| nice colours           |  75.6694  |
+| no noise               |  71.1584  |
+| spacious               |  62.7134  |
+| nice sounds            |  60.5104  |
+| nice odours            |  48.7608  |
+| intimate               |  42.5188  |
+| few people             |  41.0501  |
+| nice buildings         |  38.4799  |

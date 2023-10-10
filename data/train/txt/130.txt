@@ -1,0 +1,25 @@
+| Category                   |          X |          Y |
+| Y2GdSbO7_No cut-off filter |  0         |   10.4938  |
+| Y2GdSbO7_No cut-off filter |  3.99896   |   94.0363  |
+| Y2GdSbO7_No cut-off filter |  8.03269   |  165.353   |
+| Y2GdSbO7_No cut-off filter | 11.9969    |  297.799   |
+| Y2GdSbO7_No cut-off filter | 16.0306    |  401.717   |
+| Y2GdSbO7_No cut-off filter | 19.9948    |  485.26    |
+| Y2GdSbO7_No cut-off filter | 23.9937    |  654.383   |
+| Y2GdSbO7_No cut-off filter | 28.0622    |  772.565   |
+| Y2InSbO7_No cut-off filter | 27.9927    |  978.365   |
+| Y2InSbO7_No cut-off filter | 23.9937    |  825.543   |
+| Y2InSbO7_No cut-off filter | 20.0296    |  603.442   |
+| Y2InSbO7_No cut-off filter | 16.0654    |  468.959   |
+| Y2InSbO7_No cut-off filter | 12.0316    |  371.153   |
+| Y2InSbO7_No cut-off filter |  7.99791   |  226.482   |
+| Y2InSbO7_No cut-off filter |  3.99896   |  126.638   |
+| Y2InSbO7_No cut-off filter | -0.0347735 |    6.41851 |
+| Y2GaSbO7_No cut-off filter | 28.0275    | 1296.23    |
+| Y2GaSbO7_No cut-off filter | 24.0285    | 1194.35    |
+| Y2GaSbO7_No cut-off filter | 20.0991    |  955.951   |
+| Y2GaSbO7_No cut-off filter | 16.0306    |  770.527   |
+| Y2GaSbO7_No cut-off filter | 11.9969    |  682.909   |
+| Y2GaSbO7_No cut-off filter |  7.99791   |  436.357   |
+| Y2GaSbO7_No cut-off filter |  3.99896   |  208.143   |
+| Y2GaSbO7_No cut-off filter | -0.0347735 |    4.38089 |

@@ -1,0 +1,6 @@
+| title                    |   [unnamed data series #0] |
+| GAVI portifolio vaccines |                       0.09 |
+| Injectible vaccines      |                       0.12 |
+| Measles vaccines         |                       0.03 |
+| OPV                      |                       1.45 |
+| Tetanus vaccines         |                       0.27 |

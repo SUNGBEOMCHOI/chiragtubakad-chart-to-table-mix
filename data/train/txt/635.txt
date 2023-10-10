@@ -1,0 +1,51 @@
+| title             |          C |
+| Global warming    | 0.911749   |
+| Acidification     | 0.0131187  |
+| Eutrophication    | 0.00163984 |
+| Ozone             | 0.10495    |
+| Abiotic Depletion | 0.0163984  |
+| Photochemical     | 0.796961   |
+| Global warming    | 0.0131187  |
+| Acidification     | 0.644456   |
+| Eutrophication    | 0.664134   |
+| Ozone             | 0.583782   |
+| Abiotic Depletion | 0.49851    |
+| Photochemical     | 0.0967504  |
+| Global warming    | 0.00655935 |
+| Acidification     | 0.339446   |
+| Eutrophication    | 0.331247   |
+| Ozone             | 0.30337    |
+| Abiotic Depletion | 0.478832   |
+| Photochemical     | 0.10495    |
+| Global warming    | 0.0541146  |
+| Acidification     | 0          |
+| Eutrophication    | 0.00327967 |
+| Ozone             | 0.00163984 |
+| Abiotic Depletion | 0.00491951 |
+| Photochemical     | 0          || Global warming    | 0.0147585  |
+| Acidification     | 0.00163984 |
+| Eutrophication    | 0          |
+| Ozone             | 0.00655935 |
+| Abiotic Depletion | 0          |
+| Photochemical     | 0.00327967 |
+| Global warming    | 0          |
+| Acidification     | 0.00163984 |
+| Eutrophication    | 0          |
+| Ozone             | 0          |
+| Abiotic Depletion | 0          |
+| Photochemical     | 0          || Global warming    | 0          |
+| Acidification     | 0          |
+| Eutrophication    | 0          |
+| Ozone             | 0          |
+| Abiotic Depletion | 0.00163984 |
+| Photochemical     | 0          || Global warming    | 0          |
+| Acidification     | 0          |
+| Eutrophication    | 0          |
+| Ozone             | 0          |
+| Abiotic Depletion | 0          |
+| Photochemical     | 0          || Global warming    | 0          |
+| Acidification     | 0          |
+| Eutrophication    | 0          |
+| Ozone             | 0          |
+| Abiotic Depletion | 0          |
+| Photochemical     | 0          |

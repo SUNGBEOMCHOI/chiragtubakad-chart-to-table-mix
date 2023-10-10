@@ -1,0 +1,9 @@
+| title              |   [unnamed data series #0] |
+| Other              |                    3.13539 |
+| Rifaximin          |                    1.5677  |
+| Aztreonam          |                    2.06651 |
+| Metronidazole      |                    3.13539 |
+| S-G cephalosporins |                    7.69596 |
+| T-G cephalosporins |                    9.26366 |
+| Aminoglycosides    |                   16.0333  |
+| Fluoroquinolones   |                   58.0048  |

@@ -1,0 +1,27 @@
+| Category                       |         X |       Y |
+| Expression down                | -1.68313  | 2.06587 |
+| Expression down                | -1.50823  | 2.56886 |
+| Expression down                | -0.808642 | 3.39521 |
+| Expression down                | -0.592593 | 2.47305 |
+| Expression down                | -1.12757  | 2.54491 |
+| Expression down                | -1.03498  | 2.66467 |
+| Expression down                | -1.107    | 2.13772 |
+| Expression down                | -0.839506 | 2.11377 |
+| Expression down                | -0.633745 | 2.23353 |
+| Expression down                | -0.510288 | 2.22156 |
+| On Chromosome IV               | -1.59053  | 6.29102 |
+| On Chromosome IV               | -1.8786   | 3.51257 |
+| On Chromosome IV               | -1.54938  | 3.78084 |
+| On Chromosome IV               | -0.792181 | 3.74251 |
+| On Chromosome IV               | -0.528807 | 3.17725 |
+| On Chromosome IV               | -0.923868 | 2.6982  |
+| On Chromosome IV               | -0.997942 | 2.12335 |
+| On Chromosome IV               | -1.15432  | 2.4491  |
+| unc-43 CaMKII                  | -1.59877  | 6.3006  |
+| unc-43 CaMKII                  | -1.8786   | 3.51257 |
+| unc-43 CaMKII                  | -1.56584  | 3.77126 |
+| unc-43 CaMKII                  | -0.800412 | 3.72335 |
+| unc-43 CaMKII                  | -0.528807 | 3.16766 |
+| unc-43 CaMKII                  | -0.923868 | 2.70778 |
+| unc-43 CaMKII                  | -1.15432  | 2.45868 |
+| hif-1 hypoxia-induced factor 1 | -2.98971  | 4.27904 |

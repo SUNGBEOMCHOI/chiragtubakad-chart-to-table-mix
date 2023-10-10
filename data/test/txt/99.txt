@@ -1,0 +1,21 @@
+| title   |   Control |
+| Trial 1 |  124.051  |
+| Trial 2 |   96.3158 |
+| Trial 3 |   76.1111 |
+| Trial 4 |   64.4444 |
+| Test    |   46.6667 |
+| Trial 1 |  145.205  |
+| Trial 2 |  123.038  |
+| Trial 3 |  104.324  |
+| Trial 4 |   90      |
+| Test    |   78.8889 |
+| Trial 1 |  137.722  |
+| Trial 2 |  105.405  |
+| Trial 3 |  101.622  |
+| Trial 4 |   96.6667 |
+| Test    |   82.1053 |
+| Trial 1 |  125.063  |
+| Trial 2 |  120      |
+| Trial 3 |  112.973  |
+| Trial 4 |   78.3333 |
+| Test    |   68.8889 |

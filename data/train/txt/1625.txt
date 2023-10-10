@@ -1,0 +1,13 @@
+| title   |   [unnamed data series #0] |
+| Unit 3  |                   190.664  |
+| Unit 5  |                   212.208  |
+| Unit 3  |                   301.975  |
+| Unit 5  |                   409.695  |
+| Unit 3  |                   309.156  |
+| Unit 5  |                   503.052  |
+| Unit 3  |                   169.12   |
+| Unit 5  |                   258.887  |
+| Unit 3  |                   100.898  |
+| Unit 5  |                   169.12   |
+| Unit 3  |                    36.2657 |
+| Unit 5  |                    32.675  |

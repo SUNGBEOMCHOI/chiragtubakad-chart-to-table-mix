@@ -1,0 +1,21 @@
+| title                           |    South |
+| Sidewalks                       | 77.5034  |
+| Other walkability               | 71.4678  |
+| Mixed use*                      | 65.7064  |
+| Bike-pedestrian trails/paths    | 58.5734  |
+| Street connectivity***          | 44.5816  |
+| Bike-pedestrian connectivity*** | 44.5816  |
+| Bike parking**                  | 35.5281  |
+| Crosswalks***                   | 29.7668  |
+| Code Reform Zoning***           | 22.3594  |
+| Bike lanes***                   | 17.4211  |
+| Sidewalks                       | 77.5034  |
+| Other walkability               | 72.5652  |
+| Mixed use*                      | 68.9986  |
+| Bike-pedestrian trails/paths    | 55.5556  |
+| Street connectivity***          | 30.0412  |
+| Bike-pedestrian connectivity*** | 33.882   |
+| Bike parking**                  | 30.8642  |
+| Crosswalks***                   | 19.3416  |
+| Code Reform Zoning***           | 11.1111  |
+| Bike lanes***                   |  7.54458 |

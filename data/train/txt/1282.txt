@@ -1,0 +1,29 @@
+| title                              |       Yes |
+| Use of appropriate synthesis       | 0.841154  |
+| Defined review question            | 0.789016  |
+| Inclusion criteria reported        | 0.792492  |
+| Defined search strategy            | 0.684741  |
+| Number of studies/designs reported | 0.636079  |
+| Quality assessment undertaken      | 0.316302  |
+| Number of reviewers reported       | 0.264164  |
+| Use of appropriate synthesis       | 0.107751  |
+| Defined review question            | 0.208551  |
+| Inclusion criteria reported        | 0.205075  |
+| Defined search strategy            | 0.312826  |
+| Number of studies/designs reported | 0.0486618 |
+| Quality assessment undertaken      | 0.156413  |
+| Number of reviewers reported       | 0.104275  |
+| Use of appropriate synthesis       | 0.0486618 |
+| Defined review question            | 0         |
+| Inclusion criteria reported        | 0         |
+| Defined search strategy            | 0         |
+| Number of studies/designs reported | 0.159889  |
+| Quality assessment undertaken      | 0.524852  |
+| Number of reviewers reported       | 0.629128  |
+| Use of appropriate synthesis       | 0         |
+| Defined review question            | 0         |
+| Inclusion criteria reported        | 0         |
+| Defined search strategy            | 0         |
+| Number of studies/designs reported | 0.152937  |
+| Quality assessment undertaken      | 0         |
+| Number of reviewers reported       | 0         |

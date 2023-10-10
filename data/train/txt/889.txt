@@ -1,0 +1,12 @@
+| title                    |   [unnamed data series #0] |
+| RunKeeper                |                  44.3634   |
+| Other                    |                  16.836    |
+| Nike + iPod/ I Phone app |                  13.2312   |
+| Runtastic                |                  10.4457   |
+| Endomundo                |                   7.16861  |
+| Strava                   |                   3.39997  |
+| Myasics                  |                   1.59757  |
+| App + Renate Wennemars   |                   1.10601  |
+| Adidas miCoach           |                   0.614452 |
+| DtD 2014 app             |                   0.450598 |
+| Get Running-app          |                   0.12289  |

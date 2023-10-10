@@ -1,0 +1,11 @@
+| title       |   [unnamed data series #0] |
+| Switzerland |                    9.71957 |
+| Norway      |                   11.0739  |
+| US          |                   13.3445  |
+| Netherlands |                   13.3445  |
+| Sweden      |                   15.4955  |
+| Austria     |                   15.9736  |
+| Italy       |                   17.2084  |
+| Germany     |                   19.5586  |
+| France      |                   20.4748  |
+| Spain       |                   20.9528  |

@@ -1,0 +1,9 @@
+| Category                 |   first quartile |      max |   median |       min |   third quartile | x         |
+| [unnamed data series #0] |         46.2389  | 137.5    | 60.0664  | 22.4558   |         86.7257  | Ti- PCL
++ VEGF           |
+| [unnamed data series #0] |         33.1858  | 101.659  | 44.3584  | 20.2434   |         73.0088  | Ti- PCL
++HMGB1           |
+| [unnamed data series #0] |         30.9735  |  74.2257 | 42.5885  | 16.9248   |         58.4071  | Ti- PCL
++ HMGB1 + VEGF           |
+| [unnamed data series #0] |         16.8142  |  38.1637 | 21.5708  |  8.29646  |         29.4248  | 20% FKS   |
+| [unnamed data series #0] |          2.21239 |  11.1726 |  4.97788 |  0.331858 |          7.30088 | 0,1 % FKS |

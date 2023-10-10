@@ -1,0 +1,48 @@
+| title                        |   Scenario A |
+| Total                        |    296.842   |
+| Under 75                     |    271.579   |
+| Cardiovascular disease       |    212.632   |
+| Diabete                      |      2.10526 |
+| Cancer                       |     18.9474  |
+| Liver disease                |     61.0526  |
+| Diet (not including alcohol) |    204.211   |
+| Fruit and vegetables         |   -511.579   |
+| Fibre                        |    229.474   |
+| Fate                         |    524.211   |
+| salt                         |    -73.6842  |
+| Alcohol consumption          |     94.7368  |
+| Total                        |     86.3158  |
+| Under 75                     |    170.526   |
+| Cardiovascular disease       |    195.789   |
+| Diabete                      |    -73.6842  |
+| Cancer                       |     27.3684  |
+| Liver disease                |    -65.2632  |
+| Diet (not including alcohol) |     27.3684  |
+| Fruit and vegetables         |    515.789   |
+| Fibre                        |    456.842   |
+| Fate                         |    751.579   |
+| salt                         |   -166.316   |
+| Alcohol consumption          |     52.6316  || Total                        |   1248.42    |
+| Under 75                     |    583.158   |
+| Cardiovascular disease       |    920       |
+| Diabete                      |     10.5263  |
+| Cancer                       |    178.947   |
+| Liver disease                |     94.7368  |
+| Diet (not including alcohol) |   1147.37    |
+| Fruit and vegetables         |   -132.632   |
+| Fibre                        |    246.316   |
+| Fate                         |    465.263   |
+| salt                         |    -98.9474  |
+| Alcohol consumption          |     94.7368  |
+| Total                        |   2014.74    |
+| Under 75                     |    810.526   |
+| Cardiovascular disease       |   1627.37    |
+| Diabete                      |     10.5263  |
+| Cancer                       |    338.947   |
+| Liver disease                |     35.7895  |
+| Diet (not including alcohol) |   1964.21    |
+| Fruit and vegetables         |    953.684   |
+| Fibre                        |    465.263   |
+| Fate                         |    600       |
+| salt                         |   -157.895   |
+| Alcohol consumption          |     52.6316  |

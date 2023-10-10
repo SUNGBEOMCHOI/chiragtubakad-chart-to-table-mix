@@ -1,0 +1,10 @@
+| title        |   [unnamed data series #0] |
+| BY4742(WT)   |                       9.35 |
+| rad50 \delta |                       6.29 |
+| mre11 \Delta |                       1.31 |
+| sae2 \Delta  |                       2.88 |
+| exol \Delta  |                       8.38 |
+| yenl \Delta  |                       2.61 |
+| topo1        |                      10.59 |
+| topo3        |                       3.22 |
+| iswl\Delta   |                       3.86 |

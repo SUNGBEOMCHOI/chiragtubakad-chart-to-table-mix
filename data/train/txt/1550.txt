@@ -1,0 +1,5 @@
+| title    |   [unnamed data series #0] |
+| T18      |                    39.6175 |
+| T18-MgrB |                   957.532  |
+| T18-MgrB |                   721.559  |
+| T18-MgrB |                   111.059  |

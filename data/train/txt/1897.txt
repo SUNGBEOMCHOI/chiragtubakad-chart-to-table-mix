@@ -1,0 +1,27 @@
+| title                  |   Post-GEA |
+| St Catharines Standard |         53 |
+| Sault Star             |         48 |
+| Owen Sound Sun Times   |        168 |
+| Niagara Falls Review   |         88 |
+| Lindsay Post           |        123 |
+| Kingston Whig Standard |         74 |
+| Klncardlne News        |         75 |
+| Hanover Post           |         74 |
+| Dunville Chronicle     |         73 |
+| shoreline Beacon       |        133 |
+| Sarnia This Week       |        131 |
+| Orangeville Banner     |        194 |
+| Chatham This Week      |         63 |
+| St Catharines Standard |         61 |
+| Sault Star             |         52 |
+| Owen Sound Sun Times   |         89 |
+| Niagara Falls Review   |         26 |
+| Lindsay Post           |          8 |
+| Kingston Whig Standard |         65 |
+| Klncardlne News        |         67 |
+| Hanover Post           |         20 |
+| Dunville Chronicle     |         38 |
+| shoreline Beacon       |         80 |
+| Sarnia This Week       |          6 |
+| Orangeville Banner     |         56 |
+| Chatham This Week      |         53 |

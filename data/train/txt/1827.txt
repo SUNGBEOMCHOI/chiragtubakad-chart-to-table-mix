@@ -1,0 +1,8 @@
+| title                                                 |   [unnamed data series #0] |
+| Being in a vehicle collision (Driver)                 |                   14.7501  |
+| Being in a vehicle collision (When I was a passenger) |                   14.647   |
+| Blunt Force Injury                                    |                   12.2737  |
+| Gunshot                                               |                    4.84449 |
+| Stab, cut , bite                                      |                   17.3297  |
+| Fall, trip                                            |                   31.7497  |
+| Struck against/caught between                         |                    4.89608 |

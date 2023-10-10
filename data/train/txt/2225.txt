@@ -1,0 +1,5 @@
+| Category                 |   first quartile |      max |   median |      min |   third quartile |   x |
+| [unnamed data series #0] |         0.445714 | 0.697143 | 0.528571 | 0.3      |         0.585714 |   1 |
+| [unnamed data series #0] |         0.52     | 0.837143 | 0.577143 | 0.345714 |         0.654286 |   2 |
+| [unnamed data series #1] |         0.537143 | 0.731429 | 0.58     | 0.471429 |         0.631429 |   1 |
+| [unnamed data series #1] |         0.56     | 0.76     | 0.62     | 0.465714 |         0.671429 |   2 |

@@ -1,0 +1,37 @@
+| title       |   Underweight |
+| White, non-
+Hispanic             |       9.27076 |
+| Black, non-
+Hispanic             |       8.34657 |
+| Hispanic    |       7.19134 |
+| Other/Multi |       6.38267 |
+| White, non-
+Hispanic             |       9.67509 |
+| Black, non-
+Hispanic             |       9.27076 |
+| Hispanic    |       7.94224 |
+| Other/Multi |       9.73285 |
+| White, non-
+Hispanic             |      10.0217  |
+| Black, non-
+Hispanic             |       9.79061 |
+| Hispanic    |       8.28881 |
+| Other/Multi |       9.73285 |
+| White, non-
+Hispanic             |       8.40433 |
+| Black, non-
+Hispanic             |       7.76895 |
+| Hispanic    |       6.26715 |
+| Other/Multi |       7.2491  |
+| White, non-
+Hispanic             |       8.92419 |
+| Black, non-
+Hispanic             |       8.51986 |
+| Hispanic    |       6.61372 |
+| Other/Multi |       8.92419 |
+| White, non-
+Hispanic             |      10.7148  |
+| Black, non-
+Hispanic             |      10.8303  |
+| Hispanic    |       8.7509  |
+| Other/Multi |      12.4477  |

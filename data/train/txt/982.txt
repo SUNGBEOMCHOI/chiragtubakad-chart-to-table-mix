@@ -1,0 +1,11 @@
+| title                    |   Supine |
+| Liver lateral            |  47.8251 |
+| Liver anterior           |  28.5356 |
+| Spleen lateral posterior |  51.0134 |
+| Right kidney posterior   |  21.8401 |
+| Left kidney posterior    |  18.9706 |
+| Liver lateral            |  57.4964 |
+| Liver anterior           |  33.1587 |
+| Spleen lateral posterior |  62.6509 |
+| Right kidney posterior   |   9.6713 |
+| Left kidney posterior    |  18.5986 |

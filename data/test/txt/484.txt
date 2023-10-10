@@ -1,0 +1,7 @@
+| title                             |   [unnamed data series #0] |
+| Overall Saticifactory Performance |                       0.37 |
+| Deliveries in a health unit       |                       0.78 |
+| Immunization Coverage             |                       0.71 |
+| Malnutrition Screening            |                       0.27 |
+| House Hold followup and reporting |                       0.43 |
+| Meeting attendance                |                       0.9  |

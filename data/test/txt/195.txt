@@ -1,0 +1,5 @@
+| title    |   [unnamed data series #0] |
+| CTL+CSA  |                    6.83382 |
+| COL6     |                    1.2828  |
+| COL6+CSA |                    4.09718 |
+| COL6+p53 |                    1.2206  |

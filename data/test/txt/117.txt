@@ -1,0 +1,15 @@
+| title                  |   Exposed |
+| Industrial odour       |  20.2772  |
+| Industrial noise       |  27.1683  |
+| Dust/soot              |  19.3584  |
+| Road traffic noise     |  24.1056  |
+| Motor vehicle exhausts |  11.7017  |
+| Wood burning           |   5.88256 |
+| Noise neighbours       |  10.6297  |
+| Industrial odour       |   3.68763 |
+| Industrial noise       |   1.03329 |
+| Dust/soot              |  12.1611  |
+| Road traffic noise     |  30.333   |
+| Motor vehicle exhausts |  13.233   |
+| Wood burning           |   6.18882 |
+| Noise neighbours       |  18.7969  |

@@ -1,0 +1,7 @@
+| title               |        SI |
+| [Ru(bpy)2(OSO)].PF6 |  3.19871  |
+| [Ru(NH3)5NO]Cl3.H2O |  0.265189 |
+| Na2[Fe(CN)5NO].2H2O | -3.80057  |
+| [Ru(bpy)2(OSO)].PF6 |  4.58828  |
+| [Ru(NH3)5NO]Cl3.H2O | -2.61687  |
+| Na2[Fe(CN)5NO].2H2O | -6.74267  |

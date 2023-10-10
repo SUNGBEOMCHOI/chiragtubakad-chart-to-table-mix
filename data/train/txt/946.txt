@@ -1,0 +1,31 @@
+| title               |    Low Risk |
+| Selection Bias      |  0.375082   |
+| Exposure Assessment |  0.424658   |
+| Outcome Assessment  |  0.660796   |
+| Confounding         |  0.907371   |
+| Missing Data        |  0.937378   |
+| Conﬂict of lnterest |  0.843444   |
+| Selection Bias      |  0.0613177  |
+| Exposure Assessment |  0.0326158  |
+| Outcome Assessment  |  0.0326158  |
+| Confounding         |  0.0626223  |
+| Missing Data        | -0.00130463 |
+| Conﬂict of lnterest |  0.138291   |
+| Selection Bias      |  0          |
+| Exposure Assessment |  0          |
+| Outcome Assessment  | -0.00130463 |
+| Confounding         |  0          |
+| Missing Data        |  0          |
+| Conﬂict of lnterest |  0          |
+| Selection Bias      |  0.110894   |
+| Exposure Assessment |  0.12394    |
+| Outcome Assessment  |  0.200913   |
+| Confounding         |  0          |
+| Missing Data        |  0.0313112  |
+| Conﬂict of lnterest |  0.00260926 |
+| Selection Bias      |  0.452707   |
+| Exposure Assessment |  0.418787   |
+| Outcome Assessment  |  0.10698    |
+| Confounding         |  0.0300065  |
+| Missing Data        |  0.0326158  |
+| Conﬂict of lnterest |  0.0156556  |

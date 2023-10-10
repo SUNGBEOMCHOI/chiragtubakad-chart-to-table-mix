@@ -1,0 +1,11 @@
+| title     |   After yoga |
+| Frontal   |         7.37 |
+| Central   |         6.86 |
+| Perietal  |         5.86 |
+| Occipital |         6.94 |
+| Temporal  |         5.76 |
+| Frontal   |         7.36 |
+| Central   |         7.76 |
+| Perietal  |         5.85 |
+| Occipital |         7.52 |
+| Temporal  |         5.71 |

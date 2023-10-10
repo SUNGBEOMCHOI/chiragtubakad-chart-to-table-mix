@@ -1,0 +1,7 @@
+| title    |   [unnamed data series #0] |
+| HPMCP-1  |                    200.362 |
+| HPMCP-2  |                    360.5   |
+| HPMCP-3  |                    580.16  |
+| HPMCAS-1 |                    180.521 |
+| HPMCAS-2 |                    360.5   |
+| HPMCAS-3 |                    560.32  |

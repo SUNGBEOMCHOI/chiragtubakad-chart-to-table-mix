@@ -1,0 +1,19 @@
+| title       |       ACC |
+| Dels + Dups | 6.34068   |
+| Dels        | 4.87677   |
+| Dups        | 3.41378   |
+| Dels + Dups | 7.31148   |
+| Dels        | 6.07695   |
+| Dups        | 1.21929   |
+| Dels + Dups | 6.47255   |
+| Dels        | 4.07952   |
+| Dups        | 4.86855   |
+| Dels + Dups | 2.23024   |
+| Dels        | 2.23024   |
+| Dups        | 0.553552  |
+| Dels + Dups | 1.63847   |
+| Dels        | 1.63847   |
+| Dups        | 0.0357528 |
+| Dels + Dups | 1.26861   |
+| Dels        | 0.356295  |
+| Dups        | 1.02204   |

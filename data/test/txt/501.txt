@@ -1,0 +1,39 @@
+| title           |    Model 1 |
+| mat fem healthy |  7.45758   |
+| mat fem runt    |  0.0632326 |
+| mat mal healthy | 10.245     |
+| mat mal runt    |  0.0632326 |
+| imm fem healthy |  4.12819   |
+| imm fem runt    |  0.0632326 |
+| imm mal healthy |  5.98645   |
+| imm mal runt    |  0.0245188 |
+| mat fem healthy |  7.57372   |
+| mat fem runt    |  1.36015   |
+| mat mal healthy | 10.516     |
+| mat mal runt    |  4.28304   |
+| imm fem healthy |  4.36047   |
+| imm fem runt    |  1.76664   |
+| imm mal healthy |  6.25745   |
+| imm mal runt    |  1.99892   |
+| mat fem healthy |  7.30272   |
+| mat fem runt    |  1.14722   |
+| mat mal healthy | 10.4773    |
+| mat mal runt    |  4.32176   |
+| imm fem healthy |  5.13475   |
+| imm fem runt    |  2.11507   |
+| imm mal healthy |  6.64459   |
+| imm mal runt    |  2.54092   || mat fem healthy |  6.89623   |
+| mat fem runt    |  1.18593   |
+| mat mal healthy | 10.032     |
+| mat mal runt    |  4.28304   |
+| imm fem healthy |  4.78632   |
+| imm fem runt    |  2.07635   |
+| imm mal healthy |  6.29616   |
+| imm mal runt    |  2.54092   || mat fem healthy |  6.83815   |
+| mat fem runt    |  1.26336   |
+| mat mal healthy | 10.1288    |
+| mat mal runt    |  4.51532   |
+| imm fem healthy |  4.94118   |
+| imm fem runt    |  1.99892   |
+| imm mal healthy |  6.37359   |
+| imm mal runt    |  2.54092   |

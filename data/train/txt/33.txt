@@ -1,0 +1,12 @@
+| title                             |   [unnamed data series #0] |
+| Streptococci species              |                    91.7808 |
+| Microoccus species                |                    91.6438 |
+| Acinetobacter baumannii           |                    79.726  |
+| Peseudomonas aeruginosa           |                    84.6575 |
+| Salmonella enterica serovar Typhi |                    81.5068 |
+| Citrobacter freundii              |                    56.5753 |
+| Staphylococcus species (CoNs)     |                    44.9315 |
+| Bacillus species                  |                    81.6438 |
+| Klebseilla species                |                    64.7945 |
+| Enterobacter species              |                    63.9726 |
+| Escherichia coli                  |                    78.2192 |

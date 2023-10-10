@@ -1,0 +1,7 @@
+| title                    |   [unnamed data series #0] |
+| Drugs reminder           |                    2.07266 |
+| Communicate side effects |                   23.7302  |
+| Seek medical advice      |                   31.5701  |
+| Inquire appointments     |                   19.8103  |
+| Doctor's updates         |                    9.71651 |
+| Save time and fare       |                   12.4605  |

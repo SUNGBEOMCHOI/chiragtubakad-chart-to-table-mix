@@ -1,0 +1,13 @@
+| title               |   1 to 3 |
+| Smoke free          |  1.3374  |
+| Partial smoking     | 59.2456  |
+| Unresticted smoking | 40.2186  |
+| Smoke free          |  1.3374  |
+| Partial smoking     | 42.1489  |
+| Unresticted smoking | 56.4881  |
+| Smoke free          |  2.99192 |
+| Partial smoking     | 29.1885  |
+| Unresticted smoking | 67.2425  |
+| Smoke free          |  7.54186 |
+| Partial smoking     | 43.5277  |
+| Unresticted smoking | 49.3185  |

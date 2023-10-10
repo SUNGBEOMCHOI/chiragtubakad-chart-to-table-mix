@@ -1,0 +1,46 @@
+| title                                                 |   Totally disagree |
+| Windmills are not particularly unsightly (visually)   |          0.474903  |
+| Windmills pose a danger to birdlife                   |          0.0926641 |
+| Windmills degrades the visual landscape               |          0.110039  |
+| Residents affected by windmills should be compensated |          0.0405405 |
+| Windmills should preferably be constructed on land    |          0.330116  |
+| Windmills should prefera ly be constructed offshore   |          0.0810811 |
+| Energy frugality is more important than renewables    |          0.0694981 |
+| Windmills are an important source of renewable energy |          0.214286  |
+| Norway should focus on hydro power expansion          |          0         |
+| Windmills are not particularly unsightly (visually)   |          0.120978  |
+| Windmills pose a danger to birdlife                   |          0.0694981 |
+| Windmills degrades the visual landscape               |          0.0714286 |
+| Residents affected by windmills should be compensated |          0.0701416 |
+| Windmills should preferably be constructed on land    |          0.19112   |
+| Windmills should prefera ly be constructed offshore   |          0.0926641 |
+| Energy frugality is more important than renewables    |          0.0990991 |
+| Windmills are an important source of renewable energy |          0.162806  |
+| Norway should focus on hydro power expansion          |          0.0540541 |
+| Windmills are not particularly unsightly (visually)   |          0.0939511 |
+| Windmills pose a danger to birdlife                   |          0.252252  |
+| Windmills degrades the visual landscape               |          0.109395  |
+| Residents affected by windmills should be compensated |          0.14157   |
+| Windmills should preferably be constructed on land    |          0.239382  |
+| Windmills should prefera ly be constructed offshore   |          0.149292  |
+| Energy frugality is more important than renewables    |          0.320463  |
+| Windmills are an important source of renewable energy |          0.250965  |
+| Norway should focus on hydro power expansion          |          0.204633  |
+| Windmills are not particularly unsightly (visually)   |          0.153475  |
+| Windmills pose a danger to birdlife                   |          0.208494  |
+| Windmills degrades the visual landscape               |          0.196911  |
+| Residents affected by windmills should be compensated |          0.240347  |
+| Windmills should preferably be constructed on land    |          0.159266  |
+| Windmills should prefera ly be constructed offshore   |          0.199807  |
+| Energy frugality is more important than renewables    |          0.335907  |
+| Windmills are an important source of renewable energy |          0.240347  |
+| Norway should focus on hydro power expansion          |          0.269305  |
+| Windmills are not particularly unsightly (visually)   |          0.156371  |
+| Windmills pose a danger to birdlife                   |          0.376448  |
+| Windmills degrades the visual landscape               |          0.509653  |
+| Residents affected by windmills should be compensated |          0.503861  |
+| Windmills should preferably be constructed on land    |          0.0752896 |
+| Windmills should prefera ly be constructed offshore   |          0.474903  |
+| Energy frugality is more important than renewables    |          0.173745  |
+| Windmills are an important source of renewable energy |          0.127413  |
+| Norway should focus on hydro power expansion          |          0.472008  |

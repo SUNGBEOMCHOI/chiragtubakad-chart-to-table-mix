@@ -1,0 +1,3 @@
+| title            |   [unnamed data series #0] |
+| Active disease   |                   0.689563 |
+| Inactive disease |                   1.74121  |

@@ -1,0 +1,10 @@
+| title   |   16-35 years |
+| Female  |          31   |
+| Male    |          24.8 |
+| All     |          28.4 |
+| Female  |          32.3 |
+| Male    |          18.1 |
+| All     |          25.2 |
+| Female  |          27.3 |
+| Male    |          51.1 |
+| All     |          39.6 |

@@ -1,0 +1,29 @@
+| Category             |       X |        Y |
+| Industrial, groud    | 2008.02 |  6.79749 |
+| Industrial, groud    | 1999.96 |  7.97026 |
+| Industrial, groud    | 1995.97 |  8.70612 |
+| Industrial, groud    | 1993.94 | 10.0209  |
+| Industrial, groud    | 1991.96 | 13.4662  |
+| Industrial, groud    | 1988.96 | 11.0977  |
+| Industrial, groud    | 1987.01 | 16.3636  |
+| Kopisty (I), ground  | 1987.01 | 16.2257  |
+| Kopisty (I), ground  | 1988.99 | 11.4656  |
+| Kopisty (I), ground  | 1991.96 | 11.5576  |
+| Kopisty (I), ground  | 1993.97 | 12.0175  |
+| Kopisty (I), ground  | 1996    |  8.72911 |
+| Kopisty (I), ground  | 2000.04 |  4.6359  |
+| Kopisty (I), ground  | 2007.99 |  6.88947 |
+| Industrial, blasted  | 1996.96 |  6.77449 |
+| Industrial, blasted  | 1999.96 |  8.75211 |
+| Industrial, blasted  | 2002    |  6.75149 |
+| Industrial, blasted  | 2004.97 |  7.85528 |
+| Industrial, blasted  | 2007.94 |  6.13061 |
+| Industrial, blasted  | 2010.93 |  5.39476 |
+| Industrial, blasted  | 2013.96 |  7.60233 |
+| Kopisty (I), blasted | 1996.96 |  6.13061 |
+| Kopisty (I), blasted | 1999.99 |  6.86647 |
+| Kopisty (I), blasted | 2001.94 |  6.91246 |
+| Kopisty (I), blasted | 2004.97 |  9.75077 |
+| Kopisty (I), blasted | 2007.96 |  5.87766 |
+| Kopisty (I), blasted | 2010.96 |  6.12602 |
+| Kopisty (I), blasted | 2013.95 |  9.00329 |

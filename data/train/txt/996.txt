@@ -1,0 +1,7 @@
+| title                          |   [unnamed data series #0] |
+| Rural residents - Uganda       |                   0.139228 |
+| Peri-urban residents- uganda   |                   0.311992 |
+| school teachers- tanzania      |                   0.301829 |
+| Nurses- Nigeria                |                   0.77439  |
+| School teachers - South Africa |                   0.555894 |
+| Overall                        |                   0.5      |

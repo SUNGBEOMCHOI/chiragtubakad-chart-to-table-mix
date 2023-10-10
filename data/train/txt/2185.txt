@@ -1,0 +1,16 @@
+| Category          |        X |         Y |
+| BYC               |  3.0052  |  99.5228  |
+| BYC               |  4.99598 | 100.068   |
+| BYC               |  7.00637 |  95.5692  |
+| BYC               |  8.99716 |  54.2604  |
+| BYC               | 11.0076  |   9.67962 |
+| Ti-loaded BYC     |  2.98558 | 100.204   |
+| Ti-loaded BYC     |  4.98617 | 100.204   |
+| Ti-loaded BYC     |  6.98676 |  99.7955  |
+| Ti-loaded BYC     |  8.98735 |  98.364   |
+| Ti-loaded BYC     | 11.0026  |  61.7587  |
+| Yttrium hydroxide |  2.98558 | 100       |
+| Yttrium hydroxide |  4.98617 | 100       |
+| Yttrium hydroxide |  7.00147 |  92.0245  |
+| Yttrium hydroxide |  9.00206 |  67.4847  |
+| Yttrium hydroxide | 11.0026  |  33.1288  |

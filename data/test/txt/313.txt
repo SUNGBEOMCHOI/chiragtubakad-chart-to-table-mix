@@ -1,0 +1,39 @@
+| title             |   By InterVA |
+| Undetermined      |     6.8858   |
+| Accident/injuries |    10.1162   |
+| Tuberculosis      |    13.7999   |
+| CVD               |     8.07594  |
+| Neoplasms         |    11.703    |
+| ALRTI             |    10.5696   |
+| Pnemonia/sepsis   |     4.84557  |
+| Acute Infections  |     4.84557  |
+| Meningitis        |     1.1618   |
+| Perinatal         |     3.7121   |
+| GI                |     5.75234  |
+| Renal disorder    |     1.1618   |
+| Malaria           |     2.74865  |
+| Mental            |     3.03202  |
+| HIV/AIDS          |     3.03202  |
+| ONCD              |     2.74865  |
+| COPD              |     3.25871  |
+| Malnutrition      |     2.29527  |
+| Maternal          |     0.226693 |
+| Undetermined      |    14.9806   |
+| Accident/injuries |    12.8648   |
+| Tuberculosis      |    12.6381   |
+| CVD               |    11.4858   |
+| Neoplasms         |     5.32729  |
+| ALRTI             |     5.28951  |
+| Pnemonia/sepsis   |     4.79834  |
+| Acute Infections  |     4.36384  |
+| Meningitis        |     4.17493  |
+| Perinatal         |     3.92935  |
+| GI                |     3.51374  |
+| Renal disorder    |     3.02257  |
+| Malaria           |     3.00368  |
+| Mental            |     2.77699  |
+| HIV/AIDS          |     2.5503   |
+| ONCD              |     1.87022  |
+| COPD              |     1.64353  |
+| Malnutrition      |     1.39794  |
+| Maternal          |     0.453386 |

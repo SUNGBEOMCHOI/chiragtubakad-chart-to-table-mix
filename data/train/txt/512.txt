@@ -1,0 +1,6 @@
+| Category                 |   first quartile |      max |     median |       min |   third quartile | x       |
+| [unnamed data series #0] |       -0.0938614 | 0.305347 | -0.0249505 | -0.333861 |        0.0677228 | Control |
+| [unnamed data series #0] |       -0.0653465 | 0.395644 | -0.0106931 | -0.21505  |        0.143762  | 3'UTR
+(1 site)         |
+| [unnamed data series #0] |       -0.0249505 | 0.28396  |  0.0558416 | -0.136634 |        0.108119  | SUTR
+(>1 site)         |

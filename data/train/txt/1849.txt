@@ -1,0 +1,23 @@
+| title            |   [unnamed data series #0] |
+| Alberqueque, NM  |                    8.05556 |
+| Atlanta,GA       |                   12.963   |
+| Birmingham.AL    |                   11.3889  |
+| Riverside,CA     |                   15.1852  |
+| Philadelphia     |                    9.62963 |
+| Boston,MA        |                    8.88889 |
+| St Louis,MO      |                   11.5741  |
+| Chicago.IL       |                   12.6852  |
+| Pittsburgh,PA    |                   10.463   |
+| Denver,CO        |                    8.88889 |
+| Detroit,MI       |                   11.1111  |
+| Blaine,MN        |                    7.68519 |
+| Houston,TX       |                   11.8519  |
+| Los Angeles,CA   |                   19.4444  |
+| Miami, FL        |                    9.35185 |
+| Bismark,ND       |                    6.2963  |
+| Pinedale,WY      |                    4.72222 |
+| New York,NY      |                   10       |
+| Phoenix,AZ       |                    7.96296 |
+| San Fransisco,CA |                    8.33334 |
+| Colstrip,MT      |                    8.05556 |
+| Seattle,WA       |                    6.01852 |

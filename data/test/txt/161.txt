@@ -1,0 +1,7 @@
+| Category             |       X |        Y |
+| Holland hemp hurds   | 0.93542 |  6.06046 |
+| Holland hemp hurds   | 3.21228 |  7.24649 |
+| Holland hemp hurds   | 1.94038 | 14.0033  |
+| Hungarian hemp hurds | 2.27013 | 11.9547  |
+| Hungarian hemp hurds | 4.2722  | 21.3711  |
+| Hungarian hemp hurds | 7.34989 | 25.8636  |

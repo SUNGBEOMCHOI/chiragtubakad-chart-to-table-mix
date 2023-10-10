@@ -1,0 +1,7 @@
+| title   |   Alcohol |
+| Brand   |   4.36259 |
+| Health  |   1.07068 |
+| Rest    |   2.76505 |
+| Brand   |   2.76505 |
+| Health  |   1.02227 |
+| Rest    |   3.40245 |

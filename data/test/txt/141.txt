@@ -1,0 +1,8 @@
+| Category                 |   first quartile |     max |   median |        min |   third quartile | x                                                       |
+| [unnamed data series #0] |        26.5656   | 87.5    | 40.5413  |  0.446429  |          57.8714 | Visual acuity assessment:adults with diabetes           |
+| [unnamed data series #0] |        16.9927   | 73.2701 | 26.1704  |  0.111607  |          41.492  | Retinal exam:adults with diabetes                       |
+| [unnamed data series #0] |         6.38797  | 85.4911 | 21.1217  |  0.279018  |          46.5665 | Visual acuity assessment:adults with no chronic disease |
+| [unnamed data series #0] |         0.126966 | 40.625  |  5.88728 |  0.126966  |          16.4495 | Trichiasis examination:adults with no chronic disease   |
+| [unnamed data series #0] |        19.0666   | 93.0246 | 37.6953  | -0.0558036 |          50.8747 | Eye assessment:children                                 |
+| [unnamed data series #0] |        27.8436   | 96.4565 | 45.5678  | -0.0558036 |          67.1809 | Vision assessment:children                              |
+| [unnamed data series #0] |         0.111607 | 99.9721 | 13.3371  |  0.111607  |          57.6172 | Trachoma examination:children                           |

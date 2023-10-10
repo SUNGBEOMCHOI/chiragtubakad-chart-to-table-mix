@@ -1,0 +1,12 @@
+| title    |   Iteration 1000 times |
+| 3 layers |               0.510318 |
+| 5 layers |               0.651267 |
+| 7 layers |               0.830907 |
+| 9 layers |               0.529664 || 3 layers |               0.460571 |
+| 5 layers |               0.518609 |
+| 7 layers |               0.689959 |
+| 9 layers |               0.518609 |
+| 3 layers |               0.490972 |
+| 5 layers |               0.590465 |
+| 7 layers |               0.819853 |
+| 9 layers |               0.529664 |

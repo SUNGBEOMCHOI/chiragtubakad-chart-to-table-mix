@@ -1,0 +1,69 @@
+| title                    |      OnRoad |
+| House Value>$250K        | 0.00028736  |
+| >1Vehicles in Household  | 0.000326757 |
+| HH Income >$60K          | 0.000329074 |
+| White                    | 0.000333709 |
+| Drove Alone              | 0.000345296 |
+| Bachelors Degree         | 0.000347613 |
+| Asian                    | 0.000437993 |
+| Hispanic                 | 0.000463485 |
+| Less than High School    | 0.000465802 |
+| NonWhite                 | 0.000482024 |
+| Below 150% of Poverty    | 0.000498246 |
+| American Indian          | 0.000477389 |
+| Commute by Walk/Transit  | 0.000502881 |
+| Black                    | 0.000549229 |
+| No Vehicles in Household | 0.000563134 |
+| Rent<$700                | 0.000581673 |
+| Population Average       | 0.000366153 |
+| House Value>$250K        | 0.000145998 |
+| >1Vehicles in Household  | 0.000176124 |
+| HH Income >$60K          | 0.000176124 |
+| White                    | 0.000180759 |
+| Drove Alone              | 0.000187711 |
+| Bachelors Degree         | 0.000190029 |
+| Asian                    | 0.000291995 |
+| Hispanic                 | 0.000291995 |
+| Less than High School    | 0.0003059   |
+| NonWhite                 | 0.000308217 |
+| Below 150% of Poverty    | 0.000329074 |
+| American Indian          | 0.0003592   |
+| Commute by Walk/Transit  | 0.000352248 |
+| Black                    | 0.000347613 |
+| No Vehicles in Household | 0.000384692 |
+| Rent<$700                | 0.000400914 |
+| Population Average       | 0.000210885 |
+| House Value>$250K        | 3.70788e-05 |
+| >1Vehicles in Household  | 4.86659e-05 |
+| HH Income >$60K          | 4.86659e-05 |
+| White                    | 5.09833e-05 |
+| Drove Alone              | 5.09833e-05 |
+| Bachelors Degree         | 5.33007e-05 |
+| Asian                    | 6.72053e-05 |
+| Hispanic                 | 7.18401e-05 |
+| Less than High School    | 7.18401e-05 |
+| NonWhite                 | 7.41575e-05 |
+| Below 150% of Poverty    | 8.11098e-05 |
+| American Indian          | 7.64749e-05 |
+| Commute by Walk/Transit  | 8.34272e-05 |
+| Black                    | 8.57446e-05 |
+| No Vehicles in Household | 5.27535e-05 |
+| Rent<$700                | 1.79922e-05 |
+| Population Average       | 5.56181e-05 |
+| House Value>$250K        | 6.95227e-06 |
+| >1Vehicles in Household  | 6.95227e-06 |
+| HH Income >$60K          | 6.95227e-06 |
+| White                    | 6.95227e-06 |
+| Drove Alone              | 6.95227e-06 |
+| Bachelors Degree         | 9.26969e-06 |
+| Asian                    | 9.26969e-06 |
+| Hispanic                 | 1.15871e-05 |
+| Less than High School    | 1.15871e-05 |
+| NonWhite                 | 1.15871e-05 |
+| Below 150% of Poverty    | 9.26969e-06 |
+| American Indian          | 6.95227e-06 |
+| Commute by Walk/Transit  | 1.15871e-05 |
+| Black                    | 9.26969e-06 |
+| No Vehicles in Household | 0           |
+| Rent<$700                | 0           |
+| Population Average       | 9.26969e-06 |

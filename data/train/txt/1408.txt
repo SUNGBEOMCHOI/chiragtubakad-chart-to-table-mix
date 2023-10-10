@@ -1,0 +1,5 @@
+| title   |   Traffic calming |
+| Yes     |          0.769782 |
+| No      |          0.292318 |
+| Yes     |          0.286117 |
+| No      |          0.279916 |

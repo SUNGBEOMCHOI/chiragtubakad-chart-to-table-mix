@@ -1,0 +1,110 @@
+| title           |   Staphylococcaceae |
+| Rails           |           32.1591   |
+| Composite #1    |           34.3661   |
+| Composite #2    |           34.3661   |
+| Nautilus        |           47.9233   |
+| Stationary bike |            3.78342  |
+| Dumb bell       |           17.3407   |
+| Treadmill       |           13.5573   |
+| Power strider   |           99.9454   |
+| Elliptical      |           52.6526   |
+| Leg press       |            6.62099  |
+| Toilet handle   |           20.1782   |
+| Rails           |            0.315285 |
+| Composite #1    |            0.315285 |
+| Composite #2    |           23.0158   |
+| Nautilus        |            0        |
+| Stationary bike |            0        |
+| Dumb bell       |            0.315285 |
+| Treadmill       |            0        |
+| Power strider   |            0        |
+| Elliptical      |            0.315285 |
+| Leg press       |            0        |
+| Toilet handle   |            1.57643  |
+| Rails           |            0.945855 |
+| Composite #1    |            0.945855 |
+| Composite #2    |            2.207    |
+| Nautilus        |            0.315285 |
+| Stationary bike |            0.315285 |
+| Dumb bell       |            0.63057  |
+| Treadmill       |            0.315285 |
+| Power strider   |            0        |
+| Elliptical      |            1.57643  |
+| Leg press       |            0        |
+| Toilet handle   |            4.72928  |
+| Rails           |            0        |
+| Composite #1    |           10.0891   |
+| Composite #2    |            2.83757  |
+| Nautilus        |            0.945855 |
+| Stationary bike |            6.62099  |
+| Dumb bell       |            0        |
+| Treadmill       |           83.8658   |
+| Power strider   |            0        |
+| Elliptical      |            0        |
+| Leg press       |            0.315285 |
+| Toilet handle   |            0        |
+| Rails           |            0        |
+| Composite #1    |            0.315285 |
+| Composite #2    |            1.89171  |
+| Nautilus        |            0        |
+| Stationary bike |            0.315285 |
+| Dumb bell       |            0.315285 |
+| Treadmill       |            0        |
+| Power strider   |            0        |
+| Elliptical      |            0        |
+| Leg press       |           59.5889   |
+| Toilet handle   |            0        |
+| Rails           |            0        |
+| Composite #1    |            7.25156  |
+| Composite #2    |            4.41399  |
+| Nautilus        |            0        |
+| Stationary bike |            2.52228  |
+| Dumb bell       |            5.99042  |
+| Treadmill       |            0        |
+| Power strider   |            0        |
+| Elliptical      |            0        |
+| Leg press       |            0        |
+| Toilet handle   |            0        |
+| Rails           |            0.315285 |
+| Composite #1    |            0.315285 |
+| Composite #2    |            3.78342  |
+| Nautilus        |            0.315285 |
+| Stationary bike |            0.315285 |
+| Dumb bell       |            0.315285 |
+| Treadmill       |            0        |
+| Power strider   |            0.315285 |
+| Elliptical      |            0.315285 |
+| Leg press       |            0.315285 |
+| Toilet handle   |            0.315285 || Rails           |           66.2099   |
+| Composite #1    |           45.0858   |
+| Composite #2    |           27.4298   |
+| Nautilus        |           50.4456   |
+| Stationary bike |           14.8184   |
+| Dumb bell       |           11.6655   |
+| Treadmill       |            0        |
+| Power strider   |            0        |
+| Elliptical      |           45.0858   |
+| Leg press       |           33.1049   |
+| Toilet handle   |           73.1462   |
+| Rails           |            0        |
+| Composite #1    |            0        |
+| Composite #2    |            0        |
+| Nautilus        |            0        |
+| Stationary bike |           71.2544   |
+| Dumb bell       |           63.3723   |
+| Treadmill       |            0.315285 |
+| Power strider   |            0        |
+| Elliptical      |            0        |
+| Leg press       |            0        |
+| Toilet handle   |            0        |
+| Rails           |            0.315285 |
+| Composite #1    |            0.315285 |
+| Composite #2    |            0.315285 |
+| Nautilus        |            0.315285 |
+| Stationary bike |            0.315285 |
+| Dumb bell       |            0.315285 |
+| Treadmill       |            2.207    |
+| Power strider   |            0.315285 |
+| Elliptical      |            0.315285 |
+| Leg press       |            0.315285 |
+| Toilet handle   |            0.315285 |

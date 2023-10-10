@@ -1,0 +1,5 @@
+| title     |   [unnamed data series #0] |
+| A-B pH6.5 |                   0.420647 |
+| B-A pH6.5 |                   0.27049  |
+| A-B pH7.4 |                   0.497115 |
+| B-A pH7.4 |                   0.323323 |

@@ -1,0 +1,12 @@
+| title                             |   [unnamed data series #0] |
+| Eco-social theory                 |                   0.998755 |
+| Self-Determination Theory         |                   1.02864  |
+| Social Action Theory              |                   1.02864  |
+| Anderson's Behavioural Model      |                   1.0137   |
+| Mediation Model                   |                   2        |
+| Multiple Models                   |                   2        |
+| Social Problem-Solving            |                   2        |
+| Social Cognitive Theory           |                   2.01494  |
+| Self-Regulation Theory            |                   2.9863   |
+| Theory of Planned Behaviour       |                   3.03113  |
+| Information- Motivation-Behaviour |                  11.0112   |

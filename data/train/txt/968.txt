@@ -1,0 +1,5 @@
+| title                |   [unnamed data series #0] |
+| Others               |                 -0.0783133 |
+| Respiratory diseases |                  1.05715   |
+| Vascular diseases    |                  0.4575    |
+| Neoplasm             |                  0.902399  |

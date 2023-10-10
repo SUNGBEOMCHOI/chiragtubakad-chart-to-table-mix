@@ -1,0 +1,8 @@
+| title            |   [unnamed data series #0] |
+| 0 min            |                   0.149127 |
+| Blank control    |                  41.5373   |
+| a-Naphtol        |                  16.0168   |
+| Sulfapheanazolum |                  11.3887   |
+| Tranylcypromine  |                  36.5125   |
+| Quinidine        |                  38.0993   |
+| Ketoconazole     |                  39.686    |

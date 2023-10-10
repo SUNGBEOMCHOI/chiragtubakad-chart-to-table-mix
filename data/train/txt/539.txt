@@ -1,0 +1,9 @@
+| title   |   Mean live no |
+| Control |       71.4329  |
+| Raw     |       48.2785  |
+| ATH     |       47.677   |
+| AHH     |       47.0756  |
+| Control |        4.07458 |
+| Raw     |        1.96963 |
+| ATH     |        3.47316 |
+| AHH     |        3.17246 |

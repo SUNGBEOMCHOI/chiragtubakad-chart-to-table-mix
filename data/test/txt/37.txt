@@ -1,0 +1,15 @@
+| title                     |    Female |
+| Health system outpatients | 1572.95   |
+| Health system hospital    | 2177.05   |
+| Private outpatients       | 1641.34   |
+| Private hospital          |   68.3891 |
+| Social security fund      |  170.973  |
+| Jail                      |   17.0973 |
+| Other                     |   51.2918 |
+| Health system outpatients | 1453.27   |
+| Health system hospital    | 1937.69   |
+| Private outpatients       | 1213.91   |
+| Private hospital          |   17.0973 |
+| Social security fund      |   85.4863 |
+| Jail                      |  239.362  |
+| Other                     |   17.0973 |

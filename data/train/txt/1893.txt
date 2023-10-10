@@ -1,0 +1,17 @@
+| title                                  |   Not known |
+| Selfcare, mobility,communicaton        |    0.171429 |
+| Interpersonal, learning, general tasks |    0.15468  |
+| Education, work,
+community life                                        |    0.163547 |
+| Selfcare, mobility,communicaton        |    0.32697  |
+| Interpersonal, learning, general tasks |    0.124754 |
+| Education, work,
+community life                                        |    0.113916 |
+| Selfcare, mobility,communicaton        |    0.27266  |
+| Interpersonal, learning, general tasks |    0.402956 |
+| Education, work,
+community life                                        |    0.336946 |
+| Selfcare, mobility,communicaton        |    0.226478 |
+| Interpersonal, learning, general tasks |    0.313177 |
+| Education, work,
+community life                                        |    0.381158 |

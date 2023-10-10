@@ -1,0 +1,5 @@
+| title                 |   Day 28, Control |
+| [unnamed category #0] |           2.40438 |
+| [unnamed category #0] |           1.13031 |
+| [unnamed category #0] |           2.44948 |
+| [unnamed category #0] |           0.60039 |

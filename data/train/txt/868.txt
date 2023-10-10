@@ -1,0 +1,9 @@
+| title                                |   [unnamed data series #0] |
+| staffing shortage                    |                       0.43 |
+| Medication stock out                 |                       0.36 |
+| Unavailable/non-functional equipment |                       0.57 |
+| lack of training in NCDs             |                       0.79 |
+| Lack of specialist in NCD care       |                       0.86 |
+| Lack of follow up                    |                       0.29 |
+| Other                                |                       0.36 |
+| None                                 |                       0    |

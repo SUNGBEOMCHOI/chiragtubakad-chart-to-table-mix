@@ -1,0 +1,13 @@
+| title                                  |   Strongly agree |
+| Research readily available             |          44.5682 |
+| Managerial/political support           |          27.7313 |
+| Availability of professional groups    |          39.022  |
+| Media attention                        |          29.9102 |
+| Contact with advocacy groups           |          29.7122 |
+| Legislation already in other provinces |          34.8623 |
+| Research readily available             |          21.3928 |
+| Managerial/political support           |          31.2968 |
+| Availability of professional groups    |          19.2139 |
+| Media attention                        |          25.1563 |
+| Contact with advocacy groups           |          21.3928 |
+| Legislation already in other provinces |          16.2426 |

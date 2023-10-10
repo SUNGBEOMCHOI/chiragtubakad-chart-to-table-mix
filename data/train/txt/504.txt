@@ -1,0 +1,13 @@
+| title               |   East Gojjam |
+| Food secure         |       41.98   |
+| Mildly insecure     |       13.187  |
+| Moderately insecure |       31.462  |
+| Severely insecure   |       17.6571 |
+| Food secure         |       49.737  |
+| Mildly insecure     |       12.2666 |
+| Moderately insecure |       31.5935 |
+| Severely insecure   |       10.6889 |
+| Food secure         |       45.6613 |
+| Mildly insecure     |       12.7925 |
+| Moderately insecure |       31.462  |
+| Severely insecure   |       14.1073 |

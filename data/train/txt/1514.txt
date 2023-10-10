@@ -1,0 +1,9 @@
+| title                       |   [unnamed data series #0] |
+| Blood pressure measurements |                      0.73  |
+| Breast exam                 |                      0.45  |
+| Loclua exam                 |                      0.4   |
+| Temperature taking          |                      0.4   |
+| Pulse taking                |                      0.11  |
+| Gynecological exam          |                      0.05  |
+| Episiotomy wound care       |                      0.025 |
+| Assess for anemia           |                      0.02  |

@@ -1,0 +1,5 @@
+| title             |   [unnamed data series #0] |
+| Nicotine (57,826) |                    8.55554 |
+| Alcohol (2,082)   |                   18.1092  |
+| Cocaine (1,134)   |                   46.9129  |
+| Opioids (607)     |                   43.9184  |

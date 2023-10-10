@@ -1,0 +1,7 @@
+| title            |   [unnamed data series #0] |
+| 20 years or more |                        5.5 |
+| 15 to <20years   |                        3.8 |
+| 10 to <15 years  |                       13.8 |
+| 5 to <10years    |                       31.9 |
+| 2 to < 5 years   |                       33.6 |
+| 1 to <2 years    |                       11.4 |

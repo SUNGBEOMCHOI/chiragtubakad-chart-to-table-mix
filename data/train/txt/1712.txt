@@ -1,0 +1,6 @@
+| title                      |   [unnamed data series #0] |
+| Obesity                    |                   0.77076  |
+| Decrease physical activity |                   0.843275 |
+| Family history of DM       |                   0.733333 |
+| Mental stress              |                   0.74269  |
+| Consume more sweets        |                   0.899415 |

@@ -1,0 +1,4 @@
+| Category                 |   first quartile |      max |   median |      min |   third quartile | x         |
+| [unnamed data series #0] |         0.280941 | 0.321448 | 0.288268 | 0.268471 |         0.302618 | PBLUP     |
+| [unnamed data series #0] |         0.257538 | 0.283897 | 0.263248 | 0.244926 |         0.268714 | SSGBLUP_F |
+| [unnamed data series #0] |         0.268312 | 0.300338 | 0.274107 | 0.26157  |         0.282229 | SSGBLUP_M |

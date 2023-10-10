@@ -1,0 +1,4 @@
+| Category                 |   first quartile |     max |   median |      min |   third quartile | x          |
+| [unnamed data series #0] |          11.9787 | 14.883  |  12.6277 | 10.2128  |          13.1383 | Normal wt  |
+| [unnamed data series #0] |          11.4468 | 15.0213 |  12.0319 |  9.70213 |          13.0106 | Overweight |
+| [unnamed data series #0] |          11.0213 | 16.0213 |  12.1596 |  9.04255 |          13.2021 | Obese      |

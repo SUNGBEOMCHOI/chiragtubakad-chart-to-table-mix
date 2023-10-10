@@ -1,0 +1,19 @@
+| title                                              |     Ones |
+| J. Education of health risks and mitigation        | 12.9102  |
+| L. High-yield mercury free alternatives            |  9.89222 |
+| F. Increased miner registration                    |  4.94611 |
+| I. Diversify economy                               |  4.94611 |
+| A. National framework with stakeholder input       |  3.01796 |
+| K. Use mining proceeds to improve health/education |  1.92814 |
+| J. Education of health risks and mitigation        | 10.0599  |
+| L. High-yield mercury free alternatives            | 11.0659  |
+| F. Increased miner registration                    |  3.01796 |
+| I. Diversify economy                               |  7.04192 |
+| A. National framework with stakeholder input       |  2.93413 |
+| K. Use mining proceeds to improve health/education |  5.02994 |
+| J. Education of health risks and mitigation        |  5.9521  |
+| L. High-yield mercury free alternatives            |  6.95808 |
+| F. Increased miner registration                    | 10.982   |
+| I. Diversify economy                               |  6.03593 |
+| A. National framework with stakeholder input       | 11.988   |
+| K. Use mining proceeds to improve health/education |  3.94012 |

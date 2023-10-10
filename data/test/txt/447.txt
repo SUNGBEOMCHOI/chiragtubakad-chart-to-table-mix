@@ -1,0 +1,5 @@
+| title                                              |   [unnamed data series #0] |
+| I could tolerate a lot more pain                   |                        4.7 |
+| I could tolerate somewhat more pain                |                       20   |
+| My pain was so severe I could not tolerate anymore |                       28.5 |
+| I could tolerate a little more pain                |                       46.8 |

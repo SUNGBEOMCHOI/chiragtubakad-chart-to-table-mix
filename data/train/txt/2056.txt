@@ -1,0 +1,23 @@
+| Category               |        X |        Y |
+| low-Se group (N = 20)  | 13.9424  | 383.164  |
+| low-Se group (N = 20)  | 12.9193  | 389.709  |
+| low-Se group (N = 20)  | 11.9539  | 390.436  |
+| low-Se group (N = 20)  | 10.9597  | 374.436  |
+| low-Se group (N = 20)  |  9.97983 | 351.891  |
+| low-Se group (N = 20)  |  8.98559 | 327.891  |
+| low-Se group (N = 20)  |  7.99135 | 292.255  |
+| low-Se group (N = 20)  |  7.01153 | 236.255  |
+| low-Se group (N = 20)  |  6.01729 | 192.618  |
+| low-Se group (N = 20)  |  5.02305 | 134.436  |
+| low-Se group (N = 20)  |  4.02882 |  90.8    |
+| norm-Se group (N = 20) |  4.03362 |  89.5879 |
+| norm-Se group (N = 20) |  4.99904 | 135.164  |
+| norm-Se group (N = 20) |  6.00768 | 189.952  |
+| norm-Se group (N = 20) |  6.9731  | 229.709  |
+| norm-Se group (N = 20) |  7.96734 | 283.77   |
+| norm-Se group (N = 20) |  8.99039 | 321.588  |
+| norm-Se group (N = 20) |  9.97022 | 348.739  |
+| norm-Se group (N = 20) | 10.9645  | 365.709  |
+| norm-Se group (N = 20) | 11.9539  | 384.133  |
+| norm-Se group (N = 20) | 12.9625  | 379.285  |
+| norm-Se group (N = 20) | 13.9328  | 372.255  |

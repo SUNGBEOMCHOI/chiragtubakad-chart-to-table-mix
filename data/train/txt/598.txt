@@ -1,0 +1,31 @@
+| Category      |         X |        Y |
+| Entrance dose | 1.34012   |  2.55375 |
+| Entrance dose | 1.24998   |  2.66631 |
+| Entrance dose | 1.16074   |  2.7727  |
+| Entrance dose | 1.07166   |  2.92443 |
+| Entrance dose | 0.982055  |  3.10825 |
+| Entrance dose | 0.892938  |  3.34696 |
+| Entrance dose | 0.803453  |  3.63734 |
+| Entrance dose | 0.714139  |  4.04065 |
+| Entrance dose | 0.624196  |  4.57303 |
+| Entrance dose | 0.534501  |  5.29114 |
+| Entrance dose | 0.445379  |  6.29805 |
+| Entrance dose | 0.355893  |  7.78525 |
+| Entrance dose | 0.266565  | 10.0581  |
+| Entrance dose | 0.177253  | 13.8809  |
+| Entrance dose | 0.0879271 | 21.1457  |
+| CNRtc         | 0.0879566 | 15.6917  |
+| CNRtc         | 0.178027  | 18.5463  |
+| CNRtc         | 0.265709  | 19.961   |
+| CNRtc         | 0.355809  | 20.028   |
+| CNRtc         | 0.445909  | 19.0625  |
+| CNRtc         | 0.53359   | 17.3202  |
+| CNRtc         | 0.62369   | 15.2527  |
+| CNRtc         | 0.713895  | 13.1233  |
+| CNRtc         | 0.8041    | 11.1874  |
+| CNRtc         | 0.891611  |  9.4349  |
+| CNRtc         | 0.981882  |  7.95837 |
+| CNRtc         | 1.07198   |  6.67025 |
+| CNRtc         | 1.16209   |  5.1233  |
+| CNRtc         | 1.25071   |  4.7417  |
+| CNRtc         | 1.33986   |  3.96499 |

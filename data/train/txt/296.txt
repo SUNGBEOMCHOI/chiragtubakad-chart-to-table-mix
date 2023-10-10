@@ -1,0 +1,9 @@
+| title          |    April |
+| Moveable       | 564.524  |
+| Non-Moveable   |  80.3352 |
+| Disposable     | 191.965  |
+| Non-disposable | 450.821  |
+| Moveable       | 305.668  |
+| Non-Moveable   | 107.983  |
+| Disposable     | 126.646  |
+| Non-disposable | 286.314  |

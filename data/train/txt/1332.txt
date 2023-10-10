@@ -1,0 +1,10 @@
+| title          |   Control |
+| Myeloid        |   60.8878 |
+| Erythroid      |   25.117  |
+| Immature cells |   13.7354 |
+| Myeloid        |   60.191  |
+| Erythroid      |   25.3493 |
+| Immature cells |   14.1999 |
+| Myeloid        |   62.746  |
+| Erythroid      |   21.6328 |
+| Immature cells |   14.8968 |

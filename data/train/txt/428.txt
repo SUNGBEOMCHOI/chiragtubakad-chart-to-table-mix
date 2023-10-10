@@ -1,0 +1,15 @@
+| Category                 | X   |        Y |
+| [unnamed data series #0] | XaXaXi
+  AAA     | 1.36776  |
+| [unnamed data series #1] | XaXiXi
+  AAA     | 0.843621 |
+| [unnamed data series #2] | XYY
+AAA     | 0.816034 |
+| [unnamed data series #3] | XaXi
+ AA     | 1.14017  |
+| [unnamed data series #4] | XaXi
+ AA     | 1.11603  |
+| [unnamed data series #5] | XY
+AA     | 1.04362  |
+| [unnamed data series #6] | XY
+AA     | 1.0919   |

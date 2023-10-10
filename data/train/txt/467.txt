@@ -1,0 +1,15 @@
+| title        |   Moderate |
+| Total        |       20.2 |
+| 48-59 months |       23.2 |
+| 36-47 months |       24.7 |
+| 24-35 months |       23.4 |
+| 12-23 months |       21.4 |
+| 6-11 months  |        9.9 |
+| <6 months    |        8   |
+| Total        |       22.5 |
+| 48-59 months |       28.9 |
+| 36-47 months |       29.3 |
+| 24-35 months |       26.8 |
+| 12-23 months |       17.7 |
+| 6-11 months  |       13.2 |
+| <6 months    |        6.7 |

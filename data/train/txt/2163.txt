@@ -1,0 +1,9 @@
+| title                 |   [unnamed data series #0] |
+| Solid Waste Disposal  |                         56 |
+| UBN Education         |                         56 |
+| UBN Crowding          |                         69 |
+| Piped Water           |                         75 |
+| Illiteracy            |                         89 |
+| UBN Sanitary Services |                         90 |
+| Extreme Poverty       |                         95 |
+| UBN Quality Household |                        100 |

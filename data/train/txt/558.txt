@@ -1,0 +1,15 @@
+| title                             |   Self-reported measures |
+| Aggregated Neighbourhood measures |              -0.00250627 |
+| Safety                            |               0.33208    |
+| Distance trasnsit                 |              -0.00250627 |
+| Destinations                      |               0.7099     |
+| Design                            |               0.505013   |
+| Diversity                         |              -0.00250627 |
+| Density                           |              -0.00250627 |
+| Aggregated Neighbourhood measures |               0.739975   |
+| Safety                            |              -0.00250627 |
+| Distance trasnsit                 |               0.800125   |
+| Destinations                      |               0.700501   |
+| Design                            |               0.279449   |
+| Diversity                         |               0.672306   |
+| Density                           |               0.33208    |

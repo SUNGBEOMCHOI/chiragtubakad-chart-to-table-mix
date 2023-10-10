@@ -1,0 +1,9 @@
+| title          |   [unnamed data series #0] |
+| Uncomfortable  |                       75.3 |
+| Mentally tired |                       43.5 |
+| Feel the same  |                       16.5 |
+| Unwell         |                        6.7 |
+| Distressed     |                        5.2 |
+| Happy          |                        2.3 |
+| Disoriented    |                        2.3 |
+| Confused       |                        1.1 |

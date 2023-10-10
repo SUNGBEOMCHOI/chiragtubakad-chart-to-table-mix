@@ -1,0 +1,22 @@
+| title                              |   \leq Elementary school |
+| Awareness of TB infection          |                  71.0439 |
+| TB curability                      |                  70.5505 |
+| Cough \geq3 weeks suggestive of TB |                  17.0209 |
+| Mode of TB transmission            |                  49.336  |
+| Free TB detection/treatment policy |                  44.4024 |
+| TB dispensaries at county area     |                  49.5827 |
+| No stigmatization of TB patients   |                  21.2145 |
+| Awareness of TB infection          |                  88.0648 |
+| TB curability                      |                  86.5847 |
+| Cough \geq3 weeks suggestive of TB |                  25.9014 |
+| Mode of TB transmission            |                  62.9034 |
+| Free TB detection/treatment policy |                  59.9433 |
+| TB dispensaries at county area     |                  69.8105 |
+| No stigmatization of TB patients   |                  33.0551 |
+| Awareness of TB infection          |                  95.2185 |
+| TB curability                      |                  92.7517 |
+| Cough \geq3 weeks suggestive of TB |                  34.7819 |
+| Mode of TB transmission            |                  73.264  |
+| Free TB detection/treatment policy |                  63.3968 |
+| TB dispensaries at county area     |                  78.691  |
+| No stigmatization of TB patients   |                  37.9887 |

@@ -1,0 +1,13 @@
+| title              |   no binge drinker |
+| Total              |          0.646782  |
+| Socials            |          0.627117  |
+| Ordinary sobers    |          0.974544  |
+| Consciously sobers |          0.967989  |
+| High spirits       |          0.220693  |
+| Ordinaries         |          0.677374  |
+| Total              |          0.349612  |
+| Socials            |          0.369278  |
+| Ordinary sobers    |          0.0218508 |
+| Consciously sobers |          0.028406  |
+| High spirits       |          0.775702  |
+| Ordinaries         |          0.319021  |

@@ -1,0 +1,7 @@
+| Category   | X   |        Y |
+| Males      | LG  | 1198.67  |
+| Males      | H   | 1026.86  |
+| Males      | SM  |  848.374 |
+| Females    | SM  |  884.237 |
+| Females    | H   |  921.768 |
+| Females    | LG  |  930.108 |

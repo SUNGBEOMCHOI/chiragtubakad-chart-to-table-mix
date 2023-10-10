@@ -1,0 +1,6 @@
+| title                 |    AZ31 |
+| [unnamed category #0] | 54.1782 |
+| [unnamed category #0] | 63.802  |
+| [unnamed category #0] | 42.7723 |
+| [unnamed category #0] | 50.6139 |
+| [unnamed category #0] | 34.9307 |

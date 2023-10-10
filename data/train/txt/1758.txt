@@ -1,0 +1,7 @@
+| title         |   [unnamed data series #0] |
+| gcc           |                   3.07305  |
+| OpenMP[16x]   |                   0.693272 |
+| PluTo-SICA    |                   3.99109  |
+| PluTo-SICA(1) |                   1.45979  |
+| PPCG          |                   1.88762  |
+| OpenACC       |                   0.131752 |

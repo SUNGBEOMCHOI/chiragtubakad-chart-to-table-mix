@@ -1,0 +1,9 @@
+| title                 |   Neonatal |
+| No conflict event     |   1.00319  |
+| Low conflict event    |   0.803105 |
+| Medium conflict event |   1.03079  |
+| High conflict evnt    |   1.05149  |
+| No conflict event     |   1.00664  |
+| Low conflict event    |   1.34472  |
+| Medium conflict event |   1.26882  |
+| High conflict evnt    |   1.45856  |

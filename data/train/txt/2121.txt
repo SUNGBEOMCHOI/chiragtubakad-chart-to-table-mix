@@ -1,0 +1,7 @@
+| Category                 |   first quartile |       max |    median |       min |   third quartile | x   |
+| [unnamed data series #0] |       -1.0466    | 0.0279222 | -0.453495 | -1.21221  |        -0.195455 | Healthy Controls
+(n= 19)     |
+| [unnamed data series #0] |       -0.0144425 | 2.75467   |  0.239746 | -0.827075 |         1.28346  | CRC
+(n= 23)     |
+| [unnamed data series #0] |       -1.12363   | 0.813595  | -0.23782  | -1.27383  |         0.205084 | Peves
+(n= 16)     |

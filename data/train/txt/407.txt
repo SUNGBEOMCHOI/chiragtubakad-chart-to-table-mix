@@ -1,0 +1,73 @@
+| title   |   CPFCAQ (Time 1) |
+| Control Group
+(Cancer Patients)         |           73.4556 |
+| Control Group
+(Primary Caregivers)         |           74.9658 |
+| Treatment Group
+(Cancer Patients)         |           73.8871 |
+| Treatment Group
+(Primary Caregivers)         |           74.9658 |
+| Control Group
+(Cancer Patients)         |           73.8871 |
+| Control Group
+(Primary Caregivers)         |           74.9658 |
+| Treatment Group
+(Cancer Patients)         |           27.0694 |
+| Treatment Group
+(Primary Caregivers)         |           31.8159 |
+| Control Group
+(Cancer Patients)         |           74.5343 |
+| Control Group
+(Primary Caregivers)         |           74.9658 |
+| Treatment Group
+(Cancer Patients)         |           19.0867 |
+| Treatment Group
+(Primary Caregivers)         |           19.0327 |
+| Control Group
+(Cancer Patients)         |           70.8666 |
+| Control Group
+(Primary Caregivers)         |           74.5343 |
+| Treatment Group
+(Cancer Patients)         |           71.2981 |
+| Treatment Group
+(Primary Caregivers)         |           74.9658 |
+| Control Group
+(Cancer Patients)         |           73.8871 |
+| Control Group
+(Primary Caregivers)         |           74.3186 |
+| Treatment Group
+(Cancer Patients)         |           28.7954 |
+| Treatment Group
+(Primary Caregivers)         |           33.5419 |
+| Control Group
+(Cancer Patients)         |           74.7501 |
+| Control Group
+(Primary Caregivers)         |           74.7501 |
+| Treatment Group
+(Cancer Patients)         |           18.2237 |
+| Treatment Group
+(Primary Caregivers)         |           18.2237 |
+| Control Group
+(Cancer Patients)         |           49.2916 |
+| Control Group
+(Primary Caregivers)         |           50.1546 |
+| Treatment Group
+(Cancer Patients)         |           50.1546 |
+| Treatment Group
+(Primary Caregivers)         |           50.1546 |
+| Control Group
+(Cancer Patients)         |           50.1546 |
+| Control Group
+(Primary Caregivers)         |           49.7231 |
+| Treatment Group
+(Cancer Patients)         |           16.0662 |
+| Treatment Group
+(Primary Caregivers)         |           15.0414 |
+| Control Group
+(Cancer Patients)         |           49.7231 |
+| Control Group
+(Primary Caregivers)         |           49.9389 |
+| Treatment Group
+(Cancer Patients)         |           14.3402 |
+| Treatment Group
+(Primary Caregivers)         |           13.4772 |

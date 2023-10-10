@@ -1,0 +1,27 @@
+| title         |   Preventive Expenditure on MSM |
+| Argentina     |                       13.7049   |
+| Bolivia       |                       19.9168   |
+| Brazil        |                       13.7049   |
+| Chile         |                       19.9168   |
+| Costa Rica    |                        1.2812   |
+| R. Dominicana |                       19.9168   |
+| El Salvador   |                        0.892956 |
+| Guatemala     |                        0.892956 |
+| Mexico        |                       36.6112   |
+| Panama        |                        1.11481  |
+| Paraguay      |                       10.9872   |
+| Peru          |                       50.1997   |
+| Uruguay       |                        0.504714 |
+| Argentina     |                       28.8464   |
+| Bolivia       |                       43.9878   |
+| Brazil        |                       36.223    |
+| Chile         |                       57.5763   |
+| Costa Rica    |                       61.0704   |
+| R. Dominicana |                       34.67     |
+| El Salvador   |                       30.7876   |
+| Guatemala     |                       35.8347   |
+| Mexico        |                       54.8586   |
+| Panama        |                       43.2113   |
+| Paraguay      |                       40.1054   |
+| Peru          |                       37.3877   |
+| Uruguay       |                       37.3877   |

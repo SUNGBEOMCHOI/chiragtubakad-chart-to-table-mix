@@ -1,0 +1,125 @@
+| title                    |   Microsimulation |
+| Health care              |         7.01938   |
+| Mortality                |         1.01311   |
+| Infectious disease       |         0         |
+| Cancer                   |         0         |
+| Prevention               |         0         |
+| Treatment                |         0         |
+| Health status            |         1.01311   |
+| Environmental exposition |         0         |
+| Health behaviour         |         0         |
+| Life expectancy          |         0         |
+| Child health             |         1.01311   |
+| Obesity                  |         0         |
+| Mental health            |         1.01311   |
+| Health care              |         0.0723647 |
+| Mortality                |         1.08547   |
+| Infectious disease       |         1.08547   |
+| Cancer                   |         0         |
+| Prevention               |         0         |
+| Treatment                |         0         |
+| Health status            |         0.0723647 |
+| Environmental exposition |         0         |
+| Health behaviour         |         2.02621   |
+| Life expectancy          |         0         |
+| Child health             |         0.0723647 |
+| Obesity                  |         0         |
+| Mental health            |         0.0723647 |
+| Health care              |         0         |
+| Mortality                |         0         |
+| Infectious disease       |         0.940741  |
+| Cancer                   |         0         |
+| Prevention               |         0         |
+| Treatment                |         0         |
+| Health status            |         0         |
+| Environmental exposition |         0         |
+| Health behaviour         |         0.0723647 |
+| Life expectancy          |         0         |
+| Child health             |         0         |
+| Obesity                  |         0         |
+| Mental health            |         0         || Health care              |         1.95385   |
+| Mortality                |         2.96695   |
+| Infectious disease       |         3.98006   |
+| Cancer                   |         6.00627   |
+| Prevention               |         1.08547   |
+| Treatment                |         1.08547   |
+| Health status            |         1.95385   |
+| Environmental exposition |         0.0723647 |
+| Health behaviour         |         0         |
+| Life expectancy          |         1.95385   |
+| Child health             |         0         |
+| Obesity                  |         1.01311   |
+| Mental health            |         0         || Health care              |         7.88775   |
+| Mortality                |         0.0723647 |
+| Infectious disease       |         0.0723647 |
+| Cancer                   |         0.0723647 |
+| Prevention               |         1.88148   |
+| Treatment                |         2.89459   |
+| Health status            |         0         |
+| Environmental exposition |         0.0723647 |
+| Health behaviour         |         0         |
+| Life expectancy          |         0.0723647 |
+| Child health             |         0         |
+| Obesity                  |         0.0723647 |
+| Mental health            |         0         || Health care              |         0.0723647 |
+| Mortality                |         0.796012  |
+| Infectious disease       |         0         |
+| Cancer                   |         0         |
+| Prevention               |         0.0723647 |
+| Treatment                |         0.0723647 |
+| Health status            |         0         |
+| Environmental exposition |         2.82222   |
+| Health behaviour         |         0         |
+| Life expectancy          |         0         |
+| Child health             |         0         |
+| Obesity                  |         0         |
+| Mental health            |         0         || Health care              |         0         |
+| Mortality                |         2.09858   |
+| Infectious disease       |         0.0723647 |
+| Cancer                   |         0.0723647 |
+| Prevention               |         0         |
+| Treatment                |         0         |
+| Health status            |         0         |
+| Environmental exposition |         0.0723647 |
+| Health behaviour         |         0         |
+| Life expectancy          |         0         |
+| Child health             |         0.0723647 |
+| Obesity                  |         0.0723647 |
+| Mental health            |         0.0723647 |
+| Health care              |         0.940741  |
+| Mortality                |         0         |
+| Infectious disease       |         0         |
+| Cancer                   |         0         |
+| Prevention               |         0.940741  |
+| Treatment                |         0         |
+| Health status            |         0         |
+| Environmental exposition |         0         |
+| Health behaviour         |         0         |
+| Life expectancy          |         0         |
+| Child health             |         0         |
+| Obesity                  |         0         |
+| Mental health            |         0         || Health care              |         0         |
+| Mortality                |         1.02344   |
+| Infectious disease       |         0         |
+| Cancer                   |         0         |
+| Prevention               |         0.0310135 |
+| Treatment                |         0         |
+| Health status            |         1.01311   |
+| Environmental exposition |         0         |
+| Health behaviour         |         0         |
+| Life expectancy          |         0         |
+| Child health             |         0         |
+| Obesity                  |         0         |
+| Mental health            |         0         || Health care              |        -0.0206756 |
+| Mortality                |         0.951079  |
+| Infectious disease       |         0         |
+| Cancer                   |         0         |
+| Prevention               |        -0.0206756 |
+| Treatment                |        -0.0206756 |
+| Health status            |         0.0206756 |
+| Environmental exposition |         0         |
+| Health behaviour         |         0         |
+| Life expectancy          |         0         |
+| Child health             |         0         |
+| Obesity                  |         0         |
+| Mental health            |         0         |

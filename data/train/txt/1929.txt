@@ -1,0 +1,33 @@
+| title       |    2005 |
+| Simcoe      | 22.9677 |
+| Windsor     | 23.4948 |
+| Niagara     | 22.4406 |
+| Halton      | 18.2988 |
+| London      | 17.7717 |
+| Gvelph      | 21.3863 |
+| Waterloo    | 19.1272 |
+| Ottawa      | 18.4495 |
+| Hamilton    | 22.7418 |
+| Peel        | 18.2988 |
+| York        | 15.9644 |
+| Toronto     | 18.0729 |
+| Sudbury     | 23.9466 |
+| Durham      | 24.775  |
+| Thunder Bay | 26.6701 |
+| Ontario     | 20.7086 |
+| Simcoe      | 24.9256 |
+| Windsor     | 21.3236 |
+| Niagara     | 23.4948 |
+| Halton      | 20.7086 |
+| London      | 19.7296 |
+| Gvelph      | 21.2106 |
+| Waterloo    | 22.8924 |
+| Ottawa      | 19.6543 |
+| Hamilton    | 23.1183 |
+| Peel        | 21.1604 |
+| York        | 20.4074 |
+| Toronto     | 19.6543 |
+| Sudbury     | 24.9256 |
+| Durham      | 24.775  |
+| Thunder Bay | 28.5527 |
+| Ontario     | 21.9887 |

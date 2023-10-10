@@ -1,0 +1,7 @@
+| title     |     CON |
+| RPTP?     | 1.66166 |
+| Contactin | 1.3989  |
+| Caspr1    | 1.31131 |
+| RPTP?     | 1.23624 |
+| Contactin | 1.54905 |
+| Caspr1    | 1.34885 |

@@ -1,0 +1,11 @@
+| title                                             |   Neuchatel |
+| Perform ing tick check after outdoor activities   |     86.1762 |
+| Wearing protective clothing                       |     93.7601 |
+| Avoiding wooded areas during the high-risk period |     66.7108 |
+| Applying tick repellent                           |     72.2724 |
+| Treating properties with acaricides               |     11.601  |
+| Perform ing tick check after outdoor activities   |     58.2    |
+| Wearing protective clothing                       |     82.637  |
+| Avoiding wooded areas during the high-risk period |     75.8115 |
+| Applying tick repellent                           |     50.0262 |
+| Treating properties with acaricides               |     19.9434 |

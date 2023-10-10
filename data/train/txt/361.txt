@@ -1,0 +1,9 @@
+| title                |   [unnamed data series #0] |
+| Symptoms             |                    55.8429 |
+| High risk groups     |                    44.8925 |
+| Cause                |                    37.8685 |
+| Treatment            |                    34.9891 |
+| Mode of transmission |                    34.9018 |
+| Prevention           |                    23.9514 |
+| Diagnosis            |                    12.9573 |
+| Latent infection     |                    11.9539 |

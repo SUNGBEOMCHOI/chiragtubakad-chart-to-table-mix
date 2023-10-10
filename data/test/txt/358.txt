@@ -1,0 +1,5 @@
+| Category                 |   first quartile |     max |   median |      min |   third quartile | x       |
+| [unnamed data series #0] |          157.043 | 269.043 |  176.522 |  88.8696 |          202.957 | WT      |
+| [unnamed data series #0] |          115.304 | 228     |  137.565 |  72.1739 |          161.913 | WT (w)  |
+| [unnamed data series #0] |          150.783 | 281.565 |  175.826 |  97.913  |          202.957 | aos     |
+| [unnamed data series #0] |          150.087 | 280.87  |  178.609 | 112.522  |          207.826 | aos (w) |

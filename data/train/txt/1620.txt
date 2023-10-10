@@ -1,0 +1,5 @@
+| Category                 |   first quartile |     max |   median |     min |   third quartile | x        |
+| [unnamed data series #0] |          154.583 | 207.639 |  164.583 | 132.083 |          176.806 | Expert 1 |
+| [unnamed data series #0] |          162.083 | 268.194 |  179.861 | 132.917 |          205.694 | Expert 2 |
+| [unnamed data series #0] |          197.917 | 313.194 |  220.694 | 149.583 |          249.583 | Expert 3 |
+| [unnamed data series #0] |          167.361 | 233.75  |  185.417 | 154.861 |          205.694 | Expert 4 |

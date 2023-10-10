@@ -1,0 +1,13 @@
+| title      |   [unnamed data series #0] |
+| No Closure |                    580.096 |
+| 1 Week     |                    564.723 |
+| 4 Weeks    |                    533.976 |
+| 8 Weeks    |                    334.119 |
+| No Closure |                   1118.17  |
+| 1 Week     |                   1087.42  |
+| 4 Weeks    |                   1056.68  |
+| 8 Weeks    |                    985.849 |
+| No Closure |                   1394.9   |
+| 1 Week     |                   1379.52  |
+| 4 Weeks    |                   1348.78  |
+| 8 Weeks    |                   1277.95  |

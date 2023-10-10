@@ -1,0 +1,9 @@
+| title                                      |   [unnamed data series #0] |
+| A walking school bus organized by school   |                   0.671721 |
+| Before/ after school supervision           |                   0.630191 |
+| A school closer to home                    |                   0.610415 |
+| Slower speeds around school area           |                   0.49967  |
+| Well-maintained sidewalks                  |                   0.570864 |
+| School zone cautionary signs               |                   0.580751 |
+| Police presence around school              |                   0.580751 |
+| Crossing guards/ marked crossing by school |                   0.630191 |

@@ -1,0 +1,13 @@
+| title                        |   inner city |
+| Begijnhof                    |      25.3356 |
+| Vondelpark                   |      20.371  |
+| Quiet area in the inner city |      27.7099 |
+| Park outside city            |       9.7403 |
+| Old streets/canals/courts    |      13.4637 |
+| Westerpark                   |      12.1147 |
+| Begijnhof                    |      31.2175 |
+| Vondelpark                   |      21.0185 |
+| Quiet area in the inner city |      17.0253 |
+| Park outside city            |      13.032  |
+| Old streets/canals/courts    |      12.3845 |
+| Westerpark                   |       7.4199 |

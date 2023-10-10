@@ -1,0 +1,9 @@
+| title             |   CFM without slag |
+| Air               |           0.649697 |
+| 7TWater+21 Air    |           0.721212 |
+| Natural weather   |           0.690909 |
+| 7Water+21 Natural |           0.700606 |
+| Air               |           0.620606 |
+| 7TWater+21 Air    |           0.632727 |
+| Natural weather   |           0.681212 |
+| 7Water+21 Natural |           0.681212 |

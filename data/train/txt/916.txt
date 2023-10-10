@@ -1,0 +1,6 @@
+| Category                 |   first quartile |      max |    median |       min |   third quartile | x             |
+| [unnamed data series #0] |        0.0138379 | 0.233388 | 0.0152058 | 0.0116883 |        0.0651346 | Nonsense      |
+| [unnamed data series #0] |        0.0138379 | 0.311359 | 0.026833  | 0.011786  |        0.0904409 | Frameshift    |
+| [unnamed data series #0] |        0.0145218 | 0.427631 | 0.0644506 | 0.011786  |        0.193034  | Nonsynonymous |
+| [unnamed data series #0] |        0.0261491 | 0.429683 | 0.0918088 | 0.0145218 |        0.232704  | Synonymous    |
+| [unnamed data series #0] |        0.0541913 | 0.466616 | 0.157469  | 0.0138379 |        0.310675  | Intronic      |

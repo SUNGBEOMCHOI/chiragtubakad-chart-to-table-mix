@@ -1,0 +1,4 @@
+| Category                 |   first quartile |    max |   median |    min |   third quartile | x   |
+| [unnamed data series #0] |          51.2118 | 79.248 |  53.3486 | 41.184 |          62.5364 | MT  |
+| [unnamed data series #0] |          53.88   | 90.96  |  60.12   | 26.784 |          72.18   | ST  |
+| [unnamed data series #0] |          64.8359 | 88.656 |  71.4966 | 53.952 |          79.2005 | AFT |

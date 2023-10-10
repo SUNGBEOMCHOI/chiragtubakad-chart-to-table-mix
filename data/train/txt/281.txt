@@ -1,0 +1,25 @@
+| title     |      Boys |
+| Art Grass | 61.911    |
+| Forest    | 58.9467   |
+| Hill      | 46.7881   |
+| City      | 48.6973   |
+| Art Grass | 63.6695   |
+| Forest    | 48.8983   |
+| Hill      | 43.9745   |
+| City      | 45.3813   |
+| Art Grass | 31.3135   |
+| Forest    | 64.0212   |
+| Hill      | 34.8304   |
+| City      | 40.1059   |
+| Art Grass | 45.6828   |
+| Forest    | 56.3341   |
+| Hill      | 49.3002   |
+| City      | 45.4818   |
+| Art Grass | 49.9533   |
+| Forest    | 42.9194   |
+| Hill      | 37.845    |
+| City      | 28.3994   |
+| Art Grass | 42.216    |
+| Forest    | 52.7669   |
+| Hill      |  0.263772 |
+| City      | 34.2275   |

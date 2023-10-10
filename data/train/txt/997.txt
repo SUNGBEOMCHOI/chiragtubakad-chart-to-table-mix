@@ -1,0 +1,4 @@
+| Category                 |   first quartile |      max |   median |      min |   third quartile | x           |
+| [unnamed data series #0] |         0.529715 | 0.55     | 0.531673 | 0.519929 |         0.539858 | Switzerland |
+| [unnamed data series #0] |         0.495552 | 0.590569 | 0.529893 | 0.439858 |         0.545196 | Bulgaria    |
+| [unnamed data series #0] |         0.540391 | 0.56032  | 0.549822 | 0.530605 |         0.551601 | Norway      |

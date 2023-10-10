@@ -1,0 +1,19 @@
+| title                                                      |      PPV |
+| Structured suicidal ideation                               | 0.728944 |
+| Unstructured suicidal ideation (single word)               | 0.609411 |
+| Unstructured suicidal ideation (trigram)                   | 0.640325 |
+| Structured heightened psychiatric symptoms                 | 0.788711 |
+| Unstructured heightened psychiatric symptoms (single word) | 0.55995  |
+| Unstructured heightened psychiatric symptoms (trigram)     | 0.640325 |
+| Structured suicidal ideation                               | 0.759858 |
+| Unstructured suicidal ideation (single word)               | 0.55995  |
+| Unstructured suicidal ideation (trigram)                   | 0.570254 |
+| Structured heightened psychiatric symptoms                 | 0.788711 |
+| Unstructured heightened psychiatric symptoms (single word) | 0.588802 |
+| Unstructured heightened psychiatric symptoms (trigram)     | 0.310579 |
+| Structured suicidal ideation                               | 0.619716 |
+| Unstructured suicidal ideation (single word)               | 0.570254 |
+| Unstructured suicidal ideation (trigram)                   | 0.619716 |
+| Structured heightened psychiatric symptoms                 | 0.850538 |
+| Unstructured heightened psychiatric symptoms (single word) | 0.599107 |
+| Unstructured heightened psychiatric symptoms (trigram)     | 0.788711 |

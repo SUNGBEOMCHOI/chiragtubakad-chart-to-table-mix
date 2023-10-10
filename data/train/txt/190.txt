@@ -1,0 +1,9 @@
+| title              |   Mothers |
+| Sweep 1 (9-months) |   6.40721 |
+| Sweep 2 (3-years)  |   2.71498 |
+| Sweep 3 (5-years)  |   2.91822 |
+| Sweep 4(7-years)   |   3.49407 |
+| Sweep 1 (9-months) |   3.56182 |
+| Sweep 2 (3-years)  |   1.22453 |
+| Sweep 3 (5-years)  |   1.84555 |
+| Sweep 4(7-years)   |   2.0375  |

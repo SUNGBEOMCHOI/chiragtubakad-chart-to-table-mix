@@ -1,0 +1,7 @@
+| Category                 |   first quartile |      max |   median |      min |   third quartile | x   |
+| [unnamed data series #0] |          68.8907 | 220.186  | 136.073  | 68.8907  |          220.186 | Bars in which smokers
+were observed
+(n=4)     |
+| [unnamed data series #0] |          11.6891 |  97.8239 |  18.2755 |  9.91102 |           48.515 | Bars in which smokers
+were not observed
+(n=17)     |

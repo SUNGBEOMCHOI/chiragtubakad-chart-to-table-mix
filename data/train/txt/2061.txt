@@ -1,0 +1,25 @@
+| title   |   PtoSAHHA |
+| Root    |   0.903926 |
+| Phloem  |   0.838006 |
+| Cambium |   2.46952  |
+| Developing
+xylem         |   9.98438  |
+| Mature
+xylem         |  13.5166   |
+| Mature
+leaf         |   1.44776  |
+| Young
+leaf         |   0.200781 |
+| Apex    |   0.838006 |
+| Root    |   0.442487 |
+| Phloem  |   0.772086 |
+| Cambium |   1.18958  |
+| Developing
+xylem         |   3.0628   |
+| Mature
+xylem         |   2.7332   |
+| Mature
+leaf         |   0.991819 |
+| Young
+leaf         |   0.200781 |
+| Apex    |   1.01379  |

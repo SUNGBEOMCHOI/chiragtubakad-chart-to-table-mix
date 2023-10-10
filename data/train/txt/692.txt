@@ -1,0 +1,10 @@
+| title                                                                           |   [unnamed data series #0] |
+| Smoking shisha to fill the free time while hanging out with my friends          |                       78.1 |
+| Shisha is cool and trendy                                                       |                       60   |
+| Shisha is gaining popularity as many of my friends are using it                 |                       56.1 |
+| Shisha is healthier for smokers as it is generally less harmful than...         |                       53.3 |
+| Smoking shisha is relatively cheaper than cigarettes                            |                       50.9 |
+| Shisha smoke is not as polluting or intrusive to others as the conventional...  |                       50.3 |
+| As an aid to quitting smoking cigarettes                                        |                       37.6 |
+| Shisha closely replicates the feeling of smoking a conventional cigarettes      |                       30.6 |
+| Unable to buy cigarette due to underage and there is no age limit to buy shisha |                        1.2 |

@@ -1,0 +1,5 @@
+| Category                 |   first quartile |      max |   median |      min |   third quartile | x   |
+| [unnamed data series #0] |         -3.78684 | -2.16053 | -3.53246 | -4.16404 |         -2.95175 | Control
+N=110     |
+| [unnamed data series #0] |         -3.14474 | -2.29035 | -2.84474 | -3.82018 |         -2.66053 | Schizo
+N=106     |

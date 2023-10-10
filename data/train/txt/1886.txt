@@ -1,0 +1,7 @@
+| Category   |   first quartile |       max |    median |       min |   third quartile | x                     |
+| CTRL F     |        0.0745404 | 0.0961003 | 0.0802228 | 0.0671866 |        0.0854039 | [unnamed category #0] |
+| CTRL M     |        0.0827298 | 0.106462  | 0.0874095 | 0.0722006 |        0.0949304 | [unnamed category #0] |
+| OB F       |        0.0733705 | 0.0999443 | 0.08039   | 0.0519777 |        0.0885794 | [unnamed category #0] |
+| OB M       |        0.081727  | 0.107967  | 0.088078  | 0.0630084 |        0.0950975 | [unnamed category #0] |
+| WL F       |        0.0748747 | 0.098273  | 0.0788858 | 0.0645125 |        0.085571  | [unnamed category #0] |
+| WL M       |        0.08039   | 0.101114  | 0.0854039 | 0.0718663 |        0.0915877 | [unnamed category #0] |

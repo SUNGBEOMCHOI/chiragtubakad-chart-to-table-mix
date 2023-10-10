@@ -1,0 +1,69 @@
+| title             |   % maternal obesity |
+| Swaziland 2006    |            24.9735   |
+| Sao Tome 2008     |            19.4624   |
+| Lesotho 2008      |            14.6237   |
+| Lesotho 2004      |            13.871    |
+| Sierra Leone 2006 |            13.2258   |
+| Namibia 2007      |            10.8602   |
+| Ghana 2003        |            10        |
+| Kenya 2003        |             9.3617   |
+| Ghana 2008        |             8.40426  |
+| Congo 2005        |             7.44681  |
+| Nigeria 2008      |             7.34043  |
+| Gabon 2000        |             6.70213  |
+| Zimbabwe 2005     |             6.48936  |
+| Kenya 2008        |             6.48936  |
+| Cameroon 2004     |             6.17021  |
+| Niger 2008        |             6.06383  |
+| Liberia 2007      |             5.74468  |
+| Senegal 2005      |             5.6383   |
+| Mali 2006         |             5.53191  |
+| Tanzania 2010     |             5.42553  |
+| Nigeria 2003      |             5.10638  |
+| Zambia 2007       |             4.14894  |
+| Tanzania 2005     |             4.04255  |
+| Burkina Faso 2003 |             3.93617  |
+| Uganda 2006       |             3.51064  |
+| Mali 2001         |             3.19149  |
+| Mozambigue        |             2.44681  |
+| Rwanda 2000       |             2.23404  |
+| Guniea 2003       |             1.91489  |
+| Zambia 2002       |             1.59574  |
+| Malwal 2000       |             1.59574  |
+| Madagascar 2003   |             1.38298  |
+| Benin 2004        |             1.2766   |
+| Ethiopia  2005    |             0.659574 |
+| Swaziland 2006    |             6.38298  |
+| Sao Tome 2008     |            17.8495   |
+| Lesotho 2008      |            17.0968   |
+| Lesotho 2004      |            20.4233   |
+| Sierra Leone 2006 |            24.5503   |
+| Namibia 2007      |            21.9048   |
+| Ghana 2003        |            23.0688   |
+| Kenya 2003        |            19.7849   |
+| Ghana 2008        |            18.172    |
+| Congo 2005        |            13.3333   |
+| Nigeria 2008      |            28.4656   |
+| Gabon 2000        |            13.5484   |
+| Zimbabwe 2005     |            15.5914   |
+| Kenya 2008        |            20.7407   |
+| Cameroon 2004     |            17.0968   |
+| Niger 2008        |            39.5263   |
+| Liberia 2007      |            22.7513   |
+| Senegal 2005      |            18.0645   |
+| Mali 2006         |            31.9474   |
+| Tanzania 2010     |            21.7989   |
+| Nigeria 2003      |            28.8889   |
+| Zambia 2007       |            19.0323   |
+| Tanzania 2005     |            22.4339   |
+| Burkina Faso 2003 |             8.40426  |
+| Uganda 2006       |            21.2698   |
+| Mali 2001         |            33.7368   |
+| Mozambigue        |            22.328    |
+| Rwanda 2000       |            23.2804   |
+| Guniea 2003       |            25.7143   |
+| Zambia 2002       |            28.1481   |
+| Malwal 2000       |            23.5979   |
+| Madagascar 2003   |            38.4737   |
+| Benin 2004        |            38.5789   |
+| Ethiopia  2005    |            44.0526   |

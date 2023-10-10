@@ -1,0 +1,16 @@
+| title                                    |   [unnamed data series #0] |
+| All Values                               |                       2.21 |
+| GBM                                      |                       2.92 |
+| Glioma Malignant, NOS                    |                       2.87 |
+| Ependymal Tumors                         |                       2.6  |
+| CNS Lymphoma                             |                       2.57 |
+| Oligoastrocytic Tumors                   |                       2.38 |
+| Oligodendroglomia                        |                       2.25 |
+| Astrocytoma excluding GBM and AA         |                       2.16 |
+| Nerve Sheath Tumors                      |                       2    |
+| Anaplastic Oligodenroglioma              |                       1.83 |
+| AA                                       |                       1.74 |
+| Neuronal and Mixed Neuronal Glial Tumors |                       1.67 |
+| Embryonal Tumors                         |                       1.36 |
+| Meningioma                               |                       0.83 |
+| Germ Cell Tumors, Cysts and Heterotopias |                       0.53 |

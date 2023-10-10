@@ -1,0 +1,8 @@
+| Category         |         X |       Y |
+| Expression down  | -0.723104 | 3.93738 |
+| Expression down  | -0.560847 | 2.98711 |
+| Expression down  | -0.560847 | 2.87661 |
+| Expression down  | -0.758377 | 2.24309 |
+| On Chromosome |  | -0.638448 | 2.10313 |
+| On Chromosome |  | -1.64021  | 2.1105  |
+| Mutant - Tomosyn | -0.645503 | 2.09576 |

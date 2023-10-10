@@ -1,0 +1,6 @@
+| Category                 |   first quartile |     max |   median |      min |   third quartile | x                                                                   |
+| [unnamed data series #0] |          19.8973 | 60.1678 |  27.4105 |  9.97996 |          37.3278 | Effect of oral antibiotics on sepsis specific mortality             |
+| [unnamed data series #0] |          50.1503 | 80.0025 |  64.9762 | 20.0977  |          70.0851 | Effect of injectable antibioticson sepsis specific mortality        |
+| [unnamed data series #0] |          69.985  | 94.6281 |  74.8936 | 50.7513  |          82.4067 | Effect of injectable antibiotics on pneumonia specific mortality    |
+| [unnamed data series #0] |          74.6932 | 89.8197 |  80.1027 | 60.1678  |          84.7107 | Effect of hospital based management on sepsis specific mortality    |
+| [unnamed data series #0] |          87.115  | 98.7353 |  89.9199 | 70.586   |          94.8284 | Effect of hospital based management on penumonia specific mortality |

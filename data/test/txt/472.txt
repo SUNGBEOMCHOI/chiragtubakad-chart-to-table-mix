@@ -1,0 +1,5 @@
+| title      |   [unnamed data series #0] |
+| TE-FDB     |                   15.6364  |
+| TE-FWD     |                   11.4545  |
+| TE-FWD-ALT |                    7.05357 |
+| TE-FDB-ALT |                   13.7273  |

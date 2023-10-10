@@ -1,0 +1,61 @@
+| title                                                                                                |   increases significantly |
+| farmer's chances to work healthy and without injuries                                                |                0.497706   |
+| chances of the hired labor to work healthy and without injuries                                      |                0.335334   |
+| chances of the farm relief workers to work healthy and without injuries                              |                0.338863   |
+| farmer's leisure time                                                                                |                0.292976   |
+| farmer's possibilities to sleep adequately                                                           |                0.240028   |
+| farmer's general quality of life                                                                     |                0.374162   |
+| flexibility to organize all the work on the farm                                                     |                0.476527   |
+| attractiveness of the profession of a dairy farmer among the young genration                         |                0.501235   |
+| attractiveness of the profession of a dairy worker or a farm relief worker among the young generatio |                0.381221   |
+| productivity of the dairy cattle husbandry (milk liters/work hour)                                   |                0.4024     |
+| farmer's chances to work healthy and without injuries                                                |                0.4024     |
+| chances of the hired labor to work healthy and without injuries                                      |                0.381221   |
+| chances of the farm relief workers to work healthy and without injuries                              |                0.423579   |
+| farmer's leisure time                                                                                |                0.448288   |
+| farmer's possibilities to sleep adequately                                                           |                0.317684   |
+| farmer's general quality of life                                                                     |                0.423579   |
+| flexibility to organize all the work on the farm                                                     |                0.40946    |
+| attractiveness of the profession of a dairy farmer among the young genration                         |                0.391811   |
+| attractiveness of the profession of a dairy worker or a farm relief worker among the young generatio |                0.448288   |
+| productivity of the dairy cattle husbandry (milk liters/work hour)                                   |                0.395341   |
+| farmer's chances to work healthy and without injuries                                                |                0.00352983 |
+| chances of the hired labor to work healthy and without injuries                                      |                0.0917755  |
+| chances of the farm relief workers to work healthy and without injuries                              |                0.15743    |
+| farmer's leisure time                                                                                |                0.212496   |
+| farmer's possibilities to sleep adequately                                                           |                0.314155   |
+| farmer's general quality of life                                                                     |                0.153194   |
+| flexibility to organize all the work on the farm                                                     |                0.0889516  |
+| attractiveness of the profession of a dairy farmer among the young genration                         |                0.0691846  |
+| attractiveness of the profession of a dairy worker or a farm relief worker among the young generatio |                0.11719    |
+| productivity of the dairy cattle husbandry (milk liters/work hour)                                   |                0.15743    |
+| farmer's chances to work healthy and without injuries                                                |                0.0840099  |
+| chances of the hired labor to work healthy and without injuries                                      |               -0.00141193 |
+| chances of the farm relief workers to work healthy and without injuries                              |                0.00282386 |
+| farmer's leisure time                                                                                |                0.021179   |
+| farmer's possibilities to sleep adequately                                                           |                0.101659   |
+| farmer's general quality of life                                                                     |                0.0423579  |
+| flexibility to organize all the work on the farm                                                     |                0.021179   |
+| attractiveness of the profession of a dairy farmer among the young genration                         |                0.00141193 |
+| attractiveness of the profession of a dairy worker or a farm relief worker among the young generatio |               -0.00282386 |
+| productivity of the dairy cattle husbandry (milk liters/work hour)                                   |                0.0183551  |
+| farmer's chances to work healthy and without injuries                                                |                0.00847158 |
+| chances of the hired labor to work healthy and without injuries                                      |                0.00141193 |
+| chances of the farm relief workers to work healthy and without injuries                              |                0          |
+| farmer's leisure time                                                                                |                0.0183551  |
+| farmer's possibilities to sleep adequately                                                           |                0.0240028  |
+| farmer's general quality of life                                                                     |                0.00282386 |
+| flexibility to organize all the work on the farm                                                     |                0          |
+| attractiveness of the profession of a dairy farmer among the young genration                         |                0.00282386 |
+| attractiveness of the profession of a dairy worker or a farm relief worker among the young generatio |                0          |
+| productivity of the dairy cattle husbandry (milk liters/work hour)                                   |                0.00988352 |
+| farmer's chances to work healthy and without injuries                                                |                0.00282386 |
+| chances of the hired labor to work healthy and without injuries                                      |                0.187787   |
+| chances of the farm relief workers to work healthy and without injuries                              |                0.0748323  |
+| farmer's leisure time                                                                                |                0.00282386 |
+| farmer's possibilities to sleep adequately                                                           |                0          |
+| farmer's general quality of life                                                                     |               -0.00282386 |
+| flexibility to organize all the work on the farm                                                     |                0          |
+| attractiveness of the profession of a dairy farmer among the young genration                         |                0.0310625  |
+| attractiveness of the profession of a dairy worker or a farm relief worker among the young generatio |                0.0550653  |
+| productivity of the dairy cattle husbandry (milk liters/work hour)                                   |                0.0155312  |

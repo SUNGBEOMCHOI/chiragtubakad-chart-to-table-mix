@@ -1,0 +1,21 @@
+| title                       |   Annoyed (somewhat, quite a bit, a lot) |
+| Traffic                     |                                     20.1 |
+| Airplanes                   |                                     13   |
+| Trains                      |                                      6.1 |
+| Parking lots                |                                      6.1 |
+| Neighbourhood (bars, discos,
+demonstrations)                             |                                      6   |
+| Animals or birds (outdoors) |                                     10   |
+| Shopping centre, industrial or construction
+zone                             |                                      9.6 |
+| Schools/parks               |                                      3.9 |
+| Traffic                     |                                      8.8 |
+| Airplanes                   |                                      5.7 |
+| Trains                      |                                      2.5 |
+| Parking lots                |                                      2.8 |
+| Neighbourhood (bars, discos,
+demonstrations)                             |                                      2.3 |
+| Animals or birds (outdoors) |                                      4.5 |
+| Shopping centre, industrial or construction
+zone                             |                                      4.2 |
+| Schools/parks               |                                      1.1 |

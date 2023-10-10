@@ -1,0 +1,3 @@
+| title       |   [unnamed data series #0] |
+| Residential |                   0.601082 |
+| Urban       |                   0.680649 |

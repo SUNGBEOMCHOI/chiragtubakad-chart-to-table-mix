@@ -1,0 +1,11 @@
+| Category                 |   first quartile |     max |   median |     min |   third quartile | x            |
+| [unnamed data series #0] |          50.1367 | 62.2551 |  53.4055 | 43.4396 |          55.1595 | CON.H19 ICR  |
+| [unnamed data series #0] |          51.2528 | 65.2847 |  54.2027 | 44.2369 |          56.9134 | FAS.H19 ICR  |
+| [unnamed data series #0] |          68.1549 | 85.2164 |  72.221  | 59.2255 |          75.2506 | CON.IG-DMR.A |
+| [unnamed data series #0] |          69.2711 | 89.0433 |  73.1777 | 59.2255 |          77.0046 | FAS.IG-DMR.A |
+| [unnamed data series #0] |          50.9339 | 62.8929 |  54.0433 | 48.2232 |          56.1162 | CON.IG-DMR.B |
+| [unnamed data series #0] |          52.0501 | 64.1686 |  54.3622 | 47.1071 |          57.0729 | FAS.IG-DMR.B |
+| [unnamed data series #0] |          57.1526 | 67.1982 |  59.1458 | 50.9339 |          61.0592 | CON.KvDMR1   |
+| [unnamed data series #0] |          57.0729 | 67.0387 |  59.3052 | 51.8907 |          60.8998 | FAS.KvDMR1   |
+| [unnamed data series #0] |          39.2938 | 60.9795 |  44.3166 | 30.205  |          48.1435 | CON.PEG3 DMR |
+| [unnamed data series #0] |          34.3508 | 56.1959 |  38.2574 | 23.0296 |          43.2005 | FAS.PEG3 DMR |

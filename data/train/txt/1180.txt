@@ -1,0 +1,5 @@
+| Category                 |   first quartile |     max |   median |      min |   third quartile | x      |
+| [unnamed data series #0] |         0.563801 | 1.52572 | 0.807224 | 0.449941 |         1.11478  | AL def |
+| [unnamed data series #0] |         0.427693 | 2.49941 | 0.864808 | 0.298129 |         1.32941  | BR def |
+| [unnamed data series #0] |         0.469572 | 1.65135 | 0.566418 | 0.261484 |         1.18283  | AL nor |
+| [unnamed data series #0] |         0.542861 | 1.72464 | 0.744405 | 0.261484 |         0.837325 | BR nor |

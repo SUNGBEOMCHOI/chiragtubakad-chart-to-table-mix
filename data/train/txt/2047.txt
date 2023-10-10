@@ -1,0 +1,4 @@
+| Category                 |   first quartile |     max |   median |     min |   third quartile | x   |
+| [unnamed data series #0] |          6.13056 | 6.28923 |  6.17677 | 6.06011 |          6.21102 | C/C |
+| [unnamed data series #0] |          6.10794 | 6.22589 |  6.14639 | 6.06075 |          6.18194 | C/T |
+| [unnamed data series #0] |          6.0963  | 6.28664 |  6.15932 | 5.9916  |          6.1981  | T/T |

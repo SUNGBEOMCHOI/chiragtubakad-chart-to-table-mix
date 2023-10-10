@@ -1,0 +1,7 @@
+| title                 |   [unnamed data series #0] |
+| [unnamed category #0] |                    56.7732 |
+| [unnamed category #1] |                    58.3885 |
+| [unnamed category #2] |                    64.67   |
+| [unnamed category #0] |                    58.6577 |
+| [unnamed category #1] |                    56.7732 |
+| [unnamed category #2] |                    50.5814 |

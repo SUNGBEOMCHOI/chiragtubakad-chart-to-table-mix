@@ -1,0 +1,8 @@
+| title                 |   normal AS |
+| [unnamed category #0] |   21566.6   |
+| [unnamed category #0] |   10996.8   |
+| [unnamed category #0] |   18438.8   |
+| [unnamed category #0] |     103.361 |
+| [unnamed category #0] |   20002.7   |
+| [unnamed category #0] |    1271.8   |
+| [unnamed category #0] |    1074.06  |

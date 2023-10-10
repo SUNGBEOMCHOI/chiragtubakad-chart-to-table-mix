@@ -1,0 +1,19 @@
+| title           |     WHtR |
+| Women BMI<25    | 0.59361  |
+| Women BMI\geq25 | 0.669324 |
+| Total Women     | 0.640415 |
+| Man BMI<25      | 0.760181 |
+| Man BMI\geq25   | 0.625272 |
+| Total Man       | 0.668636 |
+| Women BMI<25    | 0.714064 |
+| Women BMI\geq25 | 0.587415 |
+| Total Women     | 0.723013 |
+| Man BMI<25      | 0.707181 |
+| Man BMI\geq25   | 0.551623 |
+| Total Man       | 0.631467 |
+| Women BMI<25    | 0.537169 |
+| Women BMI\geq25 | 0.575026 |
+| Total Women     | 0.628714 |
+| Man BMI<25      | 0.552312 |
+| Man BMI\geq25   | 0.567454 |
+| Total Man       | 0.56126  |

@@ -1,0 +1,12 @@
+| title   |   [unnamed data series #0] |
+| Control |                   1.19278  |
+| adeA    |                   0.725909 |
+| adeB    |                   0.725909 |
+| adeC*   |                   9.12952  |
+| abeM    |                   0.609192 |
+| blaP    |                   0.648097 |
+| cmr*    |                   3.76055  |
+| ami     |                   0.80372  |
+| sull    |                   0.648097 |
+| tetA*   |                   4.61647  |
+| mdrp    |                   0.570286 |

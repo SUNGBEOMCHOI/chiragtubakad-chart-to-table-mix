@@ -1,0 +1,9 @@
+| title     |     Days |
+| ssGBLUP   |  85.4209 |
+| wssGBLUP2 |  97.3643 |
+| wssGBLUP3 |  91.6522 |
+| BayesB    | 109.1    |
+| ssGBLUP   |  83.3438 |
+| wssGBLUP2 |  94.7679 |
+| wssGBLUP3 |  89.0559 |
+| BayesB    |  97.3643 |

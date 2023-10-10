@@ -1,0 +1,7 @@
+| title             |   Germline |
+| dN/dS             |   0.274677 |
+| dMF/dLF (SIFT)    |   0.346177 |
+| dMF/dLF(Polyphen) |   0.152107 |
+| dN/dS             |   0.821138 |
+| dMF/dLF (SIFT)    |   1.6587   |
+| dMF/dLF(Polyphen) |   0.945411 |

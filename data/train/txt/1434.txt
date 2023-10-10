@@ -1,0 +1,31 @@
+| Category         |       X |        Y |
+| IGA3-Hemin       | 50.0228 | -26.118  |
+| IGA3-Hemin       | 39.9243 | -26.7001 |
+| IGA3-Hemin       | 29.9824 | -26.7832 |
+| IGA3-Hemin       | 20.0404 | -26.1457 |
+| IGA3-Hemin       | 10.0202 | -23.2077 |
+| IGA3-Hemin       |  0      | -16.5001 |
+| Insulin 1 \mu M  | 50.0228 | -24.1501 |
+| Insulin 1 \mu M  | 40.0026 | -24.8707 |
+| Insulin 1 \mu M  | 29.9824 | -25.231  |
+| Insulin 1 \mu M  | 20.1187 | -25.1756 |
+| Insulin 1 \mu M  | 10.0202 | -23.6234 |
+| Insulin 1 \mu M  |  0      | -16.8327 |
+| Insulin 3 \mu M  | 50.0228 | -23.0968 |
+| Insulin 3 \mu M  | 39.846  | -23.4294 |
+| Insulin 3 \mu M  | 30.0607 | -23.568  |
+| Insulin 3 \mu M  | 20.0404 | -22.9028 |
+| Insulin 3 \mu M  | 10.0202 | -21.4061 |
+| Insulin 3 \mu M  |  0      | -16.7773 |
+| Insulin 5 \mu M  | 49.9445 | -20.5745 |
+| Insulin 5 \mu M  | 39.9243 | -20.3251 |
+| Insulin 5 \mu M  | 30.0607 | -20.3528 |
+| Insulin 5 \mu M  | 19.9622 | -19.3273 |
+| Insulin 5 \mu M  | 10.0202 | -17.3039 |
+| Insulin 5 \mu M  |  0      | -15.6963 |
+| Insulin 10 \mu M | 49.9445 | -20.2142 |
+| Insulin 10 \mu M | 39.846  | -20.1311 |
+| Insulin 10 \mu M | 30.0607 | -20.0756 |
+| Insulin 10 \mu M | 20.0404 | -19.0501 |
+| Insulin 10 \mu M | 10.0202 | -17.6919 |
+| Insulin 10 \mu M |  0      | -15.3637 |

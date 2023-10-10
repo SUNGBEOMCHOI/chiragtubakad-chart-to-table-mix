@@ -1,0 +1,6 @@
+| Category                 |   first quartile |          max |       median |          min |   third quartile | x          |
+| [unnamed data series #0] |      0.627149    |  1.1098      |  0.627149    |  0.59819     |      0.815385    | SS-2^(BN)  |
+| [unnamed data series #0] |      0.501659    |  0.950528    |  0.501659    |  0.303771    |      0.660935    | SS-6^(BN)  |
+| [unnamed data series #0] |      0.105882    |  0.352036    |  0.105882    |  0.00935143  |      0.352036    | SS-9^(BN)  |
+| [unnamed data series #0] |      0.120362    |  1.0905      |  0.120362    |  0.014178    |      0.409955    | SS-18^(BN) |
+| [unnamed data series #0] |     -0.000301659 | -0.000301659 | -0.000301659 | -0.000301659 |     -0.000301659 | SS-Y^(BN)  |

@@ -1,0 +1,6 @@
+| title              |   [unnamed data series #0] |
+| Never              |                         12 |
+| Once in a lifetime |                         81 |
+| Every 5 years      |                        150 |
+| Every year         |                        227 |
+| Every 6 months     |                        227 |

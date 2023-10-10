@@ -1,0 +1,13 @@
+| title           |   1st Crush |
+| No TA water     |     7.32019 |
+| TA water        |    10.7472  |
+| No TA carbonate |     8.40239 |
+| TA carbonate    |    10.8824  |
+| No TA water     |     7.00455 |
+| TA water        |     8.62785 |
+| No TA carbonate |     7.59074 |
+| TA carbonate    |    10.2512  |
+| No TA water     |     5.15578 |
+| TA water        |     7.68092 |
+| No TA carbonate |     5.47142 |
+| TA carbonate    |    10.0708  |

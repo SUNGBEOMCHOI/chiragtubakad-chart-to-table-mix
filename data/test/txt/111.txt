@@ -1,0 +1,5 @@
+| title   |   Inadequate |
+| MDD     |         87.4 |
+| MMF     |         49.6 |
+| MDD     |         12.6 |
+| MMF     |         50.4 |

@@ -1,0 +1,17 @@
+| title                     |    Male |
+| Worries and Concerns      | 42.7564 |
+| Emotional Impact          | 47.1814 |
+| Sexual Impact             | 65.2501 |
+| Self Image                | 62.4844 |
+| Partner and Transmission  | 49.7626 |
+| Interactions with Doctors | 42.0189 |
+| Control/Life Impact       | 47.9189 |
+| Total HIP Score           | 49.0251 |
+| Worries and Concerns      | 54.372  |
+| Emotional Impact          | 47.5501 |
+| Sexual Impact             | 58.9813 |
+| Self Image                | 63.4063 |
+| Partner and Transmission  | 47.9189 |
+| Interactions with Doctors | 34.4596 |
+| Control/Life Impact       | 48.2876 |
+| Total HIP Score           | 51.6064 |

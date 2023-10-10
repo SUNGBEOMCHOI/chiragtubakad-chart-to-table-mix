@@ -1,0 +1,4 @@
+| Category                 |   first quartile |     max |   median |      min |   third quartile | x   |
+| [unnamed data series #0] |         0.749487 | 2.28953 | 1.03183  | 0.446612 |         1.4117   | SP  |
+| [unnamed data series #0] |         0.287474 | 1.81725 | 0.508214 | 0.11807  |         0.908624 | FET |
+| [unnamed data series #0] |         0.585216 | 2.20739 | 0.88809  | 0.426078 |         1.26797  | ET  |

@@ -1,0 +1,5 @@
+| Category                 |   first quartile |     max |   median |     min |   third quartile | x             |
+| [unnamed data series #0] |          22.9912 | 29.1496 |  24.0176 | 19.2522 |          25.3372 | Control group |
+| [unnamed data series #0] |          40.1466 | 52.9032 |  42.7126 | 32.5953 |          45.2786 | PDT           |
+| [unnamed data series #0] |          40.4399 | 49.8974 |  42.0528 | 34.5748 |          44.1789 | CPI           |
+| [unnamed data series #0] |          50.9238 | 60.1613 |  52.6833 | 45.132  |          54.5894 | CPI+PDT       |

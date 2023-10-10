@@ -1,0 +1,6 @@
+| title                                               |   Migrants Wives |
+| Network member is married to migrant                |         0.53708  |
+| Talked about AIDS with network member               |         0.74559  |
+| Talked about HIV prevention in conversation on AIDS |         0.997377 || Network member is married to migrant                |         0.434791 |
+| Talked about AIDS with network member               |         0.615763 |
+| Talked about HIV prevention in conversation on AIDS |         0.997377 |

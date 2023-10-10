@@ -1,0 +1,21 @@
+| title                                                 |    Agree |
+| The threat will be exaggerated (denial)               |  8.78947 |
+| Medication will be available soon (wishful thinking)  |  6.05263 |
+| I will just have to accept it (fatalism)              |  4.78947 |
+| I will stock up and stay indoors (avoidance)          |  3.94737 |
+| There is nothing we can do about it (fatalism)        |  3.94737 |
+| We will all be completely powerless (fatalism)        |  4.97368 |
+| It will not be as bad as predicted (wishful thinking) |  1.65789 |
+| It will be at utter loss (dispair)                    |  4.05263 |
+| It will not happen to me (wishful thinking)           |  1.84211 |
+| I will move (avoidance)                               |  3.86842 |
+| The threat will be exaggerated (denial)               | 33.5789  |
+| Medication will be available soon (wishful thinking)  | 34.1053  |
+| I will just have to accept it (fatalism)              | 30.5789  |
+| I will stock up and stay indoors (avoidance)          | 24.2368  |
+| There is nothing we can do about it (fatalism)        | 23.3158  |
+| We will all be completely powerless (fatalism)        | 22.2895  |
+| It will not be as bad as predicted (wishful thinking) | 20.4474  |
+| It will be at utter loss (dispair)                    | 14       |
+| It will not happen to me (wishful thinking)           | 11.2368  |
+| I will move (avoidance)                               |  8.47368 |

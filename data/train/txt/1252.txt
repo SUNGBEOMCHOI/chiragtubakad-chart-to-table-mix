@@ -1,0 +1,4 @@
+| Category                 |   first quartile |      max |   median |     min |   third quartile | x                  |
+| [unnamed data series #0] |          81.7255 | 531.597  | 123.157  | 14.8957 |         260.869  | underground/ground |
+| [unnamed data series #0] |          72.2089 | 284.045  |  96.8918 | 39.7958 |         169.137  | first floor        |
+| [unnamed data series #0] |          57.695  |  90.3739 |  65.2988 | 40.4164 |          82.3603 | >=second floor     |

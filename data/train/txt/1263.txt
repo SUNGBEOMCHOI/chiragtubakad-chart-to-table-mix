@@ -1,0 +1,7 @@
+| title                            |   [unnamed data series #0] |
+| Other reasons                    |                      0.107 |
+| Inadequate hospital beds         |                      0     |
+| Bad quality of hospital services |                      0.01  |
+| Financial difficulties           |                      0.505 |
+| Lack of time                     |                      0.223 |
+| Unnecessary                      |                      0.155 |

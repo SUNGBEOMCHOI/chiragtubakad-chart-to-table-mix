@@ -1,0 +1,10 @@
+| title           |   [unnamed data series #0] |
+| AtLOX3—AItLOX6  |                   0.911831 |
+| PtLOXI—PtN1     |                   2.28139  |
+| PtLOXS—PItLOX6  |                   0.265633 |
+| PtLOX7—PtLOX16  |                   0.410304 |
+| PtLOX11—PtLOX15 |                   0.352436 |
+| PtLOX12—PtLOX14 |                   0.362081 |
+| PtLOX13—PIN1    |                   0.323502 |
+| VvLOX10—VvLOX2  |                   1.00828  |
+| VvLOX3—VvLOX9   |                   1.00828  |

@@ -1,0 +1,23 @@
+| title                                               |   No test in past 5 years |
+| Afraid of others assumption about sexuality/ status |                -0.0244603 |
+| Distance or price                                   |                13.2453    |
+| Anxious about waiting for results                   |                11.2334    |
+| Afraid confidentiality anonymity will not be upheld |                 5.66868   |
+| Do not want to know status                          |                 3.69963   |
+| Other                                               |                20.7791    |
+| Think I am negative b/c partner is negative         |                20.6935    |
+| Don't want to discuss sexual behaviors              |                13.2025    |
+| Afraid of testing positive                          |                32.0369    |
+| No risk                                             |                20.8219    |
+| Risk,but do not think infected                      |                47.0831    |
+| Afraid of others assumption about sexuality/ status |                 9.09313   |
+| Distance or price                                   |                 6.09674   |
+| Anxious about waiting for results                   |                10.1205    |
+| Afraid confidentiality anonymity will not be upheld |                14.1442    |
+| Do not want to know status                          |                15.1287    |
+| Other                                               |                16.1133    |
+| Think I am negative b/c partner is negative         |                21.2927    |
+| Don't want to discuss sexual behaviors              |                26.2582    |
+| Afraid of testing positive                          |                23.1762    |
+| No risk                                             |                39.3781    |
+| Risk,but do not think infected                      |                45.4779    |

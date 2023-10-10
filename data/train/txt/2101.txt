@@ -1,0 +1,60 @@
+| Category                   |         X |         Y |
+| Residual updating          |  5467.1   | 0.302241  |
+| Residual updating          | 10658     | 0.517997  |
+| Residual updating          | 15570     | 0.757759  |
+| Residual updating          | 20691.3   | 1.02605   |
+| Residual updating          | 25609.1   | 1.26525   |
+| Residual updating          | 30692.5   | 1.51031   |
+| Residual updating          | 35680     | 1.76303   |
+| Residual updating          | 40667.6   | 2.00809   |
+| Residual updating          | 45703.1   | 2.24294   |
+| Residual updating          | 50610.7   | 2.48084   |
+| Residual updating          | 55694.1   | 2.73753   |
+| Residual updating          | 60713.6   | 2.98923   |
+| Residual updating          | 65701.1   | 3.22663   |
+| Residual updating          | 70596.1   | 3.46206   |
+| Residual updating          | 75516.3   | 3.72146   |
+| Residual updating          | 80695.7   | 3.96652   |
+| Residual updating          | 85683.2   | 4.20392   |
+| Residual updating          | 90574.8   | 4.45664   |
+| Residual updating          | 95489.3   | 4.70057   |
+| RHS-updating (min. time)   |   479.57  | 0.0583411 |
+| RHS-updating (min. time)   |  5490.43  | 0.178952  |
+| RHS-updating (min. time)   | 10683.4   | 0.301063  |
+| RHS-updating (min. time)   | 15708     | 0.347023  |
+| RHS-updating (min. time)   | 20717.4   | 0.473273  |
+| RHS-updating (min. time)   | 25705     | 0.546572  |
+| RHS-updating (min. time)   | 30692.5   | 0.657725  |
+| RHS-updating (min. time)   | 35670.4   | 0.761219  |
+| RHS-updating (min. time)   | 40667.6   | 0.86141   |
+| RHS-updating (min. time)   | 45616.7   | 0.953439  |
+| RHS-updating (min. time)   | 50738.5   | 0.931369  |
+| RHS-updating (min. time)   | 55786.4   | 0.947859  |
+| RHS-updating (min. time)   | 60809.5   | 1.06295   |
+| RHS-updating (min. time)   | 65597.8   | 1.17979   |
+| RHS-updating (min. time)   | 70784.6   | 1.21611   |
+| RHS-updating (min. time)   | 75791.3   | 1.2858    |
+| RHS-updating (min. time)   | 80728.5   | 1.43013   |
+| RHS-updating (min. time)   | 85660.4   | 1.44987   |
+| RHS-updating (min. time)   | 90615.4   | 1.52655   |
+| RHS-updating (min. time)   | 95515.6   | 1.6377    |
+| RHS-updating (min. memory) |   863.227 | 0.0481303 |
+| RHS-updating (min. memory) |  5746.2   | 0.168741  |
+| RHS-updating (min. memory) | 10619.4   | 0.211718  |
+| RHS-updating (min. memory) | 15771.9   | 0.293416  |
+| RHS-updating (min. memory) | 20653.5   | 0.447746  |
+| RHS-updating (min. memory) | 25513.1   | 0.473273  |
+| RHS-updating (min. memory) | 30628.6   | 0.593907  |
+| RHS-updating (min. memory) | 35734.4   | 0.689743  |
+| RHS-updating (min. memory) | 40475.7   | 0.779599  |
+| RHS-updating (min. memory) | 50731.6   | 0.939865  |
+| RHS-updating (min. memory) | 45527.2   | 0.78981   |
+| RHS-updating (min. memory) | 55630.2   | 0.963394  |
+| RHS-updating (min. memory) | 65797     | 1.15485   |
+| RHS-updating (min. memory) | 70496.8   | 1.21611   |
+| RHS-updating (min. memory) | 75503.5   | 1.29091   |
+| RHS-updating (min. memory) | 80823.6   | 1.37183   |
+| RHS-updating (min. memory) | 85811.1   | 1.45352   |
+| RHS-updating (min. memory) | 90670.8   | 1.51478   |
+| RHS-updating (min. memory) | 95658.3   | 1.58626   |
+| RHS-updating (min. memory) | 60489.8   | 1.04508   |

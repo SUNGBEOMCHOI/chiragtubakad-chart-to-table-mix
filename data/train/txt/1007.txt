@@ -1,0 +1,4 @@
+| title   |   [unnamed data series #0] |
+| DEX     |                    1.50864 |
+| PS      |                   50.8302  |
+| PS+DEX  |                    4.57649 |

@@ -1,0 +1,7 @@
+| title         |   [unnamed data series #0] |
+| Friends       |                       0.55 |
+| Classmate     |                       0.49 |
+| inside home   |                       0.45 |
+| open public   |                       0.68 |
+| closed public |                       0.48 |
+| inside school |                       0.54 |

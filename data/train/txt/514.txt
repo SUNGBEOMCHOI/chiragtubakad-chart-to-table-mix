@@ -1,0 +1,17 @@
+| title                                |   controls |
+| fever                                |      0.082 |
+| convulsion                           |      0.191 |
+| decreasing or loss of fetal movement |      0.251 |
+| leakage of liquor                    |      0.142 |
+| vaginal bleeding                     |      0.421 |
+| sever abdominal pain                 |      0.268 |
+| blurring of vision                   |      0.175 |
+| sever head ach                       |      0.466 |
+| fever                                |      0.011 |
+| convulsion                           |      0.141 |
+| decreasing or loss of fetal movement |      0.141 |
+| leakage of liquor                    |      0.033 |
+| vaginal bleeding                     |      0.261 |
+| sever abdominal pain                 |      0.228 |
+| blurring of vision                   |      0.109 |
+| sever head ach                       |      0.261 |

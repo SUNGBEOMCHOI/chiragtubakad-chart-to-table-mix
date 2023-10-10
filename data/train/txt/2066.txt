@@ -1,0 +1,10 @@
+| title            |   [unnamed data series #0] |
+| Population       |                       0.44 |
+| Alcohol          |                       2.9  |
+| Smoking          |                       4.12 |
+| HDL              |                       5.89 |
+| Age              |                       8.06 |
+| HBP              |                       9.32 |
+| TG               |                      12.82 |
+| Overweight/obese |                      14.74 |
+| TC               |                      17.66 |

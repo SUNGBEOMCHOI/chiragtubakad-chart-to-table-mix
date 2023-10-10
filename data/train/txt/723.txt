@@ -1,0 +1,7 @@
+| Category                 | X                      |       Y |
+| [unnamed data series #0] | Direct use of asbestos | 63.6407 |
+| [unnamed data series #0] | Indirect use for insulation
+and auxiliary tools                        | 49.5448 |
+| [unnamed data series #0] | Construction           | 44.4462 |
+| [unnamed data series #0] | Accidental and unaw are
+exposure                        | 42.2183 |

@@ -1,0 +1,26 @@
+| Category                 |       X |           Y |
+| [unnamed data series #0] | 2.13815 | 1.31126e-14 |
+| [unnamed data series #0] | 2.13228 | 1.10445e-14 |
+| [unnamed data series #0] | 2.0147  | 1.0339e-14  |
+| [unnamed data series #0] | 2.2087  | 7.1693e-15  |
+| [unnamed data series #0] | 2.39683 | 6.46344e-15 |
+| [unnamed data series #0] | 2.86714 | 3.43214e-15 |
+| [unnamed data series #0] | 3.09641 | 2.21423e-15 |
+| [unnamed data series #0] | 3.50206 | 9.45158e-16 |
+| [unnamed data series #0] | 3.39036 | 5.60983e-16 |
+| [unnamed data series #0] | 3.73133 | 5.68616e-16 |
+| [unnamed data series #0] | 4.88948 | 1.78037e-15 |
+| [unnamed data series #0] | 4.01352 | 3.50394e-16 |
+| [unnamed data series #0] | 4.28983 | 2.97828e-16 |
+| [unnamed data series #0] | 4.28983 | 2.51693e-16 |
+| [unnamed data series #0] | 4.3545  | 2.67578e-16 |
+| [unnamed data series #0] | 4.31335 | 1.09292e-16 |
+| [unnamed data series #0] | 3.64315 | 2.16355e-17 |
+| [unnamed data series #0] | 4.52499 | 2.09474e-16 |
+| [unnamed data series #0] | 4.6602  | 1.75205e-16 |
+| [unnamed data series #0] | 4.67784 | 1.65168e-16 |
+| [unnamed data series #0] | 4.87184 | 1.70113e-16 |
+| [unnamed data series #0] | 4.9659  | 1.17656e-16 |
+| [unnamed data series #0] | 5.12463 | 8.54833e-17 |
+| [unnamed data series #0] | 6.30629 | 7.20994e-17 |
+| [unnamed data series #0] | 7.45267 | 5.20204e-17 |

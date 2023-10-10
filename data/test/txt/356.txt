@@ -1,0 +1,21 @@
+| title                                           |   Wildlife Official |
+| Increasing communication or coordination*       |          0.990017   |
+| Increasing funding*                             |          0.943707   |
+| Increasing human capacity                       |          0.943707   |
+| Collaboration with local/foreign organizations* |          0.943707   |
+| Growing interest or awareness                   |          0.943707   |
+| Build on existing surveillance*                 |          0.897396   |
+| Increasing laboratory capacity                  |          0.807863   |
+| Wide availability of communication devices*     |          0.672018   |
+| Political stability in the country*             |          0.628795   |
+| ‘Using conservation to provide incentive*       |          0.582484   |
+| Increasing communication or coordination*       |          0.554698   |
+| Increasing funding*                             |          0.245961   |
+| Increasing human capacity                       |          0.678193   |
+| Collaboration with local/foreign organizations* |          0.49295    |
+| Growing interest or awareness                   |          0.678193   |
+| Build on existing surveillance*                 |          0.554698   |
+| Increasing laboratory capacity                  |          0.678193   |
+| Wide availability of communication devices*     |          0.00288155 |
+| Political stability in the country*             |          0.0041165  |
+| ‘Using conservation to provide incentive*       |          0.122466   |

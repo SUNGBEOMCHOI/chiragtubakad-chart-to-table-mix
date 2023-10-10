@@ -1,0 +1,10 @@
+| Category                  |          X |           Y |
+| copropagation  line1      | 162.375    |  7.47658    |
+| copropagation  line1      | 108.344    |  4.49407    |
+| copropagation  line1      |  53.7498   |  2.49532    |
+| copropagation  line2      | 163.032    |  6.9873     |
+| copropagation  line2      |  -0.187608 | -0.00832813 |
+| Q\beta propagation  line3 |  93.6166   |  1.51156    |
+| Q\beta propagation  line3 | 168.285    |  1.99042    |
+| Q\beta propagation  line3 |   0.562825 |  0.0541328  |
+| Q\beta propagation  line4 | 168.285    |  2.53175    |

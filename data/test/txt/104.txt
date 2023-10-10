@@ -1,0 +1,17 @@
+| title                      |         T1 |
+| Sound from aircraft        | 49.1012    |
+| Careless bicycle riding    | 17.1691    |
+| Crowding                   | 16.15      |
+| Road traffic noise         | 10.3751    |
+| Dogs                       |  9.12951   |
+| Vehicles on forest roads   |  8.78981   |
+| Human enroachment on the.. |  6.97806   |
+| Seeing aircraft            |  3.35456   |
+| Sound from aircraft        | -0.0424628 |
+| Careless bicycle riding    | 12.9795    |
+| Crowding                   | 10.3751    |
+| Road traffic noise         |  4.26044   |
+| Dogs                       |  9.58245   |
+| Vehicles on forest roads   |  5.16631   |
+| Human enroachment on the.. |  5.39278   |
+| Seeing aircraft            |  0.184006  |

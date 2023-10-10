@@ -1,0 +1,9 @@
+| title                  |   Intervention |
+| Children's sick days   |     -3.19063   |
+| Visits to a physician  |     -0.795494  |
+| Days off work (mother) |     -1.08865   |
+| Days of work (father)  |      0.0652581 |
+| Children's sick days   |     -2.34859   |
+| Visits to a physician  |     -1.02004   |
+| Days off work (mother) |     -0.689459  |
+| Days of work (father)  |     -0.701934  |

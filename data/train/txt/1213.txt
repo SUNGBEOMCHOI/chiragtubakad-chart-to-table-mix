@@ -1,0 +1,9 @@
+| title                       |   Non- Smokers |
+| Grade 3 Dyspnea             |         0.0775 |
+| Wheeze on exposure to smoke |         0.134  |
+| Chronic Phlegm              |         0.098  |
+| Chronic Cough               |         0.113  |
+| Grade 3 Dyspnea             |         0.075  |
+| Wheeze on exposure to smoke |         0.274  |
+| Chronic Phlegm              |         0.363  |
+| Chronic Cough               |         0.37   |

@@ -1,0 +1,5 @@
+| title           |      FA |
+| VIRUS           | 25.1715 |
+| VIRUS, BACTERIA | 29.0897 |
+| VIRUS           | 24.6966 |
+| VIRUS, BACTERIA | 36.4512 |

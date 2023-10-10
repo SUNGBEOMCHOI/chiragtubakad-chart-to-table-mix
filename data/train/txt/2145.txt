@@ -1,0 +1,26 @@
+| Category                 |       X |          Y |
+| [unnamed data series #0] | 2006.96 | 1.59402    |
+| [unnamed data series #0] | 2005.95 | 1.19521    |
+| [unnamed data series #0] | 2003.04 | 1.19521    |
+| [unnamed data series #0] | 1998.95 | 0.525224   |
+| [unnamed data series #0] | 2002    | 0.525224   |
+| [unnamed data series #0] | 1994.02 | 0.0227318  |
+| [unnamed data series #0] | 1998.02 | 0.118445   |
+| [unnamed data series #0] | 2000.01 | 0.110469   |
+| [unnamed data series #0] | 2003.96 | 0.206181   |
+| [unnamed data series #0] | 2005    | 0.206181   |
+| [unnamed data series #0] | 2006.01 | 0.182253   |
+| [unnamed data series #0] | 2005    | 0.110469   |
+| [unnamed data series #0] | 2005    | 0.0307079  |
+| [unnamed data series #0] | 2007.99 | 0.114457   |
+| [unnamed data series #1] | 2002.98 | 1.10748    |
+| [unnamed data series #1] | 2002.98 | 0.0147557  |
+| [unnamed data series #2] | 2009    | 1.3986     |
+| [unnamed data series #2] | 2006.99 | 0.652841   |
+| [unnamed data series #2] | 2002    | 0.509272   |
+| [unnamed data series #2] | 1997.04 | 0.202193   |
+| [unnamed data series #3] | 2006.01 | 0.497308   |
+| [unnamed data series #3] | 1995.03 | 0.00677966 |
+| [unnamed data series #4] | 2006.99 | 0.365703   |
+| [unnamed data series #5] | 2008.97 | 0.301894   |
+| [unnamed data series #5] | 2006.99 | 0.0546361  |

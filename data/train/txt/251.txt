@@ -1,0 +1,116 @@
+| title          |       Other |
+| Madgascar      |  0.114136   |
+| Gambia         |  0.0396994  |
+| DRC            |  0.069474   |
+| Mali           |  0.18361    |
+| Burkina Faso   |  0.129023   |
+| Mauritius      |  0.0248121  |
+| Guinea -Bissau |  0.612033   |
+| Ghana          |  0          |
+| Rwanda         |  0.0744364  |
+| Togo           |  0.034737   |
+| Congo          |  0.00496243 |
+| Cote d'Ivore   |  0.0446618  |
+| Uganda         |  0.0992485  |
+| Gabon          |  0.0545867  |
+| Tanzania       |  0.00496243 |
+| CAR            |  0.069474   |
+| Malawi         |  0.297746   |
+| Mozambique     |  0.0793988  |
+| Zambia         |  0.0942861  |
+| Namibia        |  0.170377   |
+| Lesotho        |  0.297746   |
+| Botswana       |  0.00330828 |
+| Swaziland      |  0.193535   |
+| Madgascar      |  0.238197   |
+| Gambia         |  0.00496243 |
+| DRC            |  0.312633   |
+| Mali           |  0.238197   |
+| Burkina Faso   |  0.213384   |
+| Mauritius      |  0.133986   |
+| Guinea -Bissau |  0          |
+| Ghana          |  0          |
+| Rwanda         |  0.292783   |
+| Togo           |  0.0942861  |
+| Congo          |  0.277896   |
+| Cote d'Ivore   |  0.069474   |
+| Uganda         |  0.228272   |
+| Gabon          |  0.253084   |
+| Tanzania       |  0.243159   |
+| CAR            |  0.0843613  |
+| Malawi         |  0.0992485  |
+| Mozambique     |  0.16376    |
+| Zambia         |  0.148873   |
+| Namibia        |  0.107519   |
+| Lesotho        |  0.213384   |
+| Botswana       |  0.0843613  |
+| Swaziland      |  0.137294   |
+| Madgascar      |  0.00992485 |
+| Gambia         |  0.00496243 |
+| DRC            |  0.109173   |
+| Mali           |  0.0297746  |
+| Burkina Faso   |  0.0446618  |
+| Mauritius      |  0.302708   |
+| Guinea -Bissau |  0          |
+| Ghana          | -0.00165414 |
+| Rwanda         |  0.0893237  |
+| Togo           |  0.0148873  |
+| Congo          |  0.0446618  |
+| Cote d'Ivore   |  0.0793988  |
+| Uganda         |  0.0645116  |
+| Gabon          |  0.069474   |
+| Tanzania       |  0          |
+| CAR            |  0.32752    |
+| Malawi         |  0.0148873  |
+| Mozambique     |  0.0446618  |
+| Zambia         |  0.0396994  |
+| Namibia        |  0.00496243 |
+| Lesotho        |  0.16376    |
+| Botswana       |  0.198497   |
+| Swaziland      |  0.30767    |
+| Madgascar      |  0.0148873  |
+| Gambia         |  0.00496243 |
+| DRC            |  0.218347   |
+| Mali           |  0.114136   |
+| Burkina Faso   |  0.32752    |
+| Mauritius      |  0.20346    |
+| Guinea -Bissau |  0.129023   |
+| Ghana          |  0.684815   |
+| Rwanda         |  0.302708   |
+| Togo           |  0.0793988  |
+| Congo          |  0.342407   |
+| Cote d'Ivore   |  0.565717   |
+| Uganda         |  0.421806   |
+| Gabon          |  0.263009   |
+| Tanzania       |  0.32752    |
+| CAR            |  0.382107   |
+| Malawi         |  0.486318   |
+| Mozambique     |  0.411881   |
+| Zambia         |  0.466468   |
+| Namibia        |  0.575642   |
+| Lesotho        |  0.198497   |
+| Botswana       |  0.600454   |
+| Swaziland      |  0.18361    |
+| Madgascar      |  0.620303   |
+| Gambia         |  0.942861   |
+| DRC            |  0.287821   |
+| Mali           |  0.431731   |
+| Burkina Faso   |  0.282858   |
+| Mauritius      |  0.332483   |
+| Guinea -Bissau |  0.258046   |
+| Ghana          |  0.312633   |
+| Rwanda         |  0.238197   |
+| Togo           |  0.774139   |
+| Congo          |  0.32752    |
+| Cote d'Ivore   |  0.238197   |
+| Uganda         |  0.18361    |
+| Gabon          |  0.357295   |
+| Tanzania       |  0.421806   |
+| CAR            |  0.133986   |
+| Malawi         |  0.0992485  |
+| Mozambique     |  0.297746   |
+| Zambia         |  0.248121   |
+| Namibia        |  0.138948   |
+| Lesotho        |  0.124061   |
+| Botswana       |  0.109173   |
+| Swaziland      |  0.173685   |

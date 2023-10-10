@@ -1,0 +1,33 @@
+| title                    |   [unnamed data series #0] |
+| Santa Ana River          |                  0.0660055 |
+| Topanga Creek            |                  0.0660055 |
+| Malibu creek             |                  6.73117   |
+| Tecolote Creek           |                 11.1939    |
+| Salstice creek           |                 13.2225    |
+| Talban channel           |                 18.4966    |
+| Ramirez Creek            |                 19.7138    |
+| Aliso Creek              |                 26.205     |
+| San Diego River          |                 26.6107    |
+| Santa Ana Delhi Channel  |                 28.6393    |
+| Marie Canyon Storm Drain |                 29.4507    |
+| Tijuana River            |                 30.2621    |
+| Escondio Creek           |                 48.1131    |
+| Ballona Creek            |                 58.2558    |
+| Costa Mesa Channel       |                 72.0498    |
+| Cottonwood Creek         |                 82.1924    |
+| Santa Ana River          |                 71.6441    |
+| Topanga Creek            |                 18.9603    |
+| Malibu creek             |                 29.4507    |
+| Tecolote Creek           |                 76.1068    |
+| Salstice creek           |                 11.078     |
+| Talban channel           |                 73.6726    |
+| Ramirez Creek            |                 14.7873    |
+| Aliso Creek              |                 92.3351    |
+| San Diego River          |                 42.0276    |
+| Santa Ana Delhi Channel  |                 80.1639    |
+| Marie Canyon Storm Drain |                 10.7882    |
+| Tijuana River            |                 65.5585    |
+| Escondio Creek           |                 33.3339    |
+| Ballona Creek            |                 97.4933    |
+| Costa Mesa Channel       |                 79.8741    |
+| Cottonwood Creek         |                 79.8741    |

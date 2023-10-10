@@ -1,0 +1,6 @@
+| title     |   [unnamed data series #0] |
+| Non-genic |                    24.4853 |
+| Exonic    |                    26.3695 |
+| Intronic  |                    25.7721 |
+| 3' UTR    |                    26.875  |
+| 5' UTR    |                    24.761  |

@@ -1,0 +1,10 @@
+| title         |      pH 4 |
+| ProCAD        |  10.8696  |
+| e.max CAD     |  37.4518  |
+| e. max ZirCAD | 157.53    |
+| ProCAD        |  11.7863  |
+| e.max CAD     |  33.7853  |
+| e. max ZirCAD | 154.322   |
+| ProCAD        |   9.95302 |
+| e.max CAD     |  41.5766  |
+| e. max ZirCAD | 152.947   |

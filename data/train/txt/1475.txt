@@ -1,0 +1,38 @@
+| title                           |   [unnamed data series #0] |
+| Decidious Forest                |                  0.99541   |
+| Coniferous Forest               |                  0.99541   |
+| Dunes withHigh Vegetation (>1m) |                  0.99352   |
+| Forest in Moorland Area         |                  0.99352   |
+| Forest in Suburban Area         |                  0.96706   |
+| Moderately Grassed Heather      |                  0.96517   |
+| Heather Dunes                   |                  0.95572   |
+| Highly Grassed Heather          |                  0.95194   |
+| Forest in Wetland               |                  0.948159  |
+| Natural Grassland               |                  0.942489  |
+| Heather                         |                  0.936819  |
+| Forest in Urban Area            |                  0.925479  |
+| Orchard                         |                  0.914139  |
+| Fruit Orchard                   |                  0.908469  |
+| Buldings in Suburban Area       |                  0.889569  |
+| Tree Nurseries                  |                  0.819638  |
+| Peat Moor                       |                  0.806408  |
+| Building in Rural Area          |                  0.764828  |
+| Dunes with Low Vegetation (<1m) |                  0.747817  |
+| Grass in Suburban Area          |                  0.708127  |
+| Marshes                         |                  0.702457  |
+| Reed Vegetation                 |                  0.564486  |
+| Other Crops                     |                  0.534245  |
+| Other Wetland Vegetation        |                  0.528575  |
+| Highways and Railways           |                  0.519125  |
+| Cereals                         |                  0.371704  |
+| Agricultural Grass              |                  0.294213  |
+| Grass in Urban Area             |                  0.269643  |
+| Beets                           |                  0.269643  |
+| Bulbs                           |                  0.265863  |
+| Corn                            |                  0.243182  |
+| Open Sand in Coastal Areas      |                  0.231842  |
+| Bare Soil in Urban Outskirts    |                  0.222392  |
+| Buildings in Urban Area         |                  0.218612  |
+| Open Draft and/or River Sand    |                  0.163802  |
+| Potatoes                        |                  0.0749707 |
+| Greenhouse                      |                  0.0711907 |

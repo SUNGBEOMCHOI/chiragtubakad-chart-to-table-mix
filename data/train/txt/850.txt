@@ -1,0 +1,8 @@
+| title                               |   [unnamed data series #0] |
+| other reasons                       |                  0.149326  |
+| forced                              |                  0.0182105 |
+| symptoms                            |                  0.0837684 |
+| test recommended                    |                  0.134758  |
+| to have condomless sex with partner |                  0.145684  |
+| routine                             |                  0.4844    |
+| perceived risks                     |                  0.670147  |

@@ -1,0 +1,7 @@
+| title         |   [unnamed data series #0] |
+| 0-100 ppm     |                      16321 |
+| 100 - 200 ppm |                       4797 |
+| 200 - 300 ppm |                       1911 |
+| 300 - 400 ppm |                        956 |
+| 400 - 500 ppm |                        447 |
+| Above 500 ppm |                        873 |

@@ -1,0 +1,13 @@
+| title                |   Family |
+| Overall              |  3.66617 |
+| Hawaii students      |  3.66617 |
+| Non- Hawaii students |  3.66617 |
+| Overall              |  2.94436 |
+| Hawaii students      |  3.12481 |
+| Non- Hawaii students |  2.67368 |
+| Overall              |  2.35789 |
+| Hawaii students      |  2.58346 |
+| Non- Hawaii students |  2.04211 |
+| Overall              |  5.5609  |
+| Hawaii students      |  4.97444 |
+| Non- Hawaii students |  6.23759 |

@@ -1,0 +1,9 @@
+| title                        |   no iron supplement |
+| S. aureus SA                 |            -22.5141  |
+| Staphylococcus sp. SH        |            -34.3785  |
+| R. erythropolis (ethanol)    |            -39.5198  |
+| R. erythropolis (hexadecane) |              4.37853 |
+| S. aureus SA                 |            -19.9435  |
+| Staphylococcus sp. SH        |            -25.0847  |
+| R. erythropolis (ethanol)    |            -34.774   |
+| R. erythropolis (hexadecane) |              4.57627 |

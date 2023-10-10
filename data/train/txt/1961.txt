@@ -1,0 +1,21 @@
+| title                           |        T1 |
+| Sound from aircraft             | 16.5129   |
+| Human enroachment on the forest |  8.36638  |
+| Vehicles on forest roads        |  5.10776  |
+| Dogs                            |  4.40948  |
+| Careless bicycle riding         |  3.12931  |
+| Seeing aircraft                 |  2.78017  |
+| Road traffic noise              |  2.0819   |
+| Crowding                        |  2.19828  |
+| Power saw or forest machinery   |  1.73276  |
+| Shooting                        |  0.685345 |
+| Sound from aircraft             | 43.1638   |
+| Human enroachment on the forest |  8.59914  |
+| Vehicles on forest roads        |  3.59483  |
+| Dogs                            |  3.94397  |
+| Careless bicycle riding         |  4.17672  |
+| Seeing aircraft                 |  4.40948  |
+| Road traffic noise              |  2.89655  |
+| Crowding                        |  3.12931  |
+| Power saw or forest machinery   |  1.61638  |
+| Shooting                        |  1.73276  |

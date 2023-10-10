@@ -1,0 +1,17 @@
+| title           |   Sedatives (p-value=0.014* |
+| Belgium         |                        34.6 |
+| Germany         |                        17.8 |
+| The Netherlands |                        29.4 |
+| Spain           |                        28.4 |
+| Belgium         |                        21.3 |
+| Germany         |                        28.8 |
+| The Netherlands |                        24.3 |
+| Spain           |                        29.8 |
+| Belgium         |                        43.4 |
+| Germany         |                        50   |
+| The Netherlands |                        52.9 |
+| Spain           |                        28.8 |
+| Belgium         |                        41.9 |
+| Germany         |                        34.9 |
+| The Netherlands |                        24.3 |
+| Spain           |                        40.9 |

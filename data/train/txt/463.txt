@@ -1,0 +1,7 @@
+| title     |   wild type |
+| sli mRNA  |    1.00188  |
+| robo mRNA |    1.00074  |
+| fra mRNA  |    1.00188  |
+| sli mRNA  |    1.0604   |
+| robo mRNA |    0.977791 |
+| fra mRNA  |    1.19807  |

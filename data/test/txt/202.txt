@@ -1,0 +1,11 @@
+| title         |   variants present in ESP |
+| SIFT          |                  0.382155 |
+| PolyPhen-2    |                  0.732148 |
+| Grantham      |                  0.232158 |
+| Conservation  |                  0.625008 |
+| Agreement>/=1 |                  0.353584 |
+| SIFT          |                  0.914287 |
+| PolyPhen-2    |                  0.939287 |
+| Grantham      |                  0.721434 |
+| Conservation  |                  0.925002 |
+| Agreement>/=1 |                  0.900002 |

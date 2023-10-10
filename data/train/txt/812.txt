@@ -1,0 +1,31 @@
+| title        |   Higher |
+| Difficullties getting
+milkproduction
+started              |  16.1    |
+| The child had
+difficulties
+suckling              |  26.1721 |
+| Sore nipples |  37.872  |
+| Insufficient
+breastmilk              |  27.0877 |
+| Other        |  23.2217 |
+| Difficullties getting
+milkproduction
+started              |  16.2018 |
+| The child had
+difficulties
+suckling              |  28.919  |
+| Sore nipples |  36.1424 |
+| Insufficient
+breastmilk              |  35.0233 |
+| Other        |  18.9487 |
+| Difficullties getting
+milkproduction
+started              |  20.6783 |
+| The child had
+difficulties
+suckling              |  27.0877 |
+| Sore nipples |  33.8025 |
+| Insufficient
+breastmilk              |  38.1772 |
+| Other        |  13.3531 |

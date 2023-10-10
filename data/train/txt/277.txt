@@ -1,0 +1,31 @@
+| title                             |   Implementation articles |
+| Collaborative decision making     |                  16.909   |
+| Agreement of objectives and goals |                  13.9341  |
+| Local planning and action         |                  19.8727  |
+| Leadership and guidance           |                  13.0388  |
+| Creating and maintaining trust    |                  13.0079  |
+| Adequate resources                |                   8.94405 |
+| Use of a dynamic approach         |                   7.01876 |
+| Participation                     |                   7.08051 |
+| Time-relevant                     |                   5.07383 |
+| Knowledgeable and trained staff   |                   4.98121 |
+| Collaborative decision making     |                  12.8339  |
+| Agreement of objectives and goals |                  14.0267  |
+| Local planning and action         |                   8.00667 |
+| Leadership and guidance           |                  10.9704  |
+| Creating and maintaining trust    |                   4.96157 |
+| Adequate resources                |                   4.96157 |
+| Use of a dynamic approach         |                   6.95702 |
+| Participation                     |                   4.96157 |
+| Time-relevant                     |                   5.99999 |
+| Knowledgeable and trained staff   |                   4.96157 |
+| Collaborative decision making     |                  29.864   |
+| Agreement of objectives and goals |                  27.8377  |
+| Local planning and action         |                  27.8377  |
+| Leadership and guidance           |                  23.844   |
+| Creating and maintaining trust    |                  17.8857  |
+| Adequate resources                |                  13.7601  |
+| Use of a dynamic approach         |                  13.965   |
+| Participation                     |                  11.9583  |
+| Time-relevant                     |                  10.9704  |
+| Knowledgeable and trained staff   |                   9.98247 |

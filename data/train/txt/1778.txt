@@ -1,0 +1,7 @@
+| title                  |   [unnamed data series #0] |
+| Any prelacteal         |                       73.3 |
+| Infant formula         |                       53.5 |
+| Plain water            |                       44.1 |
+| Honey                  |                       14.8 |
+| Sugar or glucose water |                        2.8 |
+| Other liquids          |                        3.9 |

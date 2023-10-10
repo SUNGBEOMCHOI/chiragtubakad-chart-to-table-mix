@@ -1,0 +1,4 @@
+| Category                 |   first quartile |      max |   median |      min |   third quartile | x                 |
+| [unnamed data series #0] |          21.7161 | 148.835  |  55.0847 |  1.05932 |          95.339  | Urban             |
+| [unnamed data series #0] |          12.7119 | 114.936  |  30.1907 | -1.05932 |          59.322  | Rural Village     |
+| [unnamed data series #0] |          14.8305 |  63.0297 |  23.3051 |  0       |          34.9576 | Low Density Rural |

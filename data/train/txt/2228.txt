@@ -1,0 +1,11 @@
+| title                                     |   [unnamed data series #0] |
+| 1= Ethical standards                      |                    5.97592 |
+| 2 = Interaction with interrelated systems |                    4.4555  |
+| 3= create oppurtunities                   |                    4.92042 |
+| 4= Collaborate for development            |                    5.34764 |
+| 5 = minimize barriers                     |                    5.4733  |
+| 6 = ensure availability of oppurtunities  |                    5.48586 |
+| 7 = Ensure use of oppurtunities           |                    4.25445 |
+| 8 = ensure management                     |                    5.88796 |
+| 9 = ensure continuous improvement         |                    7.35812 |
+| 10 = advocate for role of public health   |                    5.73717 |

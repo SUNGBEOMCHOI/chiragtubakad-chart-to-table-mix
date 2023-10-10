@@ -1,0 +1,4 @@
+| title     |   [unnamed data series #0] |
+| BCP/CMC   |                   11.3435  |
+| BCP/c-CMC |                    8.72912 |
+| BCP/HyA   |                    8.78722 |

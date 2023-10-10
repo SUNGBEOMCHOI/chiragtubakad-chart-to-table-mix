@@ -1,0 +1,5 @@
+| title     |       WT |
+| - citrate | 0.303167 |
+| + citrate | 0.788908 |
+| - citrate | 0.183309 |
+| + citrate | 0.375713 |

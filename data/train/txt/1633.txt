@@ -1,0 +1,21 @@
+| title               |   Overweight Diagnosed |
+| Endocrinology       |               4.54785  |
+| Hepatology          |               7.85757  |
+| Kidney Disease      |               0.292493 |
+| Cardiology          |               2.49897  |
+| Pulmonology         |               0.76531  |
+| Allergy/Immunology  |               1.23813  |
+| Rheumatology        |               0.239957 |
+| Hematology/Oncology |               0.76531  |
+| Otolaryngology      |               0.292493 |
+| Sports Medicine     |               0.607704 |
+| Endocrinology       |              40.3244   |
+| Hepatology          |              40.3244   |
+| Kidney Disease      |              25.1942   |
+| Cardiology          |              22.3573   |
+| Pulmonology         |               9.59123  |
+| Allergy/Immunology  |               9.11842  |
+| Rheumatology        |               7.85757  |
+| Hematology/Oncology |               6.91194  |
+| Otolaryngology      |               5.49348  |
+| Sports Medicine     |               1.86855  |

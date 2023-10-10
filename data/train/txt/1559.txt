@@ -1,0 +1,13 @@
+| title                          |     FEMALE |
+| HDL-C                          | 0.178739   |
+| TRIGLYCERIDES                  | 0.241175   |
+| ELAVATED FASTING BLOOD GLUCOSE | 0.139563   |
+| ELEVATED BLOOD PRESSURE        | 0.0391757  |
+| HIGH WAIST CIRCUMFERENCE       | 0.0575393  |
+| BMI                            | 0.0526423  |
+| HDL-C                          | 0.119976   |
+| TRIGLYCERIDES                  | 0.258315   |
+| ELAVATED FASTING BLOOD GLUCOSE | 0.0685574  |
+| ELEVATED BLOOD PRESSURE        | 0.0587635  |
+| HIGH WAIST CIRCUMFERENCE       | 0.00856968 |
+| BMI                            | 0.00856968 |

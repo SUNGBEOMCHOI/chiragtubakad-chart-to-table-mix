@@ -1,0 +1,9 @@
+| title      |   [unnamed data series #0] |
+| Naive      |                    1.78578 |
+| Stimulant  |                    4.64302 |
+| Fluorscein |                   62.145   |
+| Fluorescein +
+Stimulant            |                   74.6454  |
+| Calcein    |                   46.073   |
+| Calcein +
+Stimulant            |                   47.1445  |

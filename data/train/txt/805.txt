@@ -1,0 +1,11 @@
+| title                |   [unnamed data series #0] |
+| Signal Transduction  |                   34.9549  |
+| Metabolism           |                   12.4839  |
+| Unknown              |                   12.4839  |
+| Cell Surface         |                    7.52155 |
+| Cell Structure       |                    7.52155 |
+| Protein Interaction  |                    7.52155 |
+| Protein Turnover     |                    4.99356 |
+| RNA Processing       |                    4.99356 |
+| Transcription Factor |                    4.99356 |
+| Protein Synthesis    |                    2.46557 |

@@ -1,0 +1,11 @@
+| title                |      Any |
+| Nursery/kindergarten | 34.7592  |
+| School               | 75.6069  |
+| Sport                | 33.8343  |
+| Health care centres  | 33.8343  |
+| Neighborhood         | 43.6994  |
+| Nursery/kindergarten |  5.78035 |
+| School               | 47.7842  |
+| Sport                |  6.85934 |
+| Health care centres  |  9.86513 |
+| Neighborhood         | 26.7437  |

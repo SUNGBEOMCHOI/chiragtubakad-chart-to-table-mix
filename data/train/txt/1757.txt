@@ -1,0 +1,11 @@
+| title                      |   [unnamed data series #0] |
+| MicroRNAs in cancer        |                    7.68019 |
+| p53 signaling pathway      |                    7.41985 |
+| Pathways in cancer         |                    6.81237 |
+| Hepatitis B                |                    5.70591 |
+| Small-cell lung cancer     |                    5.0225  |
+| ECM-receptor interaction   |                    4.83809 |
+| Cell cycle                 |                    4.51266 |
+| Focal adhesion             |                    4.3174  |
+| PI3K-Akt signaling pathway |                    4.20892 |
+| HTLV-I infection           |                    3.8401  |

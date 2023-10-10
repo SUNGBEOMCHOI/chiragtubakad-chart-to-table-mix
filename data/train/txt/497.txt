@@ -1,0 +1,11 @@
+| title                    |   [unnamed data series #0] |
+| Malaria                  |                        148 |
+| Respiratory infections   |                         64 |
+| Dirrheal diseases        |                         33 |
+| Helminthiases            |                         32 |
+| Malnutrition             |                         14 |
+| Injuries                 |                         11 |
+| Anemia                   |                         10 |
+| Genito-urinairy diseases |                          7 |
+| Dental and oral diseases |                          7 |
+| Gastritis, ulcer         |                          6 |

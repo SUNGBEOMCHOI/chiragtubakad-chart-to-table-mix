@@ -1,0 +1,17 @@
+| title                    |   Beijing |
+| Worries and Concerns     |   50.5593 |
+| Emotional Impact         |   44.7295 |
+| Sexual Impact            |   57.2636 |
+| Self Image               |   63.385  |
+| Partner and Transmission |   44.438  |
+| Interaction with Doctors |   32.3896 |
+| Control/Life Impact      |   48.8103 |
+| Total HIP Score          |   49.1018 |
+| Worries and Concerns     |   48.8103 |
+| Emotional Impact         |   52.5997 |
+| Sexual Impact            |   70.4779 |
+| Self Image               |   63.0935 |
+| Partner and Transmission |   56.4863 |
+| Interaction with Doctors |   48.1302 |
+| Control/Life Impact      |   47.7415 |
+| Total HIP Score          |   53.7657 |

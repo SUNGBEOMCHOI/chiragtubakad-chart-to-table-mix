@@ -1,0 +1,6 @@
+| title                      |   [unnamed data series #0] |
+| Nipple retraction          |                       25   |
+| Nipple discharge liquid    |                       27   |
+| Axillary nodes             |                       32.7 |
+| Local discomfort in breast |                       33.8 |
+| Lump in breast             |                       48.5 |

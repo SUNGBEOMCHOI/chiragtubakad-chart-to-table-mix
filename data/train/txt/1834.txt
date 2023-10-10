@@ -1,0 +1,23 @@
+| title          |   [unnamed data series #0] |
+| Weight         |                  0.38871   |
+| Length         |                  0.104032  |
+| AbFat          |                  0.319355  |
+| OtherFat       |                  0.312097  |
+| TotalFat       |                  0.339516  |
+| Index          |                  0.278226  |
+| Trigly         |                  0.142742  |
+| Chol           |                  0.203226  |
+| HDL            |                  0.11129   |
+| UC             |                  0.205645  |
+| FFA            |                  0.197177  |
+| Glucose        |                  0.217742  |
+| LDL+VLDL       |                  0.198387  |
+| MCP1           |                  0.117339  |
+| Insulin        |                  0.324194  |
+| Glucoselnsulin |                  0.287903  |
+| Leptin         |                  0.326613  |
+| Adiponectin    |                  0.075     |
+| AorticLesions  |                  0.0955645 |
+| Aneurysm       |                  0.0556452 |
+| AorticCal.M    |                  0.0556452 |
+| AorticCal.L    |                  0.0883065 |

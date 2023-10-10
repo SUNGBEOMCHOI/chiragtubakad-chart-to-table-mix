@@ -1,0 +1,7 @@
+| title         |   [unnamed data series #0] |
+| condom        |                       14.7 |
+| Withdrawl     |                        8   |
+| Hormonals     |                        9.4 |
+| IUD           |                        4.1 |
+| sterilization |                       11.9 |
+| Traditional   |                       12.4 |

@@ -1,0 +1,5 @@
+| title   |   [unnamed data series #0] |
+| C       |                    110.479 |
+| C-TSLP  |                    117.307 |
+| P       |                    141.205 |
+| P-TSLP  |                    175.346 |

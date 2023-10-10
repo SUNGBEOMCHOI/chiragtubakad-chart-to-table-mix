@@ -1,0 +1,17 @@
+| title    |      DRY |
+| CHARISMA | 0.236234 |
+| PEEK     | 0.484902 |
+| CFR-PEEK | 0.444938 |
+| PMMA     | 0.542629 |
+| CHARISMA | 0.760213 |
+| PEEK     | 0.444938 |
+| CFR-PEEK | 0.478242 |
+| PMMA     | 0.598135 |
+| CHARISMA | 0.291741 |
+| PEEK     | 0.46048  |
+| CFR-PEEK | 0.491563 |
+| PMMA     | 0.584813 |
+| CHARISMA | 0.365009 |
+| PEEK     | 0.500444 |
+| CFR-PEEK | 0.493783 |
+| PMMA     | 0.564831 |

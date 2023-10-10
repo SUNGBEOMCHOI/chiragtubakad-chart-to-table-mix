@@ -1,0 +1,13 @@
+| title   |   Overweight /obese (BMI >/=25 kg/m^2); P for trend=0.002 |
+| Q1
+ (Lowest)         |                                                  1.00561  |
+| Q2      |                                                  0.89033  |
+| Q3      |                                                  0.652572 |
+| Q4 
+(Highest)         |                                                  0.612946 |
+| Q1
+ (Lowest)         |                                                  0.342767 |
+| Q2      |                                                  0.385996 |
+| Q3      |                                                  0.349972 |
+| Q4 
+(Highest)         |                                                  0.313948 |

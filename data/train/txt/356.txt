@@ -1,0 +1,5 @@
+| title                    |   [unnamed data series #0] |
+| Ante-natal clinics       |                       0.76 |
+| Labour and Delivery ward |                       0.42 |
+| Post-natal clinics       |                       0.38 |
+| Community support        |                       0.42 |

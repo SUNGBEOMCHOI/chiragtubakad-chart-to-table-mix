@@ -1,0 +1,15 @@
+| Category                          |          X |        Y |
+| C10 changes over degradation time | 18.008     |  2.09116 |
+| C10 changes over degradation time | 15.0151    |  3.64996 |
+| C10 changes over degradation time | 11.9819    |  5.20625 |
+| C10 changes over degradation time |  9.02414   |  6.2488  |
+| C10 changes over degradation time |  6.03622   |  7.8202  |
+| C10 changes over degradation time |  3.00302   |  8.9383  |
+| C10 changes over degradation time |  0.0301811 | 10.2151  |
+| C01 changes over degradation time |  0.0301811 |  2.56963 |
+| C01 changes over degradation time |  3.00302   |  2.25233 |
+| C01 changes over degradation time |  6.00604   |  1.61773 |
+| C01 changes over degradation time |  9.02161   |  1.61773 |
+| C01 changes over degradation time | 11.9828    |  1.2413  |
+| C01 changes over degradation time | 15         |  0.90758 |
+| C01 changes over degradation time | 18.0169    |  0.5311  |

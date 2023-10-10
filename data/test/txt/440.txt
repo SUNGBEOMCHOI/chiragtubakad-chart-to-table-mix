@@ -1,0 +1,25 @@
+| title   |   Intl1*_{R32_H39} |
+| Excision:
+attC_{aadA7} x attC_{VCR}         |        0.01843     |
+| Integration:
+attl x attC_{aadA7}         |        0.00427595  |
+| Integration:
+attl x attC_{VCR}         |        0.00262745  |
+| Excision:
+attC_{aadA7} x attC_{VCR}         |        0.000358357 |
+| Integration:
+attl x attC_{aadA7}         |        0.00205961  |
+| Integration:
+attl x attC_{VCR}         |        0.00300065  |
+| Excision:
+attC_{aadA7} x attC_{VCR}         |        5.58187e-05 |
+| Integration:
+attl x attC_{aadA7}         |        0.00118426  |
+| Integration:
+attl x attC_{VCR}         |        0.00123787  |
+| Excision:
+attC_{aadA7} x attC_{VCR}         |        1.29505e-05 |
+| Integration:
+attl x attC_{aadA7}         |        0.000240587 |
+| Integration:
+attl x attC_{VCR}         |        0.00055794  |

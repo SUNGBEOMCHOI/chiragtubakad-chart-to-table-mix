@@ -1,0 +1,5 @@
+| title             |   [unnamed data series #0] |
+| Mass Media        |                  0.420414  |
+| Friends           |                  0.402064  |
+| Medical Personnel |                  0.281475  |
+| Others            |                  0.0901049 |

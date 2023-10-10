@@ -1,0 +1,10 @@
+| title                                              |   Target groups for hospitals B vaccine |
+| Condoms                                            |                                 83.344  |
+| Vaccination                                        |                                 89.8968 |
+| Using gloves while giving care to infected persons |                                 97.79   |
+| Condoms                                            |                                 70.0894 |
+| Vaccination                                        |                                 83.195  |
+| Using gloves while giving care to infected persons |                                 94.3647 |
+| Condoms                                            |                                 73.9615 |
+| Vaccination                                        |                                 84.6843 |
+| Using gloves while giving care to infected persons |                                 95.5561 |

@@ -1,0 +1,31 @@
+| title                              |   all SNPs |
+| upstream gene variant              | 0.0518967  |
+| 5' UTR variant                     | 0.00328002 |
+| synonymous variant                 | 0.00993984 |
+| missense variant                   | 0.00993984 |
+| Splice region variant              | 0.00194805 |
+| intron variant                     | 0.492111   |
+| non-coding transcript exon variant | 0.0219275  |
+| 3’ UTR variant                     | 0.0319172  |
+| downstream gene variant            | 0.041907   |
+| intergenic variant                 | 0.341599   |
+| upstream gene variant              | 0.101845   |
+| 5' UTR variant                     | 0.0219275  |
+| synonymous variant                 | 0.041907   |
+| missense variant                   | 0.0618864  |
+| Splice region variant              | 0.0119378  |
+| intron variant                     | 0.392047   |
+| non-coding transcript exon variant | 0.0314178  |
+| 3’ UTR variant                     | 0.0618864  |
+| downstream gene variant            | 0.0319172  |
+| intergenic variant                 | 0.241702   |
+| upstream gene variant              | 0.101845   |
+| 5' UTR variant                     | 0.00328002 |
+| synonymous variant                 | 0.101845   |
+| missense variant                   | 0.0698782  |
+| Splice region variant              | 0.00328002 |
+| intron variant                     | 0.411527   |
+| non-coding transcript exon variant | 0.00328002 |
+| 3’ UTR variant                     | 0.101845   |
+| downstream gene variant            | 0.0312513  |
+| intergenic variant                 | 0.171773   |

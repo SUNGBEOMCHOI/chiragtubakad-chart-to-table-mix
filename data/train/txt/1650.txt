@@ -1,0 +1,13 @@
+| title     |   GMAC-40 |
+| unageing  |   2.21701 |
+| STA       |   2.22835 |
+| LTA       |   2.25954 |
+| UV-2month |   2.22835 |
+| UV-4month |   2.23969 |
+| UV-6month |   2.2482  |
+| unageing  |   1.62448 |
+| STA       |   1.63582 |
+| LTA       |   1.65851 |
+| UV-2month |   1.63299 |
+| UV-4month |   1.64433 |
+| UV-6month |   1.65425 |

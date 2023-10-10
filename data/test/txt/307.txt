@@ -1,0 +1,11 @@
+| title   |      Male |
+| Highest | 0.185185  |
+| Higher  | 0.154649  |
+| Middle  | 0.0847124 |
+| Lower   | 0.0758471 |
+| Lowest  | 0.0600867 |
+| Highest | 0.386131  |
+| Higher  | 0.405831  |
+| Middle  | 0.378251  |
+| Lower   | 0.315209  |
+| Lowest  | 0.281718  |

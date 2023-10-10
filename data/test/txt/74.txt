@@ -1,0 +1,5 @@
+| Category                 |   first quartile |     max |   median |     min |   third quartile | x   |
+| [unnamed data series #0] |          8560.31 | 15875.5 |  10894.9 | 6848.25 |          13696.5 | PN1 |
+| [unnamed data series #0] |         12607    | 38754.9 |  15719.8 | 4513.62 |          23190.7 | PN2 |
+| [unnamed data series #0] |         18988.3  | 59610.9 |  28015.6 | 8560.31 |          36575.9 | PN3 |
+| [unnamed data series #0] |         16653.7  | 73307.4 |  24124.5 | 4980.54 |          45914.4 | PN4 |

@@ -1,0 +1,13 @@
+| title         |      men |
+| MetS          | 19.7468  |
+| elevated BP   | 35.6153  |
+| elevated TG   | 34.9889  |
+| reduced HDL-C | 25.4887  |
+| elevated BMI  | 16.6149  |
+| elevated FPG  | 28.8294  |
+| MetS          |  8.05429 |
+| elevated BP   | 14.6313  |
+| elevated TG   | 13.1698  |
+| reduced HDL-C | 25.6975  |
+| elevated BMI  |  5.75754 |
+| elevated FPG  | 18.1809  |

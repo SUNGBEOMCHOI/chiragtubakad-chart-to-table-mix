@@ -1,0 +1,6 @@
+| title   |   [unnamed data series #0] |
+| C       |                    13.9876 |
+| FSH     |                    13.5438 |
+| IGF 1   |                    13.6178 |
+| EGF     |                    14.5054 |
+| FGF 2   |                    14.2095 |

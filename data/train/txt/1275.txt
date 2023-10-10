@@ -1,0 +1,4 @@
+| title        |   [unnamed data series #0] |
+| Preset       |                        7.2 |
+| Post-test I  |                        3.1 |
+| Post-test II |                        1.8 |

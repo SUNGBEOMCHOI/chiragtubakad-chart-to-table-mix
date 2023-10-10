@@ -1,0 +1,53 @@
+| title                                    |   No chance |
+| Fast bowling                             |     5.03401 |
+| Spin bowling                             |    19.8639  |
+| Facing spin bowlers with a helmet        |    25.3061  |
+| Facing spin bowlers without a helmet     |     4.35374 |
+| Facing fast bowlers with a helmet        |    22.0408  |
+| Facing fast bowlers without a helmet     |     9.79592 |
+| Facing a spin bowler                     |    16.0544  |
+| Facing a fast bowler                     |     1.90476 |
+| Running between wickets                  |     9.52381 |
+| Fielding at slip                         |     9.79592 |
+| Fielding at boundry (Outfield)           |    18.7755  |
+| Fielding within 15 yards (Close infield) |     5.44218 |
+| Fielding at 30 yards (Infield)           |    10.6122  |
+| Fast bowling                             |    46.4534  |
+| Spin bowling                             |    65.1043  |
+| Facing spin bowlers with a helmet        |    55.9038  |
+| Facing spin bowlers without a helmet     |    32.1088  |
+| Facing fast bowlers with a helmet        |    57.8231  |
+| Facing fast bowlers without a helmet     |    35.6104  |
+| Facing a spin bowler                     |    62.585   |
+| Facing a fast bowler                     |    31.8367  |
+| Running between wickets                  |    60.9524  |
+| Fielding at slip                         |    48.0428  |
+| Fielding at boundry (Outfield)           |    58.3673  |
+| Fielding within 15 yards (Close infield) |    32.6531  |
+| Fielding at 30 yards (Infield)           |    54.8299  |
+| Fast bowling                             |    43.0111  |
+| Spin bowling                             |     9.39597 |
+| Facing spin bowlers with a helmet        |    12.349   |
+| Facing spin bowlers without a helmet     |    60.5862  |
+| Facing fast bowlers with a helmet        |    12.8896  |
+| Facing fast bowlers without a helmet     |    51.1056  |
+| Facing a spin bowler                     |    13.5771  |
+| Facing a fast bowler                     |    60.0858  |
+| Running between wickets                  |    22.0089  |
+| Fielding at slip                         |    34.1094  |
+| Fielding at boundry (Outfield)           |    11.8523  |
+| Fielding within 15 yards (Close infield) |    53.9871  |
+| Fielding at 30 yards (Infield)           |    23.5529  |
+| Fast bowling                             |     5.36913 |
+| Spin bowling                             |     5.36913 |
+| Facing spin bowlers with a helmet        |     6.1745  |
+| Facing spin bowlers without a helmet     |     2.95302 |
+| Facing fast bowlers with a helmet        |     6.97987 |
+| Facing fast bowlers without a helmet     |     3.22148 |
+| Facing a spin bowler                     |     7.65101 |
+| Facing a fast bowler                     |     5.90604 |
+| Running between wickets                  |     7.51678 |
+| Fielding at slip                         |     7.78523 |
+| Fielding at boundry (Outfield)           |    10.7383  |
+| Fielding within 15 yards (Close infield) |     7.51678 |
+| Fielding at 30 yards (Infield)           |    10.7383  |

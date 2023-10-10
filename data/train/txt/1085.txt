@@ -1,0 +1,13 @@
+| title     |   tj-GAL 4>shAGO1 |
+| piR-ZAM   |             0.08  |
+| piR-Tabor |             0.165 |
+| piR-tj    |             1.595 |
+| piR-jim   |             1.405 |
+| piR-ZAM   |             0.04  |
+| piR-Tabor |             0.205 |
+| piR-tj    |             1.025 |
+| piR-jim   |             1.005 |
+| piR-ZAM   |             0.05  |
+| piR-Tabor |             0.035 |
+| piR-tj    |             0.09  |
+| piR-jim   |             0.175 |

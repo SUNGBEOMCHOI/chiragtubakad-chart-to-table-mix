@@ -1,0 +1,7 @@
+| Category                 |   first quartile |      max |   median |        min |   third quartile | x          |
+| [unnamed data series #0] |        0.303419  | 0.484339 | 0.331314 | 0.148004   |         0.456444 | C-FuzzyEn  |
+| [unnamed data series #0] |        0.451662  | 0.980075 | 0.544911 | 0.141627   |         0.741771 | C-SampleEn |
+| [unnamed data series #0] |        0.250817  | 0.69156  | 0.291464 | 0.00294891 |         0.448474 | ASI        |
+| [unnamed data series #1] |        0.0961983 | 0.28987  | 0.155974 | 0.00454292 |         0.193433 | C-FuzzyEn  |
+| [unnamed data series #1] |        0.217343  | 0.484339 | 0.267554 | 0.00454292 |         0.381525 | C-SampleEn |
+| [unnamed data series #1] |        0.210967  | 0.278712 | 0.24205  | 0.136845   |         0.274727 | ASI        |

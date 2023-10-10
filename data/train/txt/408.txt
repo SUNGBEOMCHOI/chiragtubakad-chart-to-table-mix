@@ -1,0 +1,17 @@
+| Category      |           X |           Y |
+| Wild Pig      |  0.0776228  | -0.329586   |
+| Wild Pig      |  0.0812614  | -0.264418   |
+| Wild Pig      |  0.11037    | -0.17074    |
+| Celtic        |  0.328684   |  0.480938   |
+| Celtic        | -0.0315343  |  0.574617   |
+| Mediterranean |  0.0688902  | -0.422858   |
+| Mediterranean |  0.0659794  | -0.367465   |
+| Mediterranean |  0.0688902  | -0.321848   |
+| Mediterranean |  0.0950879  | -0.289264   |
+| Mediterranean |  0.0223166  | -0.263196   |
+| Mediterranean | -0.0504548  | -0.217579   |
+| Mediterranean |  0.156216   | -0.142636   |
+| Basque        | -1.71546    |  0.460166   |
+| Islanders     |  0.00485143 | -0.0933529  |
+| Islanders     |  0.139478   | -0.00374715 |
+| Islanders     |  0.637962   |  1.29961    |

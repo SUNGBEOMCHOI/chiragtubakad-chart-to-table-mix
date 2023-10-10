@@ -1,0 +1,21 @@
+| title                  |     urban |
+| suicide                |  4.16562  |
+| traffic-related injury |  9.53529  |
+| drowning               |  2.63142  |
+| falls                  |  7.234    |
+| crushing injury        |  0.987643 |
+| poisoning              |  1.42598  |
+| electrocution          |  0.658887 |
+| homicides              |  1.53557  |
+| fire                   |  0.658887 |
+| suffocation            |  1.20681  |
+| suicide                | 32.4386   |
+| traffic-related injury | 15.8364   |
+| drowning               |  6.96004  |
+| falls                  |  6.96004  |
+| crushing injury        |  1.86433  |
+| poisoning              |  1.64515  |
+| electrocution          |  1.53557  |
+| homicides              |  0.987643 |
+| fire                   |  0.878058 |
+| suffocation            |  0.658887 |

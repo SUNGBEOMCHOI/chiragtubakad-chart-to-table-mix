@@ -1,0 +1,17 @@
+| title                              |   target group(children) |
+| Fatty, sweet and salty snacks      |                91.7846   |
+| Fats and vegetable oils            |                 0.136924 |
+| Fish, meat, sausages and eggs      |                 0.319489 |
+| Milk and dairy products            |                 3.97079  |
+| Cereal  products and potatoes      |                 0.136924 |
+| Vegetables, legumes and fruits     |                 0.319489 |
+| Non-alcoholic beverages            |                 0.136924 |
+| Other foods, not further specified |                 4.51848  |
+| Fatty, sweet and salty snacks      |                48.8818   |
+| Fats and vegetable oils            |                 4.15335  |
+| Fish, meat, sausages and eggs      |                 3.24053  |
+| Milk and dairy products            |                15.4724   |
+| Cereal  products and potatoes      |                 1.78001  |
+| Vegetables, legumes and fruits     |                 4.70105  |
+| Non-alcoholic beverages            |                 4.88361  |
+| Other foods, not further specified |                19.3063   |

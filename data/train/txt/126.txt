@@ -1,0 +1,6 @@
+| title                                                               |   [unnamed data series #0] |
+| Normal array result                                                 |                        136 |
+| Test failure                                                        |                          1 |
+| Likely/probably benign CNV [inherited CNV]                          |                          9 |
+| CNV of unknown clinical significance because of unknown Inheritance |                         15 |
+| Clinically relevant CNV                                             |                          7 |

@@ -1,0 +1,33 @@
+| title                                 |   Birth weight < 2500 g |
+| Latin America and Carribean           |                     4.1 |
+| Somalian                              |                     4.5 |
+| African (excl. Somalia, North Africa) |                     5.3 |
+| Vietnamese                            |                     5.3 |
+| Southeast Asian                       |                     3.3 |
+| Iranian, Iraqi, Afghan                |                     4   |
+| Chinese                               |                     1.5 |
+| South Asian                           |                     8.5 |
+| Middle Eastern, North-African         |                     5.5 |
+| Baltic                                |                     2.6 |
+| former, Soviet Union, Russian         |                     3.4 |
+| former Eastern Europe                 |                     5.9 |
+| Western                               |                     2.3 |
+| Nordic                                |                     3.2 |
+| All migrants                          |                     4   |
+| Finnish                               |                     3.2 |
+| Latin America and Carribean           |                     5.8 |
+| Somalian                              |                     4.9 |
+| African (excl. Somalia, North Africa) |                     6.5 |
+| Vietnamese                            |                     7.6 |
+| Southeast Asian                       |                     5.1 |
+| Iranian, Iraqi, Afghan                |                     5.8 |
+| Chinese                               |                     3.7 |
+| South Asian                           |                     8   |
+| Middle Eastern, North-African         |                     8.1 |
+| Baltic                                |                     4.2 |
+| former, Soviet Union, Russian         |                     4.7 |
+| former Eastern Europe                 |                     5.2 |
+| Western                               |                     4.6 |
+| Nordic                                |                     4   |
+| All migrants                          |                     5.2 |
+| Finnish                               |                     4.8 |

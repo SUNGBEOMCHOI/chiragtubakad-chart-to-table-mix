@@ -1,0 +1,9 @@
+| title        |   Background gene set |
+| Schizphrenia |             0.0138947 |
+| Bipolar      |             0.0161053 |
+| Hypertension |             0.0517895 |
+| Diabetes     |             0.0666316 |
+| Schizphrenia |             0.0868421 |
+| Bipolar      |             0.108     |
+| Hypertension |             0.0647368 |
+| Diabetes     |             0.0650526 |

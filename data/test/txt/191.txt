@@ -1,0 +1,111 @@
+| title              |         A |
+| Surui              | 0.192012  |
+| Kaitiana           | 0.462602  |
+| Amerindians        | 0.119934  |
+| Yakut              | 0.502777  |
+| Metanesian, Nasioi | 0.531136  |
+| Papuan New Guinean | 0.533499  |
+| Maya, Yucatan      | 0.362165  |
+| Pima, Mexico       | 0.544133  |
+| Sardinian          | 0.432471  |
+| Russians           | 0.642503  |
+| Orcadian           | 0.342963  |
+| Italians           | 0.383729  |
+| Italians           | 0.130273  |
+| French             | 0.263205  |
+| Estonian           | 0.488302  |
+| Basque             | 0.602623  |
+| Adygei             | 0.321694  |
+| Cambodians, Khmer  | 0.771003  |
+| Yi                 | 0.651365  |
+| Xibe               | 0.500709  |
+| Uyghur             | 0.548564  |
+| Tujia              | 0.698334  |
+| Tu                 | 0.801134  |
+| She                | 0.550337  |
+| Naxi               | 0.831266  |
+| Miao               | 0.700106  |
+| Lahu               | 0.801134  |
+| Koreans            | 0.732896  |
+| Japanese           | 0.681496  |
+| Hezhe              | 0.562744  |
+| Mongol             | 0.576923  |
+| Han                | 0.624778  |
+| Daur               | 0.672634  |
+| Dai                | 0.551223  |
+| Oroqen             | 0.451967  |
+| Sindhi             | 0.30397   |
+| Hazara             | 0.42095   |
+| Brahui             | 0.301312  |
+| Balochi            | 0.342963  |
+| Balochi            | 0.163949  |
+| Mongolian          | 0.551223  |
+| Pashrun            | 0.371322  |
+| Kalash             | 0.440447  |
+| Burusho            | 0.405884  |
+| Palestinian        | 0.364233  |
+| Druze              | 0.352712  |
+| Bedouin            | 0.303084  |
+| Mozabite           | 0.253456  |
+| Mandenka           | 0.253456  |
+| Yoruba             | 0.214463  |
+| Mbuti              | 0.0744417 |
+| Biaka              | 0.0620347 |
+| San                | 0.257001  |
+| Banru speakers     | 0.291563  |
+| Banru speakers     | 0.0620347 |
+| Surui              | 0.806747  |
+| Kaitiana           | 0.535271  |
+| Amerindians        | 0.878825  |
+| Yakut              | 0.497755  |
+| Metanesian, Nasioi | 0.465851  |
+| Papuan New Guinean | 0.463488  |
+| Maya, Yucatan      | 0.636595  |
+| Pima, Mexico       | 0.454626  |
+| Sardinian          | 0.564516  |
+| Russians           | 0.356257  |
+| Orcadian           | 0.654023  |
+| Italians           | 0.61503   |
+| Italians           | 0.869373  |
+| French             | 0.733782  |
+| Estonian           | 0.510457  |
+| Basque             | 0.397022  |
+| Adygei             | 0.677065  |
+| Cambodians, Khmer  | 0.227756  |
+| Yi                 | 0.347395  |
+| Xibe               | 0.49805   |
+| Uyghur             | 0.449309  |
+| Tujia              | 0.300425  |
+| Tu                 | 0.200284  |
+| She                | 0.44665   |
+| Naxi               | 0.164835  |
+| Miao               | 0.296881  |
+| Lahu               | 0.198511  |
+| Koreans            | 0.264091  |
+| Japanese           | 0.317263  |
+| Hezhe              | 0.436016  |
+| Mongol             | 0.420064  |
+| Han                | 0.373095  |
+| Daur               | 0.326125  |
+| Dai                | 0.447536  |
+| Oroqen             | 0.545906  |
+| Sindhi             | 0.69213   |
+| Hazara             | 0.576923  |
+| Brahui             | 0.697448  |
+| Balochi            | 0.658454  |
+| Balochi            | 0.833038  |
+| Mongolian          | 0.447536  |
+| Pashrun            | 0.626551  |
+| Kalash             | 0.560085  |
+| Burusho            | 0.591989  |
+| Palestinian        | 0.635413  |
+| Druze              | 0.648706  |
+| Bedouin            | 0.697448  |
+| Mozabite           | 0.745303  |
+| Mandenka           | 0.745303  |
+| Yoruba             | 0.782524  |
+| Mbuti              | 0.923431  |
+| Biaka              | 0.935838  |
+| San                | 0.740872  |
+| Banru speakers     | 0.708968  |
+| Banru speakers     | 0.934066  |

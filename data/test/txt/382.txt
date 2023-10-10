@@ -1,0 +1,10 @@
+| title         |   [unnamed data series #0] |
+| Underweight   |                       0.92 |
+| Normal weight |                       7.03 |
+| Overweight    |                      31.8  |
+| Obesity Class 
+I               |                      32.11 |
+| Obesity Class 
+II               |                      19.27 |
+| Obesity Class
+III               |                       8.87 |

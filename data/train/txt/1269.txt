@@ -1,0 +1,5 @@
+| title   |   [unnamed data series #0] |
+| 0 Gy    |                    32.6494 |
+| 5 Gy    |                    68.2205 |
+| 0 Gy    |                    23.1173 |
+| 5 Gy    |                    27.9996 |

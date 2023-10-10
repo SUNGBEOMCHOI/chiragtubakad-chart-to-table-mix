@@ -1,0 +1,21 @@
+| title                     |   Recruitment year in 2003 |
+| Sugar-sweetened beverages |                 -0.0577806 |
+| Whole grains (s/d)*       |                  0.0995474 |
+| Nuts (s/wk)*              |                  1.06599   |
+| Whole fat dairy (s/d)*    |                 -0.417387  |
+| Low-fat dairy (s/d)*      |                  0.23159   |
+| Sugar-sweetened beverages |                 -0.153301  |
+| Whole grains (s/d)*       |                  0.0798814 |
+| Nuts (s/wk)*              |                  0.402966  |
+| Whole fat dairy (s/d)*    |                 -0.470766  |
+| Low-fat dairy (s/d)*      |                  0.256875  |
+| Sugar-sweetened beverages |                 -0.172967  |
+| Whole grains (s/d)*       |                  0.107976  |
+| Nuts (s/wk)*              |                  0.450726  |
+| Whole fat dairy (s/d)*    |                 -0.510098  |
+| Low-fat dairy (s/d)*      |                  0.307445  |
+| Sugar-sweetened beverages |                 -0.144873  |
+| Whole grains (s/d)*       |                  0.0826908 |
+| Nuts (s/wk)*              |                  0.447916  |
+| Whole fat dairy (s/d)*    |                 -0.543811  |
+| Low-fat dairy (s/d)*      |                  0.318683  |

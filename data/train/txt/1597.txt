@@ -1,0 +1,10 @@
+| Category       |       X |          Y |
+| Emissivity     | 59.9054 | 0.475791   |
+| Emissivity     | 39.8516 | 0.497911   |
+| Emissivity     | 19.9002 | 0.63063    |
+| Reflectivity   | 19.9002 | 0.363963   |
+| Reflectivity   | 40.0563 | 0.36765    |
+| Reflectivity   | 59.9054 | 0.365192   |
+| Transmissivity | 60.11   | 0.157512   |
+| Transmissivity | 40.1586 | 0.132934   |
+| Transmissivity | 20.0026 | 0.00144393 |

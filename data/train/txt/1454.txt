@@ -1,0 +1,4 @@
+| title                  |   [unnamed data series #0] |
+| L-Glumanine (0.05wt.%) |                    7.86453 |
+| L-Glumanina(0.125wt.%) |                   47.6131  |
+| L-Glumanine(0.5wt.%)   |                  131.369   |

@@ -1,0 +1,21 @@
+| Category                        |        X |       Y |
+| Modified adsorption coefficient | 119.369  | 1.98059 |
+| Modified adsorption coefficient | 129.764  | 1.81354 |
+| Modified adsorption coefficient | 139.813  | 1.68262 |
+| Modified adsorption coefficient | 149.168  | 1.71422 |
+| Modified adsorption coefficient | 159.91   | 1.38014 |
+| Modified adsorption coefficient | 169.265  | 1.47946 |
+| Modified adsorption coefficient | 199.411  | 1.35305 |
+| Modified adsorption coefficient | 189.362  | 1.31242 |
+| Modified adsorption coefficient | 179.66   | 1.36208 |
+| Modified adsorption coefficient |  60.1178 | 2.00767 |
+| Maximum load of TL system       | 199.411  | 2.04379 |
+| Maximum load of TL system       | 189.362  | 2.05734 |
+| Maximum load of TL system       | 179.66   | 2.04379 |
+| Maximum load of TL system       | 169.265  | 2.23341 |
+| Maximum load of TL system       | 159.563  | 2.2605  |
+| Maximum load of TL system       | 150.208  | 2.11603 |
+| Maximum load of TL system       | 139.12   | 2.29661 |
+| Maximum load of TL system       | 129.071  | 2.42754 |
+| Maximum load of TL system       | 120.409  | 2.4772  |
+| Maximum load of TL system       |  60.4643 | 2.65327 |

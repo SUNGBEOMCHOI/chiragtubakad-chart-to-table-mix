@@ -1,0 +1,9 @@
+| title           |   [unnamed data series #0] |
+| Col-0           |                    806.247 |
+| hktl-1 Col-0    |                   1103.54  |
+| hktl-1          |                   3993.18  |
+| hktl-1 x Ts-1   |                   2863.49  |
+| Ts-1            |                   2471.06  |
+| hktl-1          |                   3993.18  |
+| hktl -1 x Tsu-1 |                   2970.51  |
+| Tsu-1           |                   1971.62  |

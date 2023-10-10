@@ -1,0 +1,35 @@
+| title                |    Tested |
+| Full blood count     | 90.6269   |
+| Ferritin             | 89.6338   |
+| Vitamin D            | 89.6338   |
+| Malaria film/ROT     | 89.6338   |
+| TSH                  | 88.6406   |
+| Faecal specimen      | 88.6406   |
+| Vitamin B12          | 86.406    |
+| Strongyloides        | 86.406    |
+| Schistosoma          | 86.406    |
+| Rubella IgG          | 85.6611   |
+| Hepatitis C          | 85.6611   |
+| Chlamydia/Gonorrhoea | 82.6816   |
+| Glucose              | 82.6816   |
+| Cholesterol          | 79.702    |
+| Hepatitis B          | 72.7498   |
+| Syphilis             | 60.5835   |
+| Helicobacter pylori  |  0.744879 |
+| Full blood count     |  0.993172 |
+| Ferritin             |  1.98634  |
+| Vitamin D            |  1.98634  |
+| Malaria film/ROT     |  1.98634  |
+| TSH                  |  2.97952  |
+| Faecal specimen      |  2.97952  |
+| Vitamin B12          |  5.21415  |
+| Strongyloides        |  5.21415  |
+| Schistosoma          |  5.21415  |
+| Rubella IgG          |  5.95903  |
+| Hepatitis C          |  5.95903  |
+| Chlamydia/Gonorrhoea |  8.93855  |
+| Glucose              |  8.93855  |
+| Cholesterol          | 11.9181   |
+| Hepatitis B          | 18.8703   |
+| Syphilis             | 31.0366   |
+| Helicobacter pylori  | 90.8752   |

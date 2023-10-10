@@ -1,0 +1,5 @@
+| title          |   [unnamed data series #0] |
+| no control     |                       7.75 |
+| low control    |                       7    |
+| medium control |                       8    |
+| high control   |                       3.9  |

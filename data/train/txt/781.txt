@@ -1,0 +1,17 @@
+| title           |   native bone granules |
+| RUNX2           |               0.892207 |
+| osteopontin     |               1.10073  |
+| osteonectin     |               0.99647  |
+| osteocalcin     |               1.02905  |
+| collagen type I |               1.0095   |
+| CD31            |               0.911757 |
+| vWF             |               0.872658 |
+| VEGF            |               0.99647  |
+| RUNX2           |               1.25061  |
+| osteopontin     |               1.47217  |
+| osteonectin     |               1.23106  |
+| osteocalcin     |               1.49172  |
+| collagen type I |               1.70676  |
+| CD31            |               1.23106  |
+| vWF             |               1.12028  |
+| VEGF            |               1.34184  |

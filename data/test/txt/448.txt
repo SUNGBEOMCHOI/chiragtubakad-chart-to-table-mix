@@ -1,0 +1,7 @@
+| title            |   [unnamed data series #0] |
+| Saline solution  |                   1.01114  |
+| CMN SD 50        |                   0.645387 |
+| CMN 50           |                   0.966809 |
+| cDDP             |                   0.878141 |
+| CMN SD 50 + cDDP |                   2.40767  |
+| CMN 50 + cDDP    |                   1.90891  |

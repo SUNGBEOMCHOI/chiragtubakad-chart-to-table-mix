@@ -1,0 +1,7 @@
+| title                                       |   [unnamed data series #0] |
+| No breastfeeding problems                   |                    82.9375 |
+| Difficulties getting milkproduction started |                    47.5703 |
+| The child had difficulties suckling         |                    54.1469 |
+| Sore nipples                                |                    56.1929 |
+| Insufficient breastmilk                     |                    31.4943 |
+| Other                                       |                    56.3391 |

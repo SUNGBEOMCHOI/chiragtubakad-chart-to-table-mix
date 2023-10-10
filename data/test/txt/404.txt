@@ -1,0 +1,6 @@
+| title                 |   French controls |
+| [unnamed category #0] |           42.3704 |
+| [unnamed category #0] |           45.211  |
+| [unnamed category #0] |           48.485  |
+| [unnamed category #0] |           49.397  |
+| [unnamed category #0] |           49.3372 |

@@ -1,0 +1,12 @@
+| title         |   [unnamed data series #0] |
+| c.p. Ti       |                    2.83645 |
+| Ti-5Sn        |                    6.07934 |
+| Ti-5Sn-1Mo    |                   13.6461  |
+| Ti-5Sn-3Mo    |                   21.4723  |
+| Ti-5Sn-5Mo    |                   25.8394  |
+| Ti-5Sn-7.5Mo  |                   27.4392  |
+| Ti-5Sn-10Mo   |                   37.0165  |
+| Ti-5Sn-12.5Mo |                   26.6825  |
+| Ti-5Sn-15Mo   |                   20.9318  |
+| Ti-5Sn-17.5Mo |                   18.1213  |
+| Ti-5Sn-20Mo   |                   17.4295  |

@@ -1,0 +1,7 @@
+| title                                           |   [unnamed data series #0] |
+| The bus timetables are easy to understand       |                       4.33 |
+| The cost of $1 for the bus fare is reasonable   |                       4.64 |
+| The new bus lines have made travelling easier   |                       4.64 |
+| This bus operates at covenient times            |                       3.97 |
+| This bus line easily gets me where I need to go |                       4.44 |
+| This bus is on-time                             |                       4.61 |

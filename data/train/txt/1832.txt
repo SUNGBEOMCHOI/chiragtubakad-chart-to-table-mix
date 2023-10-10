@@ -1,0 +1,7 @@
+| title         |   [unnamed data series #0] |
+| sibling       |                   0.351191 |
+| parent        |                   0.267297 |
+| half- sibling |                   0.331616 |
+| avuncular     |                   0.20088  |
+| grandparent   |                   0.207872 |
+| ﬁrst-cousin   |                   0.308079 |

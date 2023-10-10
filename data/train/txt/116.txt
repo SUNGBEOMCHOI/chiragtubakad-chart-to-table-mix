@@ -1,0 +1,7 @@
+| title                 |   Vehicle |
+| [unnamed category #0] |   4.30721 |
+| [unnamed category #0] |   4.23197 |
+| [unnamed category #0] |   5.30408 |
+| [unnamed category #0] |   3.12226 |
+| [unnamed category #0] |   3.19749 |
+| [unnamed category #0] |   2.40752 |

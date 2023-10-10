@@ -1,0 +1,7 @@
+| title      |   [unnamed data series #0] |
+| Overall    |                 -0.020209  |
+| Bar        |                  0.0618959 |
+| Restaurant |                 -0.0831561 |
+| Overall    |                  0.0961062 |
+| Bar        |                  0.146053  |
+| Restaurant |                  0.0844747 |

@@ -1,0 +1,16 @@
+| title                                      |   [unnamed data series #0] |
+| HZ with unspecified complications of the
+Nervous System                                            |                   7.37635  |
+| Ramsay Hunt syndrome                       |                   2.61347  |
+| Trigeminal post-herpetic neuralgia         |                   2.5402   |
+| Post-herpetic poly-neuropathy              |                   3.4195   |
+| HZ with other Nervous System complications |                   5.91085  |
+| Eyelid dermatitis                          |                   5.32465  |
+| Keratoconjunctivitis                       |                   4.2988   |
+| Uveitis                                    |                   0.854875 |
+| HZ with other ocular complications         |                   4.5919   |
+| Otitis externa                             |                   1.954    |
+| HZ with other specified complications      |                   4.2988   |
+| HZ with unspecified complications          |                   2.76002  |
+| HZ without complications                   |                  51.9275   |
+| HZ with meningitis                         |                   1.6609   |

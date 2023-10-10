@@ -1,0 +1,9 @@
+| title             |   Native American Y-SNPs |
+| GG                |                     53.1 |
+| GG/CC             |                     46.9 |
+| bAt(CCA)Haplotype |                     54.9 |
+| Other Haplotypes  |                     45.1 |
+| GG                |                     30.9 |
+| GG/CC             |                     69.1 |
+| bAt(CCA)Haplotype |                     39.8 |
+| Other Haplotypes  |                     60.2 |

@@ -1,0 +1,9 @@
+| title                 |   Pedestrian area |
+| SPLIT_Singular        |        18.3293    |
+| PROX_MN_Food_services |         2.92978   |
+| CP_Building 100       |         2.05811   |
+| LA50                  |        -0.0726392 |
+| R                     |        -0.653753  |
+| LAeq                  |        -2.30024   |
+| LA10                  |       -29.6126    |
+| N5                    |       -43.5593    |

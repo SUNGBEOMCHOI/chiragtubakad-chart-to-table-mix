@@ -1,0 +1,10 @@
+| title             |   Weight (0-4.9) |
+| NATIONAL          |         1.95513  |
+| AUTONOMIC REGIONS |         5.01502  |
+| LOCAL             |         5.01502  |
+| NATIONAL          |         5.01502  |
+| AUTONOMIC REGIONS |         4.01878  |
+| LOCAL             |         8.00376  |
+| NATIONAL          |         2.98695  |
+| AUTONOMIC REGIONS |         1.95513  |
+| LOCAL             |         0.958885 |

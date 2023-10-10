@@ -1,0 +1,13 @@
+| Category              |       X |       Y |
+| Intact specimens      | 6.00643 | 3.82877 |
+| Intact specimens      | 5.00415 | 4.53224 |
+| Intact specimens      | 4.00187 | 5.33865 |
+| Intact specimens      | 2.99958 | 4.42929 |
+| Intact specimens      | 2.00457 | 4.13761 |
+| Intact specimens      | 1.00228 | 3.2454  |
+| Reassembled specimens | 5.99917 | 4.37781 |
+| Reassembled specimens | 5.00415 | 5.40728 |
+| Reassembled specimens | 4.00187 | 5.14992 |
+| Reassembled specimens | 2.99958 | 6.17938 |
+| Reassembled specimens | 2.00457 | 5.95633 |
+| Reassembled specimens | 1.00228 | 2.95372 |

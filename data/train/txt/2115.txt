@@ -1,0 +1,41 @@
+| title       |   Male Aboriginal negative |
+| chlamydia   |                 84.8519    |
+| gonorrhoea  |                 83.7952    |
+| syphilis    |                 11.9207    |
+| hepatitis B |                 10.9857    |
+| hepatitis C |                 12.2713    |
+| chlamydia   |                  1.13947   |
+| gonorrhoea  |                  2.07443   |
+| syphilis    |                 -0.0292173 |
+| hepatitis B |                 -0.0292173 |
+| hepatitis C |                  1.02261   |
+| chlamydia   |                 65.773     |
+| gonorrhoea  |                 78.4192    |
+| syphilis    |                 17.3551    |
+| hepatitis B |                 17.3551    |
+| hepatitis C |                 17.881     |
+| chlamydia   |                 19.2542    |
+| gonorrhoea  |                  6.7492    |
+| syphilis    |                 -0.0292173 |
+| hepatitis B |                 -0.0292173 |
+| hepatitis C |                  2.1913    |
+| chlamydia   |                 76.5932    |
+| gonorrhoea  |                 79.0036    |
+| syphilis    |                  8.18084   |
+| hepatitis B |                  7.83024   |
+| hepatitis C |                  7.5965    |
+| chlamydia   |                  2.54191   |
+| gonorrhoea  |                  0.32139   |
+| syphilis    |                 -0.146087  |
+| hepatitis B |                 -0.0292173 |
+| hepatitis C |                  0.0876519 |
+| chlamydia   |                 57.8551    |
+| gonorrhoea  |                 66.8492    |
+| syphilis    |                 17.9979    |
+| hepatitis B |                 20.8027    |
+| hepatitis C |                 18.3485    |
+| chlamydia   |                  8.85284   |
+| gonorrhoea  |                 -0.146087  |
+| syphilis    |                  3.00938   |
+| hepatitis B |                  0.0876519 |
+| hepatitis C |                  3.00938   |

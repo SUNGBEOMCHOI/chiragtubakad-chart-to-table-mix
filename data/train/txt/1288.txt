@@ -1,0 +1,5 @@
+| title     |   [unnamed data series #0] |
+| Small     |                    5.56539 |
+| Moderate  |                    5.88527 |
+| High      |                    6.01855 |
+| Very High |                    6.63164 |

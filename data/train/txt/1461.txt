@@ -1,0 +1,5 @@
+| title                                                 |   Yes |
+| Consume five portions per day of fruits or vegetables |  26.2 |
+| Normal weight (BMI> 18.49 and <25.0                   |  47.8 |
+| Obesity (BMI >29.9kg/m^2)                             |  14.2 |
+| Overweight (BMI > 24.9 kg/m^2)                        |  48.5 |

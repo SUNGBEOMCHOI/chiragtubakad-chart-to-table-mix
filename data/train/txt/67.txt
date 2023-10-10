@@ -1,0 +1,13 @@
+| title                |     Male |
+| known DM             |  7.6831  |
+| unknown DM           |  2.86208 |
+| DM without treatment |  7.55454 |
+| DM with treatment    |  3.2799  |
+| known DM             | 14.9789  |
+| unknown DM           |  9.32224 |
+| DM without treatment | 15.4932  |
+| DM with treatment    |  9.48295 |
+| known DM             | 12.4398  |
+| unknown DM           |  6.07609 |
+| DM without treatment | 12.6005  |
+| DM with treatment    |  6.42963 |

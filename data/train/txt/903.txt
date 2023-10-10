@@ -1,0 +1,9 @@
+| title                |   Normal |
+| Our method           |  87.7323 |
+| Comparison method    |  75.8364 |
+| Previous method      |  59.8513 |
+| Texture based method |  65.7993 |
+| Our method           |  89.5911 |
+| Comparison method    |  73.6059 |
+| Previous method      |  63.5688 |
+| Texture based method |  59.8513 |

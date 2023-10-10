@@ -1,0 +1,21 @@
+| Category              |        X |       Y |
+| ng protein for 50 Kda |  1.00341 | 5023.5  |
+| ng protein for 50 Kda |  2.00682 | 2428.33 |
+| ng protein for 50 Kda |  3.00009 | 2468.06 |
+| ng protein for 50 Kda |  4.01364 | 3130.09 |
+| ng protein for 50 Kda |  5.00691 | 2812.31 |
+| ng protein for 50 Kda |  6.00018 | 2282.69 |
+| ng protein for 50 Kda |  7.01373 | 1514.73 |
+| ng protein for 50 Kda |  8.007   | 1991.39 |
+| ng protein for 50 Kda |  9.02055 | 1779.54 |
+| ng protein for 50 Kda | 10.0138  | 1845.75 |
+| ng protein for 37KDa  |  1.00341 | 5884.14 |
+| ng protein for 37KDa  |  2.02709 | 2971.2  |
+| ng protein for 37KDa  |  3.00009 | 2931.48 |
+| ng protein for 37KDa  |  4.02377 | 3527.31 |
+| ng protein for 37KDa  |  4.98664 | 3553.79 |
+| ng protein for 37KDa  |  6.01032 | 2560.74 |
+| ng protein for 37KDa  |  7.01373 | 1673.62 |
+| ng protein for 37KDa  |  7.98673 | 2242.97 |
+| ng protein for 37KDa  |  9.00028 | 2335.65 |
+| ng protein for 37KDa  | 10.0138  | 2295.93 |

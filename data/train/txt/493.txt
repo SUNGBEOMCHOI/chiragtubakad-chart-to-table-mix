@@ -1,0 +1,5 @@
+| title     |   Not receptive |
+| Beverage  |           0.187 |
+| Side dish |           0.316 |
+| Beverage  |           0.813 |
+| Side dish |           0.684 |

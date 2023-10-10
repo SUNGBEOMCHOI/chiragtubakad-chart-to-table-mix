@@ -1,0 +1,11 @@
+| Category        |         X |        Y |
+| Low risk women  | 1.4807    | 0.488562 |
+| Low risk women  | 0.654643  | 0.328268 |
+| Low risk women  | 0.367955  | 0.360327 |
+| Low risk women  | 0.334267  | 0.338955 |
+| Low risk women  | 0.172248  | 0.760171 |
+| Low risk women  | 0.152941  | 0.745033 |
+| Low risk women  | 0.914043  | 0.10497  |
+| High-risk women | 0.139415  | 1.00996  |
+| High-risk women | 0.202142  | 0.531307 |
+| High-risk women | 0.0862587 | 1.42962  |

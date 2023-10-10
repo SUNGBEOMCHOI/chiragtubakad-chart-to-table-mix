@@ -1,0 +1,11 @@
+| title                |   [unnamed data series #0] |
+| HMEC-hTERT           |                   1.00509  |
+| + TWIST1             |                   0.465649 |
+| + ZEB1               |                   0.440204 |
+| + ZEB2               |                   0.56743  |
+| + TWIST1 + RAS       |                   0.486005 |
+| + ZEB1 + RAS         |                   0.226463 |
+| + ZEB2 + RAS         |                   0.394402 |
+| HTERT-shp53/RAS Epi. |                   0.765903 |
+| hTERT-shp53/RAS Mes. |                   0.29771  |
+| HMLER                |                   0.506361 |

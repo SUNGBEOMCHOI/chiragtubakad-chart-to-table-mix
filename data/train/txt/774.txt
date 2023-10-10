@@ -1,0 +1,17 @@
+| title                                                  |   I stage |
+| "screening" regions                                    |       550 |
+| "traditional diagnostics"regions                       |       104 |
+| "screening" regions detected by screening              |       172 |
+| "screening"regions detected by traditional diagnostics |       378 |
+| "screening" regions                                    |      1213 |
+| "traditional diagnostics"regions                       |       536 |
+| "screening" regions detected by screening              |       444 |
+| "screening"regions detected by traditional diagnostics |       769 |
+| "screening" regions                                    |       886 |
+| "traditional diagnostics"regions                       |       625 |
+| "screening" regions detected by screening              |        98 |
+| "screening"regions detected by traditional diagnostics |       788 |
+| "screening" regions                                    |       358 |
+| "traditional diagnostics"regions                       |       325 |
+| "screening" regions detected by screening              |        28 |
+| "screening"regions detected by traditional diagnostics |       330 |

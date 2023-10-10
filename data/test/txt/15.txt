@@ -1,0 +1,5 @@
+| title                      |   [unnamed data series #0] |
+| control                    |                   246.644  |
+| plst-f(tm4255)             |                   248.154  |
+| Cesmn-f(If)                |                    42.3077 |
+| Cesmn-f(If);plst-1(tm4255) |                    18.75   |

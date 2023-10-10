@@ -1,0 +1,7 @@
+| Category                 |   first quartile |     max |     median |      min |   third quartile | x   |
+| [unnamed data series #0] |        -1.61224  | 2.06122 | -0.979592  | -3.32653 |        -0.142857 | A/A
+n=648     |
+| [unnamed data series #0] |        -1.36735  | 3       | -0.530612  | -3.42857 |         0.428571 | A/G
+n=250     |
+| [unnamed data series #0] |        -0.571429 | 2.71429 |  0.0204082 | -2.71429 |         0.857143 | G/G
+n=33     |

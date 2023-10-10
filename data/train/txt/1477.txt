@@ -1,0 +1,8 @@
+| title            |   [unnamed data series #0] |
+| Neurological     |                   18.7531  |
+| Dermatological   |                    9.00951 |
+| Ear,Nose,Throat  |                    8.14193 |
+| Renal            |                    7.34108 |
+| Psychiatric      |                    6.40676 |
+| Developmental    |                    5.60592 |
+| Gastrointestinal |                    4.00423 |

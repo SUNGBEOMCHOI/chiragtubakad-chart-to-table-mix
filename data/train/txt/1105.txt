@@ -1,0 +1,26 @@
+| title                  |   <18 months (far left segment) |
+| Brazil (1982)[11]      |                            30.1 |
+| Brazil (1993)[21]      |                            10   |
+| Brazil (2004)[13]      |                             8.1 |
+| Philippines (1983)[15] |                            10.9 |
+| Zimbabwe (1997)(14)    |                             2.2 |
+| Brazil (1982)[11]      |                            10.7 |
+| Brazil (1993)[21]      |                             9.2 |
+| Brazil (2004)[13]      |                             7.7 |
+| Philippines (1983)[15] |                            23.9 |
+| Zimbabwe (1997)(14)    |                             7.1 |
+| Brazil (1982)[11]      |                            16.6 |
+| Brazil (1993)[21]      |                            17   |
+| Brazil (2004)[13]      |                            15.2 |
+| Philippines (1983)[15] |                            32.9 |
+| Zimbabwe (1997)(14)    |                            20.4 |
+| Brazil (1982)[11]      |                            22.3 |
+| Brazil (1993)[21]      |                            25.8 |
+| Brazil (2004)[13]      |                            25.2 |
+| Philippines (1983)[15] |                            21.6 |
+| Zimbabwe (1997)(14)    |                            38.5 |
+| Brazil (1982)[11]      |                            20.3 |
+| Brazil (1993)[21]      |                            38   |
+| Brazil (2004)[13]      |                            43.9 |
+| Philippines (1983)[15] |                            10.7 |
+| Zimbabwe (1997)(14)    |                            31.9 |

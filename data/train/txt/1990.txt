@@ -1,0 +1,4 @@
+| title                   |   [unnamed data series #0] |
+| Environmental stressors |                   161.34   |
+| Human exposure          |                    12.8136 |
+| Health outcome          |                    75.1135 |

@@ -1,0 +1,6 @@
+| title   |   [unnamed data series #0] |
+| BPNN    |                    24.5637 |
+| Fisher  |                    34.3216 |
+| SVM     |                    71.4768 |
+| ACO-SVM |                    71.4768 |
+| QSA-SVM |                    94.7457 |

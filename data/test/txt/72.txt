@@ -1,0 +1,5 @@
+| title                                                                                                            |   [unnamed data series #0] |
+| Percent of patients >= 65 screened for falls risk                                                                |                      20317 |
+| Percent of patients >= 65 screened positive who had a GSB evaluation                                             |                       1546 |
+| Percent of patients >= 65 screened positive and received a falls plan of care and multifactorial risk assessment |                       2133 |
+| Percent of patients >= 65 screened and referred to an intervention                                               |                       1272 |

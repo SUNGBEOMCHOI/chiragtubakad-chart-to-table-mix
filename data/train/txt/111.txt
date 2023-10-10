@@ -1,0 +1,97 @@
+| title                         |           A |
+| AMERICAN BULLDOG              |  0          |
+| AMERICAN ESKIMO DOG           |  0.103716   |
+| (12) AUSTRALIAN SHEPHERD DOG  |  0          |
+| BASENJI                       |  0          |
+| BORDER COLLIE*                |  0          |
+| (18) BOSTON TERRIER           |  0          |
+| BOXER                         |  0          |
+| (36) CAIRN TERRIER            |  0.748235   |
+| (26) CARDIGAN WELSH CORGI     |  0.237064   |
+| CATAHOULA LEOPARD DOG         |  0          |
+| CAVALIER KING CHARLES SPANIEL |  0          |
+| CHIHUAHUA                     |  0.500058   |
+| (216) COLLIE                  |  0.414863   |
+| DACHSHUND                     |  0          |
+| DALMATIAN                     |  0          |
+| ENGLISH BULLDOG               |  0          |
+| (16) ENGLISH COCKER SPANIEL   |  0          |
+| ENGLISH SETTER                |  0          |
+| ENGLISH SPRINGER SPANIEL      |  0          |
+| (54) FOX TERRIER              |  0.203727   |
+| GERMAN SHEPHERD DOG           |  0          |
+| GOLDEN RETRIEVER              |  0          |
+| GREAT DANE                    |  0          |
+| IRISH SETTER                  |  0          |
+| (28) JACK RUSSELL TERRIER     |  0.533395   |
+| (28) LABRADOR RETRIEVER       |  0          |
+| (20) PEMBROKE WELSH CORGI     |  0.351893   |
+| (12) POODLE*                  |  0          |
+| SCHNAUZER                     |  0          |
+| (232) SHETLAND SHEEPDOG       |  0.255585   |
+| WEST HIGHLAND WHITE TERRIER   |  0.40375    |
+| (18) YORKSHIRE TERRIER*       |  0.611182   |
+| AMERICAN BULLDOG              |  0.0111124  |
+| AMERICAN ESKIMO DOG           |  0.00123471 |
+| (12) AUSTRALIAN SHEPHERD DOG  |  0.0888992  |
+| BASENJI                       |  0.0111124  |
+| BORDER COLLIE*                |  0.0111124  |
+| (18) BOSTON TERRIER           |  0.17039    |
+| BOXER                         |  0.00617355 |
+| (36) CAIRN TERRIER            |  0.192615   |
+| (26) CARDIGAN WELSH CORGI     |  0.185207   |
+| CATAHOULA LEOPARD DOG         |  0.0111124  |
+| CAVALIER KING CHARLES SPANIEL |  0.40622    |
+| CHIHUAHUA                     |  0.00370413 |
+| (216) COLLIE                  |  0.0456843  |
+| DACHSHUND                     |  0.00740826 |
+| DALMATIAN                     |  0.103716   |
+| ENGLISH BULLDOG               |  0.103716   |
+| (16) ENGLISH COCKER SPANIEL   |  0.748235   |
+| ENGLISH SETTER                |  0.0111124  |
+| ENGLISH SPRINGER SPANIEL      |  0.40375    |
+| (54) FOX TERRIER              |  0.0777868  |
+| GERMAN SHEPHERD DOG           |  0.0111124  |
+| GOLDEN RETRIEVER              |  0.0111124  |
+| GREAT DANE                    |  0.10742    |
+| IRISH SETTER                  |  0.203727   |
+| (28) JACK RUSSELL TERRIER     |  0.00370413 |
+| (28) LABRADOR RETRIEVER       |  0.185207   |
+| (20) PEMBROKE WELSH CORGI     |  0.00370413 |
+| (12) POODLE*                  |  0.085195   |
+| SCHNAUZER                     |  0.10742    |
+| (232) SHETLAND SHEEPDOG       |  0.374117   |
+| WEST HIGHLAND WHITE TERRIER   |  0.00370413 |
+| (18) YORKSHIRE TERRIER*       |  0.00246942 |
+| AMERICAN BULLDOG              |  0.00370413 |
+| AMERICAN ESKIMO DOG           |  0.00370413 |
+| (12) AUSTRALIAN SHEPHERD DOG  |  0.164217   |
+| BASENJI                       |  0          |
+| BORDER COLLIE*                |  0          |
+| (18) BOSTON TERRIER           |  0.829726   |
+| BOXER                         |  0          |
+| (36) CAIRN TERRIER            |  0.0259289  |
+| (26) CARDIGAN WELSH CORGI     |  0.38523    |
+| CATAHOULA LEOPARD DOG         |  0.00740826 |
+| CAVALIER KING CHARLES SPANIEL |  0.00370413 |
+| CHIHUAHUA                     |  0.200023   |
+| (216) COLLIE                  |  0.94085    |
+| DACHSHUND                     |  0.196319   |
+| DALMATIAN                     |  0.396342   |
+| ENGLISH BULLDOG               |  0.100012   |
+| (16) ENGLISH COCKER SPANIEL   |  0.00370413 |
+| ENGLISH SETTER                | -0.00493884 |
+| ENGLISH SPRINGER SPANIEL      |  0.00370413 |
+| (54) FOX TERRIER              |  0.00370413 |
+| GERMAN SHEPHERD DOG           |  0.00740826 |
+| GOLDEN RETRIEVER              | -0.00493884 |
+| GREAT DANE                    |  0.00370413 |
+| IRISH SETTER                  |  0.00370413 |
+| (28) JACK RUSSELL TERRIER     |  0.140757   |
+| (28) LABRADOR RETRIEVER       |  0.0296331  |
+| (20) PEMBROKE WELSH CORGI     |  0.244473   |
+| (12) POODLE*                  |  0.00370413 |
+| SCHNAUZER                     |  0.00370413 |
+| (232) SHETLAND SHEEPDOG       |  0.766755   |
+| WEST HIGHLAND WHITE TERRIER   |  0          |
+| (18) YORKSHIRE TERRIER*       |  0          |

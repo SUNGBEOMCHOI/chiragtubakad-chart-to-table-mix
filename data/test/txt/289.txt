@@ -1,0 +1,17 @@
+| title       |     2006 |
+| Brazil      |  85.7741 |
+| Chile       |  88.7029 |
+| Cuba        | 100.418  |
+| El Salvador |  98.7448 |
+| Honduras    |  90.3766 |
+| Mexico      |  92.4686 |
+| Panama      |  86.1925 |
+| Paraguay    |  73.6402 |
+| Brazil      |  87.0293 |
+| Chile       |  88.7029 |
+| Cuba        | 100.418  |
+| El Salvador |  92.0502 |
+| Honduras    |  82.4268 |
+| Mexico      |  84.9372 |
+| Panama      |  79.0795 |
+| Paraguay    |  72.3849 |

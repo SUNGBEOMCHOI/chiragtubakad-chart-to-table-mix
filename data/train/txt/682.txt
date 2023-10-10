@@ -1,0 +1,7 @@
+| title                  |   [unnamed data series #0] |
+| RCTs                   |                   0.812964 |
+| Systematic rev         |                   0.770622 |
+| Meta-analyses          |                   0.622426 |
+| Qualitative data       |                   0.54127  |
+| Government reports     |                   0.393074 |
+| Observational research |                   0.230763 |

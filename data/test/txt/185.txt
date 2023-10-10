@@ -1,0 +1,3 @@
+| Category                 |   first quartile |     max |   median |       min |   third quartile | x                  |
+| [unnamed data series #0] |          230.623 | 15760.9 |  1047.52 |   42.1697 |          2626.36 | Before Vaccination |
+| [unnamed data series #0] |         8863     | 50774.4 | 14632.6  | 3018.83   |         19153.9  | After Vaccination  |

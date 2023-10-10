@@ -1,0 +1,12 @@
+| Category        |       X |         Y |
+| Catalonia, ES   |  0.16   |  0.408269 |
+| Debrecen, HU    |  0.1    |  0.304423 |
+| Pécs, HU        | -0.4175 |  0.265962 |
+| Pisa, IT        | -0.93   | -0.285962 |
+| Pisa, IT        | -0.8475 | -0.2475   |
+| Pisa, IT        | -0.4975 |  0.265962 |
+| Pisa, IT        |  0.1225 |  0.329423 |
+| Pisa, IT        |  0.11   |  0.296731 |
+| Livermore, USA  |  0.415  | -0.476346 |
+| Washington, USA |  0.4125 |  0.258269 |
+| Washington, USA |  0.4625 |  0.3275   |

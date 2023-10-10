@@ -1,0 +1,13 @@
+| title    |   Influent |
+| January  |    6212.73 |
+| February |    9300.83 |
+| March    |    3171.15 |
+| April    |   51100    |
+| May      |  125269    |
+| June     |  205127    |
+| January  |    8503.15 |
+| February |   12171.6  |
+| March    |    9727.31 |
+| April    |  985167    |
+| May      |   91526    |
+| June     |  171451    |

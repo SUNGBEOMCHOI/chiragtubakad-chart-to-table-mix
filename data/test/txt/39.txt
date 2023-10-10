@@ -1,0 +1,5 @@
+| title            |   [unnamed data series #0] |
+| Feel less tired  |                    3.49654 |
+| Get drunk faster |                    3.25806 |
+| Can drink more   |                    3.19623 |
+| Common drink     |                    3.05491 |

@@ -1,0 +1,4 @@
+| Category                 |   first quartile |     max |   median |      min |   third quartile | x              |
+| [unnamed data series #0] |          838.951 | 6494.38 |  1722.85 |  7.49064 |          3183.52 | NHSBPS         |
+| [unnamed data series #0] |          269.663 | 4172.28 |   943.82 |  7.49064 |          2314.61 | Chemotherapy   |
+| [unnamed data series #0] |          734.082 | 4232.21 |  1483.15 | -7.49064 |          2194.76 | Post-treatment |

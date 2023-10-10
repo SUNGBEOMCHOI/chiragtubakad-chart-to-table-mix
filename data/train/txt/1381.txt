@@ -1,0 +1,11 @@
+| title              |     Male |
+| Abdominal obesity  |  8.65819 |
+| High BP            | 31.6419  |
+| Dysglycaemia       |  5.82942 |
+| Low HDL            | 15.7301  |
+| Hypertriglycenimia |  1.23267 |
+| Abdominal obesity  | 26.338   |
+| High BP            | 37.6531  |
+| Dysglycaemia       |  4.41504 |
+| Low HDL            | 42.2498  |
+| Hypertriglycenimia |  3.00065 |

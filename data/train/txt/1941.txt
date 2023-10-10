@@ -1,0 +1,61 @@
+| title                               |   Overall Mean Evaluation Score*** |
+| 1. Community Health                 |                            4.59746 |
+| 2.1 Research Methods                |                            4.32702 |
+| 2.2 Data                            |                            4.11899 |
+| 3.1 Public Health Research          |                            4.65987 |
+| 3.2 Health Disparties               |                            4.55586 |
+| 4.1 Public Health Library Resources |                            4.55586 |
+| 4.2 Health Literacy                 |                            4.70148 |
+| 5.1 Cultural Competency             |                            4.57666 |
+| 5.2 Program Evaluation              |                            4.61827 |
+| 6.1 Intro to Epidemiology           |                            4.49345 |
+| 6.2 Evidence Based Public Health    |                            4.47264 |
+| 7 Quantitative Methods              |                            4.59746 |
+| 8 CBPR                              |                            4.68067 |
+| 9.1 Research Ethics 1               |                            4.32702 |
+| 9.2 Research Ethics 2               |                            4.32702 |
+| 10 Qualitative Methdos              |                            4.47264 |
+| 11.1 Clinical Trials                |                            4.34783 |
+| 11.2 Bio-banking                    |                            4.22301 |
+| 12.1 Health Policy Research         |                            4.43104 |
+| 12.2 Human Subjects Certification   |                            4.49345 |
+| 1. Community Health                 |                            4.53505 |
+| 2.1 Research Methods                |                            4.1606  |
+| 2.2 Data                            |                            4.63907 |
+| 3.1 Public Health Research          |                            4.58706 |
+| 3.2 Health Disparties               |                            4.44144 |
+| 4.1 Public Health Library Resources |                            4.51425 |
+| 4.2 Health Literacy                 |                            4.56626 |
+| 5.1 Cultural Competency             |                            4.39983 |
+| 5.2 Program Evaluation              |                            4.49345 |
+| 6.1 Intro to Epidemiology           |                            4.41024 |
+| 6.2 Evidence Based Public Health    |                            4.31662 |
+| 7 Quantitative Methods              |                            4.47264 |
+| 8 CBPR                              |                            4.55586 |
+| 9.1 Research Ethics 1               |                            4.24381 |
+| 9.2 Research Ethics 2               |                            4.171   |
+| 10 Qualitative Methdos              |                            4.37903 |
+| 11.1 Clinical Trials                |                            4.23341 |
+| 11.2 Bio-banking                    |                            4.1606  |
+| 12.1 Health Policy Research         |                            4.33742 |
+| 12.2 Human Subjects Certification   |                            4.49345 |
+| 1. Community Health                 |                            4.63907 |
+| 2.1 Research Methods                |                            4.24381 |
+| 2.2 Data                            |                            3.72374 |
+| 3.1 Public Health Research          |                            4.65987 |
+| 3.2 Health Disparties               |                            4.61827 |
+| 4.1 Public Health Library Resources |                            4.55586 |
+| 4.2 Health Literacy                 |                            4.76389 |
+| 5.1 Cultural Competency             |                            4.68067 |
+| 5.2 Program Evaluation              |                            4.70148 |
+| 6.1 Intro to Epidemiology           |                            4.53505 |
+| 6.2 Evidence Based Public Health    |                            4.45184 |
+| 7 Quantitative Methods              |                            4.57666 |
+| 8 CBPR                              |                            4.63907 |
+| 9.1 Research Ethics 1               |                            4.34783 |
+| 9.2 Research Ethics 2               |                            4.36863 |
+| 10 Qualitative Methdos              |                            4.61827 |
+| 11.1 Clinical Trials                |                            4.32702 |
+| 11.2 Bio-banking                    |                            4.1606  |
+| 12.1 Health Policy Research         |                            4.36863 |
+| 12.2 Human Subjects Certification   |                            4.47264 |

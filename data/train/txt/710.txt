@@ -1,0 +1,11 @@
+| title        |   Tribes (N=738) |
+| Underweight  |        0.460177  |
+| Anaemia      |        0.0999116 |
+| Goitre       |        0.085326  |
+| Tuberculosis |        0.215138  |
+| Hypertension |        0.234829  |
+| Underweight  |        0.242122  |
+| Anaemia      |        0.0364641 |
+| Goitre       |        0.0371934 |
+| Tuberculosis |        0.20347   |
+| Hypertension |        0.20274   |

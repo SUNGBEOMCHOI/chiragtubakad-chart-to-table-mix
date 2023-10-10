@@ -1,0 +1,5 @@
+| Category                 |   first quartile |       max |     median |          min |   third quartile | x               |
+| [unnamed data series #0] |      0.0100114   | 0.0429062 | 0.0219108  |  0           |        0.0323799 | HTG-intergenic  |
+| [unnamed data series #0] |      0.00451945  | 0.0394737 | 0.016762   | -0.000114416 |        0.0235698 | Core-intergenic |
+| [unnamed data series #1] |      0.000743707 | 0.02746   | 0.0120709  | -0.000114416 |        0.0171625 | HTG-intergenic  |
+| [unnamed data series #1] |      0.000286041 | 0.0324943 | 0.00474828 | -0.000114416 |        0.01373   | Core-intergenic |

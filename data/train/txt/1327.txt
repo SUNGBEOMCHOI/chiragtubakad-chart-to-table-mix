@@ -1,0 +1,10 @@
+| title       |   Ibadan |
+| Repairers   |  4.73611 |
+| Dismantlers |  5.61111 |
+| Butchers    |  6.68966 |
+| Repairers   |  4.88889 |
+| Dismantlers |  5.23611 |
+| Butchers    |  6.33103 |
+| Repairers   |  4.01389 |
+| Dismantlers |  6.52414 |
+| Butchers    |  7.2     |

@@ -1,0 +1,7 @@
+| title                  |   pre QFBE |
+| TMC 22‘C               |   39.6152  |
+| TMC 37 'c              |   17.5014  |
+| Pseudomonas aeruginosa |    3.88857 |
+| TMC 22‘C               |   14.4572  |
+| TMC 37 'c              |    8.36875 |
+| Pseudomonas aeruginosa |    1.64848 |

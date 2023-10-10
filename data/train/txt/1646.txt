@@ -1,0 +1,11 @@
+| title                            |   [unnamed data series #0] |
+| OPD                              |                     0.1918 |
+| Chronic IIIness Follow UP Clinic |                     0.0597 |
+| Ophthamology                     |                     0.0409 |
+| Obsteterics & Gynecology         |                     0.0692 |
+| Pediatrics                       |                     0.1352 |
+| Psychiatry                       |                     0.0314 |
+| Major operation room             |                     0.066  |
+| Intensive Care Unit              |                     0.0314 |
+| Surgical ward                    |                     0.2013 |
+| Medical ward                     |                     0.173  |

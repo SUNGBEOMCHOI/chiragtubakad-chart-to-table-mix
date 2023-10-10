@@ -1,0 +1,16 @@
+| Category                 |   first quartile |     max |   median |      min |   third quartile | x             |
+| [unnamed data series #0] |         103.448  | 190.394 | 139.163  |  95.3202 |          153.695 | PLGA Clean48h |
+| [unnamed data series #0] |         111.33   | 188.424 | 130.296  |  86.9458 |          161.084 | PLGA+TIO2
+10nm 48h               |
+| [unnamed data series #0] |          99.5074 | 191.872 | 118.473  |  94.335  |          145.813 | PLGA+TIO2
+30mm 48h               |
+| [unnamed data series #0] |         113.793  | 154.926 | 130.296  | 104.68   |          146.305 | PLGA+TIO2
+100nm 48h               |
+| [unnamed data series #0] |          48.2759 | 159.36  |  68.7192 |  28.3251 |          110.837 | PLGA Clean
+72h               |
+| [unnamed data series #0] |          45.0739 | 195.813 |  80.5419 |  41.6256 |          155.172 | PLGA+TIO2
+10nm 72h               |
+| [unnamed data series #0] |         131.034  | 244.581 | 172.66   | 100.739  |          204.926 | PLGA+TIO2
+30m 72h               |
+| [unnamed data series #0] |         195.567  | 271.182 | 208.128  | 187.931  |          234.975 | PLGA+TIO2
+100nm 72h               |

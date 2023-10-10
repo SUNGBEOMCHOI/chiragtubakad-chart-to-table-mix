@@ -1,0 +1,7 @@
+| Category                 |   first quartile |     max |   median |      min |   third quartile | x         |
+| [unnamed data series #0] |          1.88462 | 2.64154 |  2.18923 | 1.58462  |          2.30923 | buffer    |
+| [unnamed data series #0] |          1.91692 | 3.05231 |  2.04154 | 1.78769  |          2.50769 | EGFP      |
+| [unnamed data series #0] |          1.11846 | 2.78462 |  1.53385 | 1.05846  |          2.14769 | GT39      |
+| [unnamed data series #0] |          1.20615 | 2.99692 |  1.53846 | 1.08154  |          2.37846 | GT62      |
+| [unnamed data series #0] |          1.13692 | 2.19846 |  1.29846 | 0.910769 |          1.61692 | GT63      |
+| [unnamed data series #0] |          2.12462 | 3.39385 |  2.48462 | 1.29846  |          2.82154 | wild-type |

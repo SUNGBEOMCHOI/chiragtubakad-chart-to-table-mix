@@ -1,0 +1,4 @@
+| title                 |   Adequate |
+| [unnamed category #0] |    17.5181 |
+| [unnamed category #0] |    35.9093 |
+| [unnamed category #0] |    78.6364 |

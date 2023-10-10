@@ -1,0 +1,9 @@
+| title                 |   societal |
+| Combined Effects (I3) |        153 |
+| Support (I2)          |        151 |
+| Education (I1)        |        152 |
+| Base-case (I0)        |        149 |
+| Combined Effects (I3) |        159 |
+| Support (I2)          |        157 |
+| Education (I1)        |        158 |
+| Base-case (I0)        |        155 |

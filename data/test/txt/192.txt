@@ -1,0 +1,7 @@
+| title          |   [unnamed data series #0] |
+| Met+SRC+JH Ill |                   4.32713  |
+| Met+SRC+JHA    |                   4.56281  |
+| Met+SRC        |                   1.50837  |
+| SRC            |                   0.989866 |
+| Met            |                   1.037    |
+| Empty vector   |                   1.037    |

@@ -1,0 +1,9 @@
+| Category                 |   first quartile |     max |   median |     min |   third quartile | x            |
+| [unnamed data series #0] |          33.6597 | 53.1716 |  42.0939 | 22.1414 |          50.2133 | Lacrosse M   |
+| [unnamed data series #0] |          34.9185 | 47.1292 |  37.0585 | 22.2673 |          44.4227 | Handball M   |
+| [unnamed data series #0] |          31.142  | 58.4586 |  38.9468 | 18.3649 |          44.6745 | Rugby M      |
+| [unnamed data series #0] |          27.4914 | 42.975  |  33.0303 | 23.0226 |          35.485  | Volleyball M |
+| [unnamed data series #0] |          41.2127 | 61.8575 |  43.6044 | 33.5968 |          54.6192 | Football W   |
+| [unnamed data series #0] |          44.4856 | 79.607  |  56.3186 | 35.7368 |          62.5498 | Rugby W      |
+| [unnamed data series #0] |          39.9538 | 87.9152 |  58.9622 | 35.2332 |          72.3687 | Netball W    |
+| [unnamed data series #0] |          43.4786 | 64.8787 |  48.8915 | 35.9885 |          57.6404 | Volleyball W |

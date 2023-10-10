@@ -1,0 +1,8 @@
+| title   |   [unnamed data series #0] |
+| Sun     |                    6.40982 |
+| Mon     |                   12.8608  |
+| Tue     |                    6.40982 |
+| Wed     |                   16.1495  |
+| Thur    |                   25.7626  |
+| Fri     |                   25.7626  |
+| Sat     |                    6.40982 |

@@ -1,0 +1,5 @@
+| title   |   Very Natural |
+| Setting |     -1.00169   |
+| Setting |     -0.320949  |
+| Setting |      0.0662979 |
+| Setting |     -0.333178  |

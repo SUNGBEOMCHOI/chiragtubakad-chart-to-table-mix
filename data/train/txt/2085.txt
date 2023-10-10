@@ -1,0 +1,4 @@
+| Category                 |   first quartile |     max |   median |     min |   third quartile | x        |
+| [unnamed data series #0] |          29.0726 | 43.3583 |  32.0968 | 20.6048 |          34.8618 | Retained |
+| [unnamed data series #0] |          32.356  | 43.1855 |  34.1129 | 28.4965 |          36.8203 | Released |
+| [unnamed data series #0] |          30.5703 | 42.9551 |  33.1336 | 23.197  |          35.553  | Equal    |

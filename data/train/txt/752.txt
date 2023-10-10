@@ -1,0 +1,9 @@
+| title     |   Current |
+| Any type  |      46.1 |
+| Emotional |      33.8 |
+| Physical  |      17.6 |
+| Sexual    |      21.1 |
+| Any type  |      65.4 |
+| Emotional |      50.5 |
+| Physical  |      45   |
+| Sexual    |      29.1 |

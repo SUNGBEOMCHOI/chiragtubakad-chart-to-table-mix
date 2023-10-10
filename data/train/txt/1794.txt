@@ -1,0 +1,25 @@
+| Category                                                |   first quartile |       max |    median |        min |   third quartile | x                        |
+| Maternal mortality rate (per 100,000 live births), 2000 |          9.44446 |   83.4202 |  17.2514  |   7.94388  |          56.6077 | Residual                 |
+| Maternal mortality rate (per 100,000 live births), 2000 |         53.8452  |  253.675  |  91.0534  |  10.8602   |         164.038  | Emerging                 |
+| Maternal mortality rate (per 100,000 live births), 2000 |         66.136   |  148.651  |  98.073   |  21.6581   |         139.203  | Informal                 |
+| Maternal mortality rate (per 100,000 live births), 2000 |         37.0274  |  441.674  |  77.087   |  21.8965   |         227.792  | Post-Communist           |
+| Maternal mortality rate (per 100,000 live births), 2000 |        141.163   | 1039.37   | 222.86    |  38.3332   |         577.501  | Less Successful Informal |
+| Maternal mortality rate (per 100,000 live births), 2000 |        631.495   | 1742.46   | 879.061   | 295.679    |        1131.89   | Insecure                 |
+| Under-5 mortality rate (per 1,000 live births), 2004    |          5.5142  |   19.6265 |   7.24954 |   2.59131  |          12.8077 | Residual                 |
+| Under-5 mortality rate (per 1,000 live births), 2004    |         15.0928  |   32.4703 |  18.9926  |   8.04387  |          25.5222 | Emerging                 |
+| Under-5 mortality rate (per 1,000 live births), 2004    |         22.6273  |   36.6244 |  25.5222  |  22.1374   |          29.4244 | Informal                 |
+| Under-5 mortality rate (per 1,000 live births), 2004    |         18.9926  |  134.707  |  31.4215  |   9.02345  |          67.5996 | Post-Communist           |
+| Under-5 mortality rate (per 1,000 live births), 2004    |         34.2966  |  204.177  |  43.7131  |  12.8077   |         110.62   | Less Successful Informal |
+| Under-5 mortality rate (per 1,000 live births), 2004    |        110.62    |  260.372  | 137.688   |  59.388    |         201.955  | Insecure                 |
+| Infant mortality rate (per 1,000 live births) 2004      |          4.43017 |   16.8384 |   6.498   |   1.72709  |          11.1092 | Residual                 |
+| Infant mortality rate (per 1,000 live births) 2004      |         12.5304  |   29.4244 |  16.4738  |   7.36954  |          21.6581 | Emerging                 |
+| Infant mortality rate (per 1,000 live births) 2004      |         19.6265  |   29.4244 |  22.8763  |  18.9926   |          25.5222 | Informal                 |
+| Infant mortality rate (per 1,000 live births) 2004      |         16.1171  |   94.9052 |  26.3741  |   7.24954  |          54.9079 | Post-Communist           |
+| Infant mortality rate (per 1,000 live births) 2004      |         25.5222  |  120.742  |  34.674   |  10.7503   |          78.793  | Less Successful Informal |
+| Infant mortality rate (per 1,000 live births) 2004      |         72.849   |  145.432  |  85.0666  |  38.8966   |         116.842  | Insecure                 |
+| Neonatal mortality rate (per 1,000 live births), 2000   |          3.71853 |   11.8632 |   5.39482 |   0.815431 |           8.267  | Residual                 |
+| Neonatal mortality rate (per 1,000 live births), 2000   |          7.32932 |   19.6265 |  11.355   |   4.35804  |          14.6053 | Emerging                 |
+| Neonatal mortality rate (per 1,000 live births), 2000   |         11.2314  |   21.1892 |  14.766   |   5.27801  |          18.7858 | Informal                 |
+| Neonatal mortality rate (per 1,000 live births), 2000   |         11.2314  |   37.5945 |  16.2945  |   4.43017  |          25.9762 | Post-Communist           |
+| Neonatal mortality rate (per 1,000 live births), 2000   |         16.8384  |   69.0956 |  20.2816  |   8.17701  |          40.8603 | Less Successful Informal |
+| Neonatal mortality rate (per 1,000 live births), 2000   |         31.4215  |   53.1344 |  39.1101  |  23.1281   |          44.1136 | Insecure                 |

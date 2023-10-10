@@ -1,0 +1,4 @@
+| Category                 |   first quartile |        max |     median |         min |   third quartile | x      |
+| [unnamed data series #0] |       0.00186235 | 0.00464575 | 0.0026552  | 0.000867072 |       0.00373482 | Island |
+| [unnamed data series #0] |       0.00191296 | 0.00565789 | 0.00246964 | 0.000850202 |       0.0033637  | Shore  |
+| [unnamed data series #0] |       0.00165992 | 0.00483131 | 0.00214912 | 0.00103576  |       0.0029251  | Other  |

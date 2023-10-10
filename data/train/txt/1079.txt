@@ -1,0 +1,9 @@
+| title    |     2009 |
+| Bolivia  | 1.43959  |
+| Colombia | 5.52014  |
+| Ecuador  | 2.30955  |
+| Peru     | 0.466053 |
+| Bolivia  | 2.0817   |
+| Colombia | 7.98504  |
+| Ecuador  | 4.81588  |
+| Peru     | 2.76525  |

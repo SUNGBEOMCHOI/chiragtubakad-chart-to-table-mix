@@ -1,0 +1,6 @@
+| title          |   [unnamed data series #0] |
+| General        |                  0.586472  |
+| infectious     |                  0.133059  |
+| Pathological   |                  0.110737  |
+| Sharp          |                  0.0856253 |
+| Pharmaceutical |                  0.0605132 |

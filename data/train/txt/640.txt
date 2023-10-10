@@ -1,0 +1,74 @@
+| title                       |         Injuries |
+| High blood pressure         |      0           |
+| Smoking                     |      0           |
+| High body mass index        |      0           |
+| Diet low in fruits          |      0           |
+| Alcohol use                 | 237102           |
+| Low physical activity       |      0           |
+| High total cholestrol       |      0           |
+| Second hand smoke           |      0           |
+| Die: high in sodium         |      0           |
+| High fasting plasma glucose |      0           |
+| Diet low in vegetables      |      0           || High blood pressure         |      0           |
+| Smoking                     | 553238           |
+| High body mass index        |  73765.1         |
+| Diet low in fruits          |  36882.5         |
+| Alcohol use                 |  52689.4         |
+| Low physical activity       |  18441.3         |
+| High total cholestrol       |      0           |
+| Second hand smoke           |  68496.2         |
+| Die: high in sodium         |  36882.5         |
+| High fasting plasma glucose |      0           |
+| Diet low in vegetables      |      0           || High blood pressure         |   2634.47        |
+| Smoking                     |   2634.47        |
+| High body mass index        |   2634.47        |
+| Diet low in fruits          |   2634.47        |
+| Alcohol use                 |  42151.5         |
+| Low physical activity       |   2634.47        |
+| High total cholestrol       |   2634.47        |
+| Second hand smoke           |   2634.47        |
+| Die: high in sodium         |   2634.47        |
+| High fasting plasma glucose |   2634.47        |
+| Diet low in vegetables      |   2634.47        |
+| High blood pressure         |      1.48847e+06 |
+| Smoking                     | 263447           |
+| High body mass index        | 447859           |
+| Diet low in fruits          | 350384           |
+| Alcohol use                 |  42151.5         |
+| Low physical activity       | 279254           |
+| High total cholestrol       | 334577           |
+| Second hand smoke           | 179144           |
+| Die: high in sodium         | 192316           |
+| High fasting plasma glucose | 197585           |
+| Diet low in vegetables      | 163337           |
+| High blood pressure         |      0           |
+| Smoking                     |      0           |
+| High body mass index        |      0           |
+| Diet low in fruits          |      0           |
+| Alcohol use                 |   2634.47        |
+| Low physical activity       |      0           |
+| High total cholestrol       |      0           |
+| Second hand smoke           |      0           |
+| Die: high in sodium         |      0           |
+| High fasting plasma glucose |      0           |
+| Diet low in vegetables      |      0           || High blood pressure         |      0           |
+| Smoking                     | 242371           |
+| High body mass index        |      0           |
+| Diet low in fruits          |      0           |
+| Alcohol use                 |      0           |
+| Low physical activity       |      0           |
+| High total cholestrol       |      0           |
+| Second hand smoke           |   6322.72        |
+| Die: high in sodium         |      0           |
+| High fasting plasma glucose |      0           |
+| Diet low in vegetables      |      0           || High blood pressure         |  18441.3         |
+| Smoking                     |  15806.8         |
+| High body mass index        | 152799           |
+| Diet low in fruits          |      0           |
+| Alcohol use                 |   2634.47        |
+| Low physical activity       |  47420.4         |
+| High total cholestrol       |      0           |
+| Second hand smoke           |   2634.47        |
+| Die: high in sodium         |  10537.9         |
+| High fasting plasma glucose |  26344.7         |
+| Diet low in vegetables      |      0           |

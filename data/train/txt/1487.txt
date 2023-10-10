@@ -1,0 +1,33 @@
+| title                                            |   First Nations |
+| Climate change or global warming                 |        0        |
+| Source water protection or multibarrier approach |        1.46306  |
+| Indigenous governance                            |       12.436    |
+| Blame                                            |       16.8252   |
+| Drinking water policy                            |       37.308    |
+| Regulatory framework                             |       41.6971   |
+| Drinking water infrastructure                    |      105.34     |
+| Government responses                             |      149.232    |
+| Climate change or global warming                 |        0        |
+| Source water protection or multibarrier approach |        0.731529 |
+| Indigenous governance                            |        0.731529 |
+| Blame                                            |        0.731529 |
+| Drinking water policy                            |        2.19459  |
+| Regulatory framework                             |        0.731529 |
+| Drinking water infrastructure                    |        3.65764  |
+| Government responses                             |        4.38917  |
+| Climate change or global warming                 |        0        |
+| Source water protection or multibarrier approach |        0        |
+| Indigenous governance                            |        0        |
+| Blame                                            |        0        |
+| Drinking water policy                            |        1.46306  |
+| Regulatory framework                             |        0.731529 |
+| Drinking water infrastructure                    |        6.58376  |
+| Government responses                             |        4.38917  |
+| Climate change or global warming                 |        0        |
+| Source water protection or multibarrier approach |        0        |
+| Indigenous governance                            |        0        |
+| Blame                                            |        3.65764  |
+| Drinking water policy                            |        3.65764  |
+| Regulatory framework                             |        6.58376  |
+| Drinking water infrastructure                    |       12.436    |
+| Government responses                             |       17.5567   |

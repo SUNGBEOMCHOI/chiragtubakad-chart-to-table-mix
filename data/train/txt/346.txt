@@ -1,0 +1,3 @@
+| Category                 |   first quartile |      max |   median |       min |   third quartile | x   |
+| [unnamed data series #0] |        0.0994941 | 0.401349 | 0.141653 | 0.0118044 |         0.22597  | Con |
+| [unnamed data series #0] |        0.0910624 | 0.300169 | 0.129005 | 0.0168634 |         0.178752 | Ca  |

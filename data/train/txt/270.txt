@@ -1,0 +1,13 @@
+| title     |   Admission |
+| SBP       |        70.2 |
+| DBP       |        42.1 |
+| SBP/ DBP  |        72   |
+| SBP       |        90.1 |
+| DBP       |        71.4 |
+| SBP / DBP |        92.3 |
+| SBP       |        29.7 |
+| DBP       |         9.2 |
+| SBP/ DBP  |        31.9 |
+| SBP       |        50.9 |
+| DBP       |        24   |
+| SBP / DBP |        54.9 |

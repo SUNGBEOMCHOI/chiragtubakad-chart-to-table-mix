@@ -1,0 +1,16 @@
+| title     |   Adjustment |
+| Session 1 |      5.12033 |
+| Session 2 |     10.0358  |
+| Session 3 |     10.0358  |
+| Session 1 |      9.83103 |
+| Session 2 |     10.0358  |
+| Session 3 |     14.9514  |
+| Session 1 |     10.0358  |
+| Session 2 |     14.7465  |
+| Session 3 |      9.83103 |
+| Session 1 |     14.7465  |
+| Session 2 |     10.0358  |
+| Session 3 |     10.0358  |
+| Session 1 |     10.0358  |
+| Session 2 |      4.91551 |
+| Session 3 |      4.91551 |

@@ -1,0 +1,7 @@
+| Category     |   first quartile |     max |   median |      min |   third quartile | x      |
+| green matter |          31.5613 | 121.54  |  54.9352 | -11.2562 |          78.309  | Holyna |
+| green matter |          23.7011 | 150.085 |  56.1763 | -37.3191 |          89.4788 | Tereza |
+| green matter |          84.1008 | 193.11  | 112.025  |  31.7682 |         141.605  | Amos   |
+| silage       |          60.1064 | 112.439 |  73.5515 |  35.0778 |          87.824  | Holyna |
+| silage       |          41.9037 | 168.288 |  73.1378 | -18.7028 |         107.681  | Tereza |
+| silage       |          43.1448 | 103.751 |  59.0721 |  14.3929 |          75.8268 | Amos   |

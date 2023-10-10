@@ -1,0 +1,45 @@
+| title                             |   Completely agree |
+| Insufficient remuneration         |          0.615361  |
+| Cultural differences              |          0.132412  |
+| Lack of adherence by the patients |          0.0807988 |
+| Insufficient interconnection      |          0.107834  |
+| Lack of time                      |          0.12381   |
+| Variety of prevention guidelines  |          0.088172  |
+| Insufficient information material |          0.0660522 |
+| Insufficient evidence             |          0.0365591 |
+| Ambiguity in recommendations      |          0.037788  |
+| Lack of education and training    |          0.0328725 |
+| Language barriers with patients   |          0.018126  |
+| Insufficient remuneration         |          0.292473  |
+| Cultural differences              |          0.467588  |
+| Lack of adherence by the patients |          0.517358  |
+| Insufficient interconnection      |          0.464516  |
+| Lack of time                      |          0.437481  |
+| Variety of prevention guidelines  |          0.342857  |
+| Insufficient information material |          0.310906  |
+| Insufficient evidence             |          0.258065  |
+| Ambiguity in recommendations      |          0.233487  |
+| Lack of education and training    |          0.2298    |
+| Language barriers with patients   |          0.129032  |
+| Insufficient remuneration         |          0.0663594 |
+| Cultural differences              |          0.283871  |
+| Lack of adherence by the patients |          0.348797  |
+| Insufficient interconnection      |          0.364567  |
+| Lack of time                      |          0.34552   |
+| Variety of prevention guidelines  |          0.470046  |
+| Insufficient information material |          0.489708  |
+| Insufficient evidence             |          0.487455  |
+| Ambiguity in recommendations      |          0.507937  |
+| Lack of education and training    |          0.552381  |
+| Language barriers with patients   |          0.534562  |
+| Insufficient remuneration         |          0.0272401 |
+| Cultural differences              |          0.116129  |
+| Lack of adherence by the patients |          0.0544803 |
+| Insufficient interconnection      |          0.0616487 |
+| Lack of time                      |          0.09319   |
+| Variety of prevention guidelines  |          0.0989247 |
+| Insufficient information material |          0.1319    |
+| Insufficient evidence             |          0.216487  |
+| Ambiguity in recommendations      |          0.219355  |
+| Lack of education and training    |          0.183513  |
+| Language barriers with patients   |          0.315412  |

@@ -1,0 +1,9 @@
+| Category            |       X |        Y |
+| Original parameters | 493.339 | 0.375227 |
+| Simple methodics    | 411.075 | 0.38683  |
+| Simple methodics    | 405.859 | 0.386232 |
+| Simple methodics    | 402.247 | 0.385395 |
+| Simple methodics    | 395.425 | 0.384079 |
+| Inverse analysis    | 463.644 | 0.374031 |
+| Inverse analysis    | 472.071 | 0.376065 |
+| Inverse analysis    | 474.88  | 0.375347 |

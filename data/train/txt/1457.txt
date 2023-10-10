@@ -1,0 +1,7 @@
+| title                   |   Limited trafﬁc area |
+| PLAND_Sea               |              33.4962  |
+| CONTIG_MN_Food_services |              16.8045  |
+| PROX_MN_Food_services   |               9.47368 |
+| SHAFE_MN_Sea            |               3.94737 |
+| CP_Building 100         |               3.04511 |
+| LAeq                    |             -17.4812  |

@@ -1,0 +1,3 @@
+| Category                 |   first quartile |      max |   median |    min |   third quartile | x      |
+| [unnamed data series #0] |           2.3791 |  66.0296 |   7.5273 | 2.3791 |          27.8861 | Female |
+| [unnamed data series #0] |          21.3339 | 114.704  |  46.8409 | 7.5273 |          69.5398 | Male   |

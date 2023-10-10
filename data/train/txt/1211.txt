@@ -1,0 +1,17 @@
+| Category               | X   |        Y |
+| R_{z}-Prediction value | D   | 7.01622  |
+| R_{z}-Prediction value | C   | 5.91495  |
+| R_{z}-Prediction value | B   | 5.99361  |
+| R_{z}-Prediction value | A   | 7.31121  |
+| R_{a}-Prediction value | D   | 0.782203 |
+| R_{a}-Prediction value | C   | 0.664208 |
+| R_{a}-Prediction value | B   | 0.70354  |
+| R_{a}-Prediction value | A   | 0.880531 |
+| R_{a}-Measured value   | A   | 1.07719  |
+| R_{a}-Measured value   | B   | 0.939528 |
+| R_{a}-Measured value   | C   | 0.782203 |
+| R_{a}-Measured value   | D   | 1.01819  |
+| R_{z}-Measured value   | A   | 8.1765   |
+| R_{z}-Measured value   | B   | 6.19027  |
+| R_{z}-Measured value   | C   | 6.87856  |
+| R_{z}-Measured value   | D   | 7.19322  |

@@ -1,0 +1,5 @@
+| title                                                                |   [unnamed data series #0] |
+| Attended health care for HBP at some point during 12-month follow-up |                       33.5 |
+| Took medication for HBP at some point during 12-month follow-up      |                       28.6 |
+| Took medication for HBP on last month of 12-month follow-up          |                        5   |
+| Took medication for HBP on last day of 12-month follow-up            |                        3.1 |

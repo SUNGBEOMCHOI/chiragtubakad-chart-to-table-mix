@@ -1,0 +1,6 @@
+| Category                 |   first quartile |        max |    median |      min |   third quartile | x   |
+| [unnamed data series #0] |         3.01533  |  4.92962   |  3.75947  |  2.59472 |       4.07223    | Cd  |
+| [unnamed data series #0] |        -1.20285  |  3.10161   |  0.052225 | -1.57357 |       1.64702    | Zn  |
+| [unnamed data series #0] |        -1.17723  |  0.836814  | -0.300975 | -2.32311 |      -0.00169859 | Pb  |
+| [unnamed data series #0] |        -0.667655 |  0.227477  | -0.435784 | -1.23925 |       0.00638995 | Cr  |
+| [unnamed data series #0] |        -1.34979  | -0.0475337 | -0.964235 | -1.82701 |      -0.71349    | Ni  |

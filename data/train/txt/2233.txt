@@ -1,0 +1,10 @@
+| title         |   PDMS capillary column |
+| Simazine      |                 3.25733 |
+| Atrazine      |                 9.12052 |
+| Terbutylazine |                11.2378  |
+| Simazine      |                30.1303  |
+| Atrazine      |                50.3257  |
+| Terbutylazine |                45.2769  |
+| Simazine      |                58.3062  |
+| Atrazine      |                87.4593  |
+| Terbutylazine |                63.1922  |

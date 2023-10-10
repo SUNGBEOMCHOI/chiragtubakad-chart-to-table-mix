@@ -1,0 +1,6 @@
+| Category                 |   first quartile |     max |   median |     min |   third quartile | x               |
+| [unnamed data series #0] |          34.2012 | 41.4201 |  34.9112 | 32.3669 |          38.0473 | Clam farm       |
+| [unnamed data series #0] |          53.3728 | 92.426  |  69.9408 | 45.7396 |          73.5503 | Mangrove forest |
+| [unnamed data series #0] |          48.7574 | 65.6805 |  52.1893 | 41.3609 |          57.4556 | Paddy field     |
+| [unnamed data series #0] |          51.9527 | 82.7219 |  61.1834 | 42.6627 |          77.8107 | River sed       |
+| [unnamed data series #0] |          48.284  | 54.7337 |  51.5976 | 38.8757 |          54.7337 | Shrimp farm     |

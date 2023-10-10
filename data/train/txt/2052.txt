@@ -1,0 +1,25 @@
+| title              |   men (N=297) |
+| sex worker         |     0.175786  |
+| housewilfe/cooker  |     0.175786  |
+| none               |     0.527357  |
+| shop employee      |     0.527357  |
+| shop owner         |     0.878928  |
+| bar owner          |     0.791035  |
+| boat driver        |     2.81257   |
+| other              |     4.39464   |
+| machine operator   |     5.80092   |
+| transport provider |     7.73456   |
+| travelling vendor  |    12.1292    |
+| gold miners        |    68.029     |
+| sex worker         |     9.6682    |
+| housewilfe/cooker  |    53.0872    |
+| none               |     2.461     |
+| shop employee      |     0.263678  |
+| shop owner         |     3.33993   |
+| bar owner          |     0.96682   |
+| boat driver        |     0.0878928 |
+| other              |     0.96682   |
+| machine operator   |     1.14261   |
+| transport provider |     0.878928  |
+| travelling vendor  |    40.2549    |
+| gold miners        |     1.58207   |

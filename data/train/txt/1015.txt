@@ -1,0 +1,9 @@
+| title              |   470 g Block |
+| Standard Condition |     0.585849  |
+| Switch Condition   |     1.03169   |
+| Standard Condition |     0.686649  |
+| Switch Condition   |     0.504434  |
+| Standard Condition |     0.0585898 |
+| Switch Condition   |     0.147759  |
+| Standard Condition |     0.0624667 |
+| Switch Condition   |     0.0934819 |

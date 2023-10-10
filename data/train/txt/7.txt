@@ -1,0 +1,21 @@
+| title                         |   Colony count(CFU/mL) |
+| UV abs
+254 nm                               |             0.80494    |
+| Abs 420 nm                    |             0.778167   |
+| Turbidity
+(NTU)                               |             0.548685   |
+| Total particle count (nmb/mL) |             0.223586   |
+| Temperature('C)               |             0.330677   |
+| pH                            |             0.00940239 |
+| EC(uS/cm)                     |            -0.122167   |
+| ATP (pmol/mL)                 |             0.720797   |
+| UV abs
+254 nm                               |             0.722327   |
+| Abs 420 nm                    |             0.722327   |
+| Turbidity
+(NTU)                               |             0.629004   |
+| Total particle count (nmb/mL) |             0.0858964  |
+| Temperature('C)               |             0.158566   |
+| pH                            |            -0.418964   |
+| EC(uS/cm)                     |            -0.131347   |
+| ATP (pmol/mL)                 |             0.850837   |

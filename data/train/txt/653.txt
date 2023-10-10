@@ -1,0 +1,13 @@
+| title    |   Environment |
+| Cement 1 |     0.149058  |
+| Cement 2 |     0.0917281 |
+| Cement 3 |     0.887469  |
+| Cement 4 |     0.756757  |
+| Cement 1 |     0.133006  |
+| Cement 2 |     0.110074  |
+| Cement 3 |     0.045864  |
+| Cement 4 |     0.40819   |
+| Cement 1 |     0.0596233 |
+| Cement 2 |     0.0573301 |
+| Cement 3 |     0.0252252 |
+| Cement 4 |     0.0550369 |

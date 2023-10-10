@@ -1,0 +1,25 @@
+| title                          |   <6 months old |
+| Other reasons                  |       13.2777   |
+| Mother had no time             |       -0.106222 |
+| Advised by relative            |       -0.106222 |
+| Child was sick                 |        2.01821  |
+| Child did net like breast-milk |       -0.106222 |
+| Child stopped breast-feeding   |       -0.106222 |
+| Advised by CHW                 |       -0.106222 |
+| Mother had w work              |        3.9302   |
+| Mother was sick                |        9.55994  |
+| Advised at the hospital/HC     |        7.64795  |
+| Child was hungry               |       20.7132   |
+| Insufficient breast-milk       |       60.3338   |
+| Other reasons                  |        5.62974  |
+| Mother had no time             |        0.531108 |
+| Advised by relative            |        0.955994 |
+| Child was sick                 |        0.531108 |
+| Child did net like breast-milk |        0.955994 |
+| Child stopped breast-feeding   |        2.76176  |
+| Advised by CHW                 |        3.18665  |
+| Mother had w work              |        5.4173   |
+| Mother was sick                |        6.05463  |
+| Advised at the hospital/HC     |       15.4021   |
+| Child was hungry               |       23.0501   |
+| Insufficient breast-milk       |       62.9894   |

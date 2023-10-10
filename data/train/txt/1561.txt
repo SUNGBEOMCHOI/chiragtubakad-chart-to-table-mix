@@ -1,0 +1,6 @@
+| title           |   [unnamed data series #0] |
+| Reference       |                  0.0876441 |
+| Ref + 0.03M KCI |                  0.110158  |
+| Ref + 0.3M KCI  |                  0.532297  |
+| Ref + 3M KCl    |                  5.6773    |
+| Active          |                  0.307156  |

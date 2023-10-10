@@ -1,0 +1,7 @@
+| Category                 |   first quartile |      max |   median |      min |   third quartile | x                           |
+| [unnamed data series #0] |         20.7071  |  96.9697 |  37.3737 |  6.06061 |          60.101  | S.epidermidis               |
+| [unnamed data series #0] |         50       | 521.212  | 171.717  | 14.1414  |         241.919  | S. aureus                   |
+| [unnamed data series #0] |          7.57576 |  96.9697 |  22.7273 |  4.0404  |          51.0101 | other coagulase-neg. stapns |
+| [unnamed data series #0] |         79.2929  | 333.333  | 169.697  | 28.2828  |         246.97   | streptococci                |
+| [unnamed data series #0] |         31.8182  | 213.131  |  50.5051 |  5.05051 |         104.545  | enterococci                 |
+| [unnamed data series #0] |          7.57576 |  83.8384 |  16.1616 |  3.0303  |          40.9091 | no bactena                  |

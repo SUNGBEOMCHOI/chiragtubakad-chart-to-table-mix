@@ -1,0 +1,17 @@
+| title   |   Skin |
+| Women   |  0.064 |
+| Men     |  0.064 |
+| Girls   |  0.077 |
+| Boys    |  0.066 |
+| Women   |  0.057 |
+| Men     |  0.061 |
+| Girls   |  0.01  |
+| Boys    |  0.008 |
+| Women   |  0.061 |
+| Men     |  0.075 |
+| Girls   |  0.068 |
+| Boys    |  0.095 |
+| Women   |  0.071 |
+| Men     |  0.057 |
+| Girls   |  0.053 |
+| Boys    |  0.064 |

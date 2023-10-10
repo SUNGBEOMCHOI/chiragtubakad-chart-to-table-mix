@@ -1,0 +1,13 @@
+| title       |   Below normal BMI |
+| WHO         |           18.1352  |
+| CDC         |           28.2728  |
+| Philippines |           27.597   |
+| Cole        |           39.0864  |
+| WHO         |           76.4831  |
+| CDC         |           69.2741  |
+| Philippines |           72.428   |
+| Cole        |           58.01    |
+| WHO         |            6.58144 |
+| CDC         |            4.52172 |
+| Philippines |            1.43215 |
+| Cole        |            4.00679 |

@@ -1,0 +1,5 @@
+| Category                 |   first quartile |     max |   median |     min |   third quartile | x   |
+| [unnamed data series #0] |          5.99704 | 16.9927 |  8.02394 | 1.01673 |          11.048  | Illumina CNV 370-duo
+(n = 295)     |
+| [unnamed data series #0] |          7.99502 | 17.988  | 10.0257  | 4.00257 |          11.9939 | Illumina CNV 370-quad
+(n=97)     |

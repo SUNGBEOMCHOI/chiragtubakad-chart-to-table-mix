@@ -1,0 +1,6 @@
+| title        |   [unnamed data series #0] |
+| EqCXCL16S    |                    51.3044 |
+| EqCXCLI16R   |                    45.55   |
+| Media Ctrl   |                    22.0208 |
+| EqCXCL16S+Ab |                    22.5962 |
+| EqCXCL16R+Ab |                    20.6781 |

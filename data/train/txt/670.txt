@@ -1,0 +1,4 @@
+| title                 |   [unnamed data series #0] |
+| PHU                   |                  0.0261965 |
+| KGH Hoding Centre     |                  0.0361446 |
+| Community Care Centre |                  0.938101  |

@@ -1,0 +1,10 @@
+| Category     | X   |       Y |
+| ALL          | AA  | 4.50917 |
+| ALL          | AC  | 4.18358 |
+| ALL          | CC  | 4.10971 |
+| >5 years old | CC  | 4.05499 |
+| >5 years old | AC  | 4.13023 |
+| >5 years old | AA  | 4.53789 |
+| <5 years old | CC  | 4.26703 |
+| <5 years old | AC  | 4.31628 |
+| <5 years old | AA  | 4.41067 |

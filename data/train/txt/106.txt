@@ -1,0 +1,8 @@
+| title   |      WC \geq 85 cm for men
+|---------|------|
+| Men     | 19.5 |
+| Women   | 23   |
+| Overall | 21.3 |
+| Men     | 13.5 |
+| Women   | 25.9 |
+| Overall | 19.8 |

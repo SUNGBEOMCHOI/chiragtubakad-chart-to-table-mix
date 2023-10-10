@@ -1,0 +1,9 @@
+| Category                 |   first quartile |      max |   median |       min |   third quartile | x           |
+| [unnamed data series #0] |         0.722222 |  1.80556 | 0.972222 | 0.222222  |          1.16667 | Split       |
+| [unnamed data series #0] |         0.972222 |  6.72222 | 2.19444  | 0         |          3.27778 | GPC         |
+| [unnamed data series #0] |         1.25     | 11.8056  | 3.25     | 0.222222  |          5.88889 | Korcula     |
+| [unnamed data series #0] |         1.30556  | 13.4167  | 3.69444  | 0.194444  |          6.55556 | Vis         |
+| [unnamed data series #0] |         0.861111 |  8.47222 | 2.33333  | 0         |          3.88889 | CARL        |
+| [unnamed data series #0] |         1.72222  | 11.0556  | 3.72222  | 0         |          5.55556 | FVG         |
+| [unnamed data series #0] |         2.91667  |  8.63889 | 4.11111  | 0.0833333 |          5.27778 | Val Borbera |
+| [unnamed data series #0] |         2.80556  |  8.91667 | 3.97222  | 0.166667  |          5.25    | ORCADES     |

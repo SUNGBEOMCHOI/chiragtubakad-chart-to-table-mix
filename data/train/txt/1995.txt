@@ -1,0 +1,13 @@
+| title     |   early neonatal mortality |
+| Xun Yi    |                    5.21151 |
+| Bing      |                   12.6565  |
+| Lin You   |                   10.4907  |
+| Qian Yang |                    4.19628 |
+| Zhou Zhi  |                    7.24196 |
+| Total     |                    7.91878 |
+| Xun Yi    |                    1.01523 |
+| Bing      |                    5.25663 |
+| Lin You   |                    4.15116 |
+| Qian Yang |                    4.17372 |
+| Zhou Zhi  |                    1.91765 |
+| Total     |                    3.22617 |

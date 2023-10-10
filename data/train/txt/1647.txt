@@ -1,0 +1,4 @@
+| Category                 |   first quartile |     max |   median |       min |   third quartile | x          |
+| [unnamed data series #0] |          4.08228 | 11.0127 |  6.03797 | 0.0379747 |          7.0443  | BN         |
+| [unnamed data series #0] |          4.0443  | 11.0127 |  6.07595 | 0.0379747 |          7.12025 | BN+growth  |
+| [unnamed data series #0] |          4.0443  | 11.0127 |  6       | 0.0379747 |          7.08228 | Old growth |

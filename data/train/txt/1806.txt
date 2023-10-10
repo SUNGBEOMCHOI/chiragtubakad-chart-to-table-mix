@@ -1,0 +1,11 @@
+| title              |   [unnamed data series #0] |
+| Enlarged lymphnode |                    9.4141  |
+| Fever              |                   40.7482  |
+| Hair changes       |                   15.5145  |
+| Herpes zoster      |                   13.5735  |
+| Diarrhoea          |                   14.4054  |
+| Kaposis sarcoma    |                    1.37261 |
+| Angular stomatis   |                    9.4141  |
+| Oral candiasis     |                   11.0779  |
+| Skin diseases      |                   27.4381  |
+| TB                 |                   15.2372  |

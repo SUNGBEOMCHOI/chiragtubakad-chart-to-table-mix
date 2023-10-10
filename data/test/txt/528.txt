@@ -1,0 +1,8 @@
+| title   |   [unnamed data series #0] |
+| fat     |                 0.378825   |
+| control |                 0.00398416 |
+| COPD    |                 0.00398416 |
+| control |                 0.346292   |
+| COPD    |                 0.377411   |
+| control |                 0.0615069  |
+| COPD    |                 0.04359    |

@@ -1,0 +1,8 @@
+| title   |   [unnamed data series #0] |
+| CYP1A   |                   126.342  |
+| CYP2A   |                   101.174  |
+| CYP2B   |                   124.329  |
+| CYP2C   |                    62.9195 |
+| CYP2D   |                   117.282  |
+| CYP2E   |                    86.0738 |
+| CYP3A   |                   127.349  |

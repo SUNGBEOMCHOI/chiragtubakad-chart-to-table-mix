@@ -1,0 +1,16 @@
+| title                                |   Male |
+| Depression                           |    6.9 |
+| Personality disorder                 |    5.3 |
+| Adjustment disorder                  |    4.3 |
+| Post Traumatic Stress Disorder       |    1.1 |
+| Psychosis (schizoprenia,delirium...) |    0.8 |
+| Depression                           |   16.7 |
+| Personality disorder                 |    8.3 |
+| Adjustment disorder                  |    7.4 |
+| Post Traumatic Stress Disorder       |    0   |
+| Psychosis (schizoprenia,delirium...) |    3.7 |
+| Depression                           |    7.4 |
+| Personality disorder                 |    5.5 |
+| Adjustment disorder                  |    4.5 |
+| Post Traumatic Stress Disorder       |    1   |
+| Psychosis (schizoprenia,delirium...) |    1   |

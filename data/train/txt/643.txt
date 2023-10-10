@@ -1,0 +1,6 @@
+| title              |   [unnamed data series #0] |
+| Fatigue            |                       72.9 |
+| Headache           |                       49.2 |
+| Breast tenderness  |                       50.3 |
+| Nausea             |                       33.9 |
+| Abdominal bloating |                       68.9 |

@@ -1,0 +1,7 @@
+| Category                 |   first quartile |     max |   median |      min |   third quartile | x                     |
+| [unnamed data series #0] |          206.484 | 320.77  |  237.791 | 171.226  |          263.931 | [unnamed category #0] |
+| [unnamed data series #0] |          173.05  | 271.53  |  221.378 | 127.457  |          241.439 | [unnamed category #1] |
+| [unnamed data series #0] |          134.144 | 234.448 |  171.53  |  58.156  |          194.63  | [unnamed category #2] |
+| [unnamed data series #0] |          160.892 | 240.527 |  184.296 | 134.144  |          208.004 | [unnamed category #3] |
+| [unnamed data series #0] |          150.557 | 207.092 |  167.275 |  97.6697 |          192.806 | [unnamed category #4] |
+| [unnamed data series #0] |          117.73  | 222.29  |  167.882 |  70.3141 |          181.256 | [unnamed category #5] |

@@ -1,0 +1,7 @@
+| Category                 |   first quartile |     max |     median |       min |   third quartile | x     |
+| [unnamed data series #0] |      -0.572687   | 2.10573 |  0.378855  | -1.98238  |         1.04846  | CLow  |
+| [unnamed data series #0] |       0.00881057 | 2.2467  |  0.713656  | -0.854626 |         1.04846  | BasL  |
+| [unnamed data series #0] |      -0.414097   | 1.43612 |  0.0440529 | -1.25991  |         0.76652  | Her2  |
+| [unnamed data series #0] |      -1.01322    | 1.70044 | -0.484581  | -2.77533  |         0.449339 | LumA  |
+| [unnamed data series #0] |      -0.449339   | 2.17621 |  0.0440529 | -1.52423  |         0.76652  | LumB  |
+| [unnamed data series #0] |      -1.10132    | 2.98678 | -0.325991  | -1.78855  |         0.590308 | NormL |

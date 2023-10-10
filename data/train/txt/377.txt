@@ -1,0 +1,4 @@
+| Category                 |   first quartile |     max |   median |      min |   third quartile | x                 |
+| [unnamed data series #0] |          13.0268 | 35.9195 |  17.2414 | 0.862069 |          22.1264 | Suburban area     |
+| [unnamed data series #0] |          16.6667 | 51.0536 |  23.3716 | 5.07663  |          31.3218 | Transitional zone |
+| [unnamed data series #0] |          18.5824 | 69.0613 |  28.5441 | 4.88506  |          38.9847 | Urban core        |

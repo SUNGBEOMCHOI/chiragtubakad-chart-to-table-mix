@@ -1,0 +1,13 @@
+| title                       |   [unnamed data series #0] |
+| PTFE tape                   |                    1.89878 |
+| Speedo LZR Pulse*           |                    1.83958 |
+| Deep pile polyester reverse |                    1.81093 |
+| FurTech polyester           |                    1.71353 |
+| Toray nylon                 |                    1.59608 |
+| Gore-Tex®                   |                    1.55025 |
+| Toray polyester             |                    1.40129 |
+| Deep pile polyester         |                    1.29243 |
+| Speedo Fastskin®            |                    1.12914 |
+| Speedo Aquablade*           |                    1.11196 |
+| Speedo Endurance®           |                    1.01647 |
+| Airtight                    |                    1.01838 |

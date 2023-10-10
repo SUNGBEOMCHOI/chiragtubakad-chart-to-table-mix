@@ -1,0 +1,10 @@
+| title                    |   [unnamed data series #0] |
+| National policy          |                         80 |
+| Structure Stds           |                         68 |
+| Handwashing Stds         |                         68 |
+| Sanitation Stds          |                         75 |
+| Water Stds               |                         60 |
+| Participatory approaches |                         90 |
+| SHN in Curriculum        |                         75 |
+| Scale up of services     |                         15 |
+| Services implemented     |                         68 |

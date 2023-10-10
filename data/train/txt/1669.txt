@@ -1,0 +1,5 @@
+| title    |   [unnamed data series #0] |
+| Monosomy |                      0.356 |
+| Trisomy  |                      0.209 |
+| Dual     |                      0.288 |
+| Complex  |                      0.147 |

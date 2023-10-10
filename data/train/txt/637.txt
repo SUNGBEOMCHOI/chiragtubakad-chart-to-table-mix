@@ -1,0 +1,7 @@
+| title            |    new genes |
+| human            |  0.00682963  |
+| chimpanzee       |  0.0073037   |
+| human-chimpanzee | -0.000459259 |
+| human            |  0.00315556  |
+| chimpanzee       |  0.00339259  |
+| human-chimpanzee | -0.000222222 |

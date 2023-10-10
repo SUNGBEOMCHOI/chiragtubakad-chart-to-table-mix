@@ -1,0 +1,6 @@
+| title        |   [unnamed data series #0] |
+| CA ESFs      |                4.02996e+06 |
+| CA 1%R ESFs  |           407997           |
+| CA 5%R ESFs  |            37717.6         |
+| CA 1%Or ESFs |           545709           |
+| CA 5%Or ESFs |              278.718       |

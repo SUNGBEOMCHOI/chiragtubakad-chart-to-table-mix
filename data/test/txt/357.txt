@@ -1,0 +1,6 @@
+| Category                 |   first quartile |     max |   median |      min |   third quartile | x              |
+| [unnamed data series #0] |        0.0786864 | 24.6234 |  4.96999 | -14.8312 |          10.0475 | Very good      |
+| [unnamed data series #0] |        0.305851  | 26.5455 |  5.46885 | -15.7662 |          10.8073 | Pretty good    |
+| [unnamed data series #0] |        0.0843843 | 27.4805 |  5.3376  | -16.0779 |          10.9843 | Somew hat good |
+| [unnamed data series #0] |       -0.962165  | 29.974  |  5.40406 | -19.3506 |          11.5855 | Pretty bad     |
+| [unnamed data series #0] |       -2.41121   | 31.3766 |  4.8659  | -21.8442 |          11.6765 | Bad            |

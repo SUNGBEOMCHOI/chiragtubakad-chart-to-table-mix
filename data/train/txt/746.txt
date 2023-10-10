@@ -1,0 +1,22 @@
+| title                 |     Shaanxi |
+| Anticholinergics      | -0.00367456 |
+| ORS                   |  0.510764   |
+| Antipyretics          |  1.30814    |
+| Probiotics            |  1.82258    |
+| Dioctahedral smectite |  8.27878    |
+| Herbal Medicines      |  4.31761    |
+| Antibiotics           | 20.2652     |
+| Anticholinergics      |  0.536486   |
+| ORS                   |  0.485042   |
+| Antipyretics          |  4.26616    |
+| Probiotics            |  7.30135    |
+| Dioctahedral smectite |  5.78376    |
+| Herbal Medicines      | 20.8054     |
+| Antibiotics           | 15.0179     |
+| Anticholinergics      |  0.253545   |
+| ORS                   |  0.485042   |
+| Antipyretics          |  1.97691    |
+| Probiotics            |  4.52338    |
+| Dioctahedral smectite |  7.01841    |
+| Herbal Medicines      | 10.5166     |
+| Antibiotics           | 17.6158     |

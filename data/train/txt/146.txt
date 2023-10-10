@@ -1,0 +1,49 @@
+| title                                           |         No |
+| Pain in the chest                               | 0.895554   |
+| Pressure or a tight feeling in the chest        | 0.853794   |
+| Tingling in the finger                          | 0.806814   |
+| Pain in the abdomen or stomach area             | 0.741564   |
+| Nausea or upset stomach                         | 0.728514   |
+| Shortness of breath                             | 0.822474   |
+| Blurred vision or sots in the front of the eyes | 0.775494   |
+| A bloated feeling in the abdomen                | 0.613674   |
+| Headache                                        | 0.480565   |
+| Palpitations                                    | 0.801594   |
+| Excessive perspiration                          | 0.694584   |
+| Back pain                                       | 0.467515   |
+| Neck pain                                       | 0.598015   |
+| Fainting                                        | 0.973853   |
+| Painful muscles                                 | 0.407485   |
+| Dizziness or feeling light-headed               | 0.689364   |
+| Pain in the chest                               | 0.077321   |
+| Pressure or a tight feeling in the chest        | 0.114677   |
+| Tingling in the finger                          | 0.126422   |
+| Pain in the abdomen or stomach area             | 0.182699   |
+| Nausea or upset stomach                         | 0.206189   |
+| Shortness of breath                             | 0.11484    |
+| Blurred vision or sots in the front of the eyes | 0.1566     |
+| A bloated feeling in the abdomen                | 0.271439   |
+| Headache                                        | 0.381059   |
+| Palpitations                                    | 0.14877    |
+| Excessive perspiration                          | 0.193139   |
+| Back pain                                       | 0.315809   |
+| Neck pain                                       | 0.234899   |
+| Fainting                                        | 0.0234899  |
+| Painful muscles                                 | 0.362789   |
+| Dizziness or feeling light-headed               | 0.232289   |
+| Pain in the chest                               | 0.0220218  |
+| Pressure or a tight feeling in the chest        | 0.0264262  |
+| Tingling in the finger                          | 0.0616611  |
+| Pain in the abdomen or stomach area             | 0.0678598  |
+| Nausea or upset stomach                         | 0.0600298  |
+| Shortness of breath                             | 0.0574198  |
+| Blurred vision or sots in the front of the eyes | 0.0600298  |
+| A bloated feeling in the abdomen                | 0.10701    |
+| Headache                                        | 0.13833    |
+| Palpitations                                    | 0.0417599  |
+| Excessive perspiration                          | 0.1044     |
+| Back pain                                       | 0.211409   |
+| Neck pain                                       | 0.16182    |
+| Fainting                                        | 0.00260999 |
+| Painful muscles                                 | 0.224459   |
+| Dizziness or feeling light-headed               | 0.0730798  |

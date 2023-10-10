@@ -1,0 +1,10 @@
+| Category                 |   first quartile |      max |   median |      min |   third quartile | x    |
+| [unnamed data series #0] |         0.19267  | 0.232443 | 0.206842 | 0.171184 |         0.220557 | REFa |
+| [unnamed data series #0] |         0.263073 | 0.291417 | 0.266273 | 0.25073  |         0.281816 | REFb |
+| [unnamed data series #0] |         0.2329   | 0.261701 | 0.236558 | 0.221471 |         0.252558 | REFc |
+| [unnamed data series #0] |         0.353591 | 0.481595 | 0.383306 | 0.342162 |         0.410736 | FC1a |
+| [unnamed data series #0] |         0.274045 | 0.321589 | 0.287302 | 0.272216 |         0.301932 | FC1b |
+| [unnamed data series #0] |         0.274045 | 0.302389 | 0.280902 | 0.261701 |         0.290045 | FC1c |
+| [unnamed data series #0] |         0.284102 | 0.572113 | 0.41165  | 0.284102 |         0.480224 | FC2a |
+| [unnamed data series #0] |         0.274045 | 0.322504 | 0.286388 | 0.262616 |         0.301932 | FC2b |
+| [unnamed data series #0] |         0.282274 | 0.391078 | 0.327532 | 0.261701 |         0.35039  | FC2c |

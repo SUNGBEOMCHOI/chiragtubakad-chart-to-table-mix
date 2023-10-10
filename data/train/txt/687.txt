@@ -1,0 +1,6 @@
+| title                       |   [unnamed data series #0] |
+| Greece*                     |                        285 |
+| US states** without ban     |                        293 |
+| US states** with ban        |                         53 |
+| UK smoking areas***         |                        286 |
+| Ireland Venues post ban**** |                         29 |

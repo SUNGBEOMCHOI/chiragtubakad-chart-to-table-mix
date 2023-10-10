@@ -1,0 +1,6 @@
+| Category                 |   first quartile |        max |     median |        min |   third quartile | x                 |
+| [unnamed data series #0] |       -29.2309   |  14.557    |  -9.10154  | -60.7595   |         1.06632  | Rapid treatment   |
+| [unnamed data series #0] |         0.656498 |   0.656498 |   0.656498 |   0.656498 |         0.656498 | Rapid CT          |
+| [unnamed data series #0] |       141.68     | 224.209    | 151.918    | 141.68     |       172.87     | Population Screen |
+| [unnamed data series #0] |        13.9241   |  53.7975   |  20.6935   |  13.9241   |        33.9227   | School Screen     |
+| [unnamed data series #0] |       -28.08     |   7.59494  | -15.0425   | -39.8734   |        -1.82503  | Housing           |

@@ -1,0 +1,5 @@
+| title              |   [unnamed data series #0] |
+| HS2_P_Luc          |                   5.47556  |
+| HS2_P_Luc_\Delta7+ |                   0.430899 |
+| HS2_P_Luc_\Delta7- |                   2.60641  |
+| P_Luc              |                   1.00893  |

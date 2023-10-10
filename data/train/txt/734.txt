@@ -1,0 +1,8 @@
+| title     |   [unnamed data series #0] |
+| Sunday    |                    253.774 |
+| satarday  |                    352.358 |
+| Friday    |                    371.934 |
+| Thursday  |                    368.16  |
+| wednesday |                    200.472 |
+| teusday   |                    365.33  |
+| Monday    |                    399.057 |

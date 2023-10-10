@@ -1,0 +1,9 @@
+| title                      |      pre |
+| Sub-micro-micro            | 0.188624 |
+| Micro-macro                | 0.295576 |
+| Sub-micro-macro            | 0.120564 |
+| Same level of organization | 0.655323 |
+| Sub-micro-micro            | 0.966456 |
+| Micro-macro                | 0.703938 |
+| Sub-micro-macro            | 1.31648  |
+| Same level of organization | 3.77637  |

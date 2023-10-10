@@ -1,0 +1,5 @@
+| title     |   [unnamed data series #0] |
+| DMSO      |                    1.45177 |
+| 0,12 \muM |                   74.6283  |
+| 1 \muM    |                   71.769   |
+| 5 \muM    |                   44.8913  |

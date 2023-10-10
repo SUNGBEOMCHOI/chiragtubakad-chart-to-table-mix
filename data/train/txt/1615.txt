@@ -1,0 +1,25 @@
+| title              |       DFO |
+| Weather/ ice       |  8.13743  |
+| Mechanical failure | 13.2769   |
+| Other / Unknown    |  6.13876  |
+| Gas shortage       |  0.856572 |
+| Illness / injury   |  5.71048  |
+| Unpreparedness     |  0.142762 |
+| Navigational error |  0        |
+| Intoxication       |  0        |
+| Weather/ ice       |  8.994    |
+| Mechanical failure |  1.71314  |
+| Other / Unknown    |  0.999334 |
+| Gas shortage       |  0.999334 |
+| Illness / injury   |  0.142762 |
+| Unpreparedness     |  0        |
+| Navigational error |  1.28486  |
+| Intoxication       |  0.142762 |
+| Weather/ ice       | 22.8419   |
+| Mechanical failure | 14.99     |
+| Other / Unknown    |  3.99733  |
+| Gas shortage       |  4.99667  |
+| Illness / injury   |  0.999334 |
+| Unpreparedness     |  6.13876  |
+| Navigational error |  3.85457  |
+| Intoxication       |  2.85524  |

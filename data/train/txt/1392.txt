@@ -1,0 +1,7 @@
+| title       |   [unnamed data series #0] |
+| 0-4 weeks   |                   35.1878  |
+| 5-8 weeks   |                   16.9015  |
+| 9-12 weeks  |                   12.6774  |
+| 13-16 weeks |                    9.62973 |
+| 17-20 weeks |                    8.02567 |
+| 21-26 weeks |                    2.1441  |

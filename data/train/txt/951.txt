@@ -1,0 +1,7 @@
+| Category                 |   first quartile |     max |   median |     min |   third quartile | x   |
+| [unnamed data series #0] |          37.1429 | 73.185  |  44.2389 | 20.2108 |          52.2482 | Val/Val
+(n=159)     |
+| [unnamed data series #0] |          36.5808 | 72.2014 |  45.1522 | 23.1616 |          53.6534 | Val/Met
+(n=83)     |
+| [unnamed data series #0] |          35.1756 | 54.1452 |  40.726  | 34.1218 |          50.281  | Met/Met
+(n=8)     |

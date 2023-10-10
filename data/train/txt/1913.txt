@@ -1,0 +1,7 @@
+| title        |      AA |
+| Never/Former | 41.2058 |
+| Current      | 46.2916 |
+| Never/Former | 38.4509 |
+| Current      | 34.9544 |
+| Never/Former | 14.8231 |
+| Current      | 33.0473 |

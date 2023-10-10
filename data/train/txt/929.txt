@@ -1,0 +1,13 @@
+| title     |   Having after-school PA |
+| Tuesday   |                  18346.4 |
+| Wednesday |                  21080.7 |
+| Thursday  |                  19431.4 |
+| Friday    |                  19344.6 |
+| Saturday  |                  16610.2 |
+| Sunday    |                  13528.6 |
+| Tuesday   |                  15568.6 |
+| Wednesday |                  15872.4 |
+| Thursday  |                  14787.3 |
+| Friday    |                  15568.6 |
+| Saturday  |                  12183.2 |
+| Sunday    |                  11640.6 |

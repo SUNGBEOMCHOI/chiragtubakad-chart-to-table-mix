@@ -1,0 +1,8 @@
+| title      |   [unnamed data series #0] |
+| wt         |                   0.324181 |
+| ykrP       |                   1.13463  |
+| mmsA       |                   1.73007  |
+| \DeltaattR |                   1.86239  |
+| srfAA      |                   2.39166  |
+| yvbT       |                   6.65895  |
+| yrkM       |                   9.22263  |

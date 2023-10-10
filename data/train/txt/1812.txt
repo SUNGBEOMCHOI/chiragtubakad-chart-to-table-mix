@@ -1,0 +1,7 @@
+| Category                 |   first quartile |     max |   median |     min |   third quartile | x            |
+| [unnamed data series #0] |          2.66528 | 3.86615 |  3.01142 | 2.00517 |          3.35476 | R. Samarra   |
+| [unnamed data series #0] |          2.80184 | 3.23649 |  2.95849 | 2.54985 |          3.12163 | R. Raia      |
+| [unnamed data series #0] |          2.64581 | 3.33113 |  2.82052 | 2.58848 |          2.9976  | R. Maior     |
+| [unnamed data series #0] |          2.57699 | 3.04334 |  2.72445 | 2.49963 |          2.87714 | R. Junqueira |
+| [unnamed data series #0] |          2.43732 | 2.96995 |  2.55374 | 2.3258  |          2.67493 | R. Monchique |
+| [unnamed data series #0] |          2.53315 | 2.94291 |  2.67306 | 2.48611 |          2.81474 | R. Odelouca  |

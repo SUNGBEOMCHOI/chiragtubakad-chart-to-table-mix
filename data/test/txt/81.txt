@@ -1,0 +1,9 @@
+| title           |   [unnamed data series #0] |
+| Genes           |                   0.966037 |
+| CpG islands     |                   1.21516  |
+| miRNA           |                   0.925855 |
+| LincRNA         |                   0.869601 |
+| UC elements     |                   0.869601 |
+| LINE/SINE       |                   1.07855  |
+| Cancer genes    |                   1.03836  |
+| Large deletions |                   0.680746 |

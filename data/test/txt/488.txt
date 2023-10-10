@@ -1,0 +1,15 @@
+| Category                              |       X |       Y |
+| Male Progenitors - amphidiploids      | 43.6166 | 78.6091 |
+| Male Progenitors - amphidiploids      | 50.208  | 74.0528 |
+| Male Progenitors - amphidiploids      | 31.8174 | 66.0192 |
+| Female Progenitors - peanut cultivars | 56.3219 | 65.9792 |
+| Female Progenitors - peanut cultivars | 58.2098 | 61.311  |
+| Female Progenitors - peanut cultivars | 46.774  | 49.5124 |
+| Female Progenitors - peanut cultivars | 60.3363 | 38.4492 |
+| Hybrids                               | 57.1899 | 86.4748 |
+| Hybrids                               | 60.7703 | 75.06   |
+| Hybrids                               | 69.4937 | 76.4988 |
+| Hybrids                               | 80.3002 | 71.8945 |
+| Hybrids                               | 77.3056 | 66.6187 |
+| Hybrids                               | 75.2875 | 65.0839 |
+| Hybrids                               | 76.1989 | 62.3981 |

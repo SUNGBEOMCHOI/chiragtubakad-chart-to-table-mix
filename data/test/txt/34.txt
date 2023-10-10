@@ -1,0 +1,6 @@
+| Category                 |   first quartile |       max |     median |       min |   third quartile | x        |
+| [unnamed data series #0] |        -0.304186 |  0.936067 | -0.0452982 | -0.827982 |         0.201548 | Controls |
+| [unnamed data series #0] |        -0.508888 | -0.243979 | -0.382454  | -0.761755 |        -0.34633  | Affected
+BRCA1/2 carriers          |
+| [unnamed data series #0] |        -0.43664  |  0.893922 | -0.177752  | -0.80992  |         0.225631 | Healthy sisters
+Non carriers          |

@@ -1,0 +1,10 @@
+| title                        |   QTL+/-0.5 Mb |
+| SNP-based GWas HighMAF       |       0.831988 |
+| SNP-based GWAS LowMAF        |       0.82326  |
+| Haplotype-based GWAS HighMAF |       0.369409 |
+| SNP-based GWas HighMAF       |       0.570151 |
+| SNP-based GWAS LowMAF        |       0.561423 |
+| Haplotype-based GWAS HighMAF |       0.303949 |
+| SNP-based GWas HighMAF       |       0.526511 |
+| SNP-based GWAS LowMAF        |       0.517783 |
+| Haplotype-based GWAS HighMAF |       0.251582 |

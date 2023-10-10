@@ -1,0 +1,13 @@
+| title                                               |   Women with Intended Pregnancy (%) |
+| Use of birth control pills can lead neurasthenia    |                             73.7067 |
+| Use of birth control pills can cause obesity        |                             72.8005 |
+| Use of birth control pills can cause skin blemishes |                             68.6644 |
+| Use of birth control pills declines libido in women |                             15.1038 |
+| Pills create hair on the body                       |                             58.5332 |
+| Use of contraceptive leads to sterilization         |                             17.8225 |
+| Use of birth control pills can lead neurasthenia    |                             75.2171 |
+| Use of birth control pills can cause obesity        |                             74.915  |
+| Use of birth control pills can cause skin blemishes |                             69.315  |
+| Use of birth control pills declines libido in women |                             16.0101 |
+| Pills create hair on the body                       |                             64.6444 |
+| Use of contraceptive leads to sterilization         |                             20.5412 |

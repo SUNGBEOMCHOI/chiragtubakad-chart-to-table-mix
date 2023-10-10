@@ -1,0 +1,13 @@
+| title                     |      Male |
+| Hookworms                 | 16.1679   |
+| Strongyloides stercoralis |  0.364809 |
+| Trichuris trichiura       |  0.364809 |
+| Bastocystis hominis       |  0.364809 |
+| Giardia intestinalis      |  2.81318  |
+| Overall                   | 18.6163   |
+| Hookworms                 |  7.48735  |
+| Strongyloides stercoralis |  1.25513  |
+| Trichuris trichiura       |  0.587389 |
+| Bastocystis hominis       |  5.03898  |
+| Giardia intestinalis      |  0.587389 |
+| Overall                   | 13.497    |

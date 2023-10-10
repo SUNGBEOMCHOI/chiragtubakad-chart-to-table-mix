@@ -1,0 +1,21 @@
+| title    |   PEOU |
+| strongly
+disagree          |      0 |
+| disagree |      1 |
+| somewhat
+disagree          |      4 |
+| somewhat
+agree          |     31 |
+| agree    |     37 |
+| strongly
+agree          |     49 |
+| strongly
+disagree          |      2 |
+| disagree |      4 |
+| somewhat
+disagree          |     20 |
+| somewhat
+agree          |     61 |
+| agree    |     24 |
+| strongly
+agree          |     11 |

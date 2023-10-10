@@ -1,0 +1,5 @@
+| title   |   [unnamed data series #0] |
+| A       |                   0.165285 |
+| Onto A  |                   0.252454 |
+| X       |                   0.175038 |
+| Onto X  |                   0.239653 |

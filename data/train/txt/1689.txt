@@ -1,0 +1,16 @@
+| title                        |   AFR |
+| Vaccines in GAVI's portfolio |  1.2  |
+| Injectible vaccines          |  1.08 |
+| Measles vaccines             |  1.18 |
+| OPV                          |  0.45 |
+| Tetanus-containing vaccines  |  0.62 |
+| Vaccines in GAVI's portfolio |  0.81 |
+| Injectible vaccines          |  0.64 |
+| Measles vaccines             |  0.72 |
+| OPV                          |  0.34 |
+| Tetanus-containing vaccines  |  0.31 |
+| Vaccines in GAVI's portfolio |  0.33 |
+| Injectible vaccines          |  0.33 |
+| Measles vaccines             |  0.33 |
+| OPV                          |  0.44 |
+| Tetanus-containing vaccines  |  0.34 |

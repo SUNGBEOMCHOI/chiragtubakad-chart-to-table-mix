@@ -1,0 +1,6 @@
+| title                         |   [unnamed data series #0] |
+| Called quitline(a)            |                        2.6 |
+| Used one-on-one counseling(b) |                        3.7 |
+| Used a class or program(c)    |                        3.8 |
+| Counselling and medication(d) |                        6.3 |
+| Used cessation medication(e)  |                       19.6 |

@@ -1,0 +1,10 @@
+| Category                 |   first quartile |      max |   median |      min |   third quartile | x            |
+| [unnamed data series #0] |         268.771  | 1081.98  | 826.569  |  75.0092 |        1081.98   | 133.7 nm CS  |
+| [unnamed data series #0] |          39.7798 |  500.697 | 151.339  |  39.7798 |         168.954  | 44.1 nm CS   |
+| [unnamed data series #0] |          48.5872 |  486.018 |  48.5872 |  48.5872 |          48.5872 | 22.5 nm CS   |
+| [unnamed data series #0] |         544.734  | 1081.98  | 544.734  | 116.11   |        1081.98   | 115.2 nm BSA |
+| [unnamed data series #0] |          42.7156 |  488.954 |  92.6239 |  42.7156 |         110.239  | 23.3nm BSA   |
+| [unnamed data series #0] |          39.7798 |  494.826 |  86.7523 |  39.7798 |         107.303  | 16.5 nm BSA  |
+| [unnamed data series #0] |         450.789  |  550.606 | 532.991  | 189.505  |         550.606  | 87.6 nm      |
+| [unnamed data series #0] |         227.67   |  277.578 | 227.67   |  83.8165 |         277.578  | 17.4 nm      |
+| [unnamed data series #0] |         142.532  |  215.927 | 142.532  |  89.6881 |         160.147  | 7.1 nm       |

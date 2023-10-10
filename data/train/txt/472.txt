@@ -1,0 +1,16 @@
+| title                              |   <HS Education |
+| * Acess to reliable transportation |            0.64 |
+| *Cost of vaccines                  |            0.72 |
+| *Time it takes to get a vaccine    |            0.44 |
+| *Dislike or fear of needles        |            0.52 |
+| Concern about getting sick         |            0.6  |
+| * Acess to reliable transportation |            0.43 |
+| *Cost of vaccines                  |            0.62 |
+| *Time it takes to get a vaccine    |            0.46 |
+| *Dislike or fear of needles        |            0.33 |
+| Concern about getting sick         |            0.59 |
+| * Acess to reliable transportation |            0.26 |
+| *Cost of vaccines                  |            0.46 |
+| *Time it takes to get a vaccine    |            0.28 |
+| *Dislike or fear of needles        |            0.24 |
+| Concern about getting sick         |            0.48 |

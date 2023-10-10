@@ -1,0 +1,7 @@
+| title   |   19-40 years |
+| Men     |          36.7 |
+| Women   |          16.7 |
+| Men     |          47.6 |
+| Women   |          37.4 |
+| Men     |          43.7 |
+| Women   |          50.3 |

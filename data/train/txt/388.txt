@@ -1,0 +1,9 @@
+| Category         | X   |        Y |
+| Screening to 25% | a   | 8.33035  |
+| Screening to 25% | d   | 7.27144  |
+| Screening to 25% | r   | 0.105145 |
+| Screening to 25% | k   | 0.694258 |
+| Tracing to 40%   | k   | 5.26547  |
+| Tracing to 40%   | r   | 0.977629 |
+| Tracing to 40%   | d   | 6.84638  |
+| Tracing to 40%   | a   | 9.88143  |

@@ -1,0 +1,5 @@
+| title   |   [unnamed data series #0] |
+| alpha   |                   0.909808 |
+| muw     |                  -0.214231 |
+| mud     |                  -0.2425   |
+| beta3   |                   0.199038 |

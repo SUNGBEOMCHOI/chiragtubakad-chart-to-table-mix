@@ -1,0 +1,34 @@
+| title                             |   plausible |
+| all high freq. sources (2, 1%)    |  0.995442   |
+| use of mob phone (22,9%)          |  0.817321   |
+| other electric appliances (8,3%)  |  0.751403   |
+| cordless phones (11,5%)           |  0.72756    |
+| power lines (34,14%)              |  0.619565   |
+| TV computer (16, 8%)              |  0.557854   |
+| all EMF fields in general (19,8%) |  0.528401   |
+| mobile phone base stat. (79,33%)  |  0.456872   |
+| all loe freq. sources (12,5%)     |  0.334853   |
+| TV-radiobroadcast (14,6%)         |  0.287167   |
+| microwave oven (4, 2%)            |  0.250701   |
+| all high freq. sources (2, 1%)    |  0.00280505 |
+| use of mob phone (22,9%)          |  0.136045   |
+| other electric appliances (8,3%)  |  0.123422   |
+| cordless phones (11,5%)           |  0.0897616  |
+| power lines (34,14%)              |  0.173913   |
+| TV computer (16, 8%)              |  0.218794   |
+| all EMF fields in general (19,8%) |  0.15568    |
+| mobile phone base stat. (79,33%)  |  0.175316   |
+| all loe freq. sources (12,5%)     |  0.332398   |
+| TV-radiobroadcast (14,6%)         |  0.284712   |
+| microwave oven (4, 2%)            |  0.249649   |
+| all high freq. sources (2, 1%)    |  0.00140252 |
+| use of mob phone (22,9%)          |  0.0462833  |
+| other electric appliances (8,3%)  |  0.124825   |
+| cordless phones (11,5%)           |  0.180926   |
+| power lines (34,14%)              |  0.204769   |
+| TV computer (16, 8%)              |  0.220196   |
+| all EMF fields in general (19,8%) |  0.315568   |
+| mobile phone base stat. (79,33%)  |  0.366059   |
+| all loe freq. sources (12,5%)     |  0.332398   |
+| TV-radiobroadcast (14,6%)         |  0.42777    |
+| microwave oven (4, 2%)            |  0.498247   |

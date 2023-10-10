@@ -1,0 +1,16 @@
+| title                 |   [unnamed data series #0] |
+| [unnamed category #0] |                 -1.96426   |
+| [unnamed category #1] |                  0.0595724 |
+| [unnamed category #2] |                 -0.527991  |
+| [unnamed category #3] |                  0.97356   |
+| [unnamed category #4] |                 -1.63783   |
+| [unnamed category #0] |                  6.78391   |
+| [unnamed category #1] |                  5.67407   |
+| [unnamed category #2] |                  9.65644   |
+| [unnamed category #3] |                 12.2678    |
+| [unnamed category #4] |                  9.26473   |
+| [unnamed category #0] |                  0.908275  |
+| [unnamed category #1] |                 -2.6171    |
+| [unnamed category #2] |                  1.62641   |
+| [unnamed category #3] |                  6.00049   |
+| [unnamed category #4] |                  1.29998   |

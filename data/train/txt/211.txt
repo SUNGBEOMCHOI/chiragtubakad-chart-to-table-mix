@@ -1,0 +1,7 @@
+| title   |   [unnamed data series #0] |
+| (a) DCPD
+block         |                    37.9412 |
+| (b) CO_{3}Ap
+(NaHCO_{3})         |                    57.5362 |
+| (c) CO_{3}Ap
+(Na_{2}CO_{3})         |                    57.5362 |

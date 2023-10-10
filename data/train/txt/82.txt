@@ -1,0 +1,14 @@
+| title                      |   [unnamed data series #0] |
+| Larger community size      |                   0.726722 |
+| High contact relative risk |                   0.721494 |
+| No contact relative risk   |                   0.778257 |
+| Low incidence              |                   0.744647 |
+| High incedence             |                   0.7439   |
+| High vaccine efficacy      |                   0.767054 |
+| Low vaccine efficacy       |                   0.692365 |
+| No herd immunity           |                   0.545975 |
+| Loe herd immunity          |                   0.681909 |
+| High herd immunity         |                   0.75361  |
+| 50% coverage               |                   0.692365 |
+| 90% coverage               |                   0.758091 |
+| Base case                  |                   0.737925 |

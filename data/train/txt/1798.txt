@@ -1,0 +1,5 @@
+| Category                 |   first quartile |         max |      median |          min |   third quartile | x             |
+| [unnamed data series #0] |      0.0016006   | 0.00239662  | 0.00186804  |  0.0013363   |      0.00213233  | Control group |
+| [unnamed data series #0] |      0.00041391  | 0.00120401  | 0.000679358 |  0.000151585 |      0.000941683 | P-ChA         |
+| [unnamed data series #0] |      0.000301508 | 0.000955218 | 0.000521103 |  0.000100247 |      0.000742109 | P-ChB         |
+| [unnamed data series #0] |      8.22944e-05 | 0.00077751  | 0.000315834 | -0.000136697 |      0.000550621 | P-ChC         |

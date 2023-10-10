@@ -1,0 +1,4 @@
+| Category                 |   first quartile |     max |   median |     min |   third quartile | x    |
+| [unnamed data series #0] |          45.6434 | 81.8397 |  67.1621 | 40.5436 |          72.262  | CTRL |
+| [unnamed data series #0] |          35.195  | 61.1916 |  46.0165 | 30.8415 |          56.5893 | OB   |
+| [unnamed data series #0] |          53.8529 | 81.3421 |  62.4355 | 34.3243 |          75.7448 | WL   |

@@ -1,0 +1,27 @@
+| Category                 |         X |         Y |
+| [unnamed data series #0] | 0.999338  | 1.27072   |
+| [unnamed data series #0] | 0.955909  | 1.77298   |
+| [unnamed data series #0] | 0.755575  | 1.87722   |
+| [unnamed data series #0] | 0.807409  | 1.44446   |
+| [unnamed data series #0] | 0.817216  | 0.657892  |
+| [unnamed data series #0] | 0.643499  | 0.512583  |
+| [unnamed data series #0] | 0.698136  | 0.218806  |
+| [unnamed data series #0] | 0.333891  | 0.676845  |
+| [unnamed data series #0] | 0.127953  | 0.904286  |
+| [unnamed data series #0] | 0.115344  | 0.954828  |
+| [unnamed data series #0] | 0.104137  | 0.604191  |
+| [unnamed data series #0] | 0.0943301 | 0.247236  |
+| [unnamed data series #0] | 0.101335  | 0.14931   |
+| [unnamed data series #0] | 0.176986  | 0.225124  |
+| [unnamed data series #0] | 0.192396  | 0.0829736 |
+| [unnamed data series #1] | 0.995136  | 0.999052  |
+| [unnamed data series #1] | 0.660311  | 0.420975  |
+| [unnamed data series #1] | 0.586061  | 0.316732  |
+| [unnamed data series #1] | 0.342297  | 0.0608613 |
+| [unnamed data series #1] | 0.339495  | 0.117721  |
+| [unnamed data series #1] | 0.24283   | 0.0482258 |
+| [unnamed data series #1] | 0.22882   | 0.272507  |
+| [unnamed data series #1] | 0.182589  | 0.225124  |
+| [unnamed data series #1] | 0.200802  | 0.12088   |
+| [unnamed data series #1] | 0.189594  | 0.0640202 |
+| [unnamed data series #1] | 0.200802  | 0.0640202 |

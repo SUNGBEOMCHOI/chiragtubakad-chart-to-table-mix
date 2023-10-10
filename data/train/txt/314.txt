@@ -1,0 +1,16 @@
+| title              |   Co-stigma |
+| Model 1 (Additive) |   20.1461   |
+| Model  2  (Completely
+Overlapping)                    |    0.194461 |
+| Model 3 (Partially
+Overlapping)                    |   10.3453   |
+| Model 1 (Additive) |   -0.012964 |
+| Model  2  (Completely
+Overlapping)                    |   19.9776   |
+| Model 3 (Partially
+Overlapping)                    |    9.95639  |
+| Model 1 (Additive) |   19.835    |
+| Model  2  (Completely
+Overlapping)                    |    0        |
+| Model 3 (Partially
+Overlapping)                    |    9.86564  |

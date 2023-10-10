@@ -1,0 +1,6 @@
+| Category                 |   first quartile |      max |   median |     min |   third quartile | x                         |
+| [unnamed data series #0] |          95.048  | 110.595  |  99.9424 | 90.1536 |         103.205  | Negative control (Dentin) |
+| [unnamed data series #0] |          48.215  |  62.9942 |  56.5643 | 46.3916 |          60.595  | Dentin                    |
+| [unnamed data series #0] |          42.2649 |  51.8618 |  45.048  | 36.2188 |          47.9271 | 30-pcf PU                 |
+| [unnamed data series #0] |          54.9328 |  62.9942 |  56.3724 | 51.9578 |          61.5547 | 40-pcf PU                 |
+| [unnamed data series #0] |          73.9347 |  82.9559 |  74.9904 | 70.3839 |          80.3647 | 50-pcf PU                 |

@@ -1,0 +1,11 @@
+| title                                       |   [unnamed data series #0] |
+| other reasons                               |                  0.0739552 |
+| no opportunity/ too expensive               |                  0.14512   |
+| don't want to know principally              |                  0.038373  |
+| can still be tested later                   |                  0.0613968 |
+| don't want to know now                      |                  0.153492  |
+| afraid of test result/ waiting time         |                  0.354427  |
+| don't believe to be infected                |                  0.593037  |
+| no need, partner tested negative            |                  0.0655829 |
+| outing/confidentiality worries regarding... |                  0.408847  |
+| no perceived risks                          |                  0.161864  |

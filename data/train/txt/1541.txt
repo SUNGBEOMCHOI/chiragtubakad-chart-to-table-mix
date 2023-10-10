@@ -1,0 +1,10 @@
+| title                             |   [unnamed data series #0] |
+| Leadership and organtsational gap |                  22.006    |
+| Integration gap                   |                  18.9555   |
+| Analysts and communication gap    |                  17.0066   |
+| Scope gap                         |                  13.024    |
+| System gap                        |                  10.9903   |
+| Performance gap                   |                   8.95662  |
+| Resource gap                      |                   7.00769  |
+| Coverage gap                      |                   2.00825  |
+| Workforce gap                     |                   0.991418 |

@@ -1,0 +1,8 @@
+| title                          |   [unnamed data series #0] |
+| Administers remedies concomitantly with
+ARVs                                |                         46 |
+| Administers remedies with ARVs but at
+different times                                |                         43 |
+| Entirely replaces ARVs with non-prescription
+remedies                                |                          3 |
+| Uses non-prescription remedies |                         33 |

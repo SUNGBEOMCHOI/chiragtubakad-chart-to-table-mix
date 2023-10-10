@@ -1,0 +1,21 @@
+| Category                             |        X |        Y |
+| statistical selection                | 26364.9  | 0.984322 |
+| statistical selection                | 22683.2  | 0.980494 |
+| statistical selection                | 19315.7  | 0.978771 |
+| statistical selection                | 16002.2  | 0.975325 |
+| statistical selection                | 12823.3  | 0.970157 |
+| statistical selection                |  9886.85 | 0.964414 |
+| statistical selection                |  7112.07 | 0.952929 |
+| statistical selection                |  4606.68 | 0.929384 |
+| statistical selection                |  2343.75 | 0.865639 |
+| evenly spaced                        |  2316.81 | 0.869085 |
+| evenly spaced                        |  4534.84 | 0.910241 |
+| evenly spaced                        |  6600.22 | 0.932829 |
+| evenly spaced                        |  8719.47 | 0.94374  |
+| evenly spaced                        | 10614.2  | 0.95178  |
+| evenly spaced                        | 12446.1  | 0.957714 |
+| evenly spaced                        | 14080.5  | 0.961351 |
+| evenly spaced                        | 15571.1  | 0.964414 |
+| evenly spaced                        | 16900.1  | 0.96384  |
+| Accuracy of 9K chip 95% HPD interval |  7435.34 | 0.8442   |
+| Accuracy of 9K chip 95% HPD interval |  7435.34 | 1.00193  |

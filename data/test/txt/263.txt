@@ -1,0 +1,33 @@
+| title                                                                          |   Never smokers n=157 |
+| Because e-cigarettes are cheaper than smoking tabacco                          |             -0.189753 |
+| Because e-cigarattes can be used in places where smoking tobacco is prohibited |             -0.189753 |
+| Because e-cigarattes are less harmful than tobacco for health                  |              1.16698  |
+| To decrease smoking without stopping                                           |             -0.189753 |
+| To stop (or try to stop) smoking                                               |             -0.189753 |
+| For flavor                                                                     |             17.5522   |
+| Someone offered one to try                                                     |             60.3416   |
+| Curiosity                                                                      |             85.7021   |
+| Because e-cigarettes are cheaper than smoking tabacco                          |              8.94213  |
+| Because e-cigarattes can be used in places where smoking tobacco is prohibited |             10.5076   |
+| Because e-cigarattes are less harmful than tobacco for health                  |             15.204    |
+| To decrease smoking without stopping                                           |              9.98577  |
+| To stop (or try to stop) smoking                                               |             18.074    |
+| For flavor                                                                     |             28.2495   |
+| Someone offered one to try                                                     |             59.9241   |
+| Curiosity                                                                      |             65.8729   |
+| Because e-cigarettes are cheaper than smoking tabacco                          |              7.89848  |
+| Because e-cigarattes can be used in places where smoking tobacco is prohibited |              8.15939  |
+| Because e-cigarattes are less harmful than tobacco for health                  |              7.63757  |
+| To decrease smoking without stopping                                           |              9.72486  |
+| To stop (or try to stop) smoking                                               |             11.2903   |
+| For flavor                                                                     |             24.8577   |
+| Someone offered one to try                                                     |             64.203    |
+| Curiosity                                                                      |             77.7704   |
+| Because e-cigarettes are cheaper than smoking tabacco                          |              7.11575  |
+| Because e-cigarattes can be used in places where smoking tobacco is prohibited |              7.37666  |
+| Because e-cigarattes are less harmful than tobacco for health                  |              7.89848  |
+| To decrease smoking without stopping                                           |              8.15939  |
+| To stop (or try to stop) smoking                                               |             10.7685   |
+| For flavor                                                                     |             24.3359   |
+| Someone offered one to try                                                     |             63.2638   |
+| Curiosity                                                                      |             77.0398   |

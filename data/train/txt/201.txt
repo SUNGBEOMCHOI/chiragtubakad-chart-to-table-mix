@@ -1,0 +1,9 @@
+| title   |   Po-210 |
+| Summer  | 112.378  |
+| Autumn  | 127.785  |
+| Winter  | 134.322  |
+| Spring  | 133.388  |
+| Summer  |  55.4187 |
+| Autumn  |  57.7531 |
+| Winter  | 110.978  |
+| Spring  |  46.0811 |

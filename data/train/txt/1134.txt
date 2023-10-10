@@ -1,0 +1,12 @@
+| title   |   [unnamed data series #0] |
+| Obesity and
+overweight         |                  0.852476  |
+| Type2
+diabetes         |                  0.831401  |
+| Cardiovascular
+disease         |                  0.610116  |
+| Metabolic
+syndrome         |                  0.567966  |
+| Stroke  |                  0.367756  |
+| Other
+conditions         |                  0.0885142 |

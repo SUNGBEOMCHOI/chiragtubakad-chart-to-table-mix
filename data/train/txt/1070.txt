@@ -1,0 +1,8 @@
+| title                               |   Urgency of information |
+| Which protective measures to take   |                 64.1104  |
+| How an infection can be recognized  |                 40.0964  |
+| How the infection is treated        |                 35.1884  |
+| How the infection is transmitted    |                 33.4356  |
+| The severity of the infection       |                 12.4014  |
+| The likelihood of infection         |                  7.31814 |
+| Which places pose the greatest risk |                  6.09115 |

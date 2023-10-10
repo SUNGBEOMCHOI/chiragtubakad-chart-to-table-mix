@@ -1,0 +1,5 @@
+| title        |   [unnamed data series #0] |
+| no scavenger |                   100.444  |
+| AO           |                    14.4643 |
+| IPA          |                    96.4476 |
+| BQ           |                    30.424  |

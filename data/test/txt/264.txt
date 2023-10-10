@@ -1,0 +1,13 @@
+| title     |   standing still |
+| HEPA high |          2.37661 |
+| HEPA low  |          2.1987  |
+| PA high   |          2.56363 |
+| PA mid    |          2.5089  |
+| PA low    |          2.34468 |
+| inactive  |          2.00712 |
+| HEPA high |          7.37159 |
+| HEPA low  |          8.46638 |
+| PA high   |          7.2758  |
+| PA mid    |          7.97373 |
+| PA low    |          8.3569  |
+| inactive  |          9.28747 |

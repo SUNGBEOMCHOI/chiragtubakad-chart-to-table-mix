@@ -1,0 +1,8 @@
+| title                                 |   [unnamed data series #0] |
+| Lack of belief in the efficacy of
+vaccination                                       |                      0.678 |
+| Poorly tolerated previous vaccination |                      0.384 |
+| Lack of information                   |                      0.233 |
+| The high cost                         |                      0.192 |
+| The fear of adverse symptoms          |                      0.11  |
+| Other reasons                         |                      0.048 |

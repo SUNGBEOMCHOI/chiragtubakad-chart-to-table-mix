@@ -1,0 +1,36 @@
+| title               |   AB (high SES) |
+| Indian              |       86.6615   |
+| Pakistani           |       97.5783   |
+| Bangladeshi         |       83.1251   |
+| Caribbean Ethnicity |       83.4326   |
+| African             |       85.8928   |
+| Chinese             |       92.6581   |
+| white-British       |       56.3713   |
+| Indian              |       66.3656   |
+| Pakistani           |       64.0592   |
+| Bangladeshi         |       62.906    |
+| Caribbean Ethnicity |       74.4378   |
+| African             |       60.984    |
+| Chinese             |       60.2153   |
+| white-British       |       62.1372   |
+| Indian              |       69.4407   |
+| Pakistani           |       81.3569   |
+| Bangladeshi         |       55.6025   |
+| Caribbean Ethnicity |       71.3627   |
+| African             |       59.139    |
+| Chinese             |       71.7471   |
+| white-British       |       64.0592   |
+| Indian              |       55.6025   |
+| Pakistani           |       53.6037   |
+| Bangladeshi         |       69.4407   |
+| Caribbean Ethnicity |       40.2268   |
+| African             |       76.3598   |
+| Chinese             |       99.8078   |
+| white-British       |       64.828    |
+| Indian              |       55.6025   |
+| Pakistani           |       58.6777   |
+| Bangladeshi         |       61.7528   |
+| Caribbean Ethnicity |       40.2268   |
+| African             |       37.536    |
+| Chinese             |       -0.057659 |
+| white-British       |       50.221    |

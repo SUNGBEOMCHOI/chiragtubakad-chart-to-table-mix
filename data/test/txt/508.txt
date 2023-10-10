@@ -1,0 +1,11 @@
+| title             |   [unnamed data series #0] |
+| Hualien City      |                    8.05884 |
+| Dashu District    |                    8.2788  |
+| Sincheng Township |                    8.71872 |
+| Pitou Township    |                   11.1383  |
+| Shengang Township |                   18.1771  |
+| Kuanhsi Township  |                   20.5966  |
+| Houli District    |                   26.7556  |
+| Siaogang District |                   28.5153  |
+| Guanyin Township  |                   34.9821  |
+| Bade City         |                   94.9436  |

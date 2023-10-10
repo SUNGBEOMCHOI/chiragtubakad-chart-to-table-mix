@@ -1,0 +1,8 @@
+| title              |   [unnamed data series #0] |
+| Micrococus spp     |                   12.008   |
+| corynebacterium... |                   12.9376  |
+| Staphylococcus sp. |                    4.03992 |
+| Bacillus sp.       |                    9.01996 |
+| Serratia sp.       |                    6.03194 |
+| Proteus sp.        |                    1.9815  |
+| other              |                    1.9815  |

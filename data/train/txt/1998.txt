@@ -1,0 +1,13 @@
+| title   |   Household |
+| Chronic Food
+Insecurity         |        35.1 |
+| Transient Food
+Insecurity 2006/7         |        88.5 |
+| Transient Food
+Insecurity 2005/6         |        39.4 |
+| Chronic Food
+Insecurity         |        14   |
+| Transient Food
+Insecurity 2006/7         |        48.4 |
+| Transient Food
+Insecurity 2005/6         |        20.5 |

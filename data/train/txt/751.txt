@@ -1,0 +1,40 @@
+| title                                                  |   True for me |
+| I did something else on the same day                   |      41.3254  |
+| I prefer to play with my friends                       |      28.5444  |
+| The activities were too easy.                          |      23.0059  |
+| When I signed up I thought it would be different       |      28.1183  |
+| I was too busy                                         |      28.5444  |
+| I did not like some of the other pupils in Action 3:30 |      27.2663  |
+| I could not be picked up from school after the club    |      15.7633  |
+| I prefer to watch TV or play on my computer            |      11.929   |
+| I did not want to go                                   |      12.355   |
+| I did not like Action 3:30                             |       8.94675 |
+| I did not like the Action 3:30 Leaders                 |       2.55621 |
+| The activities were too hard                           |       4.26036 |
+| My parents did not want me to attend                   |       2.55621 |
+| I did something else on the same day                   |      23.0059  |
+| I prefer to play with my friends                       |      24.284   |
+| The activities were too easy.                          |      29.3964  |
+| When I signed up I thought it would be different       |      40.0473  |
+| I was too busy                                         |      19.1716  |
+| I did not like some of the other pupils in Action 3:30 |      28.9704  |
+| I could not be picked up from school after the club    |       8.94675 |
+| I prefer to watch TV or play on my computer            |      19.1716  |
+| I did not want to go                                   |      18.3195  |
+| I did not like Action 3:30                             |      20.0237  |
+| I did not like the Action 3:30 Leaders                 |       6.39053 |
+| The activities were too hard                           |      19.5976  |
+| My parents did not want me to attend                   |       2.98225 |
+| I did something else on the same day                   |      35.3609  |
+| I prefer to play with my friends                       |      47.8012  |
+| The activities were too easy.                          |      48.2272  |
+| When I signed up I thought it would be different       |      32.2935  |
+| I was too busy                                         |      52.7432  |
+| I did not like some of the other pupils in Action 3:30 |      44.2225  |
+| I could not be picked up from school after the club    |      75.7491  |
+| I prefer to watch TV or play on my computer            |      69.3586  |
+| I did not want to go                                   |      69.7846  |
+| I did not like Action 3:30                             |      71.4888  |
+| I did not like the Action 3:30 Leaders                 |      91.5124  |
+| The activities were too hard                           |      76.4308  |
+| My parents did not want me to attend                   |      94.7503  |

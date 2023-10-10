@@ -1,0 +1,9 @@
+| Category        | X          |        Y |
+| Female patients | R118C      | 0.776639 |
+| Female patients | R118C      | 0.598407 |
+| Female patients | D313Y      | 0.377887 |
+| Female patients | g8368insG  | 0.15117  |
+| Male patients   | R118C      | 0.168024 |
+| Male patients   | R118C      | 0.121208 |
+| Male patients   | gt1015delG | 0.005103 |
+| Male patients   | D313Y      | 0.274766 |

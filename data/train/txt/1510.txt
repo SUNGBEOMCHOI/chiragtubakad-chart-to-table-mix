@@ -1,0 +1,7 @@
+| Category                 |   first quartile |      max |   median |     min |   third quartile | x       |
+| [unnamed data series #0] |          76.6835 | 100.27   |  85.3829 | 56.3006 |          90.2384 | CDSs    |
+| [unnamed data series #0] |          54.1257 | 100.135  |  65.961  | 30.1349 |          75.9754 | introns |
+| [unnamed data series #0] |          52.8107 |  91.7726 |  60.9032 | 30      |          69.0968 | 1 kb 5' |
+| [unnamed data series #0] |          48.5621 |  91.2331 |  56.9581 | 30.1349 |          65.8598 | 2 kb 5’ |
+| [unnamed data series #0] |          48.8656 |  90.9634 |  57.2616 | 30.8092 |          66.3656 | 3 kb 5’ |
+| [unnamed data series #0] |          48.3598 |  90.9634 |  58.3743 | 30.2697 |          67.276  | 4 kb 5' |

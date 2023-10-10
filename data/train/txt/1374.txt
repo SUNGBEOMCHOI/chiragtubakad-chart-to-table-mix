@@ -1,0 +1,5 @@
+| Category                 |   first quartile |     max |   median |     min |   third quartile | x       |
+| [unnamed data series #0] |          99.1739 | 133.46  |  107.268 | 77.2565 |          115.18  | EPI -.F |
+| [unnamed data series #0] |          96.2637 | 123.82  |  102.721 | 80.3486 |          108.996 | EPI +.F |
+| [unnamed data series #0] |          93.3535 | 130.549 |  101.266 | 73.255  |          108.632 | EPI-.M  |
+| [unnamed data series #0] |          99.3558 | 123.638 |  103.994 | 84.1682 |          109.36  | EPI +.M |

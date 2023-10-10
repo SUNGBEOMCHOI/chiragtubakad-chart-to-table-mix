@@ -1,0 +1,5 @@
+| title           |   Control |
+| Fall Semester   |   4.92808 |
+| Spring Semester |   5.37329 |
+| Fall Semester   |   6.60616 |
+| Spring Semester |   5.51598 |

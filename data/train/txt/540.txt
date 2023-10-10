@@ -1,0 +1,25 @@
+| Category                        |          X |          Y |
+| Y2GdSbO7_ 390nm cut-off filter  | 27.9813    | 389.515    |
+| Y2GdSbO7_ 390nm cut-off filter  | 23.9437    | 310.015    |
+| Y2GdSbO7_ 390nm cut-off filter  | 19.985     | 279.495    |
+| Y2GdSbO7_ 390nm cut-off filter  | 15.929     | 203.12     |
+| Y2GdSbO7_ 390nm cut-off filter  | 11.9199    | 144.751    |
+| Y2GdSbO7_ 390nm cut-off filter  |  7.92417   |  79.5579   |
+| Y2GdSbO7_ 390nm cut-off filter  |  3.9956    |  19.5712   |
+| Y2GdSbO7_ 390nm cut-off filter  | -0.153113  |  -1.83406  |
+| Y2InSbO7_ 390 nm cut-off filter | 27.9142    | 483.532    |
+| Y2InSbO7_ 390 nm cut-off filter | 23.9113    | 391.451    |
+| Y2InSbO7_ 390 nm cut-off filter | 19.916     | 347.782    |
+| Y2InSbO7_ 390 nm cut-off filter | 15.9224    | 268.629    |
+| Y2InSbO7_ 390 nm cut-off filter | 11.9186    | 179.24     |
+| Y2InSbO7_ 390 nm cut-off filter |  7.92096   | 130.626    |
+| Y2InSbO7_ 390 nm cut-off filter |  3.91891   |  46.5648   |
+| Y2InSbO7_ 390 nm cut-off filter | -0.0850629 |   0.203785 |
+| Y2GaSbO7_ 390 nm cut-off filter | -0.0340252 |   0.713246 |
+| Y2GaSbO7_ 390 nm cut-off filter | 27.9064    | 672.072    |
+| Y2GaSbO7_ 390 nm cut-off filter | 23.9149    | 585.564    |
+| Y2GaSbO7_ 390 nm cut-off filter | 19.9172    | 433.857    |
+| Y2GaSbO7_ 390 nm cut-off filter | 15.9202    | 374.663    |
+| Y2GaSbO7_ 390 nm cut-off filter | 11.9167    | 221.757    |
+| Y2GaSbO7_ 390 nm cut-off filter |  7.92468   | 198.283    |
+| Y2GaSbO7_ 390 nm cut-off filter |  3.92418   |  90.3895   |

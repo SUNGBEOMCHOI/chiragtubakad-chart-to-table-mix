@@ -1,0 +1,15 @@
+| title       |   3 antibiotics |
+| E. faecium  |               6 |
+| E. faecalis |               7 |
+| E. faecium  |               4 |
+| E. faecalis |              12 |
+| E. faecium  |              10 |
+| E. faecalis |               7 |
+| E. faecium  |              11 |
+| E. faecalis |               3 |
+| E. faecium  |              11 |
+| E. faecalis |               5 |
+| E. faecium  |              14 |
+| E. faecalis |               3 |
+| E. faecium  |               6 |
+| E. faecalis |               1 |

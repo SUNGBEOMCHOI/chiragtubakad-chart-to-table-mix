@@ -1,0 +1,13 @@
+| title    |   Current Asthma |
+| Chest
+Tightness          |        0.329318  |
+| Cough    |        0.479606  |
+| Shortness of
+Breath          |        0.285792  |
+| Wheezing |        0.219272  |
+| Chest
+Tightness          |        0.0755543 |
+| Cough    |        0.179031  |
+| Shortness of
+Breath          |        0.0714481 |
+| Wheezing |        0.0205311 |

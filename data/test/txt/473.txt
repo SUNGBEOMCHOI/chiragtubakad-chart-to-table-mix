@@ -1,0 +1,7 @@
+| title   |   intervention Group |
+| 6weeks  |              97.3854 |
+| 10weeks |              95.9909 |
+| 14weeks |              94.5965 |
+| 6weeks  |              82.395  |
+| 10weeks |              79.6061 |
+| 14weeks |              74.3769 |

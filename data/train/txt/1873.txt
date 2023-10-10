@@ -1,0 +1,9 @@
+| Category           |        X |       Y |
+| This study         | 120.306  | 525.129 |
+| This study         | 200      | 386.759 |
+| This study         | 150.095  | 464.692 |
+| Beclin et al [4]   |  60.9166 | 646.004 |
+| Beclin et al [4]   | 100.446  | 537.455 |
+| Addad et al [5]    | 100.637  | 589.642 |
+| Addad et al [5]    |  10.8211 | 797.893 |
+| Boniecki et al [7] |  45.7925 | 672.724 |

@@ -1,0 +1,25 @@
+| Category             |       X |        Y |
+| Rural, ground        | 1986.99 | 10.957   |
+| Rural, ground        | 1988.99 |  7.68255 |
+| Rural, ground        | 1991.95 |  6.39124 |
+| Rural, ground        | 1993.96 |  3.99308 |
+| Rural, ground        | 1995.99 |  2.9093  |
+| Rural, ground        | 1999.94 |  4.33897 |
+| Rural, ground        | 2007.93 |  2.17141 |
+| Lahemaa (R), ground  | 1986.96 |  7.03689 |
+| Lahemaa (R), ground  | 1988.93 |  9.31975 |
+| Lahemaa (R), ground  | 1999.94 |  5.0538  |
+| Lahemaa (R), ground  | 2007.93 |  2.42506 |
+| Rural, blasted       | 2013.92 |  6.78324 |
+| Rural, blasted       | 2010.9  |  3.57802 |
+| Rural, blasted       | 2007.93 |  4.38509 |
+| Rural, blasted       | 2004.97 |  6.59877 |
+| Rural, blasted       | 2001.95 |  6.04535 |
+| Rural, blasted       | 2000    |  5.49193 |
+| Rural, blasted       | 1997.01 |  3.94696 |
+| Lahemaa (R), blasted | 1996.98 |  4.40815 |
+| Lahemaa (R), blasted | 1999.92 |  4.63874 |
+| Lahemaa (R), blasted | 2001.92 |  6.39124 |
+| Lahemaa (R), blasted | 2004.91 |  4.45427 |
+| Lahemaa (R), blasted | 2007.93 |  4.36203 |
+| Lahemaa (R), blasted | 2013.89 |  6.50653 |

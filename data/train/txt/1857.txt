@@ -1,0 +1,13 @@
+| title              |   Without island |
+| Blood (PT dataset) |        90.4214   |
+| Blood              |        60.5873   |
+| Liver              |        51.6264   |
+| Muscle             |        60.5873   |
+| Pancreas           |        20.7833   |
+| Spleen             |        50        |
+| Blood (PT dataset) |         1.81022  |
+| Blood              |         2.67815  |
+| Liver              |         8.98687  |
+| Muscle             |         3.82362  |
+| Pancreas           |         0.690406 |
+| Spleen             |        10        |

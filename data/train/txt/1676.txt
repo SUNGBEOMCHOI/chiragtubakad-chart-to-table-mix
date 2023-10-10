@@ -1,0 +1,9 @@
+| title     |   [unnamed data series #0] |
+| Fruit     |                       9673 |
+| Cream     |                       9354 |
+| Tobacco   |                       1010 |
+| Menthol   |                       1472 |
+| Beverages |                       1155 |
+| Sweet     |                       2514 |
+| Seasoning |                        985 |
+| Nuts      |                       1592 |

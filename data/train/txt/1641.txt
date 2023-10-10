@@ -1,0 +1,31 @@
+| title                         |   All CpG sites |
+| 1-Active Promoter             |      0.0873681  |
+| 2-Weak Promoter               |      0.140951   |
+| 3-poised Promoter             |      0.0205544  |
+| 4-Strong Enhancer             |      0.2        |
+| 5-Strong Enhancer             |      0.110521   |
+| 6-Weak/poised Enhancer        |      0.131029   |
+| 7-Weak/poised Enhancer        |      0.154843   |
+| 8-Insulator                   |      0.0165853  |
+| 9-Transcriptional Transition  |      0.0794298  |
+| 10-Transcriptional elongation |      0.177335   |
+| 11-weak Transcriptional       |      0.2        |
+| 12-Polycomb Repressed         |      0.113829   |
+| 13-Heterochromatin low signal |      0.24644    |
+| 14-Repetitive/CNV             |      0.00396913 |
+| 15-Repetitive/CNV             |      0.00198456 |
+| 1-Active Promoter             |      0.2        |
+| 2-Weak Promoter               |      0.135659   |
+| 3-poised Promoter             |      0.084722   |
+| 4-Strong Enhancer             |      0.0609072  |
+| 5-Strong Enhancer             |      0.0218775  |
+| 6-Weak/poised Enhancer        |      0.0767837  |
+| 7-Weak/poised Enhancer        |      0.0476768  |
+| 8-Insulator                   |      0.0357694  |
+| 9-Transcriptional Transition  |      0.0245235  |
+| 10-Transcriptional elongation |      0.107214   |
+| 11-weak Transcriptional       |      0.193873   |
+| 12-Polycomb Repressed         |      0.2        |
+| 13-Heterochromatin low signal |      0.319184   |
+| 14-Repetitive/CNV             |      0.00727674 |
+| 15-Repetitive/CNV             |      0.00330761 |

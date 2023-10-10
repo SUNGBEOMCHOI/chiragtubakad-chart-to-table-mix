@@ -1,0 +1,4 @@
+| title              |   [unnamed data series #0] |
+| Physician          |                       96.3 |
+| Other professional |                       81.6 |
+| Psychologist       |                       60.3 |

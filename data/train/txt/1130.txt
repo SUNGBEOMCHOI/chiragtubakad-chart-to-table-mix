@@ -1,0 +1,5 @@
+| title   |   [unnamed data series #0] |
+| 0 ppm   |                    3.31104 |
+| 8 ppm   |                    1.97324 |
+| 15 ppm  |                   24.1418  |
+| 30ppm   |                   71.5189  |

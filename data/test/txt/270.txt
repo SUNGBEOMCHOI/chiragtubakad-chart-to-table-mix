@@ -1,0 +1,49 @@
+| title         |     24h |
+| control       | 99.0164 |
+| Plutronic     | 86      |
+| Plu/Chito 10% | 94.0984 |
+| Plu/Chito 15% | 92.1311 |
+| Plu/DPPC 100  | 84      |
+| Plu/DPPC 200  | 87      |
+| Plu/DMPC 100  | 91.1475 |
+| Plu/DMPC200   | 93.1148 |
+| F10% DMPC 100 | 93.1148 |
+| F10% DMPC200  | 94.0984 |
+| F10% DPPC 100 | 88.1667 |
+| F10% DPPC 200 | 86      |
+| F15% DPPC 100 | 95.082  |
+| F15% DMPC 200 | 96.0656 |
+| F15% DPPC 100 | 95.082  |
+| F15% DPPC 200 | 96.0656 |
+| control       | 98.0328 |
+| Plutronic     | 81      |
+| Plu/Chito 10% | 91.3115 |
+| Plu/Chito 15% | 90      |
+| Plu/DPPC 100  | 79.0164 |
+| Plu/DPPC 200  | 82      |
+| Plu/DMPC 100  | 90      |
+| Plu/DMPC200   | 93.1148 |
+| F10% DMPC 100 | 90.1639 |
+| F10% DMPC200  | 91.9672 |
+| F10% DPPC 100 | 85      |
+| F10% DPPC 200 | 85      |
+| F15% DPPC 100 | 93.2787 |
+| F15% DMPC 200 | 94.0984 |
+| F15% DPPC 100 | 95.082  |
+| F15% DPPC 200 | 94.2623 |
+| control       | 98.1967 |
+| Plutronic     | 79.0164 |
+| Plu/Chito 10% | 91.1475 |
+| Plu/Chito 15% | 90.1639 |
+| Plu/DPPC 100  | 75.9016 |
+| Plu/DPPC 200  | 80      |
+| Plu/DMPC 100  | 89      |
+| Plu/DMPC200   | 92.2951 |
+| F10% DMPC 100 | 88.1667 |
+| F10% DMPC200  | 91.1475 |
+| F10% DPPC 100 | 84      |
+| F10% DPPC 200 | 82      |
+| F15% DPPC 100 | 93.1148 |
+| F15% DMPC 200 | 92.9508 |
+| F15% DPPC 100 | 93.1148 |
+| F15% DPPC 200 | 94.0984 |

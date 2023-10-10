@@ -1,0 +1,18 @@
+| Category                 |   first quartile |      max |   median |      min |   third quartile | x    |
+| [unnamed data series #0] |         0.849037 | 0.989035 | 0.986558 | 0.844081 |         0.986558 | Medicago
+sativa      |
+| [unnamed data series #0] |         0.517004 | 0.552933 | 0.536827 | 0.512049 |         0.552933 | Arabidopsis
+thaliana      |
+| [unnamed data series #0] |         1.02249  | 1.34337  | 1.08691  | 1.01258  |         1.33346  | Lentil
+culinaris      |
+| [unnamed data series #0] |         0.779657 | 0.882488 | 0.846559 | 0.779657 |         0.882488 | Phaseolus
+vulgaris      |
+| [unnamed data series #0] |         0.484792 | 0.528155 | 0.514526 | 0.484792 |         0.528155 | Nicotiana
+tabacum      |
+| [unnamed data series #0] |         1.13399  | 1.23187  | 1.19098  | 1.13399  |         1.23187  | Rafanus
+sativum      |
+| [unnamed data series #0] |         0.923372 | 0.940717 | 0.933284 | 0.923372 |         0.940717 | Lepidium
+sativum      |
+| [unnamed data series #0] |         1.59735  | 1.79929  | 1.76089  | 1.59735  |         1.79929  | Daucus
+carota      |
+| [unnamed data series #0] |         0.370811 | 0.399306 | 0.370811 | 0.370811 |         0.396828 | M9+N |

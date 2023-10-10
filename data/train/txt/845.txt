@@ -1,0 +1,9 @@
+| title     |   [unnamed data series #0] |
+| Naive     |                    90.1099 |
+| Stimulant |                    83.956  |
+| 780       |                    81.978  |
+| 780+
+Stimulant           |                    83.0769 |
+| 786       |                    80.4396 |
+| 786+
+Stimulant           |                    81.5385 |

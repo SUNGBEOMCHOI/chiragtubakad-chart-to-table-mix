@@ -1,0 +1,11 @@
+| title     |   Uncircumcised |
+| Internet  |       75.203    |
+| Newspaper |        0.218809 |
+| Book      |        8.29792  |
+| Lecture   |        0.218809 |
+| TV        |       16.882    |
+| Internet  |       42.3817   |
+| Newspaper |       37.0797   |
+| Book      |        0.218809 |
+| Lecture   |        0.218809 |
+| TV        |       15.8721   |

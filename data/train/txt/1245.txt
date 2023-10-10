@@ -1,0 +1,6 @@
+| Category                 |   first quartile |      max |   median |     min |   third quartile | x          |
+| [unnamed data series #0] |          738.095 |  806.526 |  750.794 | 737.39  |          806.526 | Asarcik    |
+| [unnamed data series #0] |          735.273 |  867.901 |  769.841 | 630.159 |          820.635 | Havza      |
+| [unnamed data series #0] |          743.739 |  944.092 |  807.937 | 607.584 |          862.963 | Kavak      |
+| [unnamed data series #0] |          829.806 | 1018.87  |  901.058 | 751.499 |          950.441 | Ladik      |
+| [unnamed data series #0] |          588.536 |  937.037 |  697.884 | 311.287 |          778.307 | Vezirkopri |

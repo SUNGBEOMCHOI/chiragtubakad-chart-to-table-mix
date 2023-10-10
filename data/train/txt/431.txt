@@ -1,0 +1,4 @@
+| Category                 |   first quartile |      max |    median |       min |   third quartile | x                 |
+| [unnamed data series #0] |          -4.4344 | -1.44746 |  -3.45549 |  -6.59304 |         -2.40127 | Start codons      |
+| [unnamed data series #0] |         -13.5459 | -3.32999 | -11.086   | -18.0388  |         -9.12818 | In-frame AUGs     |
+| [unnamed data series #0] |         -13.3952 | -2.87818 | -10.7346  | -19.1934  |         -8.35007 | Out-of-frame AUGs |

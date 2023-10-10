@@ -1,0 +1,41 @@
+| title                                       |   [unnamed data series #0] |
+| Starch and sucrose metabolism               |                   66.9256  |
+| Phenylpropanoid biosynthesis                |                   66.9256  |
+| Phenylalanine metabolism                    |                   52.945   |
+| Aminobenzoate degradation                   |                   34.8867  |
+| Tryptophan metabolism                       |                   34.8867  |
+| Carotenoid biosynthesis                     |                   31.9741  |
+| Toluene degradation                         |                   31.7799  |
+| Xylene degradation                          |                   31.9741  |
+| Galactose metabolism                        |                   23.8188  |
+| Nitrogen metabolism                         |                   22.8479  |
+| Glutathione metabolism                      |                   20.9061  |
+| Purine metabolism                           |                   18.7702  |
+| Pentose phosphate pathway                   |                   18.7702  |
+| Carbon fixation in photosynthetic organisms |                   17.7994  |
+| Cysteine and methionine metabolism          |                   16.8285  |
+| Pyruvate metabolism                         |                   16.8285  |
+| Alanine, aspartate and glutamate metabolism |                   16.8285  |
+| Glycerophospholipid metabolism              |                   15.8576  |
+| Glyoxylate and dicarboxylate metabolism     |                   13.9159  |
+| Glycolysis/Gluconeogenesis                  |                   13.9159  |
+| Starch and sucrose metabolism               |                   17.7994  |
+| Phenylpropanoid biosynthesis                |                    6.05178 |
+| Phenylalanine metabolism                    |                    4.78964 |
+| Aminobenzoate degradation                   |                    2.94498 |
+| Tryptophan metabolism                       |                    3.04207 |
+| Carotenoid biosynthesis                     |                    3.04207 |
+| Toluene degradation                         |                    2.0712  |
+| Xylene degradation                          |                    1.97411 |
+| Galactose metabolism                        |                    6.92557 |
+| Nitrogen metabolism                         |                    8.86731 |
+| Glutathione metabolism                      |                    5.95469 |
+| Purine metabolism                           |                    6.05178 |
+| Pentose phosphate pathway                   |                    5.95469 |
+| Carbon fixation in photosynthetic organisms |                    6.92557 |
+| Cysteine and methionine metabolism          |                    6.92557 |
+| Pyruvate metabolism                         |                   10.0324  |
+| Alanine, aspartate and glutamate metabolism |                    7.89644 |
+| Glycerophospholipid metabolism              |                    8.86731 |
+| Glyoxylate and dicarboxylate metabolism     |                    0.12945 |
+| Glycolysis/Gluconeogenesis                  |                    7.89644 |

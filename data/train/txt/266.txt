@@ -1,0 +1,43 @@
+| title                            |   pleometrotic |
+| response to external stimulus    |      0         |
+| response to abiotic stimulus     |      0         |
+| cell adhesion                    |      0         |
+| stress-activated MAPK cascade    |      1.01394   |
+| mitochondrial electron transport |      1.01394   |
+| JNK cascade                      |      1.01394   |
+| cytokinesis                      |      1.09194   |
+| regulation of apoptosis          |      1.94989   |
+| phagocytosis                     |      1.94989   |
+| MAPKKK cascade                   |      1.94989   |
+| oxidative phosphorylation        |      2.96383   |
+| lipid metabolism                 |      3.00283   |
+| response to endogenous stimulus  |      3.97777   |
+| endocytosis                      |      3.97777   |
+| apoptosis                        |      3.97777   |
+| carbohydrate metabolism          |      6.00565   |
+| catabolism                       |     11.9333    |
+| death                            |     15.9111    |
+| stress response                  |     17.939     |
+| protein metabolism               |     33.928     |
+| metabolism                       |     40.0117    |
+| response to external stimulus    |      1.94989   |
+| response to abiotic stimulus     |      1.94989   |
+| cell adhesion                    |      3.04183   |
+| stress-activated MAPK cascade    |      0         |
+| mitochondrial electron transport |      0         |
+| JNK cascade                      |      0         |
+| cytokinesis                      |      0         |
+| regulation of apoptosis          |      0         |
+| phagocytosis                     |      1.94989   |
+| MAPKKK cascade                   |      0         |
+| oxidative phosphorylation        |      0         |
+| lipid metabolism                 |      4.95272   |
+| response to endogenous stimulus  |      0.0389978 |
+| endocytosis                      |      3.08082   |
+| apoptosis                        |      0         |
+| carbohydrate metabolism          |      0         |
+| catabolism                       |      0         |
+| death                            |      0         |
+| stress response                  |      0         |
+| protein metabolism               |      0.935946  |
+| metabolism                       |     25.8945    |

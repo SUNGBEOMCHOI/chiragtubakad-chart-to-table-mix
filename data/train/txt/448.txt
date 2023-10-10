@@ -1,0 +1,3 @@
+| title   |   [unnamed data series #0] |
+| 0CGG    |                    1.05193 |
+| 99CGG   |                    5.34386 |

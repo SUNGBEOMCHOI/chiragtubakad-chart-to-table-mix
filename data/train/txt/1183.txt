@@ -1,0 +1,4 @@
+| Category                 |   first quartile |     max |   median |     min |   third quartile | x                                                |
+| [unnamed data series #0] |          1446.47 | 30452.1 |  3623.02 | 398.936 |         12915.2  | Nearest exon of intronic SNPs in NHGRI catalogue |
+| [unnamed data series #0] |          1319.89 | 19547.9 |  3477.23 |   0     |          9185.43 | Nearest exon of ISE SNPs in NHGRI catalogue      |
+| [unnamed data series #0] |          1965.87 | 53457.4 |  7770.38 | 265.957 |         22635.2  | Skipped exon of ISE SNPs in NHGRI catalogue      |

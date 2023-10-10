@@ -1,0 +1,4 @@
+| title     |   [unnamed data series #0] |
+| CH        |                    2.28112 |
+| CH-PEO    |                    1.92582 |
+| CH-PEO/HA |                    1.25652 |

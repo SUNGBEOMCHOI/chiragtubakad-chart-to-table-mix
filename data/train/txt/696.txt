@@ -1,0 +1,17 @@
+| Category                     |        X |         Y |
+| Historical Mortars           |  1.36527 | 0.633019  |
+| Historical Mortars           |  2.79681 | 0.560831  |
+| Historical Mortars           |  3.72156 | 0.572832  |
+| Historical Mortars           |  5.79661 | 0.54606   |
+| Historical Mortars           |  8.48065 | 0.58668   |
+| Historical Mortars           |  7.19502 | 0.44728   |
+| Historical Mortars           |  9.51817 | 0.418661  |
+| Historical Mortars           |  8.59342 | 0.388197  |
+| Historical Mortars           |  8.11977 | 0.376195  |
+| Historical Mortars           | 10.7136  | 0.322651  |
+| Historical Mortars           | 10.9617  | 0.321728  |
+| Historical Mortars           | 13.1946  | 0.147247  |
+| Kaisarini Historical Mortars | 18.3371  | 0.0613914 |
+| Kaisarini Historical Mortars | 15.4432  | 0.166126  |
+| Kaisarini Historical Mortars |  9.24751 | 0.382657  |
+| Kaisarini Historical Mortars |  7.33034 | 0.450973  |

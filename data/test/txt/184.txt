@@ -1,0 +1,33 @@
+| title         |   [unnamed data series #0] |
+| hs _ZFY_long  |                  2.07293   |
+| hs_ZFY_short  |                  0.0307557 |
+| mm_Zfy1_long  |                  0.873462  |
+| mm_Zfy1_short |                 -0.0553603 |
+| mm_Zfy2_long  |                  2.58348   |
+| mm_Zfy2_short |                  0.0553603 |
+| sc_GAL4_AD    |                  3.06886   |
+| pGBKT7-empty  |                  0.0117431 |
+| hs _ZFY_long  |                  2.89104   |
+| hs_ZFY_short  |                  0.104569  |
+| mm_Zfy1_long  |                  1.35325   |
+| mm_Zfy1_short |                  0.0738137 |
+| mm_Zfy2_long  |                  2.84183   |
+| mm_Zfy2_short |                  0.104569  |
+| sc_GAL4_AD    |                  2.29997   |
+| pGBKT7-empty  |                  0.0117431 |
+| hs _ZFY_long  |                  1.02109   |
+| hs_ZFY_short  |                  0.0553603 |
+| mm_Zfy1_long  |                  0.965729  |
+| mm_Zfy1_short |                  0.0184534 |
+| mm_Zfy2_long  |                  3.19244   |
+| mm_Zfy2_short |                  0         |
+| sc_GAL4_AD    |                  7.06151   |
+| pGBKT7-empty  |                  0.0117431 |
+| hs _ZFY_long  |                  0.953427  |
+| hs_ZFY_short  |                  0.0492091 |
+| mm_Zfy1_long  |                  0.965729  |
+| mm_Zfy1_short |                  0.0123023 |
+| mm_Zfy2_long  |                  3.72144   |
+| mm_Zfy2_short |                  0.0123023 |
+| sc_GAL4_AD    |                  2.01702   |
+| pGBKT7-empty  |                  0.0363477 |

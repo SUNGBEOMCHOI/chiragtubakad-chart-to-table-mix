@@ -1,0 +1,15 @@
+| title       |      female |
+| suffocation |   2.82748   |
+| drowning    |  -1.19808   |
+| firearm     |  -0.0958466 |
+| fire        |  -0.479233  |
+| fall        |  23.6262    |
+| poisoning   |  -3.4984    |
+| transport   | -21.1821    |
+| suffocation |   2.44409   |
+| drowning    |  -1.82109   |
+| firearm     |  -0.0958466 |
+| fire        |  -0.239617  |
+| fall        |  12.5559    |
+| poisoning   |  -1.91693   |
+| transport   | -10.9744    |

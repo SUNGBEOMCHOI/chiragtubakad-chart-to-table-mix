@@ -1,0 +1,79 @@
+| Category                            |       X |          Y |
+| Sol-gel publications                | 2008.11 | 7100.72    |
+| Sol-gel publications                | 2007.08 | 6726.67    |
+| Sol-gel publications                | 2006.1  | 5970.78    |
+| Sol-gel publications                | 2005.05 | 5725.31    |
+| Sol-gel publications                | 2004.1  | 5172.02    |
+| Sol-gel publications                | 2003.02 | 4669.39    |
+| Sol-gel publications                | 2002.15 | 3749.85    |
+| Sol-gel publications                | 2001.12 | 3765.44    |
+| Sol-gel publications                | 2000.09 | 3406.97    |
+| Sol-gel publications                | 1999.17 | 2939.41    |
+| Sol-gel publications                | 1998.06 | 2795.25    |
+| Sol-gel publications                | 1997.11 | 2471.85    |
+| Sol-gel publications                | 1996.11 | 1949.74    |
+| Sol-gel publications                | 1995.16 | 1801.68    |
+| Sol-gel publications                | 1994.1  | 1708.16    |
+| Sol-gel publications                | 1992.1  | 1380.87    |
+| Sol-gel publications                | 1993.1  | 1178.26    |
+| Sol-gel publications                | 1991.12 |  932.788   |
+| Sol-gel publications                | 1990.12 |  886.032   |
+| Sol-gel publications                | 1989.09 |  640.561   |
+| Sol-gel publications                | 1988.14 |  628.872   |
+| Sol-gel publications                | 1987.14 |  476.914   |
+| Sol-gel publications                | 1986.08 |  422.365   |
+| Sol-gel publications                | 1985.06 |  184.687   |
+| Sol-gel publications                | 1984    |  153.516   |
+| Sol-gel publications                | 1983.08 |   60.0039  |
+| Sol-gel publications                | 1980.1  |   36.6258  |
+| Sol-gel publications                | 1979.09 |   36.6258  |
+| Sol-gel publications                | 1978.09 |   32.7294  |
+| Sol-gel publications                | 1977.09 |   17.144   |
+| Sol-gel publications                | 1976.06 |   32.7294  |
+| Sol-gel publications                | 1975.09 |   36.6258  |
+| Sol-gel publications                | 1974.08 |   21.0403  |
+| Sol-gel publications                | 1973.08 |   13.2476  |
+| Sol-gel publications                | 1972.08 |   28.833   |
+| Sol-gel publications                | 1971.05 |   36.6258  |
+| Sol-gel publications                | 1970.07 |   30.1318  |
+| Sol-gel publications                | 1981.07 |   64.5496  |
+| Sol-gel publications                | 1982.05 |   41.1715  |
+| Non-hydrolytic sol-gel publications | 2008.01 | 2892.66    |
+| Non-hydrolytic sol-gel publications | 2005.06 | 2695.24    |
+| Non-hydrolytic sol-gel publications | 2006.05 | 2388.73    |
+| Non-hydrolytic sol-gel publications | 2007.08 | 2393.92    |
+| Non-hydrolytic sol-gel publications | 2003.96 | 2097.8     |
+| Non-hydrolytic sol-gel publications | 2003.04 | 1708.16    |
+| Non-hydrolytic sol-gel publications | 2002.15 | 1692.58    |
+| Non-hydrolytic sol-gel publications | 2001.02 | 1505.55    |
+| Non-hydrolytic sol-gel publications | 1999.99 | 1095.14    |
+| Non-hydrolytic sol-gel publications | 1998.07 | 1100.33    |
+| Non-hydrolytic sol-gel publications | 1993.99 | 1012.01    |
+| Non-hydrolytic sol-gel publications | 1992    |  799.013   |
+| Non-hydrolytic sol-gel publications | 1993.03 |  398.987   |
+| Non-hydrolytic sol-gel publications | 1995.05 |  591.207   |
+| Non-hydrolytic sol-gel publications | 1996.05 |  601.598   |
+| Non-hydrolytic sol-gel publications | 1997.01 |  414.572   |
+| Non-hydrolytic sol-gel publications | 1999.03 |  606.793   |
+| Non-hydrolytic sol-gel publications | 1991.04 |  191.181   |
+| Non-hydrolytic sol-gel publications | 1988.99 |  398.987   |
+| Non-hydrolytic sol-gel publications | 1988.06 |  134.035   |
+| Non-hydrolytic sol-gel publications | 1987.04 |  289.889   |
+| Non-hydrolytic sol-gel publications | 1986.04 |  108.059   |
+| Non-hydrolytic sol-gel publications | 1983.95 |   92.4735  |
+| Non-hydrolytic sol-gel publications | 1982.99 |  289.889   |
+| Non-hydrolytic sol-gel publications | 1980.97 |   40.5221  |
+| Non-hydrolytic sol-gel publications | 1982.07 |   97.6687  |
+| Non-hydrolytic sol-gel publications | 1967.13 |    4.15611 |
+| Non-hydrolytic sol-gel publications | 1971.07 |  108.059   |
+| Non-hydrolytic sol-gel publications | 1990.08 |   87.2784  |
+| Non-hydrolytic sol-gel publications | 1964.11 |   87.2784  |
+| Non-hydrolytic sol-gel publications | 1973.08 |  106.76    |
+| Non-hydrolytic sol-gel publications | 1969.07 |    1.55854 |
+| Non-hydrolytic sol-gel publications | 1968.1  |    9.35126 |
+| Non-hydrolytic sol-gel publications | 1962.06 |   -2.33781 |
+| Non-hydrolytic sol-gel publications | 1961.05 |  118.449   |
+| Non-hydrolytic sol-gel publications | 1960.05 |   11.2994  |
+| Non-hydrolytic sol-gel publications | 1963.03 |  104.812   |
+| Non-hydrolytic sol-gel publications | 1965.04 |  112.605   |
+| Non-hydrolytic sol-gel publications | 1966.04 |  108.708   |

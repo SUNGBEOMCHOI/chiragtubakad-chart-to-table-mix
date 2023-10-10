@@ -1,0 +1,13 @@
+| title     |     MVPA |
+| HEPA high | 2.23042  |
+| HEPA low  | 1.49081  |
+| PA high   | 1.86134  |
+| PA mid    | 1.3837   |
+| PA low    | 1.05804  |
+| inactive  | 0.667246 |
+| HEPA high | 2.34766  |
+| HEPA low  | 1.9091   |
+| PA high   | 2.69504  |
+| PA mid    | 2.352    |
+| PA low    | 2.08713  |
+| inactive  | 1.7745   |

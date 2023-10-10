@@ -1,0 +1,24 @@
+| Category                      |       X |        Y |
+| (recoating)
+ZTA20-R2                               | 73.5717 | 5.61134  |
+| (recoating)
+ZTA20-R1                               | 82.4496 | 3.25911  |
+| (immersion infiltration)
+ ZTA20-50-60                               | 87.3345 | 2.53644  |
+| Al_{2}O_{3}-Infiltration^{15} | 91.7097 | 0.892713 |
+| ZrO_{2}-Recoating^{17}        | 91.0301 | 0.864372 |
+| SiC-Recoating^{20}            | 81.9823 | 0.779352 |
+| SiC-Recoating^{20}            | 77.0549 | 1.19028  |
+| SiC-Recoating^{20}            | 73.954  | 1.60121  |
+| SiC-Infiltration^{16}         | 84.0637 | 1.23279  |
+| ZTA-Infiltration^{15}         | 90.223  | 1.99798  |
+| ZrO_{2}-Infiltration^{17}     | 91.0301 | 1.5587   |
+| Al_{2}O_{3}-Infiltration^{18} | 92.4743 | 1.09109  |
+| Al_{2}O_{3}-Recoating^{22}    | 75.908  | 2.90486  |
+| ZrO_{2}-Recoating^{24}        | 80.0708 | 2.30972  |
+| SiC-Recoating^{21}            | 81.0053 | 1.31781  |
+| SiC-Recoating^{21}            | 74.0389 | 1.88462  |
+| ZTA20-80
+(base foams)                               | 89.9257 | 1.06275  |
+| ZTA20-60-60 
+(immersion infiltration)                               | 86.315  | 2.67814  |

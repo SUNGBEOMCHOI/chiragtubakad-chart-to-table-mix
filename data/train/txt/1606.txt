@@ -1,0 +1,29 @@
+| Category            |        X |        Y |
+| No defect           |  20.6202 |  99.9581 |
+| No defect           |  20.4651 |  80.4817 |
+| No defect           |  20.4651 |  60.377  |
+| No defect           |  30.4134 |  59.9581 |
+| No defect           |  30.4134 |  80.0628 |
+| No defect           |  30.3359 |  99.9581 |
+| No defect           |  40.2584 | 100.168  |
+| No defect           |  40.5685 |  80.0628 |
+| No interlock        |  60.2067 |  80.0279 |
+| No interlock        | 100.103  |  19.5742 |
+| No interlock        | 100.103  |  39.9581 |
+| No interlock        | 100.207  |  60.0628 |
+| No interlock        | 100.103  |  79.7487 |
+| No interlock        |  80.155  |  79.8883 |
+| No interlock        |  80.155  |  59.9232 |
+| No interlock        |  80.2584 |  39.9581 |
+| No interlock        | 100.155  |  99.9581 |
+| No interlock        |  80      |  99.9581 |
+| No interlock        |  60.155  | 100.168  |
+| Upper foil fracture |  80.2584 |  20.1326 |
+| Upper foil fracture |  60.3101 |  20.1326 |
+| Upper foil fracture |  60.3101 |  39.8185 |
+| Upper foil fracture |  60.2067 |  60.2024 |
+| Upper foil fracture |  40.155  |  60.0628 |
+| Upper foil fracture |  40.155  |  40.0977 |
+| Upper foil fracture |  40.155  |  19.993  |
+| Upper foil fracture |  20.3101 |  19.993  |
+| Upper foil fracture |  20.4134 |  39.8185 |

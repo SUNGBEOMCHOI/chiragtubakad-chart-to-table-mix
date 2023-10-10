@@ -1,0 +1,7 @@
+| title   |   [unnamed data series #0] |
+| BMI     |                    31.5693 |
+| Chol    |                    18.7956 |
+| SBP     |                    12.7129 |
+| DBP     |                    12.4088 |
+| F&V     |                    89.6594 |
+| PA      |                    99.6959 |

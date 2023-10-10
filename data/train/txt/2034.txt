@@ -1,0 +1,21 @@
+| title         |   ZrO2PHR 1 |
+| PT GPTMS 1%   |     7.16185 |
+| PT GPTMS 3%   |     8.8526  |
+| SAND GPTMS 1% |    10.5434  |
+| SAND GPTMS 3% |    11.1936  |
+| SAND GPTMS 5% |    11.0202  |
+| PT GPTMS 1%   |     8.07225 |
+| PT GPTMS 3%   |     9.50289 |
+| SAND GPTMS 1% |    10.8035  |
+| SAND GPTMS 3% |    11.4971  |
+| SAND GPTMS 5% |    11.5405  |
+| PT GPTMS 1%   |     6.03468 |
+| PT GPTMS 3%   |     9.50289 |
+| SAND GPTMS 1% |    11.3237  |
+| SAND GPTMS 3% |    11.8006  |
+| SAND GPTMS 5% |    12.3642  |
+| PT GPTMS 1%   |     4.99422 |
+| PT GPTMS 3%   |    10.5434  |
+| SAND GPTMS 1% |    11.7139  |
+| SAND GPTMS 3% |    12.4075  |
+| SAND GPTMS 5% |    12.422   |

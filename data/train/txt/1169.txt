@@ -1,0 +1,7 @@
+| title   |   [unnamed data series #0] |
+| pGL3P   |                  106.072   |
+| pGL3B   |                    1.20164 |
+| mNaipa  |                  109.895   |
+| mNaipb  |                  113.719   |
+| mNaipe  |                   53.0906  |
+| mNaipf  |                   17.0414  |

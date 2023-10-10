@@ -1,0 +1,7 @@
+| title                      |   Normal weight (BMI <25) |
+| Iraqi men and women N=96   |                  0.158016 |
+| Swedish men and women N=79 |                  0.328033 |
+| Iraqi men and women N=96   |                  0.392039 |
+| Swedish men and women N=79 |                  0.40204  |
+| Iraqi men and women N=96   |                  0.448045 |
+| Swedish men and women N=79 |                  0.268027 |

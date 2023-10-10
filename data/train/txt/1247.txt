@@ -1,0 +1,23 @@
+| Category                           |        X |            Y |
+| Holstein Reference                 | 444438   |  0.250376    |
+| Holstein Reference                 | 238862   |  0.0608265   |
+| Jersey Reference                   | 445128   |  0.0362363   |
+| Combined Holstein Jersey Reference | 446680   |  0.32944     |
+| Combined Holstein Jersey Reference |  50704.2 |  0.00191257  |
+| Combined Holstein Jersey Reference |  74849.1 |  0.00191257  |
+| Combined Holstein Jersey Reference |  98994   |  0.00191257  |
+| Combined Holstein Jersey Reference | 236620   |  0.00191257  |
+| Combined Holstein Jersey Reference | 260765   |  0.00191257  |
+| Combined Holstein Jersey Reference | 282495   | -0.000478142 |
+| Combined Holstein Jersey Reference | 564990   |  0.00191257  |
+| Combined Holstein Jersey Reference | 593964   |  0.00191257  |
+| Combined Holstein Jersey Reference | 680885   |  0.00191257  |
+| Combined Holstein Jersey Reference | 741247   |  0.00191257  |
+| Combined Holstein Jersey Reference | 760563   |  0.00191257  |
+| Combined Holstein Jersey Reference | 811268   |  0.00191257  |
+| Combined Holstein Jersey Reference | 830584   |  0.00191257  |
+| Combined Holstein Jersey Reference | 852314   |  0.000717213 |
+| Combined Holstein Jersey Reference | 893360   |  0.000717213 |
+| Combined Holstein Jersey Reference | 929577   |  0.000717213 |
+| Combined Holstein Jersey Reference | 994769   |  0.00310792  |
+| DGAT1                              | 444266   |  0.00191257  |

@@ -1,0 +1,23 @@
+| title          |   Adaption Actions |
+| United States  |              0.39  |
+| Switzerland    |              0.14  |
+| Canada         |              0.18  |
+| France         |              0.67  |
+| United Kingdom |              0.39  |
+| Belgium        |              0.53  |
+| Australia      |              0.375 |
+| Luxemborg      |              0.86  |
+| New Zealand    |              0.5   |
+| Ireland        |              0.33  |
+| Average        |              0.38  |
+| United States  |              0.61  |
+| Switzerland    |              0.86  |
+| Canada         |              0.82  |
+| France         |              0.33  |
+| United Kingdom |              0.61  |
+| Belgium        |              0.47  |
+| Australia      |              0.625 |
+| Luxemborg      |              0.14  |
+| New Zealand    |              0.5   |
+| Ireland        |              0.67  |
+| Average        |              0.62  |

@@ -1,0 +1,11 @@
+| title         |   [unnamed data series #0] |
+| DNA-binding   |                2.99606e-56 |
+| transcription |                6.45922e-55 |
+| zinc-finger   |                6.49901e-43 |
+| KRTAB box     |                1.91062e-35 |
+| development   |                8.92598e-23 |
+| membrane      |                3.06116e-14 |
+| glycoprotien  |                1.42135e-13 |
+| signal        |                6.59957e-13 |
+| homeobox      |                2.63218e-09 |
+| cell adhesion |                8.99937e-07 |

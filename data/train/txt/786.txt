@@ -1,0 +1,43 @@
+| Category                                      |        X |        Y |
+| Solid Aluminium block                         | 19.4131  |  264.876 |
+| Solid Aluminium block                         |  9.42463 |  108.788 |
+| Solid Aluminium block                         | 29.2405  |  444.613 |
+| Solid Aluminium block                         | 39.1887  |  649.182 |
+| Solid Aluminium block                         | 49.0564  |  857.298 |
+| Solid Aluminium block                         | 58.9643  | 1091.43  |
+| Solid Aluminium block                         | 68.832   | 1342.12  |
+| Aluminium foam (phi=0.85 | 2.5 PPI)           | 68.9459  | 2441.5   |
+| Aluminium foam (phi=0.85 | 2.5 PPI)           | 49.0893  | 1552.55  |
+| Aluminium foam (phi=0.85 | 2.5 PPI)           | 39.564   | 1157.6   |
+| Aluminium foam (phi=0.85 | 2.5 PPI)           | 58.9167  | 1975.88  |
+| Aluminium foam (phi=0.85 | 2.5 PPI)           | 10.4114  |  172.642 |
+| Aluminium foam (phi=0.85 | 2.5 PPI)           | 19.111   |  413.868 |
+| Aluminium foam (phi=0.85 | 2.5 PPI)           | 29.8462  |  793.058 |
+| Aluminium foam (phi= 0.946 | 10 PPI)          | 68.9948  | 2234.68  |
+| Aluminium foam (phi= 0.946 | 10 PPI)          | 59.5282  | 1854.13  |
+| Aluminium foam (phi= 0.946 | 10 PPI)          | 45.983   | 1292.78  |
+| Aluminium foam (phi= 0.946 | 10 PPI)          | 39.954   | 1087.88  |
+| Aluminium foam (phi= 0.946 | 10 PPI)          | 30.6904  |  756.787 |
+| Aluminium foam (phi= 0.946 | 10 PPI)          | 20.1381  |  430.423 |
+| Aluminium foam (phi= 0.946 | 10 PPI)          |  8.53855 |  146.628 |
+| Solid Aluminum block (painted)                | 68.3487  | 1949.91  |
+| Solid Aluminum block (painted)                | 58.5213  | 1595.17  |
+| Solid Aluminum block (painted)                | 48.855   | 1271.17  |
+| Solid Aluminum block (painted)                | 39.5109  |  961.357 |
+| Solid Aluminum block (painted)                | 29.5224  |  687.021 |
+| Solid Aluminum block (painted)                | 19.6145  |  418.598 |
+| Solid Aluminum block (painted)                |  9.90794 |  186.832 |
+| Aluminium foam (phi=0.85 | 2.5 PPI | painted) | 56.6341  | 2159.55  |
+| Aluminium foam (phi=0.85 | 2.5 PPI | painted) | 46.1565  | 1655.47  |
+| Aluminium foam (phi=0.85 | 2.5 PPI | painted) | 66.2946  | 2625.11  |
+| Aluminium foam (phi=0.85 | 2.5 PPI | painted) |  7.63234 |  167.321 |
+| Aluminium foam (phi=0.85 | 2.5 PPI | painted) | 36.3209  | 1240.61  |
+| Aluminium foam (phi=0.85 | 2.5 PPI | painted) | 26.3115  |  820.984 |
+| Aluminium foam (phi=0.85 | 2.5 PPI | painted) | 16.6703  |  454.9   |
+| Aluminium foam (phi=0.946 | 10 PPI | painted  |  9.74684 |  198.657 |
+| Aluminium foam (phi=0.946 | 10 PPI | painted  | 19.6548  |  477.722 |
+| Aluminium foam (phi=0.946 | 10 PPI | painted  | 27.636   |  736.234 |
+| Aluminium foam (phi=0.946 | 10 PPI | painted  | 39.7123  | 1236.87  |
+| Aluminium foam (phi=0.946 | 10 PPI | painted  | 49.1817  | 1591.36  |
+| Aluminium foam (phi=0.946 | 10 PPI | painted  | 57.6025  | 1924.63  |
+| Aluminium foam (phi=0.946 | 10 PPI | painted  | 67.0196  | 2308.2   |

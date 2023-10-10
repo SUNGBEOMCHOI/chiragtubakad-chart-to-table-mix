@@ -1,0 +1,14 @@
+| title                                   |   [unnamed data series #0] |
+| Mean Relative humidity (%)              |                        0   |
+| Max temprature of warmest month(C)      |                        0   |
+| Annual precipitation(mm)                |                        0.1 |
+| Distance to live poultry market(km)     |                        0.4 |
+| Precipitation of wettest month          |                        0.4 |
+| Distance to bird migratory route(km)    |                        1   |
+| Annual mean temprature(C)               |                        1.6 |
+| Distance to wetland(km)                 |                        2.4 |
+| Min temprature of coldest month(C)      |                        3.3 |
+| Precipitation of driest month(mm)       |                       15.3 |
+| Human population density(km-2)          |                       17.7 |
+| Distance to live poultry farm(km)       |                       17.7 |
+| Distance to live poultry processing(km) |                       39.9 |

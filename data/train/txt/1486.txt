@@ -1,0 +1,11 @@
+| title           |   Before |
+| Au              |     64.6 |
+| TaC/Au          |     48.9 |
+| HfC/Au          |   1122   |
+| 30TaC 7OHfC/Au  |     34.4 |
+| 70TaC 30 HfC/Au |     33.1 |
+| Au              |     18.9 |
+| TaC/Au          |     22.5 |
+| HfC/Au          |     95.4 |
+| 30TaC 7OHfC/Au  |     20.4 |
+| 70TaC 30 HfC/Au |     25.7 |

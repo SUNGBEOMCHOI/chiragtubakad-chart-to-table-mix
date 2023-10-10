@@ -1,0 +1,4 @@
+| Category                 |   first quartile |     max |   median |     min |   third quartile | x         |
+| [unnamed data series #0] |          31.7228 | 43.1986 |  33.4192 | 25.0369 |          36.4129 | "Blanco”  |
+| [unnamed data series #0] |          37.5106 | 57.0694 |  40.7039 | 28.9287 |          45.5936 | “Mestizo” |
+| [unnamed data series #0] |          52.4791 | 85.9086 |  60.3625 | 36.0138 |          66.749  | "Negro”   |

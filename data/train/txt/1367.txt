@@ -1,0 +1,40 @@
+| title                                  |   Willing |
+| General willingness to paticipate      | 0.607337  |
+| Offer to receive summary results       | 0.725953  |
+| Name obtained from GIP                 | 0.591781  |
+| Name obtained from electoral roll      | 0.389551  |
+| Telephone number from phone book       | 0.361032  |
+| Randomly dialled phone number          | 0.378533  |
+| Funding by Drug company                | 0.392144  |
+| Funding by Charity                     | 0.746046  |
+| Funding by Government                  | 0.808271  |
+| Research to prevent disease            | 0.875032  |
+| Research to treat disease              | 0.828364  |
+| Research to plan hospital services     | 0.786881  |
+| Experience of disease being researched | 0.887348  |
+| General willingness to paticipate      | 0.28001   |
+| Offer to receive summary results       | 0.197693  |
+| Name obtained from GIP                 | 0.157506  |
+| Name obtained from electoral roll      | 0.284548  |
+| Telephone number from phone book       | 0.280659  |
+| Randomly dialled phone number          | 0.278714  |
+| Funding by Drug company                | 0.320197  |
+| Funding by Charity                     | 0.185377  |
+| Funding by Government                  | 0.141302  |
+| Research to prevent disease            | 0.0946331 |
+| Research to treat disease              | 0.133523  |
+| Research to plan hospital services     | 0.157506  |
+| Experience of disease being researched | 0.0777807 |
+| General willingness to paticipate      | 0.110837  |
+| Offer to receive summary results       | 0.075188  |
+| Name obtained from GIP                 | 0.24825   |
+| Name obtained from electoral roll      | 0.324086  |
+| Telephone number from phone book       | 0.355847  |
+| Randomly dialled phone number          | 0.340939  |
+| Funding by Drug company                | 0.285844  |
+| Funding by Charity                     | 0.0667617 |
+| Funding by Government                  | 0.0492611 |
+| Research to prevent disease            | 0.0291677 |
+| Research to treat disease              | 0.0356495 |
+| Research to plan hospital services     | 0.0544465 |
+| Experience of disease being researched | 0.033705  |

@@ -1,0 +1,13 @@
+| title          |   18+ years |
+| Concurrent     |   0.24652   |
+| Gap 1-3 months |   0.368329  |
+| Gap 4+ Months  |   0.37123   |
+| Monogamous     |   0.427784  |
+| Concurrent     |   0.50319   |
+| Gap 1-3 months |   0.426334  |
+| Gap 4+ Months  |   0.536543  |
+| Monogamous     |   0.464037  |
+| Concurrent     |   0.25522   |
+| Gap 1-3 months |   0.207367  |
+| Gap 4+ Months  |   0.0928074 |
+| Monogamous     |   0.108759  |

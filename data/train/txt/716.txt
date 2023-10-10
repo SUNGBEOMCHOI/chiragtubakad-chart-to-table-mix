@@ -1,0 +1,17 @@
+| title   |   Indoor |
+| winter  |  56.1692 |
+| spring  |  63.091  |
+| winter  |  78.0883 |
+| spring  |  72.7046 |
+| winter  |  91.8037 |
+| spring  |  53.4774 |
+| winter  |  96.931  |
+| spring  |  81.5492 |
+| winter  |  39.2492 |
+| spring  |  36.942  |
+| winter  |  43.6074 |
+| spring  |  32.071  |
+| winter  |  66.6801 |
+| spring  |  20.7911 |
+| winter  |  50.0165 |
+| spring  |  19.2529 |

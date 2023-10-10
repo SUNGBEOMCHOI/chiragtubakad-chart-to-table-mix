@@ -1,0 +1,15 @@
+| title            |   Language other than English (LOTE) |
+| Terrorism likely |                             0.527937 |
+| Concerned self or family
+would be directly
+affected                  |                             1.56366  |
+| Changed way of living
+due to possibility of 
+terrorism                  |                             2.46035  |
+| Terrorism likely |                             1.00147  |
+| Concerned self or family
+would be directly
+affected                  |                             1.00348  |
+| Changed way of living
+due to possibility of 
+terrorism                  |                             1.00348  |

@@ -1,0 +1,25 @@
+| title      |   > 4 hours |
+| TV         |  0.166782   |
+| Radio      |  0.23975    |
+| Newspapers |  0.00347464 |
+| Internet   |  0.229326   |
+| TV         |  0.205003   |
+| Radio      |  0.0799166  |
+| Newspapers |  0.0104239  |
+| Internet   |  0.152884   |
+| TV         |  0.243224   |
+| Radio      |  0.0833912  |
+| Newspapers |  0.0312717  |
+| Internet   |  0.23975    |
+| TV         |  0.232801   |
+| Radio      |  0.166782   |
+| Newspapers |  0.208478   |
+| Internet   |  0.295344   |
+| TV         |  0.121612   |
+| Radio      |  0.309243   |
+| Newspapers |  0.451703   |
+| Internet   |  0.0694927  |
+| TV         |  0.0243224  |
+| Radio      |  0.114663   |
+| Newspapers |  0.288395   |
+| Internet   |  0.00694927 |

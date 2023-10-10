@@ -1,0 +1,33 @@
+| title                |   Single |
+| IDU                  |       15 |
+| Non IDU              |       35 |
+| High Risk Sex        |       39 |
+| Imprisonment         |        7 |
+| IDU Spouse           |        0 |
+| NIDU Spouse          |        0 |
+| High Risk Sex Spouse |        0 |
+| Prisoner Spouse      |        0 |
+| IDU                  |       26 |
+| Non IDU              |       79 |
+| High Risk Sex        |       49 |
+| Imprisonment         |       21 |
+| IDU Spouse           |       14 |
+| NIDU Spouse          |       41 |
+| High Risk Sex Spouse |       21 |
+| Prisoner Spouse      |       55 |
+| IDU                  |       30 |
+| Non IDU              |       56 |
+| High Risk Sex        |       63 |
+| Imprisonment         |       25 |
+| IDU Spouse           |        8 |
+| NIDU Spouse          |       27 |
+| High Risk Sex Spouse |       13 |
+| Prisoner Spouse      |       12 |
+| IDU                  |        3 |
+| Non IDU              |       19 |
+| High Risk Sex        |        5 |
+| Imprisonment         |        1 |
+| IDU Spouse           |        5 |
+| NIDU Spouse          |       11 |
+| High Risk Sex Spouse |        5 |
+| Prisoner Spouse      |        3 |

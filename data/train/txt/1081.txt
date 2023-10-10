@@ -1,0 +1,12 @@
+| Category                 |   first quartile |     max |   median |       min |   third quartile | x   |
+| [unnamed data series #0] |          5.42683 | 14.3902 |  6.89024 | 3.23171   |          9.5122  | CT to post
+treatment MRI
+(affine)     |
+| [unnamed data series #0] |          8.41463 | 17.439  | 11.0976  | 0.0609756 |         14.6341  | CT to post
+treatment MRI
+(elastic)     || [unnamed data series #0] |          3.71951 | 17.0122 |  6.09756 | 0.792683  |          9.69512 | MRI to post
+treatment MRI
+(affine)     |
+| [unnamed data series #0] |          7.07317 | 19.939  |  8.23171 | 3.23171   |         13.0488  | MRI to post
+treatment MRI
+(elastic)     |

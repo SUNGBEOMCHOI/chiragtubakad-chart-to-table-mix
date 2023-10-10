@@ -1,0 +1,16 @@
+| title                                                          |   A: Foster caregivers |
+| Pessimistic about orphans ' life chances                       |                15.5448 |
+| Child's health or age is most important in fostering decision  |                16.7702 |
+| Very worried about becoming infected with HIV                  |                33.6948 |
+| Biological children come first when source are limited         |                19.6886 |
+| Don't believe fun ure foster caregivers gain community respect |                17.3029 |
+| Pessimistic about orphans ' life chances                       |                11.176  |
+| Child's health or age is most important in fostering decision  |                20.7127 |
+| Very worried about becoming infected with HIV                  |                27.1534 |
+| Biological children come first when source are limited         |                24.4599 |
+| Don't believe fun ure foster caregivers gain community respect |                17.5338 |
+| Pessimistic about orphans ' life chances                       |                29.2905 |
+| Child's health or age is most important in fostering decision  |                27.6388 |
+| Very worried about becoming infected with HIV                  |                47.345  |
+| Biological children come first when source are limited         |                25.0082 |
+| Don't believe fun ure foster caregivers gain community respect |                23.4595 |

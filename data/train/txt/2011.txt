@@ -1,0 +1,18 @@
+| title                    |   Radiant cooling desk |
+| Easy                     |             75.0744    |
+| Economical               |              0.0744048 |
+| Effective                |             80.2083    |
+| Safe                     |            100.298     |
+| Willingness (free mode)  |             75.0744    |
+| willingness(charge mode) |              4.7619    || Easy                     |             75.0744    |
+| Economical               |             60.119     |
+| Effective                |             70.1637    |
+| Safe                     |            100.298     |
+| Willingness (free mode)  |             70.1637    |
+| willingness(charge mode) |             50.0744    |
+| Easy                     |             70.1637    |
+| Economical               |             -0.0372024 |
+| Effective                |             90.253     |
+| Safe                     |            100.298     |
+| Willingness (free mode)  |             90.253     |
+| willingness(charge mode) |              4.7619    |

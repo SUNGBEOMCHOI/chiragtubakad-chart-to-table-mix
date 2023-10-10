@@ -1,0 +1,13 @@
+| title       |    SVM-SMO |
+| Accuracy    |  0.746706  |
+| Sensitivity |  0.7245    |
+| Specificity |  0.778682  |
+| MCC         |  0.502443  |
+| Accuracy    |  0.544634  |
+| Sensitivity |  0.504663  |
+| Specificity |  0.582383  |
+| MCC         |  0.0805329 |
+| Accuracy    |  0.475796  |
+| Sensitivity |  0.460252  |
+| Specificity |  0.49134   |
+| MCC         | -0.0544782 |

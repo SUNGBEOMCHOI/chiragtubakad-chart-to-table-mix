@@ -1,0 +1,5 @@
+| Category                 |   first quartile |       max |     median |        min |   third quartile | x                       |
+| [unnamed data series #0] |       0.0619015  | 0.260944  | 0.0803694  | 0.0516416  |        0.19186   | Medical examiners       |
+| [unnamed data series #0] |       0.0516416  | 0.251368  | 0.0906293  | 0.0406977  |        0.211696  | Post-graduated students |
+| [unnamed data series #0] |       0.0413817  | 0.241108  | 0.0810534  | 0.0413817  |        0.120725  | Indoor                  |
+| [unnamed data series #0] |       0.00102599 | 0.0126539 | 0.00991792 | 0.00102599 |        0.0126539 | Outdoor                 |

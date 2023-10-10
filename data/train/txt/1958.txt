@@ -1,0 +1,16 @@
+| title             |    normal |
+| control           | 98.6257   |
+| Rxra;g^{Spg-/-}   | 96.5891   |
+| Rxrb;g^{Spg-/-}   | 97.4619   |
+| Rxra;b^{Spg-/-}   | 50.0402   |
+| Rxra;b;g^{Spg-/-} | 45.8701   |
+| control           |  0.290931 |
+| Rxra;g^{Spg-/-}   |  2.03652  |
+| Rxrb;g^{Spg-/-}   |  0.290931 |
+| Rxra;b^{Spg-/-}   | 18.9105   |
+| Rxra;b;g^{Spg-/-} | 15.1284   |
+| control           |  0.290931 |
+| Rxra;g^{Spg-/-}   |  0.581862 |
+| Rxrb;g^{Spg-/-}   |  1.45466  |
+| Rxra;b^{Spg-/-}   | 30.2568   |
+| Rxra;b;g^{Spg-/-} | 38.4029   |

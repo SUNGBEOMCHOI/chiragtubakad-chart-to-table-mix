@@ -1,0 +1,10 @@
+| title                                                                |   [unnamed data series #0] |
+| Frightened, heard negative reports about vaccine safety/side effects |                   52.1805  |
+| Didn't receive consent letter                                        |                   22.8195  |
+| Don't know enough about it to decide                                 |                   13.6917  |
+| Allergy                                                              |                    4.56389 |
+| Daughter didn’t want an injection                                    |                    2.73834 |
+| Daughter won't be able to have a baby                                |                    2.73834 |
+| Absent during vaccine program                                        |                    2.73834 |
+| Consider daughter too young                                          |                    2.12982 |
+| No reason given                                                      |                    2.58621 |

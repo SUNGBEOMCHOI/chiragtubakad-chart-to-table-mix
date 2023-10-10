@@ -1,0 +1,13 @@
+| title                      |   [unnamed data series #0] |
+| Chest pain, tightness      |                    1.47453 |
+| Loss of apetite            |                    2.27882 |
+| Body weakness              |                    3.75335 |
+| Diarrhoea                  |                    4.02145 |
+| Runny nose                 |                    4.82574 |
+| Joint pain                 |                    6.70241 |
+| others                     |                    8.71314 |
+| Abdominal pain, Discomfort |                   11.2601  |
+| Vomitting                  |                   12.8686  |
+| Cough                      |                   21.1796  |
+| Headache                   |                   35.6568  |
+| Fever                      |                   93.0295  |

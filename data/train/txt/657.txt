@@ -1,0 +1,11 @@
+| title                             |   24 hours |
+| Control                           |   100.265  |
+| HSA-NPs                           |    88.8064 |
+| PTX-HSA-NPs (PTX - 31.4 \mu g/mL) |    61.7507 |
+| PTX-HSA-NPs (PTX - 20.2 \mu g/mL) |    69.7082 |
+| PTX-HSA-NPs (PTX - 8 \mu g/mL)    |    72.5729 |
+| Control                           |   100.265  |
+| HSA-NPs                           |    85.305  |
+| PTX-HSA-NPs (PTX - 31.4 \mu g/mL) |    22.9178 |
+| PTX-HSA-NPs (PTX - 20.2 \mu g/mL) |    39.4695 |
+| PTX-HSA-NPs (PTX - 8 \mu g/mL)    |    51.8833 |

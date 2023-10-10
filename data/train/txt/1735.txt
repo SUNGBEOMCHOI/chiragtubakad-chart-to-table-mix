@@ -1,0 +1,11 @@
+| title                           |   [unnamed data series #0] |
+| Vaginal Bleeding                |                   47.8358  |
+| Dysuria                         |                   41.8657  |
+| Pain During Defication          |                   35.037   |
+| Persistent Genital Pain         |                   28.0451  |
+| Anal Bleeding                   |                    9.77778 |
+| Urinary Incontinence            |                    4.88889 |
+| Foul Smelling Vaginal Discharge |                    3.85185 |
+| Sleep Terror                    |                    2.81481 |
+| Itching around Genitalia        |                    2.07407 |
+| Fecal Incontinence              |                    1.92593 |

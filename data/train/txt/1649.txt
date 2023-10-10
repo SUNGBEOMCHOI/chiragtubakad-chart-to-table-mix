@@ -1,0 +1,7 @@
+| title                |   [unnamed data series #0] |
+| total                |                    36.4977 |
+| 35 years and younger |                    25.8671 |
+| 36-55 years          |                    38.6599 |
+| 56 years and older   |                    37.8491 |
+| good                 |                    34.9662 |
+| poor/bad             |                    49.741  |

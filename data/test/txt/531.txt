@@ -1,0 +1,6 @@
+| title                   |   Number of children |
+| Positive via EID        |             3181.82  |
+| Received Results        |             2731.06  |
+| Enrolled in HIV care    |             2320.08  |
+| Initiated on ART        |             1153.41  |
+| Alive and active on ART |              861.742 |

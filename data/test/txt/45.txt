@@ -1,0 +1,5 @@
+| Category                 |   first quartile |      max |   median |       min |   third quartile | x   |
+| [unnamed data series #0] |         0.443615 | 0.823798 | 0.53068  | 0.225954  |         0.600332 | ASW |
+| [unnamed data series #0] |         0.434909 | 0.780265 | 0.501658 | 0.228856  |         0.577114 | ASN |
+| [unnamed data series #0] |         0.324627 | 0.745439 | 0.443615 | 0.0721393 |         0.559701 | CEU |
+| [unnamed data series #0] |         0.388474 | 0.86733  | 0.495854 | 0.162106  |         0.588723 | YRI |

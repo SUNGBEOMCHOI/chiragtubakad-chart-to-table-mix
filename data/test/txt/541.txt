@@ -1,0 +1,16 @@
+| title              |        A |
+| Site 1 (Woodlands) |  7.44763 |
+| Site 2 (Langham)   |  0       |
+| Site 3 (Bear)      |  0       |
+| Site 1 (Woodlands) | 31.187   |
+| Site 2 (Langham)   | 38.4794  |
+| Site 3 (Bear)      | 80.6827  |
+| Site 1 (Woodlands) | 39.5656  |
+| Site 2 (Langham)   | 36.3072  |
+| Site 3 (Bear)      |  9.30954 |
+| Site 1 (Woodlands) | 20.0155  |
+| Site 2 (Langham)   | 18.6191  |
+| Site 3 (Bear)      |  9.30954 |
+| Site 1 (Woodlands) |  1.86191 |
+| Site 2 (Langham)   |  6.0512  |
+| Site 3 (Bear)      |  1.39643 |

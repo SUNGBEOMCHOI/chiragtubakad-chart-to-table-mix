@@ -1,0 +1,11 @@
+| Category                 |   first quartile |        max |   median |      min |   third quartile | x   |
+| [unnamed data series #0] |         -5.19421 | -0.965675  | -3.9573  | -8.19527 |       -1.94629   | moderate myopia
+(<=-3.0)     |
+| [unnamed data series #0] |         -3.21297 |  2.04577   | -1.69916 | -6.95652 |       -0.698248  | mild myopia
+(<=-0.5 to >-3.0)     |
+| [unnamed data series #0] |         -2.94441 |  1.53318   | -1.34145 | -6.70023 |       -0.479845  | emmetropia
+(>-0.50 to <+0.50)     |
+| [unnamed data series #0] |         -2.46723 |  0.550725  | -1.45925 | -5.97407 |        0.0168857 | mid hyperopia
+(>=+0.5 to <+2.0)     |
+| [unnamed data series #0] |         -2.22253 |  0.0381388 | -1.45681 | -3.7315  |       -0.214997  | significant hyperopia
+(>=+2.0)     |

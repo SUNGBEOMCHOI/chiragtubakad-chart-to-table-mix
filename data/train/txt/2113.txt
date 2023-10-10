@@ -1,0 +1,13 @@
+| title   |   pHu+ |
+| Males   |    9.4 |
+| Females |    7.9 |
+| Males   |    8.9 |
+| Females |   12.5 |
+| Males   |    5.3 |
+| Females |    6.7 |
+| Males   |   14.2 |
+| Females |   17.7 |
+| Males   |    7.2 |
+| Females |    8.1 |
+| Males   |    0.8 |
+| Females |    1.2 |

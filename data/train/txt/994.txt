@@ -1,0 +1,7 @@
+| title           |   <18.5 kg/m^2 |
+| total body mass |      3.29695   |
+| fat mass        |      2.39848   |
+| lean body mass  |      0.901015  |
+| total body mass |      1.00254   |
+| fat mass        |      1.10914   |
+| lean body mass  |     -0.0888325 |

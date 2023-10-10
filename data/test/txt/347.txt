@@ -1,0 +1,15 @@
+| title   |         Individual equivalized
+(9th decile) |
+|---------|---------|
+| Neighborhood income 
+1935 €/month
+(9th decile)         | 1.34995 |
+| Neighborhood income 
+1370 €/month
+(1st decile)         | 1.6698  |
+| Neighborhood income 
+1935 €/month
+(9th decile)         | 3.57008 |
+| Neighborhood income 
+1370 €/month
+(1st decile)         | 4.43556 |

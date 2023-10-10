@@ -1,0 +1,22 @@
+| title                                                                 |   intervention group |
+| Guideline                                                             |                 50   |
+| osteoporosis prevention manual (2000)^22                              |                 33.3 |
+| Ministry of Health, Labour, and Welfare standard manual               |                 20.8 |
+| Manual to prevent bed confinement due to osteoporosis (1993)^23       |                 14.6 |
+| Health education manual made by a prefecturer for iots municipalities |                 12.5 |
+| Health education manual made by a municipality                        |                 12.5 |
+| Manual for osteoporosos prevention in young females (1995)^24         |                 10.4 |
+| Already existing pamphlets                                            |                 68.8 |
+| internet                                                              |                 27.1 |
+| Other books & journals                                                |                 18.8 |
+| other                                                                 |                  8.3 || Guideline                                                             |                  0   |
+| osteoporosis prevention manual (2000)^22                              |                 52   |
+| Ministry of Health, Labour, and Welfare standard manual               |                 16.7 |
+| Manual to prevent bed confinement due to osteoporosis (1993)^23       |                 18.8 |
+| Health education manual made by a prefecturer for iots municipalities |                 27.1 |
+| Health education manual made by a municipality                        |                 18.9 |
+| Manual for osteoporosos prevention in young females (1995)^24         |                 14.6 |
+| Already existing pamphlets                                            |                 60.4 |
+| internet                                                              |                 39.6 |
+| Other books & journals                                                |                 50   |
+| other                                                                 |                  8.3 |

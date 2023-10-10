@@ -1,0 +1,19 @@
+| title        |   Malays |
+| Hypertension |     39   |
+| Diabetes     |      7.2 |
+| Hyperchol*   |     53.7 |
+| Smoking      |     17.4 |
+| Obesity      |     55.7 |
+| At Least One |     85.8 |
+| Hypertension |     38.1 |
+| Diabetes     |     11.1 |
+| Hyperchol*   |     39.8 |
+| Smoking      |     11.6 |
+| Obesity      |     49.7 |
+| At Least One |     77.9 |
+| Hypertension |     73.3 |
+| Diabetes     |      6.7 |
+| Hyperchol*   |     60   |
+| Smoking      |     13.3 |
+| Obesity      |     60   |
+| At Least One |     93.3 |

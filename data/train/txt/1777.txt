@@ -1,0 +1,21 @@
+| title                           |   Other CBIs |
+| Sport activities                |     58.0094  |
+| Social activities               |     48.1877  |
+| General education               |     93.8633  |
+| Extra sport activities (school) |     51.5072  |
+| Cooking classes                 |     47.8241  |
+| Working in groups               |     54.6642  |
+| Treatment                       |      9.8089  |
+| Group education                 |     93.9948  |
+| Counseling                      |     64.7928  |
+| Personal advice                 |     55.0588  |
+| Sport activities                |     25.2704  |
+| Social activities               |     38.1614  |
+| General education               |     87.986   |
+| Extra sport activities (school) |     49.863   |
+| Cooking classes                 |     29.9346  |
+| Working in groups               |     44.9302  |
+| Treatment                       |      4.81036 |
+| Group education                 |     89.654   |
+| Counseling                      |     52.9542  |
+| Personal advice                 |     48.3503  |

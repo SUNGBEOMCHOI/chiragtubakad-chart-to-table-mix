@@ -1,0 +1,11 @@
+| title          |   [unnamed data series #0] |
+| Mt Baker Vapor |                       2910 |
+| Hangen         |                        662 |
+| Cuttwood       |                        570 |
+| The Vapor Chef |                        566 |
+| Halo           |                        522 |
+| Suicide Bunny  |                        475 |
+| FIVE PAWNS     |                        466 |
+| Space Jam      |                        455 |
+| Cosmic Fog     |                        417 |
+| Marlboro       |                        412 |

@@ -1,0 +1,11 @@
+| title      |   [unnamed data series #0] |
+| Repair with
+composite            |                      0.249 |
+| Replace the
+restoration            |                      0.611 |
+| Ceramic
+inlay            |                      0.045 |
+| Inlay
+(CAD/CAM)            |                      0.024 |
+| Gold inlay |                      0.031 |
+| Crown      |                      0.04  |

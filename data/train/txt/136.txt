@@ -1,0 +1,9 @@
+| title                             |   [unnamed data series #0] |
+| Trust each other                  |                      0.786 |
+| Partner dislikes condoms          |                      0.15  |
+| Uncomfortable to use              |                      0.075 |
+| Trying to get pregnant            |                      0.05  |
+| Religious prohibition             |                      0.014 |
+| Do not know where  to get condoms |                      0.007 |
+| Condoms unavailable nearby        |                      0.004 |
+| Cost                              |                      0.002 |

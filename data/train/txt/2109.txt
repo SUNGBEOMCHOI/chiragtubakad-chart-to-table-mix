@@ -1,0 +1,7 @@
+| Category                 | X         |        Y |
+| [unnamed data series #0] | 50 kGy    |  46.5532 |
+| [unnamed data series #0] | 60 kGy    | 125.417  |
+| [unnamed data series #0] | 40 kGy    |  65.1793 |
+| [unnamed data series #0] | 30 kGy    | 111.943  |
+| [unnamed data series #0] | 20 kGy    | 138.495  |
+| [unnamed data series #0] | untreated | 157.517  |

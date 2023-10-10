@@ -1,0 +1,14 @@
+| title                 |   [unnamed data series #0] |
+| Work near home        |                    49.1653 |
+| Given accom.          |                    43.2731 |
+| Given transport       |                    53.3245 |
+| Childcare provided    |                    27.3294 |
+| Vacc. for self        |                    83.1321 |
+| Vacc. for family      |                    82.4389 |
+| Employer shared plans |                    77.2399 |
+| PPE                   |                    77.2399 |
+| No personal liability |                    69.2681 |
+| Flexible hours        |                    65.4555 |
+| Top-up
+salary                       |                    65.4555 |
+| Insurance             |                    62.3361 |

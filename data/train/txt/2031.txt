@@ -1,0 +1,43 @@
+| title                   |   15-24 |
+| Bangladesh City         |   39.9  |
+| Bangladesh province     |   36.4  |
+| Brazil city             |   14.4  |
+| Brazil Province         |   23.2  |
+| Ethiopia province       |   57.4  |
+| Namibia City            |   26.2  |
+| Peru city               |   31.1  |
+| Peru province           |   45    |
+| Thailand city           |   32.8  |
+| Thailand province       |   32.5  |
+| U.Rep.Tanz city         |   27.4  |
+| U.Rep.Tanz province     |   33.2  |
+| Serbia &Montenegro city |    7.5  |
+| Samoa                   |   33.5  |
+| Bangladesh City         |   32.7  |
+| Bangladesh province     |   36.6  |
+| Brazil city             |   10.2  |
+| Brazil Province         |   13.5  |
+| Ethiopia province       |   63.1  |
+| Namibia City            |   16.5  |
+| Peru city               |   20.8  |
+| Peru province           |   34.5  |
+| Thailand city           |   23.7  |
+| Thailand province       |   21.8  |
+| U.Rep.Tanz city         |   23.2  |
+| U.Rep.Tanz province     |   32    |
+| Serbia &Montenegro city |    3.3  |
+| Samoa                   |   23.4  |
+| Bangladesh City         |   16.1  |
+| Bangladesh province     |   23.5  |
+| Brazil city             |    6.41 |
+| Brazil Province         |   11.3  |
+| Ethiopia province       |   42.5  |
+| Namibia City            |   18.2  |
+| Peru city               |   12.1  |
+| Peru province           |   29.1  |
+| Thailand city           |   16.3  |
+| Thailand province       |   21.7  |
+| U.Rep.Tanz city         |   13.3  |
+| U.Rep.Tanz province     |   20.1  |
+| Serbia &Montenegro city |    2.68 |
+| Samoa                   |   17.7  |

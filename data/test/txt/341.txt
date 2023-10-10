@@ -1,0 +1,111 @@
+| title                    |   Microsimulation |
+| Place of residence       |         5.03284   |
+| Race/ ethinicity         |         2.05042   |
+| Economic status          |         6.05805   |
+| Education                |         3.01971   |
+| Gender                   |         1.04385   |
+| Occipation               |         4.04491   |
+| Insurance coverage       |         3.01971   |
+| Martial status           |         3.05699   |
+| Social Capital           |         0         |
+| Sociocultultural factors |        -0.0372803 |
+| Housing                  |         0         |
+| Place of residence       |         1.00657   |
+| Race/ ethinicity         |        -0.0186402 |
+| Economic status          |         3.91443   |
+| Education                |         0.0745606 |
+| Gender                   |         0.0186402 |
+| Occipation               |         0         |
+| Insurance coverage       |         0.0559205 |
+| Martial status           |         0.0186402 |
+| Social Capital           |         0.0186402 |
+| Sociocultultural factors |         0.0479318 |
+| Housing                  |         0.0186402 |
+| Place of residence       |         0.0372803 |
+| Race/ ethinicity         |         0.969288  |
+| Economic status          |         0.0372803 |
+| Education                |         0         |
+| Gender                   |        -0.0186402 |
+| Occipation               |         0         |
+| Insurance coverage       |        -0.0186402 |
+| Martial status           |         0         |
+| Social Capital           |         1.04385   |
+| Sociocultultural factors |        -0.021303  |
+| Housing                  |         0         |
+| Place of residence       |         1.9013    |
+| Race/ ethinicity         |        13.0481    |
+| Economic status          |         6.05805   |
+| Education                |         2.90786   |
+| Gender                   |         4.99556   |
+| Occipation               |         0.932008  |
+| Insurance coverage       |         1.97586   |
+| Martial status           |         0.932008  |
+| Social Capital           |         1.93858   |
+| Sociocultultural factors |         0.021303  |
+| Housing                  |         1.02521   |
+| Place of residence       |        13.0481    |
+| Race/ ethinicity         |        -0.0186402 |
+| Economic status          |        -0.0559205 |
+| Education                |         1.02521   |
+| Gender                   |         0.0289958 |
+| Occipation               |         1.08113   |
+| Insurance coverage       |        -0.0372803 |
+| Martial status           |         0.987928  |
+| Social Capital           |        -0.0186402 |
+| Sociocultultural factors |         0         |
+| Housing                  |         0         |
+| Place of residence       |         4.02627   |
+| Race/ ethinicity         |         2.94514   |
+| Economic status          |         0.996213  |
+| Education                |         0.950648  |
+| Gender                   |        -0.0331381 |
+| Occipation               |        -0.0227824 |
+| Insurance coverage       |         0.0372803 |
+| Martial status           |         0.0372803 |
+| Social Capital           |         1.04385   |
+| Sociocultultural factors |         0         |
+| Housing                  |         0         |
+| Place of residence       |         0.969288  |
+| Race/ ethinicity         |         0.0372803 |
+| Economic status          |         1.06042   |
+| Education                |         0.0372803 |
+| Gender                   |         0.994142  |
+| Occipation               |         0.0331381 |
+| Insurance coverage       |        -0.0372803 |
+| Martial status           |        -0.0372803 |
+| Social Capital           |         0         |
+| Sociocultultural factors |         1.04385   |
+| Housing                  |        -0.0745606 |
+| Place of residence       |         0.0372803 |
+| Race/ ethinicity         |         0         |
+| Economic status          |         0.961004  |
+| Education                |         0.0372803 |
+| Gender                   |        -0.0331381 |
+| Occipation               |         0         |
+| Insurance coverage       |         0         |
+| Martial status           |        -0.0372803 |
+| Social Capital           |         0         |
+| Sociocultultural factors |         0.937334  |
+| Housing                  |         0.0372803 |
+| Place of residence       |         0         |
+| Race/ ethinicity         |         0         |
+| Economic status          |        -0.0331381 |
+| Education                |        -0.0745606 |
+| Gender                   |         1.02728   |
+| Occipation               |         0.927866  |
+| Insurance coverage       |         0.0372803 |
+| Martial status           |         0.0745606 |
+| Social Capital           |         0         |
+| Sociocultultural factors |         0.0426061 |
+| Housing                  |         0.0372803 |
+| Place of residence       |         1.00657   |
+| Race/ ethinicity         |        -0.0372803 |
+| Economic status          |         0         |
+| Education                |         1.04385   |
+| Gender                   |         0         |
+| Occipation               |         0.0331381 |
+| Insurance coverage       |        -0.0745606 |
+| Martial status           |         0         |
+| Social Capital           |         0.0372803 |
+| Sociocultultural factors |        -0.021303  |
+| Housing                  |        -0.0372803 |

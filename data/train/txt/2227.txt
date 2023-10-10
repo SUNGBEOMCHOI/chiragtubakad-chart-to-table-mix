@@ -1,0 +1,12 @@
+| title                         |   % availability |
+| Anesthesia Machine            |         94.7066  |
+| Nerve Stimulator              |         12.9464  |
+| EKG                           |         74.8087  |
+| Automated Blood Pressure Cuff |         88.074   |
+| Capnography                   |         60.1403  |
+| Pulse oximetry                |         94.8342  |
+| Fibertropic Bronchoscope      |         13.074   |
+| Any videoscope                |          4.27296 |
+| Bougie                        |         72.8954  |
+| LMA                           |         88.7117  |
+| Laryngoscope                  |         99.9362  |

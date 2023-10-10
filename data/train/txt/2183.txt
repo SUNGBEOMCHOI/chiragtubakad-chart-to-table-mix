@@ -1,0 +1,21 @@
+| title                       |   [unnamed data series #0] |
+| Orthopedics                 |                         79 |
+| Occupational health service |                         78 |
+| Pain management             |                         74 |
+| Oncology                    |                         71 |
+| Rehabilition                |                         63 |
+| Psychiatry                  |                         60 |
+| Rheumatology                |                         49 |
+| Neurology                   |                         45 |
+| Other                       |                         43 |
+| Primary health care         |                         43 |
+| Surgery                     |                         38 |
+| Gynecology                  |                         32 |
+| Ear, Nose and Throat        |                         22 |
+| Internal medicine           |                         21 |
+| Infectious diseases         |                         20 |
+| Administration              |                          9 |
+| Child and adolescent care   |                          7 |
+| Ophthalmology               |                          4 |
+| Geriatrics                  |                          4 |
+| Dermatology                 |                          3 |

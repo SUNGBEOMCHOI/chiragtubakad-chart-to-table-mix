@@ -1,0 +1,5 @@
+| title         |   [unnamed data series #0] |
+| Control       |                   0.892042 |
+| L-37          |                   0.955495 |
+| Iron II       |                   1.24103  |
+| LL-37+Iron II |                   4.47713  |

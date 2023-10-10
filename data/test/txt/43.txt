@@ -1,0 +1,17 @@
+| title      |   GCKR Expression |
+| Liver      |         4.73265   |
+| Islets 1   |         0.217349  |
+| Islets 2   |         0.296565  |
+| Pancreas   |         0.118329  |
+| Adipocytes |         0.118329  |
+| Skeletal
+Muscle            |         0.0919238 |
+| Kidney     |         0.0127081 |
+| Liver      |         0.760857  |
+| Islets 1   |         1.82587   |
+| Islets 2   |         2.33637   |
+| Pancreas   |         0.534212  |
+| Adipocytes |         0.100726  |
+| Skeletal
+Muscle            |         0.0127081 |
+| Kidney     |         0.0215098 |

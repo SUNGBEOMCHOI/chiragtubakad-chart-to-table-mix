@@ -1,0 +1,54 @@
+| Category                 | X             |         Y |
+| [unnamed data series #0] | WT            | 0.316646  |
+| [unnamed data series #0] | WT            | 0.297872  |
+| [unnamed data series #0] | WT            | 0.254068  |
+| [unnamed data series #0] | WT            | 0.233208  |
+| [unnamed data series #0] | WT            | 0.176888  |
+| [unnamed data series #0] | WT            | 0.141427  |
+| [unnamed data series #0] | WT            | 0.11431   |
+| [unnamed data series #0] | WT            | 0.0663329 |
+| [unnamed data series #0] | \Delta pvdJ
+\Delta pchE               | 0.65874   |
+| [unnamed data series #0] | \Delta pvdJ
+\Delta pchE               | 0.646224  |
+| [unnamed data series #0] | \Delta pvdJ
+\Delta pchE               | 0.596162  |
+| [unnamed data series #0] | \Delta pvdJ
+\Delta pchE               | 0.489779  |
+| [unnamed data series #0] | \Delta pvdJ
+\Delta pchE               | 0.445974  |
+| [unnamed data series #0] | \Delta phz1/2 | 0.66917   |
+| [unnamed data series #0] | \Delta phz1/2 | 0.627451  |
+| [unnamed data series #0] | \Delta phz1/2 | 0.627451  |
+| [unnamed data series #0] | \Delta phz1/2 | 0.521068  |
+| [unnamed data series #0] | \Delta phz1/2 | 0.460576  |
+| [unnamed data series #0] | \Delta pvdJ
+\Delta pchE
+\Delta pqsA               | 0.629537  |
+| [unnamed data series #0] | \Delta pvdJ
+\Delta pchE
+\Delta pqsA               | 0.773467  |
+| [unnamed data series #0] | \Delta pvdJ
+\Delta pchE
+\Delta pqsA               | 0.808928  |
+| [unnamed data series #0] | \Delta pvdJ
+\Delta pchE
+\Delta pqsA               | 0.856904  |
+| [unnamed data series #0] | \Delta pvdJ
+\Delta pchE
+\Delta pqsA               | 0.87985   |
+| [unnamed data series #0] | \Delta pvdJ
+\Delta pchE
+\Delta phz1/2               | 0.566959  |
+| [unnamed data series #0] | \Delta pvdJ
+\Delta pchE
+\Delta phz1/2               | 0.943992  |
+| [unnamed data series #0] | \Delta pvdJ
+\Delta pchE
+\Delta phz1/2               | 0.873046  |
+| [unnamed data series #0] | \Delta pvdJ
+\Delta pchE
+\Delta phz1/2               | 0.798498  |
+| [unnamed data series #0] | \Delta pvdJ
+\Delta pchE
+\Delta phz1/2               | 0.835499  |

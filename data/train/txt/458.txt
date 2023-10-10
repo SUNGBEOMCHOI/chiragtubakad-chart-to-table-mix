@@ -1,0 +1,23 @@
+| title                                  |   Average |
+| Database, design and setup             |   8.45179 |
+| Programming                            |   9.22013 |
+| Database, use existing ore             |  12.6777  |
+| Setup system, install software         |  14.2144  |
+| Graphics (presentation and Powerpoint) |  16.9036  |
+| Spreadsheets (Excel)                   |  22.6662  |
+| Wordprocessing                         |  28.4287  |
+| Windows                                |  30.3496  |
+| File Management                        |  34.1913  |
+| Internet                               |  36.1122  |
+| Email                                  |  40.3381  |
+| Database, design and setup             |   2.30503 |
+| Programming                            |   1.53669 |
+| Database, use existing ore             |   3.84172 |
+| Setup system, install software         |   2.6892  |
+| Graphics (presentation and Powerpoint) |   2.30503 |
+| Spreadsheets (Excel)                   |   3.84172 |
+| Wordprocessing                         |   6.14675 |
+| Windows                                |  11.141   |
+| File Management                        |  19.9769  |
+| Internet                               |  22.6662  |
+| Email                                  |  36.1122  |

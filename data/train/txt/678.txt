@@ -1,0 +1,5 @@
+| Category                 |   first quartile |      max |   median |      min |   third quartile | x         |
+| [unnamed data series #0] |           24.774 |  95.0355 |  41.7631 |  19.3009 |          58.2896 | Control   |
+| [unnamed data series #0] |          121.733 | 333.536  | 160.638  | 100.355  |         205.775  | 5 mg/kg   |
+| [unnamed data series #0] |          193.435 | 279.838  | 237.883  | 168.744  |         276.869  | 50 mg/kg  |
+| [unnamed data series #0] |          117.618 | 371.125  | 213.2    |  81.6109 |         364.904  | 500 mg/kg |

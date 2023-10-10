@@ -1,0 +1,5 @@
+| Category                 |   first quartile |       max |     median |          min |   third quartile | x        |
+| [unnamed data series #0] |      0.0110426   | 0.0340247 | 0.0158072  |  0.000112108 |        0.0301009 | Class I  |
+| [unnamed data series #0] |      0.00515695  | 0.0441143 | 0.016648   | -0.000168161 |        0.0258969 | Class II |
+| [unnamed data series #1] |      0.0116031   | 0.0987668 | 0.0188901  | -0.000168161 |        0.0474776 | Class I  |
+| [unnamed data series #1] |      0.000952915 | 0.0326233 | 0.00543722 |  0.000112108 |        0.013565  | Class II |

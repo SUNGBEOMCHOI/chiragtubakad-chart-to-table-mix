@@ -1,0 +1,37 @@
+| title                                                                                                |   reduces significantly |
+| physical strain in general                                                                           |              0.84984    |
+| physical strain on lower climbs caused by walking, standing, or both                                 |              0.4377     |
+| physical strain on the knee joints caused by repetitive squatting in particular                      |              0.84984    |
+| physical strain on the hip and lower back caused by bent or twisted work posture                     |              0.722045   |
+| physical strain on the shoulder area and upper arms caused by, e.g., holding the milking units       |              0.821086   |
+| physical strain on the forearms and hands caused by, e.g., cleaning of the teats and udder and strip |              0.837061   |
+| physical strain in general                                                                           |              0.132055   |
+| physical strain on lower climbs caused by walking, standing, or both                                 |              0.324814   |
+| physical strain on the knee joints caused by repetitive squatting in particular                      |              0.0766773  |
+| physical strain on the hip and lower back caused by bent or twisted work posture                     |              0.170394   |
+| physical strain on the shoulder area and upper arms caused by, e.g., holding the milking units       |              0.162939   |
+| physical strain on the forearms and hands caused by, e.g., cleaning of the teats and udder and strip |              0.146965   |
+| physical strain in general                                                                           |              0.0149095  |
+| physical strain on lower climbs caused by walking, standing, or both                                 |              0.170394   |
+| physical strain on the knee joints caused by repetitive squatting in particular                      |              0.057508   |
+| physical strain on the hip and lower back caused by bent or twisted work posture                     |              0.0766773  |
+| physical strain on the shoulder area and upper arms caused by, e.g., holding the milking units       |              0.0170394  |
+| physical strain on the forearms and hands caused by, e.g., cleaning of the teats and udder and strip |              0.0170394  |
+| physical strain in general                                                                           |              0          |
+| physical strain on lower climbs caused by walking, standing, or both                                 |              0.0468584  |
+| physical strain on the knee joints caused by repetitive squatting in particular                      |              0          |
+| physical strain on the hip and lower back caused by bent or twisted work posture                     |              0.0170394  |
+| physical strain on the shoulder area and upper arms caused by, e.g., holding the milking units       |             -0.00425985 |
+| physical strain on the forearms and hands caused by, e.g., cleaning of the teats and udder and strip |              0          |
+| physical strain in general                                                                           |              0.00212993 |
+| physical strain on lower climbs caused by walking, standing, or both                                 |              0.0191693  |
+| physical strain on the knee joints caused by repetitive squatting in particular                      |              0          |
+| physical strain on the hip and lower back caused by bent or twisted work posture                     |              0          |
+| physical strain on the shoulder area and upper arms caused by, e.g., holding the milking units       |              0.00425985 |
+| physical strain on the forearms and hands caused by, e.g., cleaning of the teats and udder and strip |              0          |
+| physical strain in general                                                                           |              0          |
+| physical strain on lower climbs caused by walking, standing, or both                                 |              0          |
+| physical strain on the knee joints caused by repetitive squatting in particular                      |              0.0149095  |
+| physical strain on the hip and lower back caused by bent or twisted work posture                     |              0.0106496  |
+| physical strain on the shoulder area and upper arms caused by, e.g., holding the milking units       |             -0.00425985 |
+| physical strain on the forearms and hands caused by, e.g., cleaning of the teats and udder and strip |             -0.00212993 |

@@ -1,0 +1,79 @@
+| Category                                                                | X                 |         Y |
+| Basic WASH                                                              | Developed         | 0.0231749 |
+| Basic WASH                                                              | Eastern Asia      | 0.0328814 |
+| Basic WASH                                                              | LAC               | 0.0571479 |
+| Basic WASH                                                              | CCA               | 0.0474413 |
+| Basic WASH                                                              | Oceania           | 0.0377347 |
+| Basic WASH                                                              | Westen Asia       | 0.100827  |
+| Basic WASH                                                              | World             | 0.105681  |
+| Basic WASH                                                              | Southeastern Asia | 0.1348    |
+| Basic WASH                                                              | Northem Africa    | 0.100827  |
+| Basic WASH                                                              | Southern Asia     | 0.212453  |
+| Basic WASH                                                              | SSA               | 0.654102  |
+| SDG targets 6.1 and 6.2                                                 | Developed         | 0.125094  |
+| SDG targets 6.1 and 6.2                                                 | Eastern Asia      | 0.14936   |
+| SDG targets 6.1 and 6.2                                                 | LAC               | 0.23672   |
+| SDG targets 6.1 and 6.2                                                 | CCA               | 0.270693  |
+| SDG targets 6.1 and 6.2                                                 | Oceania           | 0.309519  |
+| SDG targets 6.1 and 6.2                                                 | Westen Asia       | 0.367758  |
+| SDG targets 6.1 and 6.2                                                 | World             | 0.387172  |
+| SDG targets 6.1 and 6.2                                                 | Southeastern Asia | 0.459971  |
+| SDG targets 6.1 and 6.2                                                 | Northem Africa    | 0.586156  |
+| SDG targets 6.1 and 6.2                                                 | Southern Asia     | 0.853087  |
+| SDG targets 6.1 and 6.2                                                 | SSA               | 2.01302   |
+| Upper and lower estimates of the costof mecting SDG targets 6.1 and 6.2 | Developed         | 0.0668545 |
+| Upper and lower estimates of the costof mecting SDG targets 6.1 and 6.2 | Developed         | 0.19304   |
+| Upper and lower estimates of the costof mecting SDG targets 6.1 and 6.2 | Eastern Asia      | 0.115387  |
+| Upper and lower estimates of the costof mecting SDG targets 6.1 and 6.2 | Eastern Asia      | 0.217306  |
+| Upper and lower estimates of the costof mecting SDG targets 6.1 and 6.2 | LAC               | 0.396878  |
+| Upper and lower estimates of the costof mecting SDG targets 6.1 and 6.2 | LAC               | 0.139654  |
+| Upper and lower estimates of the costof mecting SDG targets 6.1 and 6.2 | CCA               | 0.173627  |
+| Upper and lower estimates of the costof mecting SDG targets 6.1 and 6.2 | CCA               | 0.396878  |
+| Upper and lower estimates of the costof mecting SDG targets 6.1 and 6.2 | Oceania           | 0.523064  |
+| Upper and lower estimates of the costof mecting SDG targets 6.1 and 6.2 | Oceania           | 0.23672   |
+| Upper and lower estimates of the costof mecting SDG targets 6.1 and 6.2 | Westen Asia       | 0.260986  |
+| Upper and lower estimates of the costof mecting SDG targets 6.1 and 6.2 | Westen Asia       | 0.712342  |
+| Upper and lower estimates of the costof mecting SDG targets 6.1 and 6.2 | World             | 0.566743  |
+| Upper and lower estimates of the costof mecting SDG targets 6.1 and 6.2 | World             | 0.256133  |
+| Upper and lower estimates of the costof mecting SDG targets 6.1 and 6.2 | Southeastern Asia | 0.304666  |
+| Upper and lower estimates of the costof mecting SDG targets 6.1 and 6.2 | Southeastern Asia | 0.595863  |
+| Upper and lower estimates of the costof mecting SDG targets 6.1 and 6.2 | Northem Africa    | 0.353198  |
+| Upper and lower estimates of the costof mecting SDG targets 6.1 and 6.2 | Northem Africa    | 0.736608  |
+| Upper and lower estimates of the costof mecting SDG targets 6.1 and 6.2 | Southern Asia     | 0.542477  |
+| Upper and lower estimates of the costof mecting SDG targets 6.1 and 6.2 | Southern Asia     | 1.10546   |
+| Upper and lower estimates of the costof mecting SDG targets 6.1 and 6.2 | SSA               | 1.31415   |
+| Upper and lower estimates of the costof mecting SDG targets 6.1 and 6.2 | SSA               | 2.72646   |
+| Upper and lower estimates of the
+cost of achieving basic WASH                                                                         | SSA               | 1.00354   |
+| Upper and lower estimates of the
+cost of achieving basic WASH                                                                         | SSA               | 0.299812  |
+| Upper and lower estimates of the
+cost of achieving basic WASH                                                                         | Southern Asia     | 0.139654  |
+| Upper and lower estimates of the
+cost of achieving basic WASH                                                                         | Southern Asia     | 0.309519  |
+| Upper and lower estimates of the
+cost of achieving basic WASH                                                                         | Northem Africa    | 0.139654  |
+| Upper and lower estimates of the
+cost of achieving basic WASH                                                                         | Northem Africa    | 0.0571479 |
+| Upper and lower estimates of the
+cost of achieving basic WASH                                                                         | Southeastern Asia | 0.2076    |
+| Upper and lower estimates of the
+cost of achieving basic WASH                                                                         | Southeastern Asia | 0.0571479 |
+| Upper and lower estimates of the
+cost of achieving basic WASH                                                                         | World             | 0.173627  |
+| Upper and lower estimates of the
+cost of achieving basic WASH                                                                         | World             | 0.0620012 |
+| Upper and lower estimates of the
+cost of achieving basic WASH                                                                         | Westen Asia       | 0.16392   |
+| Upper and lower estimates of the
+cost of achieving basic WASH                                                                         | Westen Asia       | 0.042588  |
+| Upper and lower estimates of the
+cost of achieving basic WASH                                                                         | Oceania           | 0.0911209 |
+| Upper and lower estimates of the
+cost of achieving basic WASH                                                                         | CCA               | 0.076561  |
+| Upper and lower estimates of the
+cost of achieving basic WASH                                                                         | LAC               | 0.105681  |
+| Upper and lower estimates of the
+cost of achieving basic WASH                                                                         | Eastern Asia      | 0.0522946 |
+| Upper and lower estimates of the
+cost of achieving basic WASH                                                                         | Developed         | 0.0620012 |

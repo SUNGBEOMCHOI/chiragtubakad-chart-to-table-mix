@@ -1,0 +1,4 @@
+| title     |   [unnamed data series #0] |
+| Staff     |                      0.12  |
+| Patients  |                      0.2   |
+| Visitors* |                      0.373 |

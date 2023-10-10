@@ -1,0 +1,7 @@
+| title     |   [unnamed data series #0] |
+| Group I   |                   1.88803  |
+| Group II  |                   0.600438 |
+| Group III |                   1.04715  |
+| Group IV  |                   1.62526  |
+| Group V   |                   1.00774  |
+| Group VI  |                   3.05737  |

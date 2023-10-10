@@ -1,0 +1,12 @@
+| title                |   [unnamed data series #0] |
+| Territories          |                     0.2995 |
+| British Columbia     |                     0.1645 |
+| Alberta              |                     0.1412 |
+| Saskatchewan         |                     0.157  |
+| Manitoba             |                     0.2045 |
+| Ontario              |                     0.1842 |
+| Quebec               |                     0.1682 |
+| New Brunswick        |                     0.1566 |
+| NovaScotia           |                     0.1546 |
+| Prince Edward Island |                     0.1089 |
+| Newfoundland         |                     0.1648 |

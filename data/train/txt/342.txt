@@ -1,0 +1,37 @@
+| title                       |   30 wt% [100 rpm] |
+| T@50% weight loss           |            1.15912 |
+| DTUL                        |            1.3594  |
+| Crystallization temperature |            1.09602 |
+| Maximum Stress              |            1.18656 |
+| Flexural modulus            |            1.84499 |
+| Tensile modulus             |            2.00137 |
+| T@50% weight loss           |            1.16461 |
+| DTUL                        |            1.36763 |
+| Crystallization temperature |            1.09328 |
+| Maximum Stress              |            1.17284 |
+| Flexural modulus            |            1.83402 |
+| Tensile modulus             |            1.93004 |
+| T@50% weight loss           |            1.12071 |
+| DTUL                        |            1.19753 |
+| Crystallization temperature |            1.05213 |
+| Maximum Stress              |            1.14815 |
+| Flexural modulus            |            1.40329 |
+| Tensile modulus             |            1.39506 |
+| T@50% weight loss           |            1.12071 |
+| DTUL                        |            1.2085  |
+| Crystallization temperature |            1.04938 |
+| Maximum Stress              |            1.10974 |
+| Flexural modulus            |            1.36763 |
+| Tensile modulus             |            1.27709 |
+| T@50% weight loss           |            1.09328 |
+| DTUL                        |            1.14815 |
+| Crystallization temperature |            1.03567 |
+| Maximum Stress              |            1.01646 |
+| Flexural modulus            |            1.07956 |
+| Tensile modulus             |            1.17558 |
+| T@50% weight loss           |            1.06859 |
+| DTUL                        |            1.10425 |
+| Crystallization temperature |            1.03567 |
+| Maximum Stress              |            1.0192  |
+| Flexural modulus            |            1.06859 |
+| Tensile modulus             |            1.07682 |

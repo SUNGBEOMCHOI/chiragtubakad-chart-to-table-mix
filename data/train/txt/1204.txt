@@ -1,0 +1,10 @@
+| title                               |   [unnamed data series #0] |
+| Do not feel at risk                 |                       22.7 |
+| No reason                           |                       18.3 |
+| partner and self trust              |                       13.2 |
+| Time shortage                       |                        8.5 |
+| fear of stigma and discrimination   |                        8   |
+| Sexual partner influence            |                        7.8 |
+| unavlability of service in the area |                        7.5 |
+| Do not know where to go             |                        7.2 |
+| Do not believe it will help         |                        6.8 |

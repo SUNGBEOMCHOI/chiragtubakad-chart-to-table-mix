@@ -1,0 +1,5 @@
+| title     |   Tibal component |
+| CC-cement |           62.3576 |
+| BS-cement |          225.362  |
+| CC-cement |           74.3915 |
+| BS-cement |          149.877  |

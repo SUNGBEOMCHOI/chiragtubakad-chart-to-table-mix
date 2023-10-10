@@ -1,0 +1,8 @@
+| title                     |   [unnamed data series #0] |
+| Lack of patient interest  |                   0.810121 |
+| Lack of staff             |                   0.693522 |
+| Lack of refferal resource |                   0.692308 |
+| Lack of training          |                   0.709312 |
+| More pressing issues      |                   0.634008 |
+| Lack of reminder system   |                   0.536842 |
+| Time constrain            |                   0.275709 |

@@ -1,0 +1,9 @@
+| title                       |   [unnamed data series #0] |
+| TB vaccine                  |                   67.5556  |
+| Maternal care & delivery    |                   29.9683  |
+| HIV/ AIDs prevention        |                   24.8889  |
+| ARI treatment               |                   19.6966  |
+| Family planning             |                   14.843   |
+| Complete smoking ban        |                    9.08642 |
+| Basic childhood vaccines    |                    6.82892 |
+| Micronutrient fortification |                    1.07231 |

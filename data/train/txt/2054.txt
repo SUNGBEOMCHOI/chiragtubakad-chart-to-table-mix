@@ -1,0 +1,13 @@
+| Category                                                  |   first quartile |     max |   median |      min |   third quartile | x                        |
+| Years of life lost to communicable diseases (%), 2002     |          4.41948 | 12.7662 |  6.92349 |  2.94275 |          12.7662 | Residual                 |
+| Years of life lost to communicable diseases (%), 2002     |         23.4243  | 45.3184 | 27.2124  | 16.5543  |          39.7325 | emerging                 |
+| Years of life lost to communicable diseases (%), 2002     |         18.2879  | 41.466  | 23.8737  | 10.3906  |          39.9893 | Informal                 |
+| Years of life lost to communicable diseases (%), 2002     |         10.84    | 74.8529 | 33.8898  |  4.7405  |          49.4917 | Post-Communist           |
+| Years of life lost to communicable diseases (%), 2002     |         43.97    | 91.2895 | 55.7196  | 18.6089  |          70.5511 | Less Successful Informal |
+| Years of life lost to communicable diseases (%), 2002     |         79.3472  | 92.5736 | 82.4291  | 70.2301  |          86.7309 | Insecure                 |
+| Years of life lost to non-communicable diseases (%), 2002 |         66.5704  | 85.6394 | 72.4131  | 45.3184  |          81.8513 | Residual                 |
+| Years of life lost to non-communicable diseases (%), 2002 |         41.6586  | 66.1209 | 50.3264  | 35.0455  |          59.5078 | emerging                 |
+| Years of life lost to non-communicable diseases (%), 2002 |         41.145   | 68.4323 | 56.2333  | 38.1273  |          60.2782 | Informal                 |
+| Years of life lost to non-communicable diseases (%), 2002 |         41.145   | 87.1803 | 51.3537  | 15.527   |          71.3216 | Post-Communist           |
+| Years of life lost to non-communicable diseases (%), 2002 |         21.6265  | 61.4981 | 30.2943  |  5.51097 |          44.6121 | Less Successful Informal |
+| Years of life lost to non-communicable diseases (%), 2002 |          7.50134 | 18.8657 | 10.0054  |  6.02461 |          12.7662 | Insecure                 |

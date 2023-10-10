@@ -1,0 +1,7 @@
+| title                 |   [unnamed data series #0] |
+| * LLA                 |                       24   |
+| Antidiabetic          |                       21.7 |
+| Antihypertensive      |                       25.3 |
+| Antiplatelet          |                        5.3 |
+| Cardiovascular agents |                        4   |
+| Others                |                       19.7 |

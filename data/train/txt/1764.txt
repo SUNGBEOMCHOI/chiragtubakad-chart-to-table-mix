@@ -1,0 +1,31 @@
+| title                 |   Shaanxi |
+| Antiemetics           |  0        |
+| Antidiarrheals        |  0.867242 |
+| Antipyretics          |  0.867242 |
+| Anticholinergics      |  2.47783  |
+| Antacids              |  9.66356  |
+| Herbal medicines      | 10.7786   |
+| Probiotics            | 15.6104   |
+| Dioctahedral smectite | 53.0257   |
+| Antibiotics           | 64.2998   |
+| Rehydration           | 53.8929   |
+| Antiemetics           |  1.67254  |
+| Antidiarrheals        |  1.4867   |
+| Antipyretics          |  5.9468   |
+| Anticholinergics      |  5.20345  |
+| Antacids              |  0.867242 |
+| Herbal medicines      | 53.1496   |
+| Probiotics            | 78.6093   |
+| Dioctahedral smectite | 65.5387   |
+| Antibiotics           | 56.9902   |
+| Rehydration           | 68.7599   |
+| Antiemetics           |  0.74335  |
+| Antidiarrheals        |  1.11503  |
+| Antipyretics          |  3.15924  |
+| Anticholinergics      |  3.71675  |
+| Antacids              |  5.20345  |
+| Herbal medicines      | 31.9641   |
+| Probiotics            | 47.2028   |
+| Dioctahedral smectite | 59.0964   |
+| Antibiotics           | 60.5831   |
+| Rehydration           | 61.5742   |

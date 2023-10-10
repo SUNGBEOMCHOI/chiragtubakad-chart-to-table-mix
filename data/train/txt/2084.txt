@@ -1,0 +1,25 @@
+| Category           |       X |           Y |
+| unmodified MoO_{X} | 4.00645 |  0.0429746  |
+| unmodified MoO_{X} | 5.00397 |  0.244768   |
+| unmodified MoO_{X} | 6.00149 |  0.556428   |
+| unmodified MoO_{X} | 7.00124 |  0.98608    |
+| Zr:MoO_{X}         | 7.00571 |  1.15583    |
+| Zr:MoO_{X}         | 6.00223 |  0.676009   |
+| Zr:MoO_{X}         | 5.00471 |  0.319507   |
+| Zr:MoO_{X}         | 3.97667 |  0.0706278  |
+| Sn:MoO_{x}         | 4.00347 |  0.0930493  |
+| Sn:MoO_{x}         | 5.00993 |  0.384529   |
+| Sn:MoO_{x}         | 6.00447 |  0.846413   |
+| Sn:MoO_{x}         | 7.00794 |  1.41143    |
+| Sn:MoO_{x}         | 3.00638 | -0.0168161  |
+| PEDOT:PSS ref      | 7.00124 |  2.11743    |
+| PEDOT:PSS ref      | 6       |  1.27382    |
+| PEDOT:PSS ref      | 4.99876 |  0.598374   |
+| PEDOT:PSS ref      | 4.02481 |  0.212771   |
+| PEDOT:PSS ref      | 3.98945 |  0.212771   |
+| PEDOT:PSS ref      | 4.02109 |  0.181941   |
+| PEDOT:PSS ref      | 3.98759 |  0.18054    |
+| PEDOT:PSS ref      | 2.98724 |  0.0344331  |
+| PEDOT:PSS ref      | 3.01489 |  0.0344331  |
+| PEDOT:PSS ref      | 2.98511 |  0.00880846 |
+| PEDOT:PSS ref      | 3.01063 |  0.00880846 |

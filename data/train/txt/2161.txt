@@ -1,0 +1,5 @@
+| title   |   [unnamed data series #0] |
+| Leaf    |                    1.03414 |
+| Stem    |                    6.53316 |
+| Root    |                   15.2331  |
+| Bark    |                    5.30204 |

@@ -1,0 +1,10 @@
+| title                          |   [unnamed data series #0] |
+| Not eat the whole day & night  |                        3.3 |
+| Sleep hungry                   |                        9.6 |
+| Any type of food not available |                       10.2 |
+| Reduce frequency of meal       |                       25.5 |
+| Reduce amount of meal          |                       35.8 |
+| Eat unwanted food types        |                       29.3 |
+| Reduce food varieties          |                       52   |
+| Not eat what you want          |                       60.5 |
+| Worry about food               |                       51.1 |

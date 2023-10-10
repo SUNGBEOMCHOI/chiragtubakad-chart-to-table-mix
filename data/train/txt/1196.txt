@@ -1,0 +1,9 @@
+| title                     |     B-1; |
+| without Aspergillus niger | 0.413103 |
+| with Aspergillus niger    | 0.393403 |
+| without Aspergillus niger | 0.376919 |
+| with Aspergillus niger    | 0.366064 |
+| without Aspergillus niger | 0.440844 |
+| with Aspergillus niger    | 0.401444 |
+| without Aspergillus niger | 0.40064  |
+| with Aspergillus niger    | 0.390186 |

@@ -1,0 +1,5 @@
+| title        |   [unnamed data series #0] |
+| wt p2        |                1.06375e+06 |
+| mutT p2      |            58588.1         |
+| mutT p2-fldP |           465569           |
+| mutT p2-isiB |           924731           |

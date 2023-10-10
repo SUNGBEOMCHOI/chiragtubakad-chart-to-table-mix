@@ -1,0 +1,10 @@
+| title                                                |   [unnamed data series #0] |
+| Cadherin & homophilic cell adhesion                  |                       6.44 |
+| Transmembrane                                        |                       5.83 |
+| Cell adhesion                                        |                       5.13 |
+| Glutamate signaling pathway                          |                       3.81 |
+| Ion transport                                        |                       3.75 |
+| Metal ion transport                                  |                       3.66 |
+| Synaptic transmission                                |                       3.39 |
+| Neuropeoptide signaling pathway                      |                       3.08 |
+| G-protien coupled receptor protien signaling pathway |                       3.08 |

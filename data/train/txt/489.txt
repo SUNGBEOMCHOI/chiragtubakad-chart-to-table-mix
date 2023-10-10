@@ -1,0 +1,9 @@
+| title        |   100 |
+| QTN          |  0.53 |
+| QTN/GWAS     |  0.63 |
+| QTN/TRUE     |  0.89 |
+| QTN/TRUE/APY |  0.94 |
+| QTN          |  0.55 |
+| QTN/GWAS     |  0.58 |
+| QTN/TRUE     |  0.86 |
+| QTN/TRUE/APY |  0.88 |

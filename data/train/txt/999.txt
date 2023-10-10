@@ -1,0 +1,22 @@
+| title                     |        LA |
+| Walk/hike in the forest   | 0.326691  |
+| Activities by/on the sea  | 0.282752  |
+| Cycling                   | 0.157872  |
+| Walk/hike in the mountain | 0.120871  |
+| Skiing                    | 0.118558  |
+| Fishing                   | 0.0954326 |
+| Orienteering              | 0.0121795 |
+| Walk/hike in the forest   | 0.620389  |
+| Activities by/on the sea  | 0.342879  |
+| Cycling                   | 0.312816  |
+| Walk/hike in the mountain | 0.322066  |
+| Skiing                    | 0.271189  |
+| Fishing                   | 0.130121  |
+| Orienteering              | 0.037618  |
+| Walk/hike in the forest   | 0.703642  |
+| Activities by/on the sea  | 0.368318  |
+| Cycling                   | 0.38836   |
+| Walk/hike in the mountain | 0.382193  |
+| Skiing                    | 0.329004  |
+| Fishing                   | 0.15556   |
+| Orienteering              | 0.0491809 |

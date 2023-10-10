@@ -1,0 +1,27 @@
+| Category                 | X            |          Y |
+| Euclidean                | MexicoCity   | -0.574473  |
+| Euclidean                | Oriente      | -0.710184  |
+| Euclidean                | CVCR         | -0.772992  |
+| Euclidean                | Peque        | -0.358008  |
+| Euclidean                | Pasto        | -0.65747   |
+| Euclidean                | Paposo       | -0.7214    |
+| Euclidean                | Quetalmahue  | -0.92777   |
+| Euclidean                | Salta        | -0.532974  |
+| Effective                | MexicoCity   | -0.534096  |
+| Effective                | Oriente      | -0.52961   |
+| Effective                | CVCR         | -0.749439  |
+| Effective                | Peque        | -0.467923  |
+| Effective                | Medellin     | -0.502692  |
+| Effective                | Cundinamarca | -0.353522  |
+| Effective                | Pasto        | -0.62943   |
+| Effective                | Paposo       | -0.844773  |
+| Effective                | Quetalmahue  | -0.801032  |
+| Effective                | Salta        | -0.65074   |
+| Effective                | Tucuman      | -0.483625  |
+| Effective                | Catamarca    | -0.393899  |
+| Effective                | RGS          | -0.387169  |
+| [unnamed data series #2] | Medellin     | -0.272207  |
+| [unnamed data series #2] | Cundinamarca | -0.0142441 |
+| [unnamed data series #2] | Tucuman      | -0.21052   |
+| [unnamed data series #2] | Catamarca    | -0.218371  |
+| [unnamed data series #2] | RGS          | -0.235195  |

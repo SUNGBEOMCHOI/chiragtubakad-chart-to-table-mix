@@ -1,0 +1,69 @@
+| title                    |   OnRoad |
+| House Value > $250K      | 0.745546 |
+| >1 Vehicles in Household | 0.852053 |
+| HH Income > $60K         | 0.861735 |
+| White                    | 0.871418 |
+| Drove Alone              | 0.900465 |
+| Bachelors Degree         | 0.910147 |
+| Asian                    | 1.12316  |
+| Hispanic                 | 1.19094  |
+| Less than High School    | 1.20062  |
+| NonWhite                 | 1.23935  |
+| Below 150% of Poverty    | 1.27808  |
+| American Indian          | 1.22967  |
+| Commute by Walk/Transit  | 1.29744  |
+| Black                    | 1.40395  |
+| No Vehicles on Household | 1.44268  |
+| Rent <  $700             | 1.49109  |
+| Population Average       | 0.958559 |
+| House Value > $250K      | 0.416344 |
+| >1 Vehicles in Household | 0.503486 |
+| HH Income > $60K         | 0.493803 |
+| White                    | 0.503486 |
+| Drove Alone              | 0.522851 |
+| Bachelors Degree         | 0.542215 |
+| Asian                    | 0.764911 |
+| Hispanic                 | 0.774593 |
+| Less than High School    | 0.803641 |
+| NonWhite                 | 0.813323 |
+| Below 150% of Poverty    | 0.871418 |
+| American Indian          | 0.929512 |
+| Commute by Walk/Transit  | 0.929512 |
+| Black                    | 0.91983  |
+| No Vehicles on Household | 1.00697  |
+| Rent <  $700             | 1.03602  |
+| Population Average       | 0.571263 |
+| House Value > $250K      | 0.435709 |
+| >1 Vehicles in Household | 0.522851 |
+| HH Income > $60K         | 0.532533 |
+| White                    | 0.551898 |
+| Drove Alone              | 0.571263 |
+| Bachelors Degree         | 0.571263 |
+| Asian                    | 0.813323 |
+| Hispanic                 | 0.871418 |
+| Less than High School    | 0.890782 |
+| NonWhite                 | 0.900465 |
+| Below 150% of Poverty    | 0.977924 |
+| American Indian          | 1.02634  |
+| Commute by Walk/Transit  | 1.05538  |
+| Black                    | 1.0457   |
+| No Vehicles on Household | 1.14253  |
+| Rent <  $700             | 1.2103   |
+| Population Average       | 0.629357 |
+| House Value > $250K      | 0.290473 |
+| >1 Vehicles in Household | 0.329202 |
+| HH Income > $60K         | 0.338885 |
+| White                    | 0.338885 |
+| Drove Alone              | 0.338885 |
+| Bachelors Degree         | 0.367932 |
+| Asian                    | 0.387297 |
+| Hispanic                 | 0.513168 |
+| Less than High School    | 0.493803 |
+| NonWhite                 | 0.503486 |
+| Below 150% of Poverty    | 0.522851 |
+| American Indian          | 0.542215 |
+| Commute by Walk/Transit  | 0.590627 |
+| Black                    | 0.580945 |
+| No Vehicles on Household | 0.609992 |
+| Rent <  $700             | 0.63904  |
+| Population Average       | 0.377614 |

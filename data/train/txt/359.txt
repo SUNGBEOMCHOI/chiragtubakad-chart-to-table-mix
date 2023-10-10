@@ -1,0 +1,14 @@
+| Category                 |   first quartile |     max |   median |       min |   third quartile | x                |
+| [unnamed data series #0] |         3.8663   | 6.08078 | 4.05014  |  2.36212  |          6.02228 | Araceae          |
+| [unnamed data series #0] |         0.883008 | 8.27855 | 2.55432  |  0.440111 |          7.7688  | Ceratophllaceae  |
+| [unnamed data series #0] |         2.79666  | 5.98886 | 3.74095  |  0.933148 |          5.09471 | Convolvulaceae   |
+| [unnamed data series #0] |         1.37604  | 3.79944 | 2.5961   |  1.35097  |          3.79944 | Cyperaceae       |
+| [unnamed data series #0] |         7.62674  | 8.52089 | 7.85237  |  7.45125  |          8.11142 | Graminea         |
+| [unnamed data series #0] |         9.18942  | 9.47354 | 9.25627  |  9.00557  |          9.43175 | Haloragaceae     |
+| [unnamed data series #0] |         2.01114  | 3.29805 | 2.23677  |  0.674095 |          2.90529 | Hydrocharitaceae |
+| [unnamed data series #0] |         0.381616 | 1.24234 | 0.891365 | -0.128134 |          1.07521 | Juncaceae        |
+| [unnamed data series #0] |         2.62953  | 3.93315 | 3.33148  |  1.96936  |          3.63231 | Plantaginaceae   |
+| [unnamed data series #0] |         4.61003  | 8.72981 | 7.56825  |  1.35097  |          8.20334 | Pontederiaceae   |
+| [unnamed data series #0] |         0.983287 | 6.81616 | 1.46797  |  0.816156 |          4.29248 | Potamogetonaceae |
+| [unnamed data series #0] |         3.98329  | 8.47075 | 7.4429   |  1.28412  |          7.70195 | Typhacae         |
+| [unnamed data series #0] |         2.4039   | 4.21727 | 2.74652  |  1.68524  |          3.48189 | Umbelliferae     |

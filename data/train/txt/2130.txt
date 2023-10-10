@@ -1,0 +1,4 @@
+| title                 |   [unnamed data series #0] |
+| [unnamed category #0] |                      0.12  |
+| [unnamed category #0] |                      0.156 |
+| [unnamed category #0] |                      0.203 |

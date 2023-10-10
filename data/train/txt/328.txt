@@ -1,0 +1,34 @@
+| title                                      |   [unnamed data series #0] |
+| L.pn. sg.1                                 |                0.476415    |
+| L.pn. sg.6                                 |                0.129245    |
+| L.pn. sg.10                                |                0.0632075   |
+| L.pn. sg.14                                |                0.0386792   |
+| L.pn. sg.8                                 |                0.0386792   |
+| L.pn. sg.7                                 |                0.0292453   |
+| L.pn. sg.13                                |                0.0292453   |
+| L.gormanii                                 |                0.0141509   |
+| L.pn. sg.3                                 |                0.0103774   |
+| L.pn. sg.12                                |                0.0122642   |
+| L.micdadei                                 |                0.00660377  |
+| L.bozomanii                                |                0.00471698  |
+| L.pn sg.1+L.pn sg.6                        |                0.0367925   |
+| L.pn sg.1+L.pn sg.14                       |                0.0254717   |
+| L.pn sg.7+L.pn sg.8                        |                0.0254717   |
+| L.pn sg.6+L.pn sg.7                        |                0.0235849   |
+| L.pn sg.1+L.pn sg.8                        |                0.0216981   |
+| L.pn sg.1+L.pn sg.3                        |                0.0179245   |
+| L.pn sg.1+L.pn sg.10                       |                0.0179245   |
+| L.pn sg.1+L.pn sg.7                        |                0.0160377   |
+| L.pn sg.6+L.pn sg.7+L.pn sg.8              |                0.0160377   |
+| L.pn sg.3+L.pn sg.11+L.pn sg.13            |                0.00849057  |
+| L.pn sg.6+L.pn sg.10                       |                0.0122642   |
+| L.pn. sg.1+L.pn sg.3+L.pn sg.11+L.pn sg.13 |                0.00660377  |
+| L.pn sg.8+L.pn sg.12                       |                0.00660377  |
+| L.pn sg.1+L.pn sg.6+L.pn sg.10             |                0.00660377  |
+| L.pn sg.7+L.pn sg.14                       |                0.00660377  |
+| L.pn sg.1+L.pn sg.12                       |                0.00283019  |
+| L.pn sg.6+L.pn sg.12                       |                0.00471698  |
+| L.pn sg.1+L.pn sg.11+L.pn sg.13            |                0.00283019  |
+| L.pn sg.6+L.pn sg.8                        |                0.00283019  |
+| L.pn. sg.6+L.bozemanli                     |                0.000943396 |
+| L.pn. sg.5+L.gormanli                      |               -0.00188679  |

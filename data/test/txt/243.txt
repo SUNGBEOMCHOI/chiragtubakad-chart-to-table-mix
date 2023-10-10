@@ -1,0 +1,9 @@
+| Category                 |   first quartile |        max |     median |       min |   third quartile | x        |
+| [unnamed data series #0] |         0.274574 |   0.274574 |   0.274574 |  0.274574 |         0.274574 | Negative |
+| [unnamed data series #0] |         1.00677  |   9.42705  |   1.00677  |  1.00677  |         7.96266  | Trace    |
+| [unnamed data series #0] |         6.13216  |  72.3961   |  13.088    |  1.73897  |        36.5184   | Positive:
+1          |
+| [unnamed data series #0] |        29.5625   | 221.765    |  89.9689   | 29.5625   |       134.633    | Positive:
+2          |
+| [unnamed data series #0] |       119.623    | 396.76     | 247.392    | 73.4944   |       363.079    | Positive:
+3          |

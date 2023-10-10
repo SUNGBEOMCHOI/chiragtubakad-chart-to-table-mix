@@ -1,0 +1,9 @@
+| Category                 |   first quartile |     max |      median |      min |   third quartile | x               |
+| [unnamed data series #0] |         -2.28299 | 4.97687 |  0.0789116  | -4.35102 |          2.61497 | Discovery ST    |
+| [unnamed data series #0] |         -1.76054 | 4.51805 |  0.35102    | -3.65442 |          2.14694 | Discovery STE   |
+| [unnamed data series #0] |         -2.08707 | 4.3573  | -0.204082   | -3.99184 |          2.12517 | Discovery 600   |
+| [unnamed data series #0] |         -2.04354 | 4.48791 |  0.111565   | -4.86259 |          2.3102  | Discovery 690   |
+| [unnamed data series #0] |         -2.37007 | 4.63862 |  0.0897959  | -4.78639 |          2.15782 | Biograph Hi-REZ |
+| [unnamed data series #0] |         -1.73878 | 4.27692 |  0.285714   | -3.63265 |          2.13605 | Biograph TrueV  |
+| [unnamed data series #0] |         -2.27211 | 4.27692 | -0.00816327 | -4.90612 |          2.37551 | Gemini XL       |
+| [unnamed data series #0] |         -2.93605 | 4.68885 |  0.133333   | -5.83129 |          2.74558 | Gemini TF       |

@@ -1,0 +1,13 @@
+| Category   |       X |         Y |
+| MS series  | 1.00358 |  14.5719  |
+| MS series  | 1.99602 |  27.875   |
+| MS series  | 3.01075 |   8.64165 |
+| MS series  | 3.99204 |   8.80192 |
+| MS series  | 5.98805 |  11.3664  |
+| MS series  | 4.99562 |   7.5197  |
+| MI series  | 1.00358 |   1.90998 |
+| MI series  | 1.99602 |   0.94831 |
+| BU series  | 1.00358 | -11.3931  |
+| BU series  | 1.99602 |  -7.22586 |
+| BU series  | 2.98845 | -10.5917  |
+| TQ series  | 1.99602 |   1.7497  |

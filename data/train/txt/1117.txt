@@ -1,0 +1,33 @@
+| title                                                  |   Child 2005 |
+| Sugary Foods***                                        |     45.1323  |
+| Others fruits and vegetables***,+                      |     67.1958  |
+| Vitamin A-rich fruits and vegetables***                |     51.3228  |
+| Eggs,^                                                 |     54.0212  |
+| Meat, poultry, fish and shellfish and organ meats***,+ |     56.2434  |
+| Dairy Products +                                       |     79.418   |
+| Legumes and Nuts***,+                                  |     62.1164  |
+| Grains, roots, and tubers***,+                         |     87.9894  |
+| Sugary Foods***                                        |     39.7354  |
+| Others fruits and vegetables***,+                      |     36.8783  |
+| Vitamin A-rich fruits and vegetables***                |     46.0847  |
+| Eggs,^                                                 |     54.0212  |
+| Meat, poultry, fish and shellfish and organ meats***,+ |     49.7354  |
+| Dairy Products +                                       |     81.164   |
+| Legumes and Nuts***,+                                  |     50.8466  |
+| Grains, roots, and tubers***,+                         |     83.2275  |
+| Sugary Foods***                                        |     -0.10582 |
+| Others fruits and vegetables***,+                      |     54.6561  |
+| Vitamin A-rich fruits and vegetables***                |     37.9894  |
+| Eggs,^                                                 |     36.5608  |
+| Meat, poultry, fish and shellfish and organ meats***,+ |     44.4974  |
+| Dairy Products +                                       |     58.9418  |
+| Legumes and Nuts***,+                                  |     51.9577  |
+| Grains, roots, and tubers***,+                         |     74.8148  |
+| Sugary Foods***                                        |     -0.10582 |
+| Others fruits and vegetables***,+                      |     28.7831  |
+| Vitamin A-rich fruits and vegetables***                |     38.7831  |
+| Eggs,^                                                 |     34.4974  |
+| Meat, poultry, fish and shellfish and organ meats***,+ |     42.4339  |
+| Dairy Products +                                       |     45.6085  |
+| Legumes and Nuts***,+                                  |     43.0688  |
+| Grains, roots, and tubers***,+                         |     67.3545  |

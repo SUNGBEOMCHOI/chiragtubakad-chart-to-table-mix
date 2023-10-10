@@ -1,0 +1,5 @@
+| title    |   [unnamed data series #0] |
+| <1 Yuan  |                       0.26 |
+| 1-2 Yuan |                       0.47 |
+| 2-3 Yuan |                       0.23 |
+| >3 Yuan  |                       0.06 |

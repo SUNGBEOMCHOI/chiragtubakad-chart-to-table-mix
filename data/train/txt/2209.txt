@@ -1,0 +1,8 @@
+| title         |   [unnamed data series #0] |
+| 0-3 months    |                0.493868    |
+| 4-6 months    |                0.124002    |
+| 7-9 months    |               -0.000583998 |
+| 10-12 months  |                0.00720265  |
+| 13-60 months  |                0.423788    |
+| 61-120 months |                0.700214    |
+| >120 months   |                0.875414    |

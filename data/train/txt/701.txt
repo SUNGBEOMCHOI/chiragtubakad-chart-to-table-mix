@@ -1,0 +1,12 @@
+| title                         |   [unnamed data series #0] |
+| Irrigation                    |                       59   |
+| Forking                       |                       31   |
+| Removing weeds                |                       31   |
+| Farmer idle/left farm briefly |                       25   |
+| Bed preparation               |                       14   |
+| Transplanting                 |                        7.2 |
+| Eating                        |                        5   |
+| Harvesting                    |                        3.5 |
+| Spraying                      |                        3.4 |
+| Mixing chemicals              |                        1   |
+| Transport of produce          |                        0.1 |

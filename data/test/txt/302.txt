@@ -1,0 +1,5 @@
+| title     |   [unnamed data series #0] |
+| TINDIGA   |                      31.58 |
+| TWATWATWA |                      21.05 |
+| MALUI     |                      15.79 |
+| MBWADE    |                       5.28 |

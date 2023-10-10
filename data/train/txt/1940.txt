@@ -1,0 +1,5 @@
+| Category                 |   first quartile |     max |   median |     min |   third quartile | x                    |
+| [unnamed data series #0] |          507.112 | 595.2   |  530.67  | 451.8   |          569.849 | Mixture mixing phase |
+| [unnamed data series #0] |          447.703 | 596.737 |  521.964 | 447.703 |          570.489 | Transportation phase |
+| [unnamed data series #0] |          429.265 | 429.485 |  429.265 | 429.265 |          429.485 | Laying dwon phase    |
+| [unnamed data series #0] |          356.321 | 356.321 |  356.321 | 356.321 |          356.321 | Comapcting phase     |

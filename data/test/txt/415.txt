@@ -1,0 +1,15 @@
+| Category                 |   first quartile |      max |    median |       min |   third quartile | x   |
+| [unnamed data series #0] |        0.400836  | 2.56494  | 0.688999  | 0.0780924 |         1.26821  | Piscivorous
+(22%)     |
+| [unnamed data series #0] |        0.222174  | 1.15871  | 0.389309  | 0.0319862 |         0.605432 | Carnivorous
+(8.1%)     |
+| [unnamed data series #0] |        0.141488  | 0.939702 | 0.187595  | 0.0550393 |         0.51322  | Insetivorous
+(2.9%)     |
+| [unnamed data series #0] |        0.0838556 | 1.1126   | 0.325913  | 0.0319862 |         0.524746 | Planctivorous
+(7.3%)     |
+| [unnamed data series #0] |        0.101145  | 0.559326 | 0.176068  | 0.0262229 |         0.288452 | Omnivorous
+(28.8%)     |
+| [unnamed data series #0] |        0.0435127 | 0.196239 | 0.0780924 | 0.017578  |         0.121317 | Herbivorous
+(6.3%)     |
+| [unnamed data series #0] |        0.0665658 | 0.253872 | 0.112672  | 0.0319862 |         0.155897 | Detritivorous
+(24.5%)     |

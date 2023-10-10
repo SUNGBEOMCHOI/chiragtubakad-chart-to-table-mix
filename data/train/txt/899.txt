@@ -1,0 +1,9 @@
+| title          |   [unnamed data series #0] |
+| Bayes A        |                   0.709212 |
+| Bayes B 0.95   |                   0.920488 |
+| Bayes B 0.996  |                   0.893226 |
+| Bayes  C 0     |                   0.704669 |
+| Bayes C 0.95   |                   0.877324 |
+| Bayes C 0.996  |                   0.900042 |
+| Bayes Cn 0.95  |                   0.902313 |
+| Bayes Cn 0.996 |                   0.904585 |

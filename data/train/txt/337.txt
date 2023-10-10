@@ -1,0 +1,15 @@
+| title      |   [unnamed data series #0] |
+| 4-fold     |                   0.172671 |
+| UTR        |                   0.114371 |
+| Intron 1   |                   0.152513 |
+| Intron >1  |                   0.158047 |
+| Intergenic |                   0.153501 |
+| Intronic   |                   0.159628 |
+| Intergenic |                   0.167335 |
+| 4-fold     |                   0.143422 |
+| UTR        |                   0.102909 |
+| Intron 1   |                   0.142236 |
+| Intron >1  |                   0.149549 |
+| Intergenic |                   0.145398 |
+| Intronic   |                   0.154885 |
+| Intergenic |                   0.162987 |

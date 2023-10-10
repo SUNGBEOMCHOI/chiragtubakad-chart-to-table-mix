@@ -1,0 +1,9 @@
+| title      |   [unnamed data series #0] |
+| pill       |                   25.2989  |
+| Condom     |                   14.6803  |
+| Withdrawal |                   29.3798  |
+| Rhythmic   |                    1.74341 |
+| IUD        |                    8.69265 |
+| Vasectomy  |                    4.68785 |
+| Tobactomy  |                    1.74341 |
+| No Method  |                   11.6699  |

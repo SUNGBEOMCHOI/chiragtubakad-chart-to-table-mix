@@ -1,0 +1,13 @@
+| title           |   Relatively Healthy (RH) |
+| inpatient care  |                   32126.2 |
+| ambulatory care |                   17177.5 |
+| Overall         |                   29217.9 |
+| inpatient care  |                   57085.5 |
+| ambulatory care |                   57943.6 |
+| Overall         |                  100545   |
+| inpatient care  |                   33893.3 |
+| ambulatory care |                   38280   |
+| Overall         |                   58217.3 |
+| inpatient care  |                   33109.8 |
+| ambulatory care |                   39041.5 |
+| Overall         |                   55571.8 |

@@ -1,0 +1,7 @@
+| Category                                 |        X |       Y |
+| No coating with polyester resin and sand | 0.994452 | 1.77498 |
+| No coating with polyester resin and sand | 2.01138  | 1.78109 |
+| No coating with polyester resin and sand | 3.00583  | 1.74444 |
+| coating with polyester resin and sand    | 1.00569  | 1.53066 |
+| coating with polyester resin and sand    | 2.0095   | 1.68947 |
+| coating with polyester resin and sand    | 3.00583  | 1.54288 |

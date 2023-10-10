@@ -1,0 +1,21 @@
+| title     |   Having after-school PA |
+| September |                  18358.4 |
+| October   |                  17799.3 |
+| November  |                  18315.4 |
+| December  |                  16853   |
+| January   |                  17240.1 |
+| February  |                  17799.3 |
+| March     |                  18573.5 |
+| April     |                  17842.3 |
+| May       |                  18186.4 |
+| June      |                  19476.7 |
+| September |                  14229.4 |
+| October   |                  14057.3 |
+| November  |                  13713.3 |
+| December  |                  14086   |
+| January   |                  13440.9 |
+| February  |                  12595   |
+| March     |                  13440.9 |
+| April     |                  15390.7 |
+| May       |                  15949.8 |
+| June      |                  16336.9 |

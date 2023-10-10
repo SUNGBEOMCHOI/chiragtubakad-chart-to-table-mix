@@ -1,0 +1,45 @@
+| title                    |   [unnamed data series #0] |
+| Sanbt Ana River          |                  0.0697761 |
+| Topanga Creek            |                  0.335548  |
+| Malibu Creek             |                  6.97984   |
+| Industrial Drain         |                 10.9664    |
+| Ventura River            |                 10.9664    |
+| Tecalote Creek           |                 11.3651    |
+| Santa Clara River        |                 12.5611    |
+| Solistice Creek          |                 13.3584    |
+| Talbert Channel          |                 18.9396    |
+| Ramirez Creek            |                 19.7369    |
+| Malaga Cove South        |                 21.3315    |
+| Aliso Creek              |                 26.1154    |
+| San Diego River          |                 26.5141    |
+| Calleguas Creek          |                 28.5074    |
+| Santa Ana Delhi Channel  |                 28.5074    |
+| Marie Canyon Storm Drain |                 29.3047    |
+| Tijuana River            |                 30.102     |
+| Escondido Creek          |                 48.0416    |
+| Ballona Creek            |                 58.008     |
+| Costa Mesa Channel       |                 71.9611    |
+| Cottonwood Creek         |                 81.9275    |
+| Malaga Cove East         |                 99.8671    |
+| Sanbt Ana River          |                 30.5007    |
+| Topanga Creek            |                  9.77045   |
+| Malibu Creek             |                 14.953     |
+| Industrial Drain         |                 40.0684    |
+| Ventura River            |                  4.18924   |
+| Tecalote Creek           |                 39.2711    |
+| Santa Clara River        |                  2.99327   |
+| Solistice Creek          |                  2.99327   |
+| Talbert Channel          |                 92.2926    |
+| Ramirez Creek            |                 12.9597    |
+| Malaga Cove South        |                  0.0697761 |
+| Aliso Creek              |                 51.2309    |
+| San Diego River          |                 26.1154    |
+| Calleguas Creek          |                 20.9329    |
+| Santa Ana Delhi Channel  |                 77.9409    |
+| Marie Canyon Storm Drain |                 26.5141    |
+| Tijuana River            |                 69.9678    |
+| Escondido Creek          |                  9.37179   |
+| Ballona Creek            |                 91.0966    |
+| Costa Mesa Channel       |                 89.9007    |
+| Cottonwood Creek         |                 53.2242    |
+| Malaga Cove East         |                 56.0148    |

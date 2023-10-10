@@ -1,0 +1,13 @@
+| title                               |   [unnamed data series #0] |
+| Varicella infection                 |                       35   |
+| Varicella vaccination               |                       10.4 |
+| Measles infection                   |                       41.4 |
+| Measles, mumps, rubella vaccination |                       11.7 |
+| Pneumococcal infection              |                       40.5 |
+| Pneumococcal vaccination            |                       12.5 |
+| Tetanus infection                   |                       45.8 |
+| Pertussis infection                 |                       32.4 |
+| Hepatitis B infection               |                       29.5 |
+| Hexavalent vaccination**            |                       16.2 |
+| Influenza infection                 |                       16.6 |
+| Influenza vaccination               |                       25.2 |

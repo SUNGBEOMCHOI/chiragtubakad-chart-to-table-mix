@@ -1,0 +1,7 @@
+| title    |   [unnamed data series #0] |
+| cp=Ti    |                   100.667  |
+| pure Nb  |                    93.6468 |
+| Ti-5Nb   |                    99.1073 |
+| Ti-10 Nb |                   125.629  |
+| Ti-15 Nb |                    89.7465 |
+| Ti-20 Nb |                    79.2156 |

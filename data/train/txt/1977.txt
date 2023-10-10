@@ -1,0 +1,38 @@
+| title                                                     |   [unnamed data series #0] |
+| SQ-Fish and MAPH                                          |                    15.3573 |
+| RFLP and PCR                                              |                    12.9684 |
+| Real-time quantitative PCR                                |                    14.1629 |
+| Real-time PCR                                             |                    11.7739 |
+| Quantitative PCR                                          |                    14.1629 |
+| PFGE and Southern blotting                                |                    14.1629 |
+| PCR and SSCP                                              |                    15.3573 |
+| APH, PFGE, Southern blotting, restriction digest          |                    16.5518 |
+| Genotyping and PCR                                        |                    16.5518 |
+| Densitometric analysis                                    |                    17.7462 |
+| CGH and FISH                                              |                    17.7462 |
+| Array CGH and quantitative FISH                           |                    16.5518 |
+| MLPA                                                      |                    16.5518 |
+| Genotyping and PFGE                                       |                    18.9407 |
+| Computational mapping                                     |                    16.5518 |
+| Breakpoint cloned                                         |                    16.5518 |
+| Southern blotting                                         |                    16.5518 |
+| PCR                                                       |                    18.9407 |
+| FISH and PFGE                                             |                    18.9407 |
+| FISH                                                      |                    21.3296 |
+| Computational fosmid and mapping and sequencing, PCR      |                    20.1351 |
+| Array CGH and FISH                                        |                    21.3296 |
+| Null genotypes, Hardy- Weinberg                           |                    23.7185 |
+| Null genotypes, Mendelian inconsistencies, Hardy-Weinberg |                    26.1074 |
+| Mendelian inconsistencies, Hardy-Weinberg                 |                    33.2742 |
+| Intensities from oligonucleotide arrays                   |                    44.0243 |
+| Null genotypes, Mendelian inconsistencies                 |                    51.191  |
+| Computational fosmid end mapping and sequencing           |                    51.191  |
+| ROMA                                                      |                    97.7749 |
+| Null genotypes                                            |                   227.971  |
+| Computational fosmid end mapping                          |                   260.221  |
+| Illumina infinium Human-1  and HumanMap 300 BeadChips     |                   274.555  |
+| Mendeliars inconsistencies                                |                   758.31   |
+| WGTP CGH array                                            |                   924.34   |
+| Affymetrix 500K SNP mapping array                         |                   986.451  |
+| Resequencing trace mapping                                |                  1309.98   |
+| Array CGH                                                 |                  1625.66   |

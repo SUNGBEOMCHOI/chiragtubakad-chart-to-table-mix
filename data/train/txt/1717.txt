@@ -1,0 +1,57 @@
+| title                               |     Boys |
+| * Aerobics                          |  8.87097 |
+| * Netball                           |  9.13978 |
+| * Snowboarding, Skiing or sledging  | 11.0215  |
+| * Hockey                            | 12.6344  |
+| * Dance                             | 12.9032  |
+| * Gymnastics                        | 13.7097  |
+| * Skateboarding                     | 21.7742  |
+| * Martial Arts                      | 22.5806  |
+| * Rollerskating or Rollerblading    | 23.3871  |
+| * Rugby                             | 26.0753  |
+| * Bowling                           | 29.8387  |
+| * Walking the dog                   | 31.7204  |
+| Playing on scooter                  | 33.0645  |
+| * Skipping                          | 33.0645  |
+| Swimming lessons                    | 36.2903  |
+| * Basketball or Volleyball          | 37.3656  |
+| Softball or Rounders                | 37.6344  |
+| * Tennis/.../other racquet sports   | 43.2796  |
+| * Cricket                           | 45.6989  |
+| Swimming for fun                    | 47.3118  |
+| Hiking                              | 52.4194  |
+| * Trampolining                      | 53.2258  |
+| * Household chores                  | 53.7634  |
+| * Playing with pets or horse-riding | 56.1828  |
+| * Playing on playground equipment   | 58.3333  |
+| Bike riding                         | 69.086   |
+| * Football                          | 76.8817  |
+| Running or Jogging                  | 77.4194  |
+| * Aerobics                          | 16.129   |
+| * Netball                           | 25.2688  |
+| * Snowboarding, Skiing or sledging  |  6.98925 |
+| * Hockey                            |  7.7957  |
+| * Dance                             | 52.4194  |
+| * Gymnastics                        | 30.914   |
+| * Skateboarding                     | 13.4409  |
+| * Martial Arts                      | 13.172   |
+| * Rollerskating or Rollerblading    | 39.5161  |
+| * Rugby                             | 11.2903  |
+| * Bowling                           | 24.1935  |
+| * Walking the dog                   | 41.3978  |
+| Playing on scooter                  | 37.3656  |
+| * Skipping                          | 63.7097  |
+| Swimming lessons                    | 37.3656  |
+| * Basketball or Volleyball          | 27.957   |
+| Softball or Rounders                | 35.4839  |
+| * Tennis/.../other racquet sports   | 36.2903  |
+| * Cricket                           | 25.2688  |
+| Swimming for fun                    | 50       |
+| Hiking                              | 54.0323  |
+| * Trampolining                      | 60.2151  |
+| * Household chores                  | 70.1613  |
+| * Playing with pets or horse-riding | 70.6989  |
+| * Playing on playground equipment   | 67.7419  |
+| Bike riding                         | 68.0108  |
+| * Football                          | 44.3548  |
+| Running or Jogging                  | 79.5699  |

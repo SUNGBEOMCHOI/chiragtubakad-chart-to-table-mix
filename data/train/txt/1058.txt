@@ -1,0 +1,6 @@
+| title          |   [unnamed data series #0] |
+| Self-Employer  |                   0.883777 |
+| Farmer         |                   0.600484 |
+| Worker         |                   0.687651 |
+| Official Clerk |                   0.651332 |
+| Housewife      |                   0.995157 |

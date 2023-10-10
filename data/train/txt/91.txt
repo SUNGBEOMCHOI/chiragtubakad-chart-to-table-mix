@@ -1,0 +1,26 @@
+| title                           |   all patients |
+| Smoking cessation               |          0.287 |
+| Reduction of alcohol cosumption |          0.209 |
+| Physical activity               |          0.192 |
+| Healthy diet                    |          0.173 |
+| Body weight                     |          0.188 |
+| Smoking cessation               |          0.243 |
+| Reduction of alcohol cosumption |          0.344 |
+| Physical activity               |          0.256 |
+| Healthy diet                    |          0.312 |
+| Body weight                     |          0.291 |
+| Smoking cessation               |          0.036 |
+| Reduction of alcohol cosumption |          0.044 |
+| Physical activity               |          0.025 |
+| Healthy diet                    |          0.024 |
+| Body weight                     |          0.013 |
+| Smoking cessation               |          0.226 |
+| Reduction of alcohol cosumption |          0.191 |
+| Physical activity               |          0.256 |
+| Healthy diet                    |         24     |
+| Body weight                     |          0.246 |
+| Smoking cessation               |          0.208 |
+| Reduction of alcohol cosumption |          0.213 |
+| Physical activity               |          0.27  |
+| Healthy diet                    |          0.251 |
+| Body weight                     |          0.263 |

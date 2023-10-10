@@ -1,0 +1,17 @@
+| Category   |        X |        Y |
+| Central
+Scotland            | 10.8427  | 24.5465  |
+| Rest of
+Scotland            |  9.58753 | 16.1565  |
+| Wales &
+West            |  9.26506 | 11.845   |
+| Central
+England            |  8.79376 | 12.719   |
+| South &
+South East            |  9.10631 |  9.98058 |
+| South West | 10.8675  |  9.98058 |
+| North East | 10.2771  | 14.6999  |
+| North West | 10.0588  | 15.9817  |
+| Yorkshire  |  9.67682 | 12.0781  |
+| London     |  7.98512 |  9.33968 |
+| East       |  8.69454 |  9.10662 |

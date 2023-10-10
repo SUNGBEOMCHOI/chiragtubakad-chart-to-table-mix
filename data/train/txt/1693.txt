@@ -1,0 +1,7 @@
+| title          |   CpG sites |
+| repetitive     |     1.02253 |
+| non-repetitive |     1.0418  |
+| total          |     1.02681 |
+| repetitive     |     1.35012 |
+| non-repetitive |     1.28375 |
+| total          |     1.31158 |

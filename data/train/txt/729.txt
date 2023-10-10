@@ -1,0 +1,13 @@
+| title        |   UVA 7 J/cm2 |
+| ML           |      0.647821 |
+| BaP          |     21.8492   |
+| 1-Nitro- BaP |      4.77032  |
+| 2-Nitro- BaP |      1.41343  |
+| 3-Nitro- BaP |      8.06832  |
+| 6-Nitro-BaP  |      6.596    |
+| ML           |      3.82803  |
+| BaP          |     46.8198   |
+| 1-Nitro- BaP |     16.9611   |
+| 2-Nitro- BaP |      5.53592  |
+| 3-Nitro- BaP |     21.7903   |
+| 6-Nitro-BaP  |     17.4912   |

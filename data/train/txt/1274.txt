@@ -1,0 +1,4 @@
+| Category                 |   first quartile |     max |   median |      min |   third quartile | x        |
+| [unnamed data series #0] |          13.032  | 14.365  |  13.4046 | 12.4652  |          13.6145 | 1INN-ED  |
+| [unnamed data series #0] |          10.9958 | 12.1504 |  11.2844 | 10.3346  |          11.4839 | 1NN-ERP  |
+| [unnamed data series #0] |          10.534  | 11.4681 |  10.9696 |  9.80976 |          11.19   | INN-TWED |

@@ -1,0 +1,5 @@
+| title         |   [unnamed data series #0] |
+| CH-PEO/HA/Pac |                    4.98838 |
+| CH-PEO/HA+Pac |                   18.2727  |
+| CH-PEO/HA     |                   66.5298  |
+| Control       |                   99.8761  |

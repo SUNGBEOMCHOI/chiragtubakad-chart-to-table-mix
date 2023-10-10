@@ -1,0 +1,7 @@
+| Category                 |   first quartile |        max |   median |      min |   third quartile | x          |
+| [unnamed data series #0] |         -1.44849 |  0.0253566 | -1.15372 | -2.26624 |        -0.863708 | Constant   |
+| [unnamed data series #0] |         -1.42948 | -0.160063  | -1.20602 | -2.05705 |        -0.911252 | Recent
+Expansion            |
+| [unnamed data series #0] |         -1.40571 |  0.0158479 | -1.14897 | -2.25198 |        -0.820919 | Ancient
+Expansion            |
+| [unnamed data series #0] |         -1.47227 | -0.250396  | -1.22979 | -2.17116 |        -0.96355  | Bottleneck |

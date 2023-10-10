@@ -1,0 +1,7 @@
+| title             |     Dead |
+| (a) Control (Ti)  |  9.90867 |
+| (b) Ti with Ga-CT | 83.7733  |
+| (c) Ti with GT    | 93.9822  |
+| (a) Control (Ti)  | 89.4783  |
+| (b) Ti with Ga-CT | 15.6137  |
+| (c) Ti with GT    |  5.40473 |

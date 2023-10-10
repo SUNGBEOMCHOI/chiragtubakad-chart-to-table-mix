@@ -1,0 +1,23 @@
+| title                |   Girls |
+| Health professionals |    32.5 |
+| Teachers             |    31.4 |
+| Classmates           |    26.7 |
+| Friends              |    24.3 |
+| Other relatives      |    25   |
+| Social workers       |    27.8 |
+| Grandmother          |    21.8 |
+| Father               |    21.8 |
+| * Siblings           |    23.4 |
+| Grandfather          |    23   |
+| * Mother             |    19.1 |
+| Health professionals |    26.5 |
+| Teachers             |    24.6 |
+| Classmates           |    25.6 |
+| Friends              |    24.4 |
+| Other relatives      |    21.1 |
+| Social workers       |    16.3 |
+| Grandmother          |    19.1 |
+| Father               |    19   |
+| * Siblings           |    17.5 |
+| Grandfather          |    16.8 |
+| * Mother             |    16.1 |

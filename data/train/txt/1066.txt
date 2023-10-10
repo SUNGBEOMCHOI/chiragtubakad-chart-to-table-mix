@@ -1,0 +1,23 @@
+| title                                               |   Living rooms |
+| Didn't know they were                               |     0.160505   |
+| Don't know how to use them                          |     0.177874   |
+| Can't get to them                                   |     0.00169562 |
+| Can't reach them                                    |     0.0240281  |
+| Cause draughts                                      |     0.249835   |
+| Noise(eat.go.blinds rattling or noise from outside) |     0.0339537  |
+| Worry it will increase heating bills                |     0.0686931  |
+| Dont feel the need to                               |     0.423532   |
+| Other                                               |     0.016584   |
+| Open windows/easier to open windows                 |     0.0587676  |
+| Too cold                                            |     0.016584   |
+| Didn't know they were                               |     0.155542   |
+| Don't know how to use them                          |     0.145616   |
+| Can't get to them                                   |     0.00913978 |
+| Can't reach them                                    |     0.0265095  |
+| Cause draughts                                      |     0.239909   |
+| Noise(eat.go.blinds rattling or noise from outside) |     0.0860629  |
+| Worry it will increase heating bills                |     0.0860629  |
+| Dont feel the need to                               |     0.408644   |
+| Other                                               |     0.016584   |
+| Open windows/easier to open windows                 |     0.093507   |
+| Too cold                                            |     0.00169562 |

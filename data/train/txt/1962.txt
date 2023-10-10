@@ -1,0 +1,9 @@
+| title           |   Pre ban |
+| Cafe            | 296.39    |
+| Restaurant      | 271.259   |
+| Restaurant/cafe |  94.0204  |
+| Bar             | 374.428   |
+| Cafe            |   2.75558 |
+| Restaurant      |  12.0143  |
+| Restaurant/cafe |   7.6054  |
+| Bar             |  21.714   |

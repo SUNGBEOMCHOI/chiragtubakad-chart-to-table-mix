@@ -1,0 +1,8 @@
+| title                                         |   [unnamed data series #0] |
+| Acute lower respiratory infections            |                       1.86 |
+| Injuries                                      |                       0.84 |
+| Diarrhea diseases                             |                       0.65 |
+| Other communicable and nutritional conditions |                       0.33 |
+| Meningitis/encephalitis                       |                       0.19 |
+| Pertussis                                     |                       0.18 |
+| HIV/ADS                                       |                       0.03 |

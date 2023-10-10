@@ -1,0 +1,57 @@
+| Category                     |        X |         Y |
+| Lime mortars                 | 43.5837  | 15.8926   |
+| Lime mortars                 | 32.3441  | 16.1402   |
+| Lime mortars                 | 37.9235  | 13.324    |
+| Lime mortars                 | 40.1067  | 11.9624   |
+| Lime mortars                 | 36.8723  | 11.622    |
+| Lime mortars                 | 36.0637  | 11.622    |
+| Lime mortars                 | 33.2336  | 11.1268   |
+| Lime mortars                 | 32.7484  | 11.1887   |
+| Lime mortars                 | 32.1016  | 11.1268   |
+| Lime mortars                 | 30.4035  | 10.8793   |
+| Lime mortars                 | 30.9695  | 10.5079   |
+| Portland cement mortars      | 27.4117  |  2.80221  |
+| Portland cement mortars      | 30.4035  |  2.58559  |
+| Cementituos mortars          | 30.1609  |  5.1851   |
+| Cementituos mortars          | 22.4792  |  6.0516   |
+| Cementituos mortars          | 25.3093  |  3.94724  |
+| Cementituos mortars          | 19.8916  |  3.08073  |
+| Cementituos mortars          | 16.8998  |  3.94724  |
+| Cementituos mortars          | 17.3041  |  3.29736  |
+| Cementituos mortars          | 19.4873  |  1.90476  |
+| Cementituos mortars          | 16.9807  |  2.09044  |
+| Cementituos mortars          | 14.9592  |  2.67843  |
+| Cementituos mortars          | 13.0994  |  1.96666  |
+| Cementituos mortars          | 12.4525  |  2.21423  |
+| Cementituos mortars          | 11.0779  |  2.67843  |
+| Cementituos mortars          | 11.2396  |  1.81192  |
+| Cementituos mortars          | 11.4822  |  1.47151  |
+| Cementituos mortars          | 11.6439  |  1.28583  |
+| Cementituos mortars          | 11.8056  |  0.976365 |
+| Cementituos mortars          | 12.0482  |  0.790685 |
+| Cementituos mortars          | 12.5334  |  0.914471 |
+| Cementituos mortars          | 13.9888  |  1.03826  |
+| Cementituos mortars          | 14.474   |  1.22394  |
+| Cementituos mortars          | 14.6357  |  1.65719  |
+| Crushed Brick mortars        | 33.557   |  9.17721  |
+| Crushed Brick mortars        | 30.7269  |  6.02066  |
+| Crushed Brick mortars        | 29.6757  |  6.26823  |
+| Crushed Brick mortars        | 26.7648  |  6.17539  |
+| Crushed Brick mortars        | 25.9562  |  5.5874   |
+| Crushed Brick mortars        | 24.339   |  4.3186   |
+| Crushed Brick mortars        | 22.3175  |  4.68995  |
+| Crushed Brick mortars        | 22.4792  |  3.66872  |
+| Crushed Brick mortars        | 19.1639  |  4.16386  |
+| Crushed Brick mortars        | 16.8998  |  3.3283   |
+| Crushed Brick mortars        | 13.6654  |  4.07102  |
+| Crushed Brick mortars        | 15.6869  |  2.67843  |
+| Crushed Brick mortars        | 14.8783  |  3.08073  |
+| Crushed Brick mortars        | 12.0482  |  3.3283   |
+| Crushed Brick mortars        | 10.9161  |  2.67843  |
+| Crushed Brick mortars        | 10.8353  |  2.30707  |
+| Crushed Brick mortars        |  9.94582 |  1.71908  |
+| Crushed Brick mortars        | 12.4525  |  2.4618   |
+| Kaisarini historical mortars | 20.2959  |  7.35136  |
+| Kaisarini historical mortars | 28.2203  |  9.33194  |
+| Kaisarini historical mortars | 31.293   | 15.4903   |
+| Kaisarini historical mortars | 39.1364  | 18.4302   |

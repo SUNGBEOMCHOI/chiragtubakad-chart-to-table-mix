@@ -1,0 +1,16 @@
+| title                   |   [unnamed data series #0] |
+| Health planning         |                0.306864    |
+| Behaviour change        |                0.263903    |
+| Prevention              |                0.222695    |
+| Infection control       |                0.0622495   |
+| Patient safety          |                0.0455912   |
+| Health needs assessment |                0.0254259   |
+| Health promotion        |                0.0175351   |
+| Public health policy    |                0.0149048   |
+| Health education        |                0.0140281   |
+| Spatial planning        |                0.00438377  |
+| Mass media campaigns    |                0.00350701  |
+| Counselling             |                0.00263026  |
+| Community engagement    |                0.00350701  |
+| Public Health Policy    |                0.000438377 |
+| Community development   |                0.000876754 |

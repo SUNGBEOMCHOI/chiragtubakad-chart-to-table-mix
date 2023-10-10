@@ -1,0 +1,21 @@
+| title   |   Weekday MVPA |
+| Boys    |        89.3258 |
+| Girls   |        75.1685 |
+| Boys    |        88.9888 |
+| Girls   |        71.1236 |
+| Boys    |        88.3146 |
+| Girls   |        78.8764 |
+| Boys    |        78.8764 |
+| Girls   |        68.0899 |
+| Boys    |        76.5169 |
+| Girls   |        63.0337 |
+| Boys    |        55.9551 |
+| Girls   |        59.3258 |
+| Boys    |        48.5393 |
+| Girls   |        42.1348 |
+| Boys    |        56.9663 |
+| Girls   |        47.191  |
+| Boys    |        53.2584 |
+| Girls   |        53.2584 |
+| Boys    |        42.4719 |
+| Girls   |        45.1685 |

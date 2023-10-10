@@ -1,0 +1,5 @@
+| title                                                    |   Yes |
+| Regular physical activity (150 minutes or more per week) |  64.9 |
+| Physical inactivity (< 10 minutes per week)              |   6.4 |
+| Transportation physical activity                         |  87   |
+| Leisure time physical activity                           |  62.6 |

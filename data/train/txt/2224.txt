@@ -1,0 +1,7 @@
+| title                                  |   [unnamed data series #0] |
+| Baseline                               |                    4.20244 |
+| HW Infrastructure                      |                   18.2106  |
+| Nudges: footpaths only                 |                   57.9756  |
+| Nudges: footpaths & painting           |                   67.9169  |
+| Nudges: footpaths & painting + 2 weeks |                   73.7912  |
+| Nudges: footpaths & painting + 6 weeks |                   73.7912  |

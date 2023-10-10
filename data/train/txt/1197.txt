@@ -1,0 +1,9 @@
+| title       |   IC9C control |
+| uninduced   |        1.66779 |
+| BLE-induced |       20.7798  |
+| uninduced   |       11.4943  |
+| BLE-induced |       19.4275  |
+| uninduced   |       12.1253  |
+| BLE-induced |       24.3858  |
+| uninduced   |       14.3791  |
+| BLE-induced |       27.9919  |

@@ -1,0 +1,41 @@
+| title             |        YLL |
+| Lung              | 151579     |
+| Colon and rectum  |  78596.5   |
+| Breast            |  56869.6   |
+| Stomach           |  44695.7   |
+| Prostate          |  23185.8   |
+| Bladder           |  22477.9   |
+| Leukaemias        |  28495.6   |
+| Liver             |  30619.5   |
+| Pancreas          |  30619.5   |
+| Brain             |  26017.7   |
+| Non-Hodgkin's     |  21415.9   |
+| Uterus and cervix |  16551.7   |
+| Oesophagus        |  16896.6   |
+| Ovary             |  15517.2   |
+| Kidney            |  13448.3   |
+| Multiple myeloma  |  10344.8   |
+| Melanoma          |   7586.21  |
+| Gall Bladder      |   9310.34  |
+| Hodgkin's         |   4137.93  |
+| Thyroid           |   2068.97  |
+| Lung              |  14035.1   |
+| Colon and rectum  |  20713.9   |
+| Breast            |  20498.9   |
+| Stomach           |   5391.3   |
+| Prostate          |  10442.5   |
+| Bladder           |  10265.5   |
+| Leukaemias        |   3539.82  |
+| Liver             |   1415.93  |
+| Pancreas          |    707.965 |
+| Brain             |   1769.91  |
+| Non-Hodgkin's     |   5132.74  |
+| Uterus and cervix |   6811.11  |
+| Oesophagus        |   1551.72  |
+| Ovary             |   2413.79  |
+| Kidney            |   1724.14  |
+| Multiple myeloma  |   1034.48  |
+| Melanoma          |   2068.97  |
+| Gall Bladder      |    344.828 |
+| Hodgkin's         |   2068.97  |
+| Thyroid           |   1551.72  |

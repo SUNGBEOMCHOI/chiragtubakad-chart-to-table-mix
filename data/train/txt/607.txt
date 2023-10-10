@@ -1,0 +1,31 @@
+| title                                |   Total availability |
+| Total availability                   |             0.698039 |
+| Metform 500mg                        |             0.904202 |
+| Intermediate acting insulin 10 IU/ml |             0.516527 |
+| Insulin (soluble) 100 IU/ml          |             0.482913 |
+| Gliclazide 80 mg                     |             0.6      |
+| Glibenclamide 5 mg                   |             0.982633 |
+| Total availability                   |             0.668908 |
+| Metform 500mg                        |             0.870588 |
+| Intermediate acting insulin 10 IU/ml |             0.370868 |
+| Insulin (soluble) 100 IU/ml          |             0.496359 |
+| Gliclazide 80 mg                     |             0.621849 |
+| Glibenclamide 5 mg                   |             0.998319 |
+| Total availability                   |             0.722689 |
+| Metform 500mg                        |             0.996078 |
+| Intermediate acting insulin 10 IU/ml |             0.391036 |
+| Insulin (soluble) 100 IU/ml          |             0.32605  |
+| Gliclazide 80 mg                     |             0.910924 |
+| Glibenclamide 5 mg                   |             0.998319 |
+| Total availability                   |             0.87507  |
+| Metform 500mg                        |             0.993838 |
+| Intermediate acting insulin 10 IU/ml |             0.79888  |
+| Insulin (soluble) 100 IU/ml          |             0.6      |
+| Gliclazide 80 mg                     |             1.00056  |
+| Glibenclamide 5 mg                   |             1.00056  |
+| Total availability                   |             0.577031 |
+| Metform 500mg                        |             0.754062 |
+| Intermediate acting insulin 10 IU/ml |             0.509804 |
+| Insulin (soluble) 100 IU/ml          |             0.507563 |
+| Gliclazide 80 mg                     |             0.17591  |
+| Glibenclamide 5 mg                   |             0.94902  |

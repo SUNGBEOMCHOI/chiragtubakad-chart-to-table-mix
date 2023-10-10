@@ -1,0 +1,5 @@
+| Category                 |   first quartile |     max |   median |     min |   third quartile | x     |
+| [unnamed data series #0] |          34.9157 | 63.4217 |  42.1687 | 20.747  |          48.747  | +EtOH |
+| [unnamed data series #0] |          28.6747 | 51.1084 |  34.9157 | 14.6747 |          39.9759 | +EtOH |
+| [unnamed data series #0] |          35.0843 | 68.4819 |  41.1566 | 23.2771 |          47.9036 | +7dC  |
+| [unnamed data series #0] |          34.0723 | 64.2651 |  41.1566 | 25.8072 |          47.9036 | +20E  |

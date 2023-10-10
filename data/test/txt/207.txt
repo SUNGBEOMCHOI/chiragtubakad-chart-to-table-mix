@@ -1,0 +1,3 @@
+| Category                 |   first quartile |     max |   median |     min |   third quartile | x               |
+| [unnamed data series #0] |          277.666 | 1080.48 |  424.547 | 46.2777 |           611.67 | Concordance     |
+| [unnamed data series #0] |          317.907 | 1028.17 |  440.644 | 42.2535 |           611.67 | Serodiscordance |

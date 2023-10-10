@@ -1,0 +1,7 @@
+| title                                     |   [unnamed data series #0] |
+| Shortness of breath when waking fast      |                       10.6 |
+| Shortness of braeth when walking own pace |                        5.2 |
+| Coughing                                  |                       35.4 |
+| Wheezing                                  |                       21.2 |
+| Chest pain when breath deeply             |                       25.4 |
+| Other                                     |                        2.1 |

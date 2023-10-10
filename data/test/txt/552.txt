@@ -1,0 +1,36 @@
+| Category         | X                       |        Y |
+| gp               | 1.25% B-m-D-G           | 0.947138 |
+| gp               | 100 uM Trp-Ser          | 1.0119   |
+| gp               | 50 uM Ala-Ser           | 0.856464 |
+| gp               | 0.5 mM Gal-Ara          | 0.390143 |
+| gp               | 12.5 ug/mL Piperacillin | 0.739884 |
+| gp               | 40 degrees C            | 1.08962  |
+| gp               | 32 ug/mL Novobiocin     | 1.0119   |
+| gp               | 10 mM NaNO2             | 0.804651 |
+| gp               | 100 uM Na3VO4           | 1.43937  |
+| gp_{expected}    | 1.25% B-m-D-G           | 0.765791 |
+| gp_{expected}    | 100 uM Trp-Ser          | 0.68807  |
+| gp_{expected}    | 50 uM Ala-Ser           | 0.61035  |
+| gp_{expected}    | 0.5 mM Gal-Ara          | 1.19325  |
+| gp_{expected}    | 12.5 ug/mL Piperacillin | 1.05076  |
+| gp_{expected}    | 40 degrees C            | 0.973045 |
+| gp_{expected}    | 32 ug/mL Novobiocin     | 1.45232  |
+| gp_{expected}    | 10 mM NaNO2             | 0.506723 |
+| gp_{expected}    | 100 uM Na3VO4           | 1.21916  |
+| rtsgp            | 12.5 ug/mL Piperacillin | 0.752837 |
+| rtsgp            | 32 ug/mL Novobiocin     | 1.23211  |
+| rtsgp            | 100 uM Na3VO4           | 1.9575   |
+| rtsgp            | 10 mM NaNO2             | 1.28393  |
+| rtsgp            | 40 degrees C            | 1.36165  |
+| rtsgp            | 0.5 mM Gal-Ara          | 1.0119   |
+| rtsgp            | 50 uM Ala-Ser           | 1.23211  |
+| rtsgp            | 100 uM Trp-Ser          | 1.43937  |
+| rtsgp            | 1.25% B-m-D-G           | 1.68548  |
+| rtsgp_{expected} | 32 ug/mL Novobiocin     | 3.486    |
+| rtsgp_{expected} | 12.5 ug/mL Piperacillin | 2.09999  |
+| rtsgp_{expected} | 1.25% B-m-D-G           | 1.41346  |
+| rtsgp_{expected} | 50 uM Ala-Ser           | 0.403096 |
+| rtsgp_{expected} | 0.5 mM Gal-Ara          | 1.42641  |
+| rtsgp_{expected} | 40 degrees C            | 1.28393  |
+| rtsgp_{expected} | 10 mM NaNO2             | 0.260609 |
+| rtsgp_{expected} | 100 uM Na3VO4           | 1.98341  |

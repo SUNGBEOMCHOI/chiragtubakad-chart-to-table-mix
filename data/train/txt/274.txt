@@ -1,0 +1,7 @@
+| title        |       AA |
+| Never/Former | 22.0124  |
+| Current      | 34.7845  |
+| Never/Former | 19.347   |
+| Current      | 16.2372  |
+| Never/Former |  4.46468 |
+| Current      | 14.6824  |

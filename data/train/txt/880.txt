@@ -1,0 +1,33 @@
+| title                                        |   Autoethons 2011 |
+| Have to wait too long                        |             0.422 |
+| Personal reasons (wanted to wait/ fear)      |             0.159 |
+| Did not have time (work, family obligations) |             0.088 |
+| Too expensive or not covered by insurance    |             0.047 |
+| Too far/ without means of transportation     |             0.007 |
+| Could not get appointment                    |             0     |
+| Did not have insurance                       |             0     |
+| Others                                       |             0.278 |
+| Have to wait too long                        |             0.321 |
+| Personal reasons (wanted to wait/ fear)      |             0.028 |
+| Did not have time (work, family obligations) |             0.087 |
+| Too expensive or not covered by insurance    |             0.04  |
+| Too far/ without means of transportation     |             0.014 |
+| Could not get appointment                    |             0.19  |
+| Did not have insurance                       |             0     |
+| Others                                       |             0.318 |
+| Have to wait too long                        |             0.233 |
+| Personal reasons (wanted to wait/ fear)      |             0.233 |
+| Did not have time (work, family obligations) |             0.137 |
+| Too expensive or not covered by insurance    |             0.027 |
+| Too far/ without means of transportation     |             0     |
+| Could not get appointment                    |             0     |
+| Did not have insurance                       |             0     |
+| Others                                       |             0.37  |
+| Have to wait too long                        |             0.212 |
+| Personal reasons (wanted to wait/ fear)      |             0.006 |
+| Did not have time (work, family obligations) |             0.263 |
+| Too expensive or not covered by insurance    |             0.045 |
+| Too far/ without means of transportation     |             0.019 |
+| Could not get appointment                    |             0.096 |
+| Did not have insurance                       |             0.058 |
+| Others                                       |             0.301 |

@@ -1,0 +1,21 @@
+| Category                  |        X |          Y |
+| Number of adsorption site |  60.0163 | 0.00372027 |
+| Number of adsorption site | 118.867  | 0.0035988  |
+| Number of adsorption site | 128.19   | 0.00362772 |
+| Number of adsorption site | 140.427  | 0.00365664 |
+| Number of adsorption site | 150.915  | 0.00350046 |
+| Number of adsorption site | 159.655  | 0.00355831 |
+| Number of adsorption site | 169.561  | 0.00351782 |
+| Number of adsorption site | 178.884  | 0.00348311 |
+| Number of adsorption site | 189.955  | 0.0032633  |
+| Number of adsorption site | 199.277  | 0.00300879 |
+| Strain-softening index    |  59.4336 | 0.00406733 |
+| Strain-softening index    | 119.45   | 0.00396321 |
+| Strain-softening index    | 150.915  | 0.00399213 |
+| Strain-softening index    | 160.238  | 0.00394007 |
+| Strain-softening index    | 170.143  | 0.00389958 |
+| Strain-softening index    | 179.466  | 0.00380125 |
+| Strain-softening index    | 190.537  | 0.00361037 |
+| Strain-softening index    | 199.277  | 0.0035236  |
+| Strain-softening index    | 129.938  | 0.00408902 |
+| Strain-softening index    | 141.009  | 0.00409191 |

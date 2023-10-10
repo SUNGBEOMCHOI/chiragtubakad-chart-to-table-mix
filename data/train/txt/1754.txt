@@ -1,0 +1,7 @@
+| Category                 |   first quartile |      max |   median |      min |   third quartile | x             |
+| [unnamed data series #0] |         1.27273  |  2.21991 |  1.6707  |  1.04986 |          2.0448  | 10 g/L, wt%   |
+| [unnamed data series #0] |         2.29155  |  2.76116 |  2.43482 |  2.18011 |          2.60197 | 300 g/L, wt % |
+| [unnamed data series #0] |        11.445    | 13.1085  | 12.1454  | 10.6172  |         12.9334  | 600 a/L, wt%  |
+| [unnamed data series #0] |         0.922508 |  1.63091 |  1.17721 |  0.73148 |          1.48763 | 10 g/L. at %  |
+| [unnamed data series #0] |         1.43192  |  1.80602 |  1.54335 |  1.43192 |          1.67866 | 300 g/L, at % |
+| [unnamed data series #0] |         7.14685  |  8.23731 |  7.57667 |  6.65336 |          8.09404 | 600 g/L, at % |

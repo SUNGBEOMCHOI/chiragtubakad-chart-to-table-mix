@@ -1,0 +1,37 @@
+| title                  |   STRUCTURE |
+| Scenario 2m=0.05       |    0.832453 |
+| Scenario 2 m = 0.07    |    0.758857 |
+| Scenario 2m=0.10       |    0.689959 |
+| Scenario 2K= 10        |    0.942063 |
+| HIM 50 markers         |    0.985907 |
+| HIM 300 markers        |    0.955308 |
+| Scenario 3(HWD) s=0.3  |    0.940497 |
+| Scenareio 3(HWD) s=0.5 |    0.953024 |
+| Scenario 3(HWD) s=0.7  |    0.924839 |
+| Scenario 3(HWD) s=0.9  |    0.821492 |
+| Scenario 6(HWD)m =0.01 |    0.929732 |
+| Scenario 6(LD) m=0.1   |    0.552946 |
+| Scenario 2m=0.05       |    0.903699 |
+| Scenario 2 m = 0.07    |    0.848894 |
+| Scenario 2m=0.10       |    0.81053  |
+| Scenario 2K= 10        |    0.974946 |
+| HIM 50 markers         |    0.962419 |
+| HIM 300 markers        |    0.89039  |
+| Scenario 3(HWD) s=0.3  |    0.852809 |
+| Scenareio 3(HWD) s=0.5 |    0.715013 |
+| Scenario 3(HWD) s=0.7  |    0.574868 |
+| Scenario 3(HWD) s=0.9  |    0.502055 |
+| Scenario 6(HWD)m =0.01 |    0.843414 |
+| Scenario 6(LD) m=0.1   |    0.649246 |
+| Scenario 2m=0.05       |    0.834018 |
+| Scenario 2 m = 0.07    |    0.752593 |
+| Scenario 2m=0.10       |    0.608534 |
+| Scenario 2K= 10        |    0.949892 |
+| HIM 50 markers         |    0.985907 |
+| HIM 300 markers        |    0.985907 |
+| Scenario 3(HWD) s=0.3  |    0.953024 |
+| Scenareio 3(HWD) s=0.5 |    0.953024 |
+| Scenario 3(HWD) s=0.7  |    0.959288 |
+| Scenario 3(HWD) s=0.9  |    0.852809 |
+| Scenario 6(HWD)m =0.01 |    0.985907 |
+| Scenario 6(LD) m=0.1   |    0.772167 |

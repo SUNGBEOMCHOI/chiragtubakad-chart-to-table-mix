@@ -1,0 +1,5 @@
+| Category                 |   first quartile |     max |   median |     min |   third quartile | x            |
+| [unnamed data series #0] |          9.29323 | 17.6569 |  11.1472 | 7.95421 |          14.6699 | Pretraining  |
+| [unnamed data series #0] |         11.3944  | 18.1925 |  13.4545 | 9.10782 |          16.7299 | Training     |
+| [unnamed data series #0] |         10.4056  | 19.3049 |  13.1249 | 8.94302 |          17.1831 | Posttraining |
+| [unnamed data series #0] |         11.1884  | 15.8029 |  12.2185 | 8.40742 |          14.7935 | Detraining   |

@@ -1,0 +1,13 @@
+| title     |   [unnamed data series #0] |
+| Triton X  |                   0.477601 |
+| Medium    |                 100.057    |
+| Vehicle   |                  99.5797   |
+| Stimulant |                  97.6693   |
+| Calcein +
+Stimulant           |                  97.1917   |
+| Floursc. +
+Stimulant           |                  95.9977   |
+| 786 +
+Stimulant           |                  97.6693   |
+| 780 +
+Stimulant           |                  95.7589   |

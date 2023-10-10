@@ -1,0 +1,11 @@
+| title                                   |   [unnamed data series #0] |
+| Just experimenting                      |                   49.5935  |
+| Didn't feel like smoking cigarettes     |                   15.664   |
+| Didn't like taste                       |                   13.9295  |
+| cost too much                           |                   12.9539  |
+| Don't know                              |                   11.7615  |
+| Didn't help to quit or cut back smoking |                   11.5447  |
+| Didn‘t help with cravings               |                   11.3279  |
+| Concerned about health risks            |                    4.39024 |
+| Poor quality                            |                    4.49864 |
+| Dldn't like side effects                |                    3.52304 |

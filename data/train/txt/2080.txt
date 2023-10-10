@@ -1,0 +1,4 @@
+| title       |   [unnamed data series #0] |
+| Alginate    |                    317.553 |
+| ADA-GEL     |                    586.915 |
+| ADA-GEL—nBG |                    431.17  |

@@ -1,0 +1,13 @@
+| title            |   EMK-SVM |
+| Peak latency     |   74.879  |
+| Peak amplitude   |   81.1592 |
+| RMS              |   79.1967 |
+| Theta band power |   82.3368 |
+| Peak latency     |   60.7484 |
+| Peak amplitude   |   61.9259 |
+| RMS              |   67.0287 |
+| Theta band power |   67.0287 |
+| Peak latency     |   60.3559 |
+| Peak amplitude   |   60.3559 |
+| RMS              |   64.281  |
+| Theta band power |   66.6361 |

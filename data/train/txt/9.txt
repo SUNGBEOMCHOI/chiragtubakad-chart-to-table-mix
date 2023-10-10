@@ -1,0 +1,19 @@
+| title                        |   [unnamed data series #0] |
+| Virulence factors            |                    1.94277 |
+| Amino acid transport         |                    3.81325 |
+| Purine anabolism             |                    3.51506 |
+| Flage                        |                    1.94277 |
+| Chemotaxis                   |                    4.00301 |
+| Biosynthesis of histidine    |                    4.87048 |
+| Biosynthesis of isoleuicine  |                    5.43976 |
+| Stress response              |                    1.7259  |
+| Biosynthesis of valine       |                    4.97892 |
+| Biosynthesis of leucine      |                    6.57831 |
+| Amino acid metabolism        |                    1.80723 |
+| Phosphotransferase system    |                    1.83434 |
+| Assimilation of ammonia      |                    2.48494 |
+| Cellular import              |                    1.67169 |
+| Tricarboxylic-acid pathway   |                    3.78614 |
+| Biosynthesis of arginine     |                    5.06024 |
+| Chemoperception and response |                    2.0512  |
+| C-compound and carbohydrate  |                    1.80723 |

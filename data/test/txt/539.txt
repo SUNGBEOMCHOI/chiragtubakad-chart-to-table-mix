@@ -1,0 +1,20 @@
+| title   |   Weekday SB |
+| Boys    |      517.693 |
+| Girls   |      517.693 || Boys    |      543.833 |
+| Girls   |      538.605 |
+| Boys    |      522.921 |
+| Girls   |      554.289 |
+| Boys    |      559.516 |
+| Girls   |      576.943 |
+| Boys    |      567.358 |
+| Girls   |      594.369 |
+| Boys    |      525.535 |
+| Girls   |      496.782 |
+| Boys    |      541.219 |
+| Girls   |      520.307 |
+| Boys    |      515.079 |
+| Girls   |      520.307 |
+| Boys    |      541.219 |
+| Girls   |      554.289 |
+| Boys    |      546.447 |
+| Girls   |      517.693 |

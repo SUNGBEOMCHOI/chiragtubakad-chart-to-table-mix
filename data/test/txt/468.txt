@@ -1,0 +1,3 @@
+| title   |   [unnamed data series #0] |
+| H3K9me2 |                    1.20625 |
+| H3K9me3 |                    1.91686 |

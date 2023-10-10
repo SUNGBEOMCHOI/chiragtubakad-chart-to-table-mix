@@ -1,0 +1,5 @@
+| Category                 |   first quartile |       max |       median |       min |   third quartile | x   |
+| [unnamed data series #0] |       -0.11292   | 0.0644248 | -0.000353982 | -0.233982 |        0.0346903 | Healy Controls
+(n=19)     |
+| [unnamed data series #0] |       -0.0364602 | 0.24708   |  0.0867257   | -0.323186 |        0.176991  | Polyps
+n= 16)     |

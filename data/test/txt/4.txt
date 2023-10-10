@@ -1,0 +1,13 @@
+| title           |   Low-level |
+| Speeding        |    35.7727  |
+| Higher than 10% |    17.933   |
+| Higher than 20% |    10.8801  |
+| Higher than 30% |    12.7471  |
+| Speeding        |    61.2876  |
+| Higher than 10% |    38.4694  |
+| Higher than 20% |    24.9859  |
+| Higher than 30% |    30.7942  |
+| Speeding        |    41.7884  |
+| Higher than 10% |    16.481   |
+| Higher than 20% |     9.22063 |
+| Higher than 30% |    11.0876  |

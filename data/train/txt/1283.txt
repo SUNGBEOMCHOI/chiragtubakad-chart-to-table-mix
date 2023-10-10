@@ -1,0 +1,8 @@
+| title                           |   [unnamed data series #0] |
+| mat ICRs                        |                       0.56 |
+| HICP                            |                       0.5  |
+| pat ICRs                        |                       0.4  |
+| intergenic surrounding pat ICRs |                       0.29 |
+| LCP                             |                       0.25 |
+| intergenic Chr 14               |                       0.21 |
+| intergenic Chr 11               |                       0.2  |

@@ -1,0 +1,4 @@
+| title         |   [unnamed data series #0] |
+| Community     |                  0.718952  |
+| Funeral       |                  0.257817  |
+| Hospital(HCW) |                  0.0174672 |

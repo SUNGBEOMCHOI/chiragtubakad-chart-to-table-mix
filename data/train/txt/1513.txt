@@ -1,0 +1,6 @@
+| title            |   [unnamed data series #0] |
+| College          |                  0.202432  |
+| Some College     |                  0.173708  |
+| High School      |                  0.192857  |
+| Some High School |                  0.0670213 |
+| Elementary       |                  0.0597264 |

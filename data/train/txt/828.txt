@@ -1,0 +1,27 @@
+| title           |       Women |
+| Squash          |  0.00480769 |
+| Golf            | -0.00206044 |
+| Lifting weights |  0.0254121  |
+| Tennis          |  0.0494505  |
+| Swim            |  0.200549   |
+| Bicycling       |  0.203984   |
+| Soccer          |  0.293269   |
+| Aerobics        |  0.434066   |
+| Running         |  0.585165   |
+| Jogging         |  1.21703    |
+| Hiking          |  1.24107    |
+| Walking         |  1.6772     |
+| Dancing         |  2.85165    |
+| Squash          |  0.021978   |
+| Golf            |  0.0151099  |
+| Lifting weights |  0.516484   |
+| Tennis          |  0.561126   |
+| Swim            |  0.602335   |
+| Bicycling       |  0.245192   |
+| Soccer          |  2.06868    |
+| Aerobics        |  0.609203   |
+| Running         |  1.01786    |
+| Jogging         |  2.09615    |
+| Hiking          |  2.66621    |
+| Walking         |  1.76305    |
+| Dancing         |  2.47047    |

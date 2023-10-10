@@ -1,0 +1,15 @@
+| title                     |   [unnamed data series #0] |
+| being male                |                    8.61563 |
+| inadequate fruits         |                   13.9416  |
+| inadequate vegetables     |                   18.9544  |
+| genetic                   |                   30.233   |
+| smokeless tobacco         |                   30.233   |
+| high blood sugar          |                   34.6192  |
+| old age                   |                   34.6192  |
+| excess alcohol            |                   43.3914  |
+| high blood cholestrol     |                   43.3914  |
+| stress                    |                   47.7776  |
+| overweight                |                   52.1637  |
+| lack of physical activity |                   56.5498  |
+| smoking                   |                   60.936   |
+| high blood pressure       |                   65.0088  |

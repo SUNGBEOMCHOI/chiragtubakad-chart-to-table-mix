@@ -1,0 +1,6 @@
+| title                       |   [unnamed data series #0] |
+| Media                       |                    16.0451 |
+| Media plus 5 microg/ml HDM  |                    48.7902 |
+| Media plus 25 microg/ml HDM |                    56.4308 |
+| Media plus 50 microg/ml HDM |                    54.2478 |
+| Media plus TNFa and IL-1B   |                   296.562  |

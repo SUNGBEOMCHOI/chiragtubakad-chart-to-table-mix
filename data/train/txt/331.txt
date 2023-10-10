@@ -1,0 +1,5 @@
+| title                    |   [unnamed data series #0] |
+| Control                  |                    94.5546 |
+| Direct electrodeposition |                    79.6096 |
+| Electrochemical hydrogel lithography
+(indirect electrodeposition)                          |                    86.1844 |

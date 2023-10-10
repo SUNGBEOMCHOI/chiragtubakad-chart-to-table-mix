@@ -1,0 +1,5 @@
+| title          |   FEMALE |
+| NONRISK ALLELE |  23.6231 |
+| RISK ALLELE    |  20.3879 |
+| NONRISK ALLELE |  24.4083 |
+| RISK ALLELE    |  22.7907 |

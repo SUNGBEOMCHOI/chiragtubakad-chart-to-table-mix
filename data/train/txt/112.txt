@@ -1,0 +1,8 @@
+| title            |   [unnamed data series #0] |
+| Negative control |                  0.34731   |
+| Positive control |                  0.0423006 |
+| After swaging    |                  0.312801  |
+| 0.204 wt% O      |                  0.476438  |
+| 0.223 wt% O      |                  0.290538  |
+| 0.229 wt% O      |                  0.299443  |
+| 0.251 wt% O      |                  0.272727  |

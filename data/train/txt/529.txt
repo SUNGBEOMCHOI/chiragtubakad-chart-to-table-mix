@@ -1,0 +1,5 @@
+| Category                 |   first quartile |     max |   median |      min |   third quartile | x       |
+| [unnamed data series #0] |          11.5    | 13.5696 |  11.9177 | 10.4747  |          12.4304 | Lasso   |
+| [unnamed data series #0] |          12.5633 | 16.8354 |  13.7405 | 11.3481  |          14.5949 | GcF     |
+| [unnamed data series #0] |          10.8544 | 13.0949 |  11.3291 | 10.0759  |          11.9557 | Gw^{1}F |
+| [unnamed data series #0] |          10.6456 | 12.9051 |  11.1203 |  9.98101 |          11.6709 | Gw^{2}F |

@@ -1,0 +1,19 @@
+| title                   |        Male |
+| cardiac lesions         | 0.0494357   |
+| coronary dilation       | 0.0403659   |
+| coronary aneurysm       | 0.00233445  |
+| giant coronary aneurysm | 6.6993e-05  |
+| coronary narrowing      | 0.000273125 |
+| valvular lesions        | 0.00872456  |
+| cardiac lesions         | 0.0336666   |
+| coronary dilation       | 0.0239784   |
+| coronary aneurysm       | 0.00120072  |
+| giant coronary aneurysm | 0.000170059 |
+| coronary narrowing      | 6.6993e-05  |
+| valvular lesions        | 0.00923989  |
+| cardiac lesions         | 0.0425303   |
+| coronary dilation       | 0.0332543   |
+| coronary aneurysm       | 0.00171605  |
+| giant coronary aneurysm | 6.6993e-05  |
+| coronary narrowing      | 6.6993e-05  |
+| valvular lesions        | 0.00903375  |

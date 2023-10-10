@@ -1,0 +1,12 @@
+| title    |   [unnamed data series #0] |
+| Catechol |                    100     |
+| Catechol 
+&Hydroquinone          |                    102.278 |
+| Catechol
+&Catechin          |                    101.822 |
+| Catechol 
+&Gallic acid          |                    102.505 |
+| Catechol
+&Phenol          |                    102.05  |
+| Catechol 
+&Aminophenol          |                    101.139 |

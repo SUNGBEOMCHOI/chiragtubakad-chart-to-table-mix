@@ -1,0 +1,16 @@
+| title   |   TRSP1-1 |
+| Control |  1.00854  |
+| Father  |  1.04793  |
+| Mother  |  0.96914  |
+| Patient |  0.575181 |
+| Control |  1.00854  |
+| Father  |  1.10046  |
+| Mother  |  1.0742   |
+| Patient |  0.614576 || Control |  1.00854  |
+| Father  |  0.864084 |
+| Mother  |  1.19238  |
+| Patient |  0.929744 |
+| Control |  1.00854  |
+| Father  |  0.785292 |
+| Mother  |  1.08733  |
+| Patient |  0.614576 |

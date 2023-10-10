@@ -1,0 +1,9 @@
+| title                 |    C |
+| [unnamed category #0] | 16.8 |
+| [unnamed category #1] | 61.6 |
+| [unnamed category #0] |  3.4 |
+| [unnamed category #1] |  1.6 |
+| [unnamed category #0] |  8.2 |
+| [unnamed category #1] | 33.8 |
+| [unnamed category #0] | 71.8 |
+| [unnamed category #1] |  3   |

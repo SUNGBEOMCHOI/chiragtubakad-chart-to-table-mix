@@ -1,0 +1,11 @@
+| Category     |       X |        Y |
+| Industrial   | 2013.91 |  9.28469 |
+| Industrial   | 2010.92 | 10.5636  |
+| Industrial   | 2001.94 |  8.39926 |
+| Industrial   | 1996.91 | 11.5966  |
+| Industrial   | 1986.93 | 19.6639  |
+| kopisity (I) | 2013.94 | 16.1713  |
+| kopisity (I) | 2010.92 | 15.8762  |
+| kopisity (I) | 2001.94 | 11.7934  |
+| kopisity (I) | 1996.91 | 14.007   |
+| kopisity (I) | 1986.96 | 27.4851  |

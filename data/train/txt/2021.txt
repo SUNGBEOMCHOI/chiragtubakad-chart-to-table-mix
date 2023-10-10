@@ -1,0 +1,17 @@
+| title         |       Rural |
+| Physical      |  0.231336   |
+| Psychological |  0.249258   |
+| social        |  0.256938   |
+| Environmental |  0.367025   |
+| Physical      |  0.00348182 |
+| Psychological |  0.0393241  |
+| social        |  0.300461   |
+| Environmental |  0.100768   |
+| Physical      |  0.108449   |
+| Psychological |  0.0726062  |
+| social        | -0.040041   |
+| Environmental |  0.0572453  |
+| Physical      | -0.319099   |
+| Psychological | -0.278136   |
+| social        | -0.280696   |
+| Environmental | -0.360061   |

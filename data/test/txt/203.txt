@@ -1,0 +1,10 @@
+| title        |   [unnamed data series #0] |
+| Copperbelt   |                   14.5359  |
+| Central      |                    9.71338 |
+| Eastern      |                    5.61875 |
+| Lusaka       |                   23.4531  |
+| Luapula      |                   10.5323  |
+| Northern     |                   15.3549  |
+| Northwestern |                    6.43767 |
+| Southern     |                    7.2566  |
+| Western      |                    7.2566  |

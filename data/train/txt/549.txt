@@ -1,0 +1,4 @@
+| Category                 |   first quartile |      max |   median |       min |   third quartile | x        |
+| [unnamed data series #0] |        -49.7577  | 199.031  |  4.52342 | -201.292  |          47.496  | immune   |
+| [unnamed data series #0] |          2.26171 |  22.0517 |  4.52342 |  -10.7431 |          10.1777 | stable   |
+| [unnamed data series #0] |          2.26171 |  45.7997 |  5.08885 |  -24.8788 |          19.2246 | cell cyc |

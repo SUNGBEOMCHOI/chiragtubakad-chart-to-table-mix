@@ -1,0 +1,13 @@
+| title       |    Initial |
+| Heping      | 129.802    |
+| Dingyuan    |  43.0845   |
+| Jinya       | 203.348    |
+| Xiaguanying |  69.4292   |
+| Chengguan   | 127.607    |
+| Gaoya       |   8.50714  |
+| Heping      |  76.5642   |
+| Dingyuan    |  41.9868   |
+| Jinya       | 111.142    |
+| Xiaguanying |  93.0296   |
+| Chengguan   |  80.4061   |
+| Gaoya       |   0.274424 |

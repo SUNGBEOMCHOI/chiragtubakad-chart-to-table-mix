@@ -1,0 +1,17 @@
+| Category                               |        X |        Y |
+| Low-flux irradiation (Fig. 1 (k)-(0))  | 1.5102   | 114.992  |
+| Low-flux irradiation (Fig. 1 (k)-(0))  | 1.01439  | 107.635  |
+| Low-flux irradiation (Fig. 1 (k)-(0))  | 4.98957  |  73.3039 |
+| Low-flux irradiation (Fig. 1 (k)-(0))  | 0.939411 |  27.2562 |
+| Low-flux irradiation (Fig. 1 (k)-(0))  | 1.92724  |  31.3433 |
+| Low-flux irradiation (Fig. 1 (k)-(0))  | 1.98535  |  40.6073 |
+| High-flux irradiation (Fig. 2 (k)-(0)) | 1.5102   | 121.804  |
+| High-flux irradiation (Fig. 2 (k)-(0)) | 1.06948  | 113.357  |
+| High-flux irradiation (Fig. 2 (k)-(0)) | 4.97791  |  69.4893 |
+| High-flux irradiation (Fig. 2 (k)-(0)) | 1.92724  |  39.5174 |
+| High-flux irradiation (Fig. 2 (k)-(0)) | 0.997518 |  23.9866 |
+| Low-flux irradiation (Fig. 1 (i), (j)) | 0.910357 |  30.7983 |
+| Low-flux irradiation (Fig. 1 (i), (j)) | 1.43333  |  35.4304 |
+| High-flux irradiation (Fig. 2 (h)-(j)) | 1.05563  |  45.2393 |
+| High-flux irradiation (Fig. 2 (h)-(j)) | 1.46238  |  33.2506 |
+| High-flux irradiation (Fig. 2 (h)-(j)) | 0.474548 |  27.2562 |

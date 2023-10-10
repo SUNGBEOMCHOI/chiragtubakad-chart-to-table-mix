@@ -1,0 +1,7 @@
+| title   |   [unnamed data series #0] |
+| HCL     |                   36.8134  |
+| HNO3    |                   40.233   |
+| CH3COOH |                   30.2949  |
+| C2H5OH  |                   14.907   |
+| EDTA    |                    6.67878 |
+| NaOH    |                   26.2342  |

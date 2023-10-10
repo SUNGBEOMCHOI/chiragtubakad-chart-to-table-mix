@@ -1,0 +1,6 @@
+| title               |   [unnamed data series #0] |
+| Acetobacteriaceae   |                          1 |
+| Lactobacilli        |                          1 |
+| Frischella perrara  |                          5 |
+| Snodgrassella alvi  |                         55 |
+| Gilliamella apicola |                         64 |

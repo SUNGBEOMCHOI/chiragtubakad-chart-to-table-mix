@@ -1,0 +1,5 @@
+| title              |   [unnamed data series #0] |
+| Drough tolerance   |                         85 |
+| Yield potential    |                         89 |
+| Lodging resistance |                        100 |
+| DSR adaption       |                         64 |

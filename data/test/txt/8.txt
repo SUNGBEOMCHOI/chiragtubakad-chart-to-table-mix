@@ -1,0 +1,15 @@
+| title                                                     |   Completely achieved (%) |
+| Health promotion                                          |                   28.9661 |
+| Establishment and maintenance of oral health              |                   39.8396 |
+| Diagnosis and treatment planning                          |                   36.9875 |
+| Clinical information gathering                            |                   37.8788 |
+| Knowledge base, information handling and crtical thinking |                   30.5704 |
+| Communication and interpersonal skills                    |                   29.3226 |
+| Professionalism                                           |                   33.4225 |
+| Health promotion                                          |                   83.8681 |
+| Establishment and maintenance of oral health              |                   88.5027 |
+| Diagnosis and treatment planning                          |                   89.2157 |
+| Clinical information gathering                            |                   87.9679 |
+| Knowledge base, information handling and crtical thinking |                   87.9679 |
+| Communication and interpersonal skills                    |                   89.5722 |
+| Professionalism                                           |                   92.0677 |

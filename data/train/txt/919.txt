@@ -1,0 +1,7 @@
+| title                          |   [unnamed data series #0] |
+| Lack of sterilizing facilities |                   0.409609 |
+| Lavatories or septic tanks     |                   0.383958 |
+| Broken sanitary sewers         |                   0.370521 |
+| Unreasonable construction      |                   0.332655 |
+| Garbage heaps                  |                   0.127443 |
+| Pigpens                        |                   0.101792 |

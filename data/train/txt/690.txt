@@ -1,0 +1,16 @@
+| Category                 |   first quartile |      max |   median |       min |   third quartile | x   |
+| [unnamed data series #0] |          1.02194 |  8.90864 |  2.13274 | 0.244377  |          4.52097 | Area 1
+Down Right
+(N=276)     |
+| [unnamed data series #0] |          1.96612 | 15.2402  |  4.18773 | 0.0777562 |          7.29797 | Area 2
+Down Left
+(N=343)     |
+| [unnamed data series #0] |          1.63288 | 25.5707  |  4.68759 | 0.0777562 |         11.4079  | Area 3
+Up Right
+(N=667)     |
+| [unnamed data series #0] |          1.63288 | 31.2358  |  5.24299 | 0.244377  |         13.6295  | Area 4
+Up Left
+(N=471)     |
+| [unnamed data series #0] |          4.18773 | 17.9061  |  6.24271 | 0.466537  |          9.85282 | Area 5
+RESEX Cunia
+(N=251)     |

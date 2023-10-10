@@ -1,0 +1,15 @@
+| title                                   |   [unnamed data series #0] |
+| Millenium Cohort (Smith et al. 2007)    |                    53.396  |
+| Community Sample (Pre- deployment)      |                    55.5202 |
+| Community Sample (Post- deployment)     |                    53.0925 |
+| Community Sample (1 yr Post-deployment) |                    52.2688 |
+| Clinical Sample (1 Yr)                  |                    46.5462 |
+| Clinical Sample (2 Yr)                  |                    46.5896 |
+| Clinical Sample (3 Yr)                  |                    44.9422 |
+| Hypertension                            |                    43.9884 |
+| Liver Disease                           |                    42.6012 |
+| Clinical Sample (4Yr+)                  |                    42.211  |
+| Diabetes                                |                    41.1272 |
+| Heart Disease                           |                    38.9162 |
+| Lung Disease                            |                    38.2225 |
+| Kidney Disease                          |                    37.052  |

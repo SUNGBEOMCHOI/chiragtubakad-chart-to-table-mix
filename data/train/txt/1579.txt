@@ -1,0 +1,58 @@
+| title                         |   Pc_Disc+,S2-(119) |
+| Pattern specification         |         -0.0370771  |
+| Ventral cord development      |          0.833637   |
+| Neuroblast fate determination |          0.858754   |
+| CNS developement              |          0.833637   |
+| PNS development               |          4.98627    |
+| Olfactory learning            |          4.17417    |
+| Eye development               |          5.84862    |
+| Synaptic target recognition   |         -0.0203326  |
+| Optic placode development     |          0.816893   |
+| Catecholamine metabolism      |          1.65412    |
+| Bolwig's organ morphogenesis  |          2.49134    |
+| Antennal morphogenesis        |          2.5332     |
+| Terminal region determination |         -0.0119604  |
+| Notch signaling pathway       |          6.70259    |
+| Cell fate specification       |          2.51646    |
+| Sensory organ development     |          5.86536    |
+| Nervous system development    |          9.23101    |
+| Regulation of transcription   |          4.18254    |
+| Ectoderm development          |          8.38541    |
+| Pattern specification         |          4.08207    |
+| Ventral cord development      |          8.18447    |
+| Neuroblast fate determination |          8.18447    |
+| CNS developement              |          8.1761     |
+| PNS development               |          1.97226    |
+| Olfactory learning            |          0.00478414 |
+| Eye development               |          1.96389    |
+| Synaptic target recognition   |         -0.0119604  |
+| Optic placode development     |          1.97226    |
+| Catecholamine metabolism      |          1.97226    |
+| Bolwig's organ morphogenesis  |          1.97226    |
+| Antennal morphogenesis        |         -0.0119604  |
+| Terminal region determination |          4.0737     |
+| Notch signaling pathway       |          0.0131564  |
+| Cell fate specification       |          1.96389    |
+| Sensory organ development     |         -0.0119604  |
+| Nervous system development    |          6.07467    |
+| Regulation of transcription   |         10.1771     |
+| Ectoderm development          |         11.9855     |
+| Pattern specification         |          0.867126   |
+| Ventral cord development      |          2.75926    |
+| Neuroblast fate determination |          2.76763    |
+| CNS developement              |          3.68858    |
+| PNS development               |          3.68858    |
+| Olfactory learning            |          0.883871   |
+| Eye development               |          3.6802     |
+| Synaptic target recognition   |          1.86342    |
+| Optic placode development     |          1.88017    |
+| Catecholamine metabolism      |          2.79274    |
+| Bolwig's organ morphogenesis  |          2.776      |
+| Antennal morphogenesis        |          2.76763    |
+| Terminal region determination |          3.66346    |
+| Notch signaling pathway       |          3.67183    |
+| Cell fate specification       |          4.65976    |
+| Sensory organ development     |          6.45979    |
+| Nervous system development    |         10.2692     |
+| Regulation of transcription   |         11.1566     |
+| Ectoderm development          |         11.1734     |

@@ -1,0 +1,5 @@
+| title   |   Pre-exercise |
+| Outdoor |        3.19828 |
+| Indoor  |        3.49138 |
+| Outdoor |        3.47414 |
+| Indoor  |        2.99126 |

@@ -1,0 +1,25 @@
+| title                  |   Pain Outpatient Clinic |
+| Weakness/Failure       |                 1.14912  |
+| Punishment             |                 1.26596  |
+| Interrupt/Loss         |                 2.78487  |
+| Enemy/Threat           |                 1.82679  |
+| Reliving Break         |                 0.985542 |
+| Call for Help/Strategy |                 1.40616  |
+| Value                  |                 1.47627  |
+| Challenge              |                 1.70995  |
+| Weakness/Failure       |                 0.631129 |
+| Punishment             |                 0.483132 |
+| Interrupt/Loss         |                 1.25661  |
+| Enemy/Threat           |                 0.880386 |
+| Reliving Break         |                 0.646707 |
+| Call for Help/Strategy |                 0.938806 |
+| Value                  |                 0.962174 |
+| Challenge              |                 1.33217  |
+| Weakness/Failure       |                 1.31269  |
+| Punishment             |                 1.28932  |
+| Interrupt/Loss         |                 2.53717  |
+| Enemy/Threat           |                 1.56974  |
+| Reliving Break         |                 1.3828   |
+| Call for Help/Strategy |                 1.75668  |
+| Value                  |                 1.54637  |
+| Challenge              |                 1.89689  |

@@ -1,0 +1,4 @@
+| Category                 |   first quartile |     max |   median |      min |   third quartile | x   |
+| [unnamed data series #0] |          0.57456 | 3.22484 |  1.03952 | 0.176021 |          1.98937 | Mother's hair at 3
+months     || [unnamed data series #0] |          0.91996 | 8.15344 |  1.78346 | 0.335437 |          3.91564 | Baby's hair at 3
+months     |

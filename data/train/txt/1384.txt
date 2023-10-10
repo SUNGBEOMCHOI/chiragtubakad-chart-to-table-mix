@@ -1,0 +1,7 @@
+| title   |   [unnamed data series #0] |
+| Meatu   |                       65.1 |
+| Maswa   |                       47   |
+| Itilima |                       73.1 |
+| Bariadi |                       85   |
+| Busega  |                       82.8 |
+| Total   |                       68.9 |

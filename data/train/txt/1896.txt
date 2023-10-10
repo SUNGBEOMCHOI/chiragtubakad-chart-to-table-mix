@@ -1,0 +1,4 @@
+| Category                 |   first quartile |     max |   median |     min |   third quartile | x                  |
+| [unnamed data series #0] |         103.039  | 692.282 | 177.569  | 33.5021 |          358.885 | before 1919        |
+| [unnamed data series #0] |          82.2388 | 535.616 | 134.217  | 30.2813 |          260.923 | between 1919 -1960 |
+| [unnamed data series #0] |          69.85   | 318.139 |  96.8248 | 15.0409 |          172.802 | after 1960         |

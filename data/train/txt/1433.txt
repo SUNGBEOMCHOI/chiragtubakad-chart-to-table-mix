@@ -1,0 +1,10 @@
+| title                    |   [unnamed data series #0] |
+| lnlectious Disease       |                   20.0571  |
+| Abseentism               |                    8.04903 |
+| Gastrointestinial issues |                    7.08194 |
+| Neuro-cognitive Deficits |                    7.08194 |
+| Not Adequate Role model  |                    7.08194 |
+| Dehydration              |                    6.03425 |
+| Psychological Outcomes   |                    5.06716 |
+| Obesity                  |                    2.0853  |
+| Physical Harm            |                    2.0853  |

@@ -1,0 +1,77 @@
+| title                                           |       All |
+| 8. Provide instruction                          | 82.0931   |
+| 7. Set graded tasks                             | 69.7072   |
+| 12. Prompt self-monitoring of behaviour         | 59.6255   |
+| 21. Prompt identification as a role mode        | 54.7288   |
+| 20. Plan social support/social change           | 54.7288   |
+| 19. Provide opportunities for social comparison | 54.7288   |
+| 13. Provide feedback on performance             | 52.1363   |
+| 9. Model or demonstrate the behaviour           | 52.1363   |
+| 2. Provide information on consequences          | 52.1363   |
+| 4. Prompt intention formation                   | 49.832    |
+| 17, Prompt practice                             | 44.9352   |
+| 10. Prompt specific goal setting                | 37.446    |
+| 6. Provide general encouragement                | 34.8536   |
+| 1. Provide general information                  | 34.8536   |
+| 14. Provide contingent rewards                  | 25.06     |
+| 11. Prompt review of behavioural goals          | 22.4676   |
+| 3. Provide information about others’ approval   |  7.4892   |
+| 24. Stress management                           |  5.18483  |
+| 18. Use follow-up prompts                       |  5.18483  |
+| 25. Motivational interviewing                   |  2.88046  |
+| 22. Prompt self-talk                            |  2.88046  |
+| 5. Prompt barrier identification                |  2.73644  |
+| 26. Time management                             |  0        |
+| 23. Relapse prevention                          |  0        |
+| 16. Agree on behavioral contract                |  0        |
+| 15. Teach to use prompts/cues                   |  0        || 8. Provide instruction                          | 79.5007   |
+| 7. Set graded tasks                             | 74.6039   |
+| 12. Prompt self-monitoring of behaviour         | 79.5007   |
+| 21. Prompt identification as a role mode        | 69.7072   |
+| 20. Plan social support/social change           | 69.7072   |
+| 19. Provide opportunities for social comparison | 69.7072   |
+| 13. Provide feedback on performance             | 64.5223   |
+| 9. Model or demonstrate the behaviour           | 44.9352   |
+| 2. Provide information on consequences          | 44.9352   |
+| 4. Prompt intention formation                   | 64.5223   |
+| 17, Prompt practice                             | 59.6255   |
+| 10. Prompt specific goal setting                | 54.7288   |
+| 6. Provide general encouragement                | 49.832    |
+| 1. Provide general information                  | 39.7504   |
+| 14. Provide contingent rewards                  | 29.9568   |
+| 11. Prompt review of behavioural goals          | 24.772    |
+| 3. Provide information about others’ approval   |  5.18483  |
+| 24. Stress management                           | 10.0816   |
+| 18. Use follow-up prompts                       | 10.0816   |
+| 25. Motivational interviewing                   |  4.89678  |
+| 22. Prompt self-talk                            |  5.18483  |
+| 5. Prompt barrier identification                |  5.18483  |
+| 26. Time management                             |  0        |
+| 23. Relapse prevention                          |  0        |
+| 16. Agree on behavioral contract                |  0        |
+| 15. Teach to use prompts/cues                   |  0        || 8. Provide instruction                          | 84.3975   |
+| 7. Set graded tasks                             | 64.7144   |
+| 12. Prompt self-monitoring of behaviour         | 40.0384   |
+| 21. Prompt identification as a role mode        | 40.0384   |
+| 20. Plan social support/social change           | 39.8464   |
+| 19. Provide opportunities for social comparison | 40.0384   |
+| 13. Provide feedback on performance             | 40.0384   |
+| 9. Model or demonstrate the behaviour           | 59.6255   |
+| 2. Provide information on consequences          | 59.6255   |
+| 4. Prompt intention formation                   | 34.8536   |
+| 17, Prompt practice                             | 29.9568   |
+| 10. Prompt specific goal setting                | 20.1632   |
+| 6. Provide general encouragement                | 20.2592   |
+| 1. Provide general information                  | 30.1488   |
+| 14. Provide contingent rewards                  | 20.1632   |
+| 11. Prompt review of behavioural goals          | 20.1632   |
+| 3. Provide information about others’ approval   | 10.0816   |
+| 24. Stress management                           |  0.288046 |
+| 18. Use follow-up prompts                       |  0.384061 |
+| 25. Motivational interviewing                   |  5.18483  |
+| 22. Prompt self-talk                            |  0.69954  |
+| 5. Prompt barrier identification                |  0.576092 |
+| 26. Time management                             |  0        |
+| 23. Relapse prevention                          |  0        |
+| 16. Agree on behavioral contract                |  0        |
+| 15. Teach to use prompts/cues                   |  0        |

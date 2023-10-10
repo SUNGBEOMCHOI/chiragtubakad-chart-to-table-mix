@@ -1,0 +1,9 @@
+| title      |   [unnamed data series #0] |
+| MCC PH 101 |                   0.296991 |
+| MCC PH 102 |                   0.302402 |
+| MCC DG     |                   0.290678 |
+| Mannitol SD
+100            |                   0.352904 |
+| Lactose    |                   0.407013 |
+| Dibasic calcium
+phosphate            |                   0.346591 |

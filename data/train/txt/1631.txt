@@ -1,0 +1,22 @@
+| title          |   ALCOHOL |
+| 3 to 6 years   |   0       |
+| 7 to 10 years  |   0       |
+| 11 to 17 years |   0       |
+| 3 to 6 years   |  90.8476  |
+| 7 to 10 years  | 129.782   |
+| 11 to 17 years | 207.652   |
+| 3 to 6 years   |  22.7119  |
+| 7 to 10 years  |  27.5787  |
+| 11 to 17 years |  21.0896  |
+| 3 to 6 years   |  40.557   |
+| 7 to 10 years  |  48.6684  |
+| 11 to 17 years |  63.2689  |
+| 3 to 6 years   |  40.557   |
+| 7 to 10 years  |  50.2907  |
+| 11 to 17 years |  38.9347  |
+| 3 to 6 years   |   9.73368 |
+| 7 to 10 years  |  12.9782  |
+| 11 to 17 years |  25.9565  |
+| 3 to 6 years   | 214.141   |
+| 7 to 10 years  | 176.828   |
+| 11 to 17 years | 129.782   |

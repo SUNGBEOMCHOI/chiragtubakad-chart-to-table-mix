@@ -1,0 +1,26 @@
+| title                          |   handedness |
+| electrophoresis (3-1)          |   0          |
+| centrifugation (3-2)           |   0.0372936  |
+| chromatography (4-1)           |   0          |
+| selective solubilization (4-2) |   0.0745871  |
+| selective reaction (4-3)       |   0          |
+| electrophoresis (3-1)          |   0          |
+| centrifugation (3-2)           |   0.178476   |
+| chromatography (4-1)           |   0.157166   |
+| selective solubilization (4-2) |   0.253063   |
+| selective reaction (4-3)       |   0.109217   |
+| electrophoresis (3-1)          |   0.149174   |
+| centrifugation (3-2)           |   0.247736   |
+| chromatography (4-1)           |   0.0932339  |
+| selective solubilization (4-2) |   0.343633   |
+| selective reaction (4-3)       |   0.258391   |
+| electrophoresis (3-1)          |   0.149174   |
+| centrifugation (3-2)           |   0.109217   |
+| chromatography (4-1)           |   0.562067   |
+| selective solubilization (4-2) |   0.0213106  |
+| selective reaction (4-3)       |   0.00266383 |
+| electrophoresis (3-1)          |   0.700586   |
+| centrifugation (3-2)           |   0.426212   |
+| chromatography (4-1)           |   0.186468   |
+| selective solubilization (4-2) |   0.30634    |
+| selective reaction (4-3)       |   0.628663   |

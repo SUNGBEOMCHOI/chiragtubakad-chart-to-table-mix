@@ -1,0 +1,5 @@
+| title             |   [unnamed data series #0] |
+| Control           |                    1.6219  |
+| Colistin          |                    2.3076  |
+| Iron II           |                    2.69159 |
+| Colistint+iron II |                    6.36692 |

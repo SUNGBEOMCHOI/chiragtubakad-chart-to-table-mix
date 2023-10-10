@@ -1,0 +1,5 @@
+| title   |   Tested |
+| Near    |     36.1 |
+| Far     |     26.1 |
+| Near    |     63.9 |
+| Far     |     73.9 |

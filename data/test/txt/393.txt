@@ -1,0 +1,25 @@
+| title               |     Male |
+| Kusaurara           | 22.8362  |
+| Dunniya J'atau      | 21.1596  |
+| A New Dawn          |  8.58541 |
+| One thing At A Time |  7.18827 |
+| Gari Muna Fati      | 21.9979  |
+| Abule Olokemerin    | 18.3654  |
+| Odenjinjin          | 15.5711  |
+| TV Femi Kuti        | 21.4391  |
+| TV Fati Mohammed    | 15.5711  |
+| Printed Ads         | 54.5977  |
+| Visited Clinic      | 23.395   |
+| Viited by FP worker | 24.7922  |
+| Kusaurara           | 13.8945  |
+| Dunniya J'atau      | 14.7328  |
+| A New Dawn          |  7.18827 |
+| One thing At A Time |  4.67343 |
+| Gari Muna Fati      | 13.3357  |
+| Abule Olokemerin    | 16.9682  |
+| Odenjinjin          | 18.0859  |
+| TV Femi Kuti        | 12.7768  |
+| TV Fati Mohammed    | 10.5414  |
+| Printed Ads         | 41.8372  |
+| Visited Clinic      | 27.0276  |
+| Viited by FP worker | 22.5568  |

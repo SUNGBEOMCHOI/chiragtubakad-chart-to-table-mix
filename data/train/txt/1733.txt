@@ -1,0 +1,66 @@
+| title           |        Cd |
+| A. argyi        | 588.913   |
+| A. hispidus     | 391.777   |
+| B. papyrifera   | 374.309   |
+| B. pilosa       | 346.86    |
+| A. altissima    | 334.383   |
+| G. max          | 301.943   |
+| A. tuberosum    | 232.072   |
+| P. adenopoda    | 202.127   |
+| A. scoparia     | 192.145   |
+| Z. mays         | 189.65    |
+| H. scandens     | 177.173   |
+| A. roxburghiana |  74.8619  |
+| S.collina       |  72.3665  |
+| A. argyi        |   0       |
+| A. hispidus     |   2.4954  |
+| B. papyrifera   |   2.4954  |
+| B. pilosa       |   2.4954  |
+| A. altissima    |   2.4954  |
+| G. max          |   2.4954  |
+| A. tuberosum    |   2.4954  |
+| P. adenopoda    |   0       |
+| A. scoparia     |   2.4954  |
+| Z. mays         |   2.4954  |
+| H. scandens     |   2.4954  |
+| A. roxburghiana |   2.4954  |
+| S.collina       |   2.4954  |
+| A. argyi        |  14.9724  |
+| A. hispidus     |   9.98158 |
+| B. papyrifera   |   7.48619 |
+| B. pilosa       |   9.98158 |
+| A. altissima    |   9.98158 |
+| G. max          |   7.48619 |
+| A. tuberosum    |   9.98158 |
+| P. adenopoda    |  12.477   |
+| A. scoparia     |   7.48619 |
+| Z. mays         |   4.99079 |
+| H. scandens     |   7.48619 |
+| A. roxburghiana |   7.48619 |
+| S.collina       |   2.4954  |
+| A. argyi        |   2.4954  |
+| A. hispidus     |   2.4954  |
+| B. papyrifera   |   2.4954  |
+| B. pilosa       |   2.4954  |
+| A. altissima    |   2.4954  |
+| G. max          |   0       |
+| A. tuberosum    |   2.4954  |
+| P. adenopoda    |   2.4954  |
+| A. scoparia     |   0       |
+| Z. mays         |   2.4954  |
+| H. scandens     |   2.4954  |
+| A. roxburghiana |   0       |
+| S.collina       |   2.4954  |
+| A. argyi        |  19.9632  |
+| A. hispidus     |  17.4678  |
+| B. papyrifera   |  19.9632  |
+| B. pilosa       |  14.9724  |
+| A. altissima    |  17.4678  |
+| G. max          |   2.4954  |
+| A. tuberosum    |  14.9724  |
+| P. adenopoda    |  14.9724  |
+| A. scoparia     |  17.4678  |
+| Z. mays         |   9.98158 |
+| H. scandens     |  14.9724  |
+| A. roxburghiana |   2.4954  |
+| S.collina       |   4.99079 |

@@ -1,0 +1,7 @@
+| title   |   [unnamed data series #0] |
+| no anxiety
+disorder         |                    2.41565 |
+| one anxiety
+disorder         |                    2.75652 |
+| two or more
+anxiety disorders         |                    2.74261 |

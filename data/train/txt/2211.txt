@@ -1,0 +1,8 @@
+| title                              |   [unnamed data series #0] |
+| System development                 |                   4.93e-12 |
+| RNA splicing                       |                   9.09e-11 |
+| Anatomical structure morphogenesis |                   6.14e-06 |
+| Nervous system development         |                   1.15e-07 |
+| Neurogenesis                       |                   4.85e-06 |
+| Generation of neurons              |                   2.16e-05 |
+| Neuron development                 |                   3.12e-05 |

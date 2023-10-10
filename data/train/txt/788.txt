@@ -1,0 +1,27 @@
+| title                                                             |   Correct |
+| An antihypertensive increase the risk for dental caries           | 0.261741  |
+| Analgesics increase the risk for dental caries                    | 0.30698   |
+| Muscle relaxants increase the risk for dental caries              | 0.319905  |
+| Antibiotics capsules increase the risk for dental caries          | 0.339293  |
+| Antidepressants increase the risk for dental caries               | 0.510556  |
+| Hypnotics increase the risk of dental caries                      | 0.539638  |
+| Periodontal diseases can cause low birth weight                   | 0.668893  |
+| Periodontal disease can cause problems in diabetes control        | 0.701206  |
+| Radiotherapy increase the risk of dental caries                   | 0.759371  |
+| Periodontal disease can cause lung disease                        | 0.759371  |
+| Chemotherapy increase the risk of dental caries                   | 0.811073  |
+| Periodontal diseases can cause cardiovascular disease             | 0.901551  |
+| Lesions in oral cavity remaining more than two weeks, need biopsy | 0.920939  |
+| An antihypertensive increase the risk for dental caries           | 0.736105  |
+| Analgesics increase the risk for dental caries                    | 0.692159  |
+| Muscle relaxants increase the risk for dental caries              | 0.679233  |
+| Antibiotics capsules increase the risk for dental caries          | 0.655967  |
+| Antidepressants increase the risk for dental caries               | 0.48729   |
+| Hypnotics increase the risk of dental caries                      | 0.458208  |
+| Periodontal diseases can cause low birth weight                   | 0.328953  |
+| Periodontal disease can cause problems in diabetes control        | 0.296639  |
+| Radiotherapy increase the risk of dental caries                   | 0.238475  |
+| Periodontal disease can cause lung disease                        | 0.238475  |
+| Chemotherapy increase the risk of dental caries                   | 0.188065  |
+| Periodontal diseases can cause cardiovascular disease             | 0.0962947 |
+| Lesions in oral cavity remaining more than two weeks, need biopsy | 0.0781991 |

@@ -1,0 +1,17 @@
+| Category       |   X |       Y |
+| Numerical -30* | 245 | 118.243 |
+| Numerical -30* | 469 | 190.372 |
+| Numerical -30* | 635 | 239.443 |
+| Numerical -30* | 954 | 312.753 |
+| Numerical-60*  | 954 | 312.753 |
+| Numerical-60*  | 635 | 231.166 |
+| Numerical-60*  | 469 | 196.875 |
+| Numerical-60*  | 245 | 131.841 |
+| Experiment-30* | 954 | 273.733 |
+| Experiment-30* | 635 | 208.699 |
+| Experiment-30* | 469 | 154.307 |
+| Experiment-30* | 245 | 155.49  |
+| Experiment-60* | 245 | 170.861 |
+| Experiment-60* | 469 | 170.861 |
+| Experiment-60* | 635 | 215.203 |
+| Experiment-60* | 954 | 244.764 |

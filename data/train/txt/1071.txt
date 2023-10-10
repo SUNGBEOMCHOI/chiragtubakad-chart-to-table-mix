@@ -1,0 +1,3 @@
+| Category                 |   first quartile |     max |   median |     min |   third quartile | x      |
+| [unnamed data series #0] |          42.294  | 54.6016 |  46.0852 | 36.9093 |          50.0137 | IncRNA |
+| [unnamed data series #0] |          40.6181 | 54.6016 |  44.6841 | 36.8544 |          49.2445 | PCG    |

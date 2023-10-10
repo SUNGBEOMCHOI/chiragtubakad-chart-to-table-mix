@@ -1,0 +1,19 @@
+| title                     |      Women |
+| Radio: Your health matter | 0.369742   |
+| Radio: Our neighbourhood  | 0.31811    |
+| Radio:AIDS and the family | 0.310615   |
+| Radio:Lifeline            | 0.233166   |
+| TV: Your health matters   | 0.226504   |
+| TV:X-plosion              | 0.154052   |
+| TV:Lifeline               | 0.126571   |
+| TV:Soul city              | 0.10242    |
+| "Maximum" messages        | 0.00748312 |
+| Radio: Your health matter | 0.579603   |
+| Radio: Our neighbourhood  | 0.501322   |
+| Radio:AIDS and the family | 0.429702   |
+| Radio:Lifeline            | 0.334766   |
+| TV: Your health matters   | 0.307284   |
+| TV:X-plosion              | 0.224839   |
+| TV:Lifeline               | 0.166544   |
+| TV:Soul city              | 0.149056   |
+| "Maximum" messages        | 0.746147   |

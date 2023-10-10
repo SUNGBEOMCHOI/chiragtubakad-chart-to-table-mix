@@ -1,0 +1,7 @@
+| title                                 |   [unnamed data series #0] |
+| Lack of knowledge                     |                          6 |
+| Lack of skills                        |                         11 |
+| Lack of liaison with voluntary groups |                         28 |
+| Lack of political support             |                         33 |
+| Lack of coherent strategy             |                         39 |
+| Lack of resources                     |                         51 |

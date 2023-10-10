@@ -1,0 +1,10 @@
+| title                             |   14 years of age |
+| Vocational subjects               |           30.9761 |
+| Specialization in general studies |           41.4651 |
+| Sport subjects                    |           78.6838 |
+| Vocational subjects               |           41.8034 |
+| Specialization in general studies |           41.4651 |
+| Sport subjects                    |           93.233  |
+| Vocational subjects               |           34.3597 |
+| Specialization in general studies |           36.0514 |
+| Sport subjects                    |           92.8946 |

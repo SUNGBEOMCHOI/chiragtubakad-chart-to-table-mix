@@ -1,0 +1,22 @@
+| title                       |   Dental caries |
+| Family tendency             |       0.0854409 |
+| Malpositioned teeth         |       0         |
+| Nonnutritive suckinh habits |       0         |
+| Bottle feeding              |       0         |
+| Inadequate teeth brushing   |      92.1053    |
+| Poor oral hygiene           |      99.0431    |
+| Frequent intake sugar       |      96.2919    |
+| Family tendency             |       0         |
+| Malpositioned teeth         |       0         |
+| Nonnutritive suckinh habits |       0         |
+| Bottle feeding              |       0         |
+| Inadequate teeth brushing   |      86.0048    |
+| Poor oral hygiene           |      93.0622    |
+| Frequent intake sugar       |       0         |
+| Family tendency             |      79.1866    |
+| Malpositioned teeth         |      91.1483    |
+| Nonnutritive suckinh habits |      87.0016    |
+| Bottle feeding              |      28.9474    |
+| Inadequate teeth brushing   |       0         |
+| Poor oral hygiene           |       0         |
+| Frequent intake sugar       |      -0.119617  |

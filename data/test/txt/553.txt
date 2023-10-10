@@ -1,0 +1,20 @@
+| Category          |        X |          Y |
+| as received AIN
+nanopowders                   |  9.14983 |  -0.833563 |
+| as received AIN
+nanopowders                   |  8.06733 |   6.95004  |
+| as received AIN
+nanopowders                   |  6.87393 |  30.6321   |
+| as received AIN
+nanopowders                   |  5.55908 |  45.5368   |
+| as received AIN
+nanopowders                   |  4.13861 |  49.5115   |
+| as received AIN
+nanopowders                   |  3.23036 |  48.3522   |
+| air-annealed DNPs | 10.6653  | -92.7463   |
+| air-annealed DNPs |  9.4297  | -89.103    |
+| air-annealed DNPs |  8.14125 | -86.4532   |
+| air-annealed DNPs |  6.31419 | -80.4913   |
+| air-annealed DNPs |  4.96766 | -73.867    |
+| air-annealed DNPs |  3.89571 | -67.9051   |
+| air-annealed DNPs |  3.1934  | -66.9114   |

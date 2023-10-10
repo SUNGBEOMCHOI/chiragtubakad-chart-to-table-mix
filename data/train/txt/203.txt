@@ -1,0 +1,11 @@
+| title                                                         |   HIV negative |
+| Women should only be sterilized when they don't want children |       0.972212 |
+| Women doing well on ARVs can be sterilized*                   |       0.528747 |
+| Sterilization increases risk of male partner acquiring HIV*   |       0.341127 |
+| HIV positive women can be sterilized**                        |       0.673726 |
+| Sterilization less effective contraception than injection*    |       0.550068 |
+| Women should only be sterilized when they don't want children |       0.963684 |
+| Women doing well on ARVs can be sterilized*                   |       0.567124 |
+| Sterilization increases risk of male partner acquiring HIV*   |       0.39656  |
+| HIV positive women can be sterilized**                        |       0.75048  |
+| Sterilization less effective contraception than injection*    |       0.49037  |

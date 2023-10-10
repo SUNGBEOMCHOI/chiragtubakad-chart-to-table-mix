@@ -1,0 +1,18 @@
+| title                                                                         |   [unnamed data series #0] |
+| Teenagers hanging around on the street                                        |                   22.2303  |
+| People being drunk or rowdy in public places                                  |                   15.8708  |
+| Gang activity                                                                 |                   14.6993  |
+| Vandalism, graffiti and other deliberate damage to property or vehicles       |                   13.8625  |
+| People using or dealing drugs                                                 |                   13.2768  |
+| Rubbish or litter lying around                                                |                   11.6869  |
+| Noisy neighbours or loud parties                                              |                    9.72052 |
+| Nuisance neighbours or problem families                                       |                    9.46949 |
+| People being insulted, pestered or intimidated inthe street                   |                    7.79594 |
+| Violence including assaults and muggings                                      |                    7.7541  |
+| Dogs roaming about /dog fouling / barking                                     |                    7.50307 |
+| People being attacked or harassed because of their skin colour, ethnic origin |                    7.001   |
+| Abandoned or burnt out cars                                                   |                    6.74997 |
+| Vacant or derelic buildings and sites                                         |                    6.24791 |
+| Untidy gardens                                                                |                    5.07643 |
+| House break-ins / burglary                                                    |                    4.49068 |
+| Tensions between Protestants and Catholics                                    |                    4.0723  |

@@ -1,0 +1,13 @@
+| Category                 |   first quartile |     max |   median |      min |   third quartile | x   |
+| [unnamed data series #0] |          1.60368 | 3.27228 |  1.96386 | 0.633384 |          2.28729 | None
+n=1155     |
+| [unnamed data series #0] |          1.56447 | 2.75283 |  1.92956 | 0.662787 |          2.16968 | All Rare
+n=98     |
+| [unnamed data series #0] |          1.45666 | 2.74303 |  1.89035 | 0.427565 |          2.26769 | Rare ns
+n=34     |
+| [unnamed data series #0] |          1.08913 | 2.73323 |  1.84625 | 0.417764 |          2.00796 | N252K
+n=22     |
+| [unnamed data series #0] |          1.8487  | 2.52251 |  2.08147 | 1.35865  |          2.20888 | Promoter
+n=21     |
+| [unnamed data series #0] |          1.59387 | 2.72343 |  1.88055 | 0.824502 |          2.15988 | Intron
+n=44     |

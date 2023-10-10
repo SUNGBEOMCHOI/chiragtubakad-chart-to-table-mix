@@ -1,0 +1,7 @@
+| title            |   [unnamed data series #0] |
+| BSA solution-310 |                    3.06361 |
+| BSA solution-298 |                    8.76988 |
+| serum-310K       |                   20.8372  |
+| serum-298K       |                   21.4453  |
+| plasma-310K      |                   23.6436  |
+| plasma-298K      |                   26.9489  |

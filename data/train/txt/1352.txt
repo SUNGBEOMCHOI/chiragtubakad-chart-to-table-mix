@@ -1,0 +1,4 @@
+| Category                 |   first quartile |     max |   median |      min |   third quartile | x         |
+| [unnamed data series #0] |          27.9876 | 36.0811 |  32.1622 | 26.1134  |          34.1216 | Reference |
+| [unnamed data series #0] |          18.1051 | 34.1216 |  24.0687 | 12.1416  |          30.0323 | Others    |
+| [unnamed data series #0] |          10.1821 | 22.1945 |  12.1416 |  8.22264 |          16.2593 | Impaired  |

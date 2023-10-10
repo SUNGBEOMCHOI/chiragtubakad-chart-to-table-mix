@@ -1,0 +1,12 @@
+| title                               |   [unnamed data series #0] |
+| Income quintile 1
+
+($6196-$24,444)                                     |                        8.9 |
+| Income quintile2
+($24,445 -
+$23,450)                                     |                        8   |
+| Income quintile 4
+($28,441 -
+$32,954)                                     |                        7.3 |
+| Income quintile 4($32,987-$38,832)  |                        6.2 |
+| Income quintile 5($38,838-$509,269) |                        5.6 |

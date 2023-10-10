@@ -1,0 +1,27 @@
+| title            |   Allele G (Gly180) |
+| African-American |           100.113   |
+| African          |            98.1501  |
+| Latin American   |            94.9599  |
+| West European    |            84.4077  |
+| Pacific Islander |            81.9537  |
+| East European    |            79.2717  |
+| Kazakh           |            61.6104  |
+| Native American  |            50.3012  |
+| Japanese         |            25.2708  |
+| South east Asian |            22.3827  |
+| Mongolian        |            13.7184  |
+| Chinese          |             6.73887 |
+| Korean           |             0       |
+| African-American |             0       |
+| African          |             1.96319 |
+| Latin American   |             5.15337 |
+| West European    |            15.7055  |
+| Pacific Islander |            18.1595  |
+| East European    |            20.8416  |
+| Kazakh           |            38.5029  |
+| Native American  |            49.812   |
+| Japanese         |            74.8425  |
+| South east Asian |            77.7306  |
+| Mongolian        |            86.3948  |
+| Chinese          |            93.3744  |
+| Korean           |           100.113   |

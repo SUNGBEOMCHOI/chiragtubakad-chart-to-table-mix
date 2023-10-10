@@ -1,0 +1,13 @@
+| Category                 |   first quartile |     max |   median |      min |   third quartile | x                        |
+| [unnamed data series #0] |         159.463  | 301.19  | 193.928  |  91.003  |          265.219 | Residual                 |
+| [unnamed data series #0] |         147.458  | 266.086 | 181.683  |  71.0258 |          229.767 | Emerging                 |
+| [unnamed data series #0] |         163.678  | 245.253 | 191.414  | 112.124  |          245.253 | Informal                 |
+| [unnamed data series #0] |         215.259  | 424.25  | 248.473  | 155.357  |          318.36  | Post-Communist           |
+| [unnamed data series #0] |         206.998  | 387.166 | 265.219  | 153.343  |          318.36  | Less Successful Informal |
+| [unnamed data series #0] |         353.379  | 686.208 | 477.249  | 248.473  |          551.098 | Insecure                 |
+| [unnamed data series #1] |          65.6788 | 177.582 |  86.3764 |  49.9407 |          118.13  | Residual                 |
+| [unnamed data series #1] |          86.3764 | 167.458 | 102.339  |  53.3066 |          131.124 | Emerging                 |
+| [unnamed data series #1] |         107.821  | 138.599 | 119.681  |  80.9224 |          136.357 | Informal                 |
+| [unnamed data series #1] |         109.237  | 271.343 | 141.799  |  89.8236 |          186.485 | Post-Communist           |
+| [unnamed data series #1] |         126.092  | 299.232 | 163.678  | 101.013  |          261.782 | Less Successful Informal |
+| [unnamed data series #1] |         298.258  | 651.996 | 413.296  | 181.683  |          483.532 | Insecure                 |

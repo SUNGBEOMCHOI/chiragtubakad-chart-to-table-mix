@@ -1,0 +1,11 @@
+| Category   |       X |           Y |
+| SM Samples | 17.1513 | 9.13677e-08 |
+| SM Samples | 17.3226 | 8.35635e-08 |
+| SM Samples | 17.3797 | 7.64258e-08 |
+| SM Samples | 18.1793 | 6.48858e-08 |
+| DM Samples | 27.4508 | 9.00181e-08 |
+| DM Samples | 27.6602 | 7.64258e-08 |
+| SG Samples | 28.0791 | 6.48858e-08 |
+| SG Samples | 28.8787 | 8.23292e-08 |
+| SG Samples | 29.2023 | 8.35635e-08 |
+| SG Samples | 20.1783 | 7.75716e-08 |

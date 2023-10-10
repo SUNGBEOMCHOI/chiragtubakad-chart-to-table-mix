@@ -1,0 +1,93 @@
+| title                            |    2011 |
+| Rwanda                           | 62.8207 |
+| Sierra Leone                     | 45.0413 |
+| Angola                           | 50.8927 |
+| Mozambique                       | 49.3923 |
+| Zambia                           | 55.6189 |
+| Niger                            | 57.2693 |
+| Central African Republic         | 48.6422 |
+| Nigeria                          | 51.7179 |
+| Chad                             | 50.1425 |
+| Mali                             | 54.1935 |
+| Equatorial Guinea                | 51.943  |
+| Ethiopia                         | 62.2206 |
+| Malawi                           | 54.1935 |
+| Liberia                          | 59.6699 |
+| Burundi                          | 52.9182 |
+| Democratic Republic of the Congo | 49.1673 |
+| Uganda                           | 57.7944 |
+| Eritrea                          | 61.6204 |
+| Guinea-Bissau                    | 53.5934 |
+| Burkina Faso                     | 54.9437 |
+| Guinea                           | 55.4689 |
+| United Republic of Tanzania      | 59.82   |
+| Madagascar                       | 63.7209 |
+| Gambia                           | 58.3196 |
+| Cote d'lvoire                    | 49.9925 |
+| Benin                            | 58.6947 |
+| Cameroon                         | 54.1185 |
+| Congo                            | 57.7194 |
+| Comoros                          | 60.4951 |
+| Togo                             | 55.6189 |
+| Ghana                            | 60.7952 |
+| Senegal                          | 62.8957 |
+| Mauritania                       | 61.0953 |
+| Kenya                            | 60.12   |
+| Zimbabwe                         | 55.919  |
+| Lesotho                          | 48.117  |
+| Swaziland                        | 48.4921 |
+| Namibia                          | 63.1958 |
+| Gabon                            | 62.5956 |
+| Sao Tome and Principe            | 65.8965 |
+| South Africa                     | 55.0938 |
+| Botswana                         | 46.6167 |
+| Cape Verde                       | 73.9985 |
+| Algeria                          | 70.6977 |
+| Mauritius                        | 73.0983 |
+| Seychelles                       | 72.6482 |
+| Rwanda                           | 32.5131 |
+| Sierra Leone                     | 37.3143 |
+| Angola                           | 41.0653 |
+| Mozambique                       | 43.5409 |
+| Zambia                           | 43.7659 |
+| Niger                            | 43.7659 |
+| Central African Republic         | 46.0915 |
+| Nigeria                          | 46.0915 |
+| Chad                             | 46.3916 |
+| Mali                             | 46.3916 |
+| Equatorial Guinea                | 46.6167 |
+| Ethiopia                         | 46.9917 |
+| Malawi                           | 46.9917 |
+| Liberia                          | 47.0668 |
+| Burundi                          | 47.2918 |
+| Democratic Republic of the Congo | 47.2918 |
+| Uganda                           | 47.5169 |
+| Eritrea                          | 48.2671 |
+| Guinea-Bissau                    | 49.0923 |
+| Burkina Faso                     | 49.3923 |
+| Guinea                           | 49.7674 |
+| United Republic of Tanzania      | 50.2926 |
+| Madagascar                       | 51.0428 |
+| Gambia                           | 52.093  |
+| Cote d'lvoire                    | 52.6932 |
+| Benin                            | 53.3683 |
+| Cameroon                         | 53.5934 |
+| Congo                            | 55.1688 |
+| Comoros                          | 55.4689 |
+| Togo                             | 55.6189 |
+| Ghana                            | 56.6692 |
+| Senegal                          | 56.9692 |
+| Mauritania                       | 58.2446 |
+| Kenya                            | 58.9947 |
+| Zimbabwe                         | 58.9947 |
+| Lesotho                          | 58.9947 |
+| Swaziland                        | 59.2948 |
+| Namibia                          | 61.0953 |
+| Gabon                            | 61.1703 |
+| Sao Tome and Principe            | 61.7704 |
+| South Africa                     | 61.9955 |
+| Botswana                         | 62.8207 |
+| Cape Verde                       | 65.6714 |
+| Algeria                          | 66.7217 |
+| Mauritius                        | 69.3473 |
+| Seychelles                       | 70.6227 |

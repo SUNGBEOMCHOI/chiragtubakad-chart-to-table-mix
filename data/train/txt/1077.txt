@@ -1,0 +1,6 @@
+| Category                 |   first quartile |      max |   median |      min |   third quartile | x       |
+| [unnamed data series #0] |          4.98925 | 10.9186  |  6.03379 |  4.00614 |          8.9831  | Group 0 |
+| [unnamed data series #0] |          5.29647 |  9.99693 |  7.04762 |  4.65131 |          9.04455 | Group 1 |
+| [unnamed data series #0] |          7.04762 | 12.424   |  8.49155 |  5.60369 |         10.5192  | Group 2 |
+| [unnamed data series #0] |          8.03072 | 11.7788  | 10.8879  |  8.03072 |         11.7788  | Group 3 |
+| [unnamed data series #0] |         13.9908  | 14.9432  | 14.4209  | 13.9908  |         14.9432  | Group 5 |

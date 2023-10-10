@@ -1,0 +1,7 @@
+| title                       |   [unnamed data series #0] |
+| GFI (goodness of fit index) |                      0.911 |
+| RFI (Relative fit index)    |                      0.936 |
+| IFI (Incremental fit index) |                      0.951 |
+| TLI (Tucker Lewis index)    |                      0.921 |
+| CFI (Comparative fit index) |                      0.902 |
+| NFI (Normed fit index)      |                      0.945 |

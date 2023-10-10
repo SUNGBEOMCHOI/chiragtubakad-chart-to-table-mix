@@ -1,0 +1,17 @@
+| title            |   6hr Up-regulated |
+| monooxygenase    |          11.3759   |
+| UDP-
+glycosyltransferase                  |           8.52479  |
+| iron ion binding |           7.38714  |
+| drug transporter |           6.80706  |
+| heme binding     |           6.22699  |
+| glutathione
+transferase                  |           4.56029  |
+| monooxygenase    |           3.59053  |
+| UDP-
+glycosyltransferase                  |           2.95112  |
+| iron ion binding |           1.40178  |
+| drug transporter |           0.762373 |
+| heme binding     |           1.20504  |
+| glutathione
+transferase                  |           0.565632 |

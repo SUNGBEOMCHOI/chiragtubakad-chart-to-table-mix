@@ -1,0 +1,6 @@
+| title       |   [unnamed data series #0] |
+| 18-29 years |                    47.3786 |
+| 30-39 years |                    63.2233 |
+| 40-49 years |                    63.8447 |
+| 50-59 years |                    52.6602 |
+| 65+ years   |                    24.699  |

@@ -1,0 +1,8 @@
+| title            |   [unnamed data series #0] |
+| Control          |                    2.54717 |
+| rhBMP15          |                   24.5755  |
+| BMP15^(T317I)    |                    2.73585 |
+| WT/BMP15^(T317I) |                    5.09434 |
+| WT               |                   10.4717  |
+| WT/BMP15^(N377H) |                    9.33962 |
+| BMP15^(N377H)    |                    5.4717  |

@@ -1,0 +1,4 @@
+| Category                 |   first quartile |     max |   median |     min |   third quartile | x              |
+| [unnamed data series #0] |          6.73987 | 11.0094 |  8.54006 | 2.77191 |          9.52969 | Contemplation* |
+| [unnamed data series #0] |          8.02168 | 11.0094 |  9.27521 | 2.28181 |         10.0009  | Preparation^   |
+| [unnamed data series #0] |          9.37889 | 10.7455 | 10.0104  | 7.9934  |         10.5287  | Action+        |

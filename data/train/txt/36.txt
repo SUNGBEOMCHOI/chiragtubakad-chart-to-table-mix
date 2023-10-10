@@ -1,0 +1,10 @@
+| title          |       NW |
+| Sedentary time | 55.1075  |
+| LPA            | 36.7468  |
+| MPA            |  6.14572 |
+| VPA            |  3.28962 |
+| MVPA           |  8.79781 || Sedentary time | 53.4754  |
+| LPA            | 38.5829  |
+| MPA            |  6.75774 |
+| VPA            |  2.8816  |
+| MVPA           |  8.79781 |

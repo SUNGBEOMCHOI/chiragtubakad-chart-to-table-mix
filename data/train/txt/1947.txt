@@ -1,0 +1,8 @@
+| title     |   [unnamed data series #0] |
+| rPP       |                    2.64617 |
+| rPET      |                    4.62412 |
+| rPS       |                    4.73104 |
+| PP/PET    |                    4.19646 |
+| PP/PS     |                    3.92249 |
+| PS/PET    |                   12.1417  |
+| PS/PP/PET |                    9.89642 |

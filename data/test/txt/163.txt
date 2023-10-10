@@ -1,0 +1,7 @@
+| title                       |   [unnamed data series #0] |
+| Physical violence (any)     |                         60 |
+| Slapping                    |                         56 |
+| Pushing/Shoving             |                         36 |
+| Hitting with fist/punching  |                         29 |
+| kicking/dragging/beating    |                         22 |
+| Threatening or using weapon |                          7 |

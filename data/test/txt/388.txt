@@ -1,0 +1,4 @@
+| Category                 |   first quartile |      max |   median |     min |   third quartile | x   |
+| [unnamed data series #0] |          3.53111 |  6.15783 |  3.87673 | 2.5288  |          4.80991 | CLO |
+| [unnamed data series #0] |          3.84217 |  8.09332 |  4.84447 | 2.56336 |          5.6394  | CLP |
+| [unnamed data series #0] |          9.303   | 16.803   | 10.5818  | 6.77995 |         12.8629  | CPO |

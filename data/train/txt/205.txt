@@ -1,0 +1,21 @@
+| title                 |   Other CBIs |
+| Action for parents    |    63.0615   |
+| Exercise TV           |    -0.176841 |
+| Service access        |    18.0731   |
+| Regulation            |    22.9964   |
+| Professional training |    73.1626   |
+| Social environment    |    47.9522   |
+| Physical environment  |    39.9731   |
+| Media attention       |    43.0289   |
+| Legislation           |     5.00106  |
+| Incentives            |    22.9115   |
+| Action for parents    |    80.9931   |
+| Exercise TV           |     6.82606  |
+| Service access        |    52.0266   |
+| Regulation            |    15.9511   |
+| Professional training |    83.9428   |
+| Social environment    |    80.9719   |
+| Physical environment  |    67.9847   |
+| Media attention       |    74.0963   |
+| Legislation           |     9.83943  |
+| Incentives            |    35.9836   |

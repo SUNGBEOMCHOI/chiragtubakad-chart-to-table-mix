@@ -1,0 +1,13 @@
+| title   |   Demographic factors |
+| Urban   |            0.235422   |
+| Rural   |            0.497003   |
+| Urban   |            0.467575   |
+| Rural   |            0.223978   |
+| Urban   |            0.06703    |
+| Rural   |            0.0506812  |
+| Urban   |            0.0621253  |
+| Rural   |            0.178202   |
+| Urban   |            0.0850136  |
+| Rural   |            0.0245232  |
+| Urban   |            0.0163488  |
+| Rural   |            0.00817439 |

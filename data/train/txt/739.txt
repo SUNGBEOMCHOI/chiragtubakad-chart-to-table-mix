@@ -1,0 +1,4 @@
+| title   |   [unnamed data series #0] |
+| miR22   |                    1.76997 |
+| miR122  |                    1.86946 |
+| miR320a |                    1.86042 |

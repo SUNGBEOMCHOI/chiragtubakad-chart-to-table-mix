@@ -1,0 +1,10 @@
+| Category                 |   first quartile |     max |   median |       min |   third quartile | x   |
+| [unnamed data series #0] |        0.0954198 | 13.9313 |  8.11069 | 0.0954198 |          10.3053 | 2012
+(n=7;
+249)     |
+| [unnamed data series #0] |        2.00382   | 69.084  | 14.0267  | 0         |          45.4198 | 2013
+(n=17;
+509)     |
+| [unnamed data series #0] |       29.4847    | 86.6412 | 61.5458  | 0.19084   |          79.1985 | 2014
+(n=24;
+630)     |

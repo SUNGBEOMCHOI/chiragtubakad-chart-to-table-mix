@@ -1,0 +1,15 @@
+| title                                   |   cigarette |
+| Felt bad                                |   0.561646  |
+| Coughing, chest pain, or irritated eyes |   0.588987  |
+| Bad taste                               |   0.829367  |
+| Upset stomach                           |   0.416962  |
+| Dizzy or lightheaded                    |   0.828228  |
+| Rush or buzzed                          |   0.62288   |
+| Relaxed                                 |   0.310158  |
+| Felt bad                                |   0.271139  |
+| Coughing, chest pain, or irritated eyes |   0.172025  |
+| Bad taste                               |   0.244937  |
+| Upset stomach                           |   0.0717722 |
+| Dizzy or lightheaded                    |   0.244367  |
+| Rush or buzzed                          |   0.208481  |
+| Relaxed                                 |   0.550253  |

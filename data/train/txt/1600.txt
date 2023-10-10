@@ -1,0 +1,13 @@
+| title                 |   In-School |
+| Privacy               |       27.84 |
+| Variety of informtion |       12.96 |
+| Ease of use           |        6.56 |
+| Lack of alternatves   |       11.84 |
+| Relevant information  |       21.92 |
+| Unrestricted access.  |       17.76 |
+| Privacy               |       33.76 |
+| Variety of informtion |        6.88 |
+| Ease of use           |        3.84 |
+| Lack of alternatves   |       23.04 |
+| Relevant information  |        2.88 |
+| Unrestricted access.  |       28.96 |

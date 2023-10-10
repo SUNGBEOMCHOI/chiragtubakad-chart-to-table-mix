@@ -1,0 +1,29 @@
+| title                                     |   Decreasing BMI sds trajectory (n=416) |
+| Screentime> 2 hours per day - 2006        |                               0.0550055 |
+| Screentime > 2 hours  per day - 2012      |                               0.569857  |
+| Tv viewing > 2 hours per day - 2006       |                               0.0286029 |
+| Tv viewing > 2 hour per day - 2012        |                               0.0946095 |
+| Organised sports < 1 hour per week - 2006 |                               0.662266  |
+| Organised play < 1 hour per week - 2012   |                               0.143014  |
+| Outside play < 1 hour per day - 2006      |                               0.587459  |
+| Outside play < 1 hour per day - 2012      |                               0.517052  |
+| Sugared drinks > 3 glasses per day - 2006 |                               0.459846  |
+| Sugared drinks > 3 glasses per day - 2012 |                               0.336634  |
+| Fruit < 2 portions a day - 2006           |                               0.728273  |
+| Fruit < 2 portions a day - 2012           |                               0.820682  |
+| Vegetable intake < 5 days a week - 2006   |                               0.552255  |
+| Vegetable intake < 5 days a week - 2012   |                               0.59626   |
+| Screentime> 2 hours per day - 2006        |                               0.0572057 |
+| Screentime > 2 hours  per day - 2012      |                               0.649065  |
+| Tv viewing > 2 hours per day - 2006       |                               0.0374037 |
+| Tv viewing > 2 hour per day - 2012        |                               0.143014  |
+| Organised sports < 1 hour per week - 2006 |                               0.688669  |
+| Organised play < 1 hour per week - 2012   |                               0.20462   |
+| Outside play < 1 hour per day - 2006      |                               0.552255  |
+| Outside play < 1 hour per day - 2012      |                               0.477448  |
+| Sugared drinks > 3 glasses per day - 2006 |                               0.539054  |
+| Sugared drinks > 3 glasses per day - 2012 |                               0.39824   |
+| Fruit < 2 portions a day - 2006           |                               0.723872  |
+| Fruit < 2 portions a day - 2012           |                               0.759076  |
+| Vegetable intake < 5 days a week - 2006   |                               0.605061  |
+| Vegetable intake < 5 days a week - 2012   |                               0.525853  |

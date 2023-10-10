@@ -1,0 +1,13 @@
+| Category                 |   first quartile |     max |   median |     min |   third quartile | x   |
+| [unnamed data series #0] |          3.335   | 3.46833 |  3.40167 | 3.335   |          3.46833 | Non-
+pathogenic
+single     |
+| [unnamed data series #0] |          3.50833 | 3.50833 |  3.50833 | 3.50833 |          3.50833 | Non-
+pathogenic
+mix     || [unnamed data series #0] |          2.80167 | 3.16833 |  2.855   | 2.635   |          2.95833 | Non-
+pathogenic-
+pathogenic
+mix     || [unnamed data series #0] |          2.10833 | 2.69833 |  2.485   | 1.95167 |          2.515   | Pathogenic
+single     |
+| [unnamed data series #0] |          2.335   | 2.73833 |  2.46833 | 2.185   |          2.60833 | Pathogenic
+mix     |

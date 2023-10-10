@@ -1,0 +1,16 @@
+| Category       |        X |        Y |
+| Simple contact |  29.8566 |  9.50028 |
+| Simple contact |  50.0717 | 15.8252  |
+| Simple contact |  70      | 21.8919  |
+| Simple contact |  89.9283 | 28.6041  |
+| Simple contact | 110      | 35.0581  |
+| Brazed         | 110      | 61.5195  |
+| Brazed         |  89.9283 | 50.4186  |
+| Brazed         |  69.8566 | 39.4468  |
+| Brazed         |  50.2151 | 28.0878  |
+| Brazed         |  30      | 16.7287  |
+| Grease paste   | 109.713  | 60.6159  |
+| Grease paste   |  89.9283 | 50.1604  |
+| Grease paste   |  69.8566 | 39.834   |
+| Grease paste   |  50.0717 | 28.8623  |
+| Grease paste   |  30      | 16.9869  |

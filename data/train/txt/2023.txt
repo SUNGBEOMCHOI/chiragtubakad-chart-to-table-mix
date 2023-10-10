@@ -1,0 +1,9 @@
+| title    |     Energy |
+| Cement 1 | 0.0438857  |
+| Cement 2 | 0.0458286  |
+| Cement 3 | 0.02       |
+| Cement 4 | 0.02       |
+| Cement 1 | 0.0149714  |
+| Cement 2 | 0.0110857  |
+| Cement 3 | 0.00594286 |
+| Cement 4 | 0.0348571  |

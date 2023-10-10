@@ -1,0 +1,28 @@
+| title                   |   Male |
+| Tobacco(active)         |   62.1 |
+| Alcohol(excessive use)  |   35.9 |
+| Benzodla zepine misuse  |   22.3 |
+| Ilicit drug use(active) |   40.8 |
+| Cannabis                |   29   |
+| Cocaine(active)         |   20   |
+| Cocaine(previous use)   |   12.2 |
+| Heroin(active)          |   12.2 |
+| Heroin(previous use)    |    5.5 |
+| Tobacco(active)         |   50.9 |
+| Alcohol(excessive use)  |   12   |
+| Benzodla zepine misuse  |   12   |
+| Ilicit drug use(active) |   28.7 |
+| Cannabis                |   17.6 |
+| Cocaine(active)         |    9.3 |
+| Cocaine(previous use)   |    6.5 |
+| Heroin(active)          |   13   |
+| Heroin(previous use)    |    2.8 |
+| Tobacco(active)         |   61.5 |
+| Alcohol(excessive use)  |   34.8 |
+| Benzodla zepine misuse  |   21.8 |
+| Ilicit drug use(active) |   40.2 |
+| Cannabis                |   28.4 |
+| Cocaine(active)         |   19.5 |
+| Cocaine(previous use)   |   11.9 |
+| Heroin(active)          |   12.3 |
+| Heroin(previous use)    |    5.3 |

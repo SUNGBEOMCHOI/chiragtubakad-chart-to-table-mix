@@ -1,0 +1,11 @@
+| title             |   Risk perception |
+| Mobile communication
+masts                   |              3.53 |
+| Mobile telephones |              3.01 |
+| Wireless networks |              2.51 |
+| TV sets           |              2.32 |
+| Mobile communication
+masts                   |              3.74 |
+| Mobile telephones |              3.01 |
+| Wireless networks |              2.63 |
+| TV sets           |              2.09 |

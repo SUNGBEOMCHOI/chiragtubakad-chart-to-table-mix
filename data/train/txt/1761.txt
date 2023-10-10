@@ -1,0 +1,5 @@
+| title               |   [unnamed data series #0] |
+| Untreated           |                   0.148724 |
+| Aphidocolin Treated |                   0.166324 |
+| DRB Treated         |                   1.20475  |
+| NaBt Treated        |                   0.38633  |

@@ -1,0 +1,7 @@
+| title   |   Not bitten |
+| None    |     93.1436  |
+| Minor   |     35.0726  |
+| Bad     |      6.89953 |
+| None    |      7.09118 |
+| Minor   |     64.9705  |
+| Bad     |     93.1436  |

@@ -1,0 +1,7 @@
+| title                  |   Road traffic area |
+| NLSI_Garden            |            23.8983  |
+| PLAND_Sea              |            23.3898  |
+| LPI_Food_services      |            12.7119  |
+| LA95                   |            -1.69492 |
+| SHAPE_MN_Vehicles_path |           -17.1186  |
+| LA50                   |           -21.1864  |

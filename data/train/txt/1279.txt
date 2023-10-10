@@ -1,0 +1,6 @@
+| Category                 |   first quartile |     max |   median |      min |   third quartile | x     |
+| [unnamed data series #0] |          2.00702 | 4.00169 |  3.00309 | 1.00337  |          4.00169 | wt    |
+| [unnamed data series #0] |          1.00084 | 3.00056 |  1.00843 | 1.00084  |          2.00702 | G489V |
+| [unnamed data series #0] |          1.0059  | 4.00169 |  1.01096 | 1.0059   |          2.50506 | N496I |
+| [unnamed data series #0] |          1.00337 | 3.9941  |  1.01096 | 0.998315 |          2.49494 | V528P |
+| [unnamed data series #0] |          1.00084 | 3.00056 |  1.00843 | 0.998315 |          2.00702 | M553R |

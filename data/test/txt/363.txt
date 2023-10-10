@@ -1,0 +1,9 @@
+| Category   | X        |        Y |
+| Density    | ZTA16-70 | 0.259453 |
+| Density    | ZTA20-70 | 0.268787 |
+| Density    | ZTA16-80 | 0.452653 |
+| Density    | ZTA20-80 | 0.431187 |
+| Porosity   | ZTA16-70 | 0.43772  |
+| Porosity   | ZTA20-70 | 0.42652  |
+| Porosity   | ZTA16-80 | 0.234253 |
+| Porosity   | ZTA20-80 | 0.260387 |

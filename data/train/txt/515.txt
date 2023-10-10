@@ -1,0 +1,10 @@
+| Category                 |   first quartile |       max |   median |       min |   third quartile | x          |
+| [unnamed data series #0] |         640.577  | 1030.39   | 717.827  | 410.017   |         798.642  | All        |
+| [unnamed data series #0] |         576.401  |  928.183  | 646.52   | 367.233   |         715.45   | Mild       |
+| [unnamed data series #0] |          65.365  |  117.657  |  71.3073 |  36.8421  |          83.1919 | Severe     |
+| [unnamed data series #0] |         533.616  |  880.645  | 601.358  | 336.333   |         672.666  | Car-to-car |
+| [unnamed data series #0] |          72.4958 |  139.049  |  87.9457 |  29.7114  |          97.4533 | Pedestrian |
+| [unnamed data series #0] |         524.109  |  847.368  | 587.097  | 331.579   |         653.65   | Male       |
+| [unnamed data series #0] |         110.526  |  205.603  | 130.73   |  55.8574  |         147.368  | Female     |
+| [unnamed data series #0] |         616.808  | 1006.62   | 694.058  | 386.248   |         772.496  | Young      |
+| [unnamed data series #0] |          20.2037 |   43.9728 |  20.2037 |   3.56537 |          30.8998 | Elderly    |

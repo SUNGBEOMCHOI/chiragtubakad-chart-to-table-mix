@@ -1,0 +1,11 @@
+| title                      |      NoAb |
+| P1 -rr ufo1                |  1.41947  |
+| P1-rr'ufo1                 |  4.33121  |
+| P1-rr'/p1-ww ; Ufo1-1/ufo1 |  0.570215 |
+| P1-pr^TP ufo1              |  6.75766  |
+| P1-pr^TP ufo1              |  2.87534  |
+| P1 -rr ufo1                |  8.21353  |
+| P1-rr'ufo1                 | 29.8089   |
+| P1-rr'/p1-ww ; Ufo1-1/ufo1 |  9.06278  |
+| P1-pr^TP ufo1              | 30.9008   |
+| P1-pr^TP ufo1              |  7.24295  |

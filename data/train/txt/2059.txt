@@ -1,0 +1,16 @@
+| title           |   White |
+| Nutrition Facts | 76.4296 |
+| Ingredient List | 62.8154 |
+| Serving Size    | 60.146  |
+| Percent DV      | 54.4734 |
+| Heath Claims    | 63.3493 |
+| Nutrition Facts | 72.9593 |
+| Ingredient List | 68.4213 |
+| Serving Size    | 64.2836 |
+| Percent DV      | 60.8133 |
+| Heath Claims    | 69.4891 |
+| Nutrition Facts | 78.8321 |
+| Ingredient List | 68.488  |
+| Serving Size    | 68.8217 |
+| Percent DV      | 64.2836 |
+| Heath Claims    | 74.8279 |

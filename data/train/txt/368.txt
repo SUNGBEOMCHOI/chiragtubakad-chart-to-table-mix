@@ -1,0 +1,4 @@
+| Category                 |   first quartile |     max |   median |     min |   third quartile | x           |
+| [unnamed data series #0] |          23.6163 | 56.6483 |  27.6295 | 11.1136 |          37.6626 | East Asian  |
+| [unnamed data series #0] |          44.2999 | 89.5259 |  53.4068 | 16.6703 |          66.6814 | European    |
+| [unnamed data series #0] |          20.6836 | 58.0375 |  30.871  | 10.3418 |          39.6692 | South Asian |

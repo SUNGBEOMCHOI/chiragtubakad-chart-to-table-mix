@@ -1,0 +1,9 @@
+| title               |   Not High School grad |
+| Non-insulin treated |                2.057   |
+| Insulin treated     |                2.9228  |
+| Non-insulin treated |                2.13636 |
+| Insulin treated     |                2.93001 |
+| Non-insulin treated |                2.30231 |
+| Insulin treated     |                3.00216 |
+| Non-insulin treated |                2.30231 |
+| Insulin treated     |                3.22583 |

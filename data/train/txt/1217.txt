@@ -1,0 +1,17 @@
+| title                                    |   [unnamed data series #0] |
+| Construction                             |                  0.0403911 |
+| Mining quarrying                         |                  0.0605866 |
+| Agriculture hunting & forestry           |                  0.0656355 |
+| Extra-territorial organisations bodies   |                  0.0673185 |
+| Manufacturing                            |                  0.0807822 |
+| Transport storage & communication        |                  0.0813432 |
+| Electricity gas & water supply           |                  0.0807822 |
+| Real estate renting & business activ     |                  0.138003  |
+| Wholesale retail & motor trade           |                  0.153711  |
+| Hotels & restaurants                     |                  0.166613  |
+| Other community social & personal        |                  0.168296  |
+| Financial intermediation                 |                  0.17054   |
+| Public administration & defence          |                  0.17054   |
+| Private households with employed persons |                  0.176711  |
+| Education                                |                  0.300689  |
+| Health & social work                     |                  0.302933  |

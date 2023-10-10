@@ -1,0 +1,145 @@
+| title                     |       INVEST |
+| COOKING BUS               |  0           |
+| MEND                      |  0.0754965   |
+| MENTAL HEALTH 1st AID     |  0.00328246  |
+| SMOKEBUGS                 |  0           |
+| BFEEDING PEER SUPP        |  0.0804202   |
+| BFEEDING WELCOME          |  0.167405    |
+| HOW WEBSITE               |  0.0787789   |
+| SMOKERS HELPLINE          |  0.0804202   |
+| SMOKING RESOURCES         |  0.0787789   |
+| SKIN CANCER AWARENESS     |  0.169867    |
+| DESIGNED TO SMILE         |  0.00328246  |
+| WNESS                     |  0.249467    |
+| STOP SMOKING: PRESURGERY  |  0           |
+| STOP SMOKING: PREGNANCY   |  0           |
+| STOP SMOKING : VULNERABLE |  0.331528    |
+| STOP SMOKING: BRIEF IN    |  0.246184    |
+| FRESH START WALES         |  0.00328246  |
+| ALCOHOL BRIEFIN           |  0.167405    |
+| HIV PREVENTION            |  0.0754965   |
+| NAT EXERCISE REFERRAL     |  0.0754965   |
+| STOP SMOKING: ADULT       |  0.0754965   |
+| ASSIST                    |  0.332349    |
+| BFEEDING : BABY FRIENDLY  |  0.167405    |
+| NO SMOKING DAY            |  0.246184    |
+| COOKING BUS               |  0.0787789   |
+| MEND                      |  0.000820614 |
+| MENTAL HEALTH 1st AID     |  0.0754965   |
+| SMOKEBUGS                 |  0.00328246  |
+| BFEEDING PEER SUPP        |  0.0853438   |
+| BFEEDING WELCOME          |  0.167405    |
+| HOW WEBSITE               |  0.00164123  |
+| SMOKERS HELPLINE          |  0.0812408   |
+| SMOKING RESOURCES         |  0.252749    |
+| SKIN CANCER AWARENESS     |  0.167405    |
+| DESIGNED TO SMILE         |  0.164123    |
+| WNESS                     |  0.328246    |
+| STOP SMOKING: PRESURGERY  |  0.498933    |
+| STOP SMOKING: PREGNANCY   |  0.330707    |
+| STOP SMOKING : VULNERABLE |  0.0853438   |
+| STOP SMOKING: BRIEF IN    |  0.423437    |
+| FRESH START WALES         |  0.14771     |
+| ALCOHOL BRIEFIN           |  0.0820614   |
+| HIV PREVENTION            |  0.252749    |
+| NAT EXERCISE REFERRAL     |  0.423437    |
+| STOP SMOKING: ADULT       |  0.754965    |
+| ASSIST                    |  0.247825    |
+| BFEEDING : BABY FRIENDLY  |  0.246184    |
+| NO SMOKING DAY            |  0.167405    |
+| COOKING BUS               |  0.17397     |
+| MEND                      |  0.335631    |
+| MENTAL HEALTH 1st AID     |  0.336452    |
+| SMOKEBUGS                 |  0.167405    |
+| BFEEDING PEER SUPP        |  0.251928    |
+| BFEEDING WELCOME          |  0.252749    |
+| HOW WEBSITE               |  0.082882    |
+| SMOKERS HELPLINE          |  0           |
+| SMOKING RESOURCES         |  0           |
+| SKIN CANCER AWARENESS     |  0.000820614 |
+| DESIGNED TO SMILE         |  0.170688    |
+| WNESS                     |  0.425078    |
+| STOP SMOKING: PRESURGERY  |  0.33481     |
+| STOP SMOKING: PREGNANCY   |  0.422616    |
+| STOP SMOKING : VULNERABLE |  0.426719    |
+| STOP SMOKING: BRIEF IN    |  0.333169    |
+| FRESH START WALES         |  0.38733     |
+| ALCOHOL BRIEFIN           |  0.252749    |
+| HIV PREVENTION            |  0.423437    |
+| NAT EXERCISE REFERRAL     |  0.0820614   |
+| STOP SMOKING: ADULT       |  0.000820614 |
+| ASSIST                    |  0.17397     |
+| BFEEDING : BABY FRIENDLY  |  0.421796    |
+| NO SMOKING DAY            |  0.170688    |
+| COOKING BUS               |  0           |
+| MEND                      |  0.00164123  |
+| MENTAL HEALTH 1st AID     | -0.00164123  |
+| SMOKEBUGS                 |  0.00164123  |
+| BFEEDING PEER SUPP        |  0.252749    |
+| BFEEDING WELCOME          |  0.168226    |
+| HOW WEBSITE               |  0.00164123  |
+| SMOKERS HELPLINE          | -0.000820614 |
+| SMOKING RESOURCES         |  0           |
+| SKIN CANCER AWARENESS     |  0           |
+| DESIGNED TO SMILE         |  0.170688    |
+| WNESS                     |  0           |
+| STOP SMOKING: PRESURGERY  |  0           |
+| STOP SMOKING: PREGNANCY   |  0.00328246  |
+| STOP SMOKING : VULNERABLE |  0           |
+| STOP SMOKING: BRIEF IN    |  0           |
+| FRESH START WALES         |  0.232234    |
+| ALCOHOL BRIEFIN           |  0.172329    |
+| HIV PREVENTION            |  0.0837026   |
+| NAT EXERCISE REFERRAL     | -0.000820614 |
+| STOP SMOKING: ADULT       | -0.000820614 |
+| ASSIST                    |  0.247825    |
+| BFEEDING : BABY FRIENDLY  |  0.165764    |
+| NO SMOKING DAY            |  0.416872    |
+| COOKING BUS               |  0           |
+| MEND                      |  0.166585    |
+| MENTAL HEALTH 1st AID     |  0.166585    |
+| SMOKEBUGS                 |  0           |
+| BFEEDING PEER SUPP        |  0.000820614 |
+| BFEEDING WELCOME          |  0.000820614 |
+| HOW WEBSITE               |  0.328246    |
+| SMOKERS HELPLINE          |  0.169867    |
+| SMOKING RESOURCES         |  0.339734    |
+| SKIN CANCER AWARENESS     |  0.00328246  |
+| DESIGNED TO SMILE         |  0.493189    |
+| WNESS                     |  0           |
+| STOP SMOKING: PRESURGERY  |  0.168226    |
+| STOP SMOKING: PREGNANCY   |  0.247005    |
+| STOP SMOKING : VULNERABLE |  0.0771377   |
+| STOP SMOKING: BRIEF IN    |  0           |
+| FRESH START WALES         |  0.0795995   |
+| ALCOHOL BRIEFIN           |  0.0779583   |
+| HIV PREVENTION            |  0.00984737  |
+| NAT EXERCISE REFERRAL     |  0.421796    |
+| STOP SMOKING: ADULT       |  0.170688    |
+| ASSIST                    | -0.000820614 |
+| BFEEDING : BABY FRIENDLY  |  0.000820614 |
+| NO SMOKING DAY            |  0.000820614 |
+| COOKING BUS               |  0.747579    |
+| MEND                      |  0.420154    |
+| MENTAL HEALTH 1st AID     |  0.420975    |
+| SMOKEBUGS                 |  0.82882     |
+| BFEEDING PEER SUPP        |  0.329066    |
+| BFEEDING WELCOME          |  0.244543    |
+| HOW WEBSITE               |  0.509601    |
+| SMOKERS HELPLINE          |  0.672903    |
+| SMOKING RESOURCES         |  0.331528    |
+| SKIN CANCER AWARENESS     |  0.658953    |
+| DESIGNED TO SMILE         |  0           |
+| WNESS                     |  0           |
+| STOP SMOKING: PRESURGERY  | -0.000820614 |
+| STOP SMOKING: PREGNANCY   |  0           |
+| STOP SMOKING : VULNERABLE |  0.0820614   |
+| STOP SMOKING: BRIEF IN    |  0           |
+| FRESH START WALES         |  0.150993    |
+| ALCOHOL BRIEFIN           |  0.247825    |
+| HIV PREVENTION            |  0.156737    |
+| NAT EXERCISE REFERRAL     |  0           |
+| STOP SMOKING: ADULT       |  0.000820614 |
+| ASSIST                    | -0.000820614 |
+| BFEEDING : BABY FRIENDLY  |  0           |
+| NO SMOKING DAY            | -0.000820614 |

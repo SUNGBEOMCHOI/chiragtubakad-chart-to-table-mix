@@ -1,0 +1,17 @@
+| title            |    Event |
+| Halloween        |  4.61577 |
+| Christmas Eve    |  6.38293 |
+| Christmas Day    |  6.20012 |
+| Boxing Day       |  6.68762 |
+| New Year's Eve   | 12.3872  |
+| Valentine's Day  |  2.23925 |
+| St Patrick's Day |  4.12828 |
+| Welsh Varsity    |  7.29698 |
+| Halloween        |  1.26426 |
+| Christmas Eve    |  4.06735 |
+| Christmas Day    |  3.76266 |
+| Boxing Day       |  1.3252  |
+| New Year's Eve   |  4.06735 |
+| Valentine's Day  |  1.56895 |
+| St Patrick's Day |  1.9955  |
+| Welsh Varsity    |  2.60487 |

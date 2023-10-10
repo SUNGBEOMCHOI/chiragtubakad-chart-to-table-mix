@@ -1,0 +1,7 @@
+| Category                 |   first quartile |     max |   median |     min |   third quartile | x    |
+| [unnamed data series #0] |          2.06199 | 3.17251 |  2.26685 | 1.50135 |          2.50404 | LUAD |
+| [unnamed data series #0] |          2.02965 | 3.08625 |  2.29919 | 1.44744 |          2.49326 | LUSC |
+| [unnamed data series #0] |          2.07278 | 2.15903 |  2.07278 | 1.93261 |          2.07278 | HNSC |
+| [unnamed data series #0] |          2.04043 | 2.75202 |  2.04043 | 1.54447 |          2.32075 | BLCA |
+| [unnamed data series #0] |          2.02965 | 2.02965 |  2.02965 | 2.02965 |          2.02965 | KIRC |
+| [unnamed data series #0] |          2.02965 | 2.36388 |  2.02965 | 1.90027 |          2.18059 | STAD |

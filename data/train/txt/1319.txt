@@ -1,0 +1,21 @@
+| title                                              |   cutworm |
+| [V]Defense mechanisms                              |   4.04461 |
+| [R]General function prediction only                |   3.42362 |
+| [P]inorganic ion transport and metabolism          |   4.10998 |
+| [M]Cell wall/membrane/envelope biogenesis          |   4.45316 |
+| [K]Transcription                                   |   4.5839  |
+| [J]Translation, ribosomal structure and biogenesis |   2.27969 |
+| [I]Lipid transport and metabolism                  |   1.93651 |
+| [G]Carbohydrate transport and metabolism           |   9.80512 |
+| {E]Amino acid transport and metabolism             |   2.42677 |
+| [C]Energy production and conversion                |   3.12947 |
+| [V]Defense mechanisms                              |   1.51979 |
+| [R]General function prediction only                |   1.42174 |
+| [P]inorganic ion transport and metabolism          |   1.75675 |
+| [M]Cell wall/membrane/envelope biogenesis          |   2.3614  |
+| [K]Transcription                                   |   3.57887 |
+| [J]Translation, ribosomal structure and biogenesis |   2.37774 |
+| [I]Lipid transport and metabolism                  |   1.02137 |
+| [G]Carbohydrate transport and metabolism           |   4.90256 |
+| {E]Amino acid transport and metabolism             |   1.10308 |
+| [C]Energy production and conversion                |   6.10369 |

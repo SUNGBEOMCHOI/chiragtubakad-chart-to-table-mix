@@ -1,0 +1,17 @@
+| title                      |   general prohibition |
+| Agricultural Biotechnology |              9.43276  |
+| Nanotechnology             |              0.509879 |
+| Synthetic Biology          |              1.78458  |
+| Communication technology   |              0.764818 |
+| Agricultural Biotechnology |             57.1064   |
+| Nanotechnology             |             39.0057   |
+| Synthetic Biology          |             48.6934   |
+| Communication technology   |             50.9879   |
+| Agricultural Biotechnology |             30.3378   |
+| Nanotechnology             |             54.557    |
+| Synthetic Biology          |             46.399    |
+| Communication technology   |             32.3773   |
+| Agricultural Biotechnology |              2.54939  |
+| Nanotechnology             |              5.35373  |
+| Synthetic Biology          |              2.54939  |
+| Communication technology   |             15.2964   |

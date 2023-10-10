@@ -1,0 +1,4 @@
+| Category                 |   first quartile |      max |   median |     min |   third quartile | x              |
+| [unnamed data series #0] |          400     | 1116.67  |  500     | 200     |         1100     | Health Clinics |
+| [unnamed data series #0] |          450     | 4800     |  733.333 | 100     |         3400     | Schools        |
+| [unnamed data series #0] |          316.667 |  466.667 |  366.667 | 266.667 |          466.667 | Mixed          |

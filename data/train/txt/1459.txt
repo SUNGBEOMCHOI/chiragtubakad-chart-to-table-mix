@@ -1,0 +1,5 @@
+| title   |   [unnamed data series #0] |
+| As      |                    49.9158 |
+| Cd      |                    24.2424 |
+| Hg      |                    10.3535 |
+| Pb      |                    74.3266 |

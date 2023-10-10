@@ -1,0 +1,7 @@
+| title    |   Good Knowledge |
+| Cases    |               17 |
+| controls |               36 |
+| Cases    |               48 |
+| controls |               53 |
+| Cases    |               35 |
+| controls |               11 |

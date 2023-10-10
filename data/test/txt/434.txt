@@ -1,0 +1,11 @@
+| title                 |   [unnamed data series #0] |
+| 0                     |                  20.065    |
+| 0.2                   |                  41.9044   |
+| 0.4                   |                  30.9847   |
+| 0.6                   |                  13.0048   |
+| 0.8                   |                   3.96781  |
+| 1.0                   |                   1.99096  |
+| [unnamed category #6] |                   3.96781  |
+| [unnamed category #7] |                   1.99096  |
+| [unnamed category #8] |                   1.99096  |
+| [unnamed category #9] |                   0.955474 |

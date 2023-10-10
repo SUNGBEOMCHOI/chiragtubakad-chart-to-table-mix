@@ -1,0 +1,46 @@
+| title          |   Use of non-solid cooking fuel |
+| Congo Republic |                             1.4 |
+| Cole D'ivore   |                            11.5 |
+| Ethopia        |                             1   |
+| Mali           |                             0.3 |
+| Mozambique     |                             2   |
+| Namibia        |                            38.1 |
+| Niger          |                             0.6 |
+| Nigeria        |                            18.5 |
+| Sierra Leone   |                             0.3 |
+| The Gambia     |                             0   |
+| Uganda         |                             0.4 |
+| Zambia         |                             0.1 |
+| Bangladesh     |                            12   |
+| Nepal          |                            15.2 |
+| pakistan       |                            31.7 |
+| Congo Republic |                            38.2 |
+| Cole D'ivore   |                            42.1 |
+| Ethopia        |                            12.5 |
+| Mali           |                            38.9 |
+| Mozambique     |                            23.3 |
+| Namibia        |                            40.5 |
+| Niger          |                            17.3 |
+| Nigeria        |                            50.4 |
+| Sierra Leone   |                            45.7 |
+| The Gambia     |                            56.9 |
+| Uganda         |                            50.7 |
+| Zambia         |                            40.2 |
+| Bangladesh     |                            51.3 |
+| Nepal          |                            43.2 |
+| pakistan       |                            66.6 |
+| Congo Republic |                            46.3 |
+| Cole D'ivore   |                            75.2 |
+| Ethopia        |                            46.2 |
+| Mali           |                            64.6 |
+| Mozambique     |                            49.3 |
+| Namibia        |                            83.8 |
+| Niger          |                            65.3 |
+| Nigeria        |                            46   |
+| Sierra Leone   |                            55.1 |
+| The Gambia     |                            89.2 |
+| Uganda         |                            60.6 |
+| Zambia         |                            59.9 |
+| Bangladesh     |                            98.5 |
+| Nepal          |                            85.6 |
+| pakistan       |                            87.4 |

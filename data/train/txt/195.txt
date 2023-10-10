@@ -1,0 +1,21 @@
+| title                                           |   Core teams (n=16) |
+| Comprehensible presentation or profile          |            0.8      |
+| Profile contains relevant data                  |            0.901767 |
+| Profile useful for discussing problems          |            0.930035 |
+| Profile useful for defining priorities/themes   |            0.938516 |
+| Data provided for profile                       |            0.999293 |
+| Right people involved in dialogue               |            0.999293 |
+| Dialogue useful for discussing problems         |            0.930035 |
+| Dialogue useful for defining priorities/ themes |            0.870671 |
+| Dialogue useful for identifying solutions       |            0.8      |
+| Clear how to use results after dialogue         |            0.528622 |
+| Comprehensible presentation or profile          |            0.870671 |
+| Profile contains relevant data                  |            0.780212 |
+| Profile useful for discussing problems          |            0.910247 |
+| Profile useful for defining priorities/themes   |            0.870671 |
+| Data provided for profile                       |            0.35053  |
+| Right people involved in dialogue               |            0.528622 |
+| Dialogue useful for discussing problems         |            0.749117 |
+| Dialogue useful for defining priorities/ themes |            0.808481 |
+| Dialogue useful for identifying solutions       |            0.551237 |
+| Clear how to use results after dialogue         |            0.291166 |

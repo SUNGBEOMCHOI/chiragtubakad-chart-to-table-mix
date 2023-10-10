@@ -1,0 +1,9 @@
+| title            |   Survey |
+| Female 18-40 yrs |  8.46533 |
+| Female 41-64 yrs | 45.2482  |
+| Male 18-40 yrs   | 21.3129  |
+| Male 41-64 yrs   | 40.4963  |
+| Female 18-40 yrs |  5.47342 |
+| Female 41-64 yrs | 40.5843  |
+| Male 18-40 yrs   | 13.2172  |
+| Male 41-64 yrs   | 34.6005  |

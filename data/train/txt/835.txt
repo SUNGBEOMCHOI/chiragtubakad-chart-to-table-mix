@@ -1,0 +1,11 @@
+| title       |   2006 |
+| Chile       |     81 |
+| El Salvador |     70 |
+| Panama      |     66 |
+| Paraguay    |     52 |
+| Uruguay     |     23 |
+| Chile       |     90 |
+| El Salvador |     78 |
+| Panama      |     85 |
+| Paraguay    |     65 |
+| Uruguay     |     18 |

@@ -1,0 +1,9 @@
+| title         |   Consistent Condition |
+| Neutral Words |                726.385 |
+| Taboo Words   |                767.201 |
+| Neutral Words |                901.895 |
+| Taboo Words   |                947.376 |
+| Neutral Words |                731.633 |
+| Taboo Words   |                784.694 |
+| Neutral Words |                912.391 |
+| Taboo Words   |                961.953 |

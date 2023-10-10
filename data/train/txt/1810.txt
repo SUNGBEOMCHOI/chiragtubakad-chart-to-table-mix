@@ -1,0 +1,11 @@
+| title        |   [unnamed data series #0] |
+| Burkina Faso |                   22.0345  |
+| Burundi      |                    6.85218 |
+| Cameroon     |                    5.20823 |
+| Ethiopia     |                   14.7495  |
+| Malawi       |                    6.65877 |
+| Rwanda       |                    6.46537 |
+| Senegal      |                   14.1049  |
+| Tanzania     |                    8.23824 |
+| Uganda       |                    9.91442 |
+| Zimbabwe     |                    6.07856 |

@@ -1,0 +1,7 @@
+| Category                 |   first quartile |      max |   median |        min |   third quartile | x      |
+| [unnamed data series #0] |        0.0940381 | 0.353827 | 0.138013 | 0.0378858  |         0.219197 | NW Con |
+| [unnamed data series #0] |        0.0872727 | 0.28482  | 0.135307 | 0.0148837  |         0.190782 | NW Ca  |
+| [unnamed data series #0] |        0.108922  | 0.389006 | 0.151543 | 0.0527696  |         0.221903 | OW Con |
+| [unnamed data series #0] |        0.092685  | 0.321353 | 0.129894 | 0.0135307  |         0.190782 | OW Ca  |
+| [unnamed data series #0] |        0.0886258 | 0.326765 | 0.13666  | 0.00541226 |         0.205666 | Ob Con |
+| [unnamed data series #0] |        0.0859197 | 0.268584 | 0.124482 | 0.0311205  |         0.170486 | Ob Ca  |

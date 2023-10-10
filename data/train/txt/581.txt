@@ -1,0 +1,57 @@
+| title            |   % child height Z score <-3SD |
+| NIGER            |                      29.1008   |
+| ETHIOPIA         |                      26.4033   |
+| MALAWI           |                      26.3215   |
+| MADAGASCAR       |                      26.2398   |
+| LESOTHO          |                      24.1962   |
+| CONGO, THE DEMOC |                      23.8692   |
+| NIGERIA          |                      23.5422   |
+| ZAMBIA           |                      23.4605   |
+| RWANDA           |                      22.7248   |
+| CHAD             |                      22.3978   |
+| MOZAMBIOUE       |                      21.9891   |
+| SIERRALEONE      |                      21.3351   |
+| MALI             |                      20.1907   |
+| BENIN            |                      19.9455   |
+| LIBERIA          |                      19.8638   |
+| ERITREA          |                      19.2916   |
+| BURKINA FASO     |                      18.5559   |
+| UGANDA           |                      16.267    |
+| CAMEROON         |                      15.5313   |
+| KENYA            |                      15.3678   |
+| ZIMBABWE         |                      14.5504   |
+| CONGO            |                      14.4687   |
+| MAURITANIA       |                      14.0599   |
+| SWAZILAND        |                      12.5886   |
+| GHANA            |                      11.1172   |
+| NAMIBIA          |                      10.0545   |
+| MOROCCO          |                       9.56403  |
+| GABON            |                       8.91008  |
+| NIGER            |                       4.16894  |
+| ETHIOPIA         |                       0.948229 |
+| MALAWI           |                       2.69755  |
+| MADAGASCAR       |                       1.73297  |
+| LESOTHO          |                      16.0218   |
+| CONGO, THE DEMOC |                       4.33243  |
+| NIGERIA          |                       7.2752   |
+| ZAMBIA           |                       4.98638  |
+| RWANDA           |                       1.50409  |
+| CHAD             |                       1.53678  |
+| MOZAMBIOUE       |                       4.08719  |
+| SIERRALEONE      |                       9.48229  |
+| MALI             |                       5.3951   |
+| BENIN            |                       8.25613  |
+| LIBERIA          |                       5.47684  |
+| ERITREA          |                       1.88011  |
+| BURKINA FASO     |                       2.53406  |
+| UGANDA           |                       4.33243  |
+| CAMEROON         |                      10.9537   |
+| KENYA            |                       6.62125  |
+| ZIMBABWE         |                      10.2997   |
+| CONGO            |                       8.17439  |
+| MAURITANIA       |                      19.7003   |
+| SWAZILAND        |                      27.4659   |
+| GHANA            |                       8.09264  |
+| NAMIBIA          |                      12.5886   |
+| MOROCCO          |                      12.3433   |
+| GABON            |                       8.27248  |

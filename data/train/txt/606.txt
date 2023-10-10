@@ -1,0 +1,7 @@
+| title     |   without hydrated lime |
+| Mastic    |                3115.85  |
+| Matrix    |                1680.64  |
+| Aggregate |                 336.128 |
+| Mastic    |                2374.24  |
+| Matrix    |                1424.54  |
+| Aggregate |                 357.47  |

@@ -1,0 +1,8 @@
+| title     |   [unnamed data series #0] |
+| Control   |                   114.786  |
+| Base      |                   104.947  |
+| Cinnamon  |                    78.5915 |
+| Tobacco 1 |                   122.868  |
+| Tobacco 2 |                   103.893  |
+| Menthol 1 |                    98.9729 |
+| Menthol 2 |                    13.9332 |

@@ -1,0 +1,5 @@
+| title    |   470g Block |
+| 1-handed |      6.1298  |
+| 2-handed |      4.81694 |
+| 1-handed |     10.8394  |
+| 2-handed |      3.54576 |

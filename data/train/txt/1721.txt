@@ -1,0 +1,33 @@
+| title                                        |   Test Set |
+| carbohydrate binding                         |  27.7778   |
+| hydrodase activity, acting on glycosyl bonds |  35.3608   |
+| polysaccharide binding                       |  17.5773   |
+| pattern binding                              |  17.5773   |
+| cellulose binding                            |  16.3402   |
+| hydrolase activity,
+hydrolyzing O-glycosyl compounds                                              |  30.3093   |
+| carbohydrate metabolic process               |  35.3608   |
+| extracellular region                         |  20.1562   |
+| cellulase activity                           |  11.25     |
+| polysaccharide catabolic process             |  11.25     |
+| polysaccharide metabolic process             |  11.25     |
+| carbohydrate catabolic process               |  12.5      |
+| hydrolase activity                           |  44.3299   |
+| glucosidase activity                         |   7.5      |
+| macromolecule catabolic process              |  11.25     |
+| carbohydrate binding                         |   0.532646 |
+| hydrodase activity, acting on glycosyl bonds |   2.90378  |
+| polysaccharide binding                       |   0.171821 |
+| pattern binding                              |   0.32646  |
+| cellulose binding                            |   0.171821 |
+| hydrolase activity,
+hydrolyzing O-glycosyl compounds                                              |   2.42268  |
+| carbohydrate metabolic process               |   4.58763  |
+| extracellular region                         |   1.2543   |
+| cellulase activity                           |   0.120275 |
+| polysaccharide catabolic process             |   0.945017 |
+| polysaccharide metabolic process             |   0.996564 |
+| carbohydrate catabolic process               |   1.51203  |
+| hydrolase activity                           |  19.8454   |
+| glucosidase activity                         |   0.32646  |
+| macromolecule catabolic process              |   2.1134   |

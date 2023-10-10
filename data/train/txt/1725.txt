@@ -1,0 +1,13 @@
+| title                  |   100 |
+| only QTN/ 5% A22       |  0.95 |
+| only QTN/ 1% A22       |  0.99 |
+| only QTN/ 1% A22/ APY  |  0.99 |
+| only QTN/ 1% I/ APY    |  0.99 |
+| only QTN/ TRUE/ 1% A22 |  0.99 |
+| only QTN/ TRUE/ 1% I   |  0.99 |
+| only QTN/ 5% A22       |  0.91 |
+| only QTN/ 1% A22       |  0.92 |
+| only QTN/ 1% A22/ APY  |  0.93 |
+| only QTN/ 1% I/ APY    |  0.93 |
+| only QTN/ TRUE/ 1% A22 |  0.95 |
+| only QTN/ TRUE/ 1% I   |  0.95 |

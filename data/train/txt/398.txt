@@ -1,0 +1,41 @@
+| title                                       |   [unnamed data series #0] |
+| Carbon fixation in photosynthetic organisms |                  74.9049   |
+| Glyoxylate and dicarboxylate metabolism     |                  57.7947   |
+| Starch and sucrose metabolism               |                  41.8251   |
+| Porphyrin and chlorophyll metabolism        |                  32.6996   |
+| Glycolysis/Gluconeogenesis                  |                  27.7567   |
+| Fructose and mannose metabolism             |                  27.7567   |
+| Purine metabolism                           |                  22.8137   |
+| Methane metabolism                          |                  21.673    |
+| Glycerophospholipid metabolism              |                  21.673    |
+| Pentose phosphate pathway                   |                  20.7224   |
+| Galactose metabolism                        |                  14.6388   |
+| Pentose and glucuronate interconversions    |                  12.7376   |
+| Glutathione metabolism                      |                  11.7871   |
+| Arginine and proline metabolism             |                  11.7871   |
+| Glycine, serine and threonine metabolism    |                  11.7871   |
+| Pyruvate metabolism                         |                  10.6464   |
+| Drug metabolism - Other enzymes             |                  10.6464   |
+| Thiamine metabolism                         |                   9.69582  |
+| Nitrogen metabolism                         |                   8.74525  |
+| Cysteine and methionine metabolism          |                   7.79468  |
+| Carbon fixation in photosynthetic organisms |                  13.6882   |
+| Glyoxylate and dicarboxylate metabolism     |                   9.69582  |
+| Starch and sucrose metabolism               |                  11.7871   |
+| Porphyrin and chlorophyll metabolism        |                   6.65399  |
+| Glycolysis/Gluconeogenesis                  |                  10.8365   |
+| Fructose and mannose metabolism             |                   9.69582  |
+| Purine metabolism                           |                   9.69582  |
+| Methane metabolism                          |                   6.65399  |
+| Glycerophospholipid metabolism              |                   2.6616   |
+| Pentose phosphate pathway                   |                   7.79468  |
+| Galactose metabolism                        |                   5.70342  |
+| Pentose and glucuronate interconversions    |                   4.75285  |
+| Glutathione metabolism                      |                   3.80228  |
+| Arginine and proline metabolism             |                   6.65399  |
+| Glycine, serine and threonine metabolism    |                   6.65399  |
+| Pyruvate metabolism                         |                   6.65399  |
+| Drug metabolism - Other enzymes             |                   1.9962   |
+| Thiamine metabolism                         |                   0.760456 |
+| Nitrogen metabolism                         |                   6.74905  |
+| Cysteine and methionine metabolism          |                   3.89734  |

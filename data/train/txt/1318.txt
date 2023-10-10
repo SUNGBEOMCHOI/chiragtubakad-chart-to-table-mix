@@ -1,0 +1,6 @@
+| Category                 |   first quartile |     max |   median |       min |   third quartile | x       |
+| [unnamed data series #0] |          2.52632 | 3.50752 |  3.01692 | 1.49436   |          3.50752 | Belgium |
+| [unnamed data series #0] |          2.0188  | 5.99436 |  3.52444 | 1.0094    |          4.52256 | Austria |
+| [unnamed data series #0] |          2.00752 | 4.50564 |  2.5094  | 0.99812   |          3.01128 | Denmark |
+| [unnamed data series #0] |          1.5     | 3.00564 |  1.5     | 0.524436  |          2.0188  | Italy   |
+| [unnamed data series #0] |          1.52256 | 5.99436 |  2.5094  | 0.0056391 |          3.50752 | France  |

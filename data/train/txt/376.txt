@@ -1,0 +1,9 @@
+| title   |   [unnamed data series #0] |
+| BMI>27
+Concerns>5         |                       0.59 |
+| BMI>27
+Concerns<5         |                       0.64 |
+| BMI<27
+Concerns>5         |                       0.59 |
+| BMI<27
+Concerns<5         |                       0.52 |

@@ -1,0 +1,31 @@
+| title   |   Overall |
+| "Vaccine for hepatitis B
+does exist"         |   76.4446 |
+| "Positive attitude towards
+vaccinations in general"         |   79.0096 |
+| "Protection by the hepatitis
+B vaccine is good"         |   66.1845 |
+| "I would be willing to get a
+hepatitis B vaccination if
+my GP would recommend
+it"         |   80.7196 |
+| "Vaccine for hepatitis B
+does exist"         |   74.3071 |
+| "Positive attitude towards
+vaccinations in general"         |   76.8721 |
+| "Protection by the hepatitis
+B vaccine is good"         |   63.6195 |
+| "I would be willing to get a
+hepatitis B vaccination if
+my GP would recommend
+it"         |   81.5746 |
+| "Vaccine for hepatitis B
+does exist"         |   82.2159 |
+| "Positive attitude towards
+vaccinations in general"         |   83.2846 |
+| "Protection by the hepatitis
+B vaccine is good"         |   73.2383 |
+| "I would be willing to get a
+hepatitis B vaccination if
+my GP would recommend
+it"         |   79.8646 |

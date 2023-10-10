@@ -1,0 +1,28 @@
+| title                                   |   Total |
+| Advise of HCWs                          |     5.7 |
+| Few or minimal Side eﬂect               |     3.6 |
+| partner inﬂuence                        |     0.4 |
+| Prevents pregnancy                      |    20.8 |
+| Protects against STI and HIV            |    28.1 |
+| Does not interfere with sexual activity |     8.2 |
+| convenient to use                       |    18   |
+| my friend is using it                   |     2.2 |
+| Easy to use                             |    14.2 |
+| Advise of HCWs                          |     5   |
+| Few or minimal Side eﬂect               |     4.5 |
+| partner inﬂuence                        |     0.7 |
+| Prevents pregnancy                      |    25.6 |
+| Protects against STI and HIV            |    23.2 |
+| Does not interfere with sexual activity |     8.1 |
+| convenient to use                       |    16.8 |
+| my friend is using it                   |     1   |
+| Easy to use                             |    13.8 |
+| Advise of HCWs                          |     4.5 |
+| Few or minimal Side eﬂect               |     2.9 |
+| partner inﬂuence                        |     0.2 |
+| Prevents pregnancy                      |    17.3 |
+| Protects against STI and HIV            |    31.6 |
+| Does not interfere with sexual activity |     8.3 |
+| convenient to use                       |    18.8 |
+| my friend is using it                   |     3.1 |
+| Easy to use                             |    13.4 |

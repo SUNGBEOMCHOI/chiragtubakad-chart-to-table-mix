@@ -1,0 +1,22 @@
+| title   |   -39 years |
+| All     |       0.014 |
+| Females |       0.015 |
+| Males   |       0.012 |
+| All     |       0.152 |
+| Females |       0.145 |
+| Males   |       0.166 |
+| All     |       0.167 |
+| Females |       0.163 |
+| Males   |       0.175 |
+| All     |       0.181 |
+| Females |       0.195 |
+| Males   |       0.151 |
+| All     |       0.231 |
+| Females |       0.243 |
+| Males   |       0.205 |
+| All     |       0.201 |
+| Females |       0.198 |
+| Males   |       0.208 |
+| All     |       0.054 |
+| Females |       0.041 |
+| Males   |       0.082 |

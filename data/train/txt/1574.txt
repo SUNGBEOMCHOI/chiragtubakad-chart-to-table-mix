@@ -1,0 +1,25 @@
+| title                                       |   Core teams {n=16) |
+| Direct interest in participation            |            0.437445 |
+| Feels involved                              |            0.937514 |
+| Has relevant knowledge and information      |            0.865681 |
+| Own role/task clear                         |            0.815951 |
+| Able to commit sufficiently                 |            0.65847  |
+| Right people represented                    |            0.937514 |
+| Benefits for residents’ health situation    |            0.727541 |
+| Consensus ebout focus                       |            0.865681 |
+| Satisfied with participants’ input          |            0.597688 |
+| Participants worked together constructively |            0.666759 |
+| Pilot contributed to ties                   |            0.727541 |
+| Collaboration should continue               |            0.926463 |
+| Direct interest in participation            |            0.876733 |
+| Feels involved                              |            0.827002 |
+| Has relevant knowledge and information      |            0.708201 |
+| Own role/task clear                         |            0.418106 |
+| Able to commit sufficiently                 |            0.536907 |
+| Right people represented                    |            0.556246 |
+| Benefits for residents’ health situation    |            0.647419 |
+| Consensus ebout focus                       |            0.69715  |
+| Satisfied with participants’ input          |            0.517567 |
+| Participants worked together constructively |            0.476125 |
+| Pilot contributed to ties                   |            0.398766 |
+| Collaboration should continue               |            0.846342 |

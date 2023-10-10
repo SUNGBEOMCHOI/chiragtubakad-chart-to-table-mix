@@ -1,0 +1,11 @@
+| title                       |   [unnamed data series #0] |
+| Syringolide-induced protein |                    13.6927 |
+| Resistance proteins         |                    14.8079 |
+| GTP binding proteins        |                    17.0384 |
+| Peroxidases                 |                    23.7299 |
+| Zinc finger proteins        |                    23.7299 |
+| Protein phosphatase         |                    25.9603 |
+| Protein kinases             |                    26.7038 |
+| Glutathione S-transferase   |                    36.741  |
+| Heat shock proteins         |                    98.8228 |
+| PR proteins                 |                   124.473  |

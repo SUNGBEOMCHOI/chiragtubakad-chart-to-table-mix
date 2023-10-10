@@ -1,0 +1,21 @@
+| Category          | X           |       Y |
+| wet irradiation   | 60 kGy      | 55.9772 |
+| wet irradiation   | 50 kGy      | 51.2795 |
+| wet irradiation   | 40 kGy      | 48.9977 |
+| wet irradiation   | 30 kGy      | 43.4947 |
+| wet irradiation   | 20 kGy      | 38.3944 |
+| wet irradiation   | 10 kGy      | 32.086  |
+| wet irradiation   | non treated | 23.6302 |
+| dry irradiation   | 60 kGy      | 38.6628 |
+| dry irradiation   | 50 kGy      | 32.4887 |
+| dry irradiation   | 40 kGy      | 28.5963 |
+| dry irradiation   | 30 kGy      | 27.6568 |
+| dry irradiation   | 20 kGy      | 26.1804 |
+| dry irradiation   | 10 kGy      | 26.3146 |
+| dry irradiation   | non treated | 23.496  |
+| dry (homogeneous) | 60 kGy      | 53.5612 |
+| dry (homogeneous) | 50 kGy      | 49.2662 |
+| dry (homogeneous) | 40 kGy      | 38.2601 |
+| dry (homogeneous) | 30 kGy      | 36.9179 |
+| dry (homogeneous) | 10 kGy      | 29.9385 |
+| dry (homogeneous) | non treated | 28.5963 |

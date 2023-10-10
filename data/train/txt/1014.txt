@@ -1,0 +1,7 @@
+| title           |   [unnamed data series #0] |
+| Emotions        |                   16.4022  |
+| Attention       |                    7.95691 |
+| Cardiovascular  |                    6.96589 |
+| Endocrine       |                    5.97487 |
+| Immune function |                    1.96768 |
+| Other           |                    5.97487 |

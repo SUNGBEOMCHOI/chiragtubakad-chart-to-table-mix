@@ -1,0 +1,7 @@
+| Category                 |   first quartile |         max |      median |         min |   third quartile | x            |
+| [unnamed data series #0] |      3.20408e-06 | 0.000391883 | 2.6197e-05  | 3.68587e-08 |      0.000216073 | Cell culture |
+| [unnamed data series #0] |      1.12055e-06 | 0.000144443 | 3.68587e-06 | 1.03564e-07 |      1.61855e-05 | Carcinoma    |
+| [unnamed data series #0] |      3.17615e-07 | 7.55661e-05 | 2.37917e-06 | 4.315e-08   |      9.24229e-06 | CIN2/3       |
+| [unnamed data series #0] |      1.07255e-07 | 2.03229e-07 | 1.32334e-07 | 8.84643e-08 |      1.64714e-07 | CIN1         |
+| [unnamed data series #0] |      6.34281e-08 | 1.79785e-07 | 9.48825e-08 | 5.32397e-08 |      1.22307e-07 | Normal       |
+| [unnamed data series #0] |      3.28935e-08 | 3.28935e-08 | 3.28935e-08 | 3.28935e-08 |      3.28935e-08 | Leukocytes   |

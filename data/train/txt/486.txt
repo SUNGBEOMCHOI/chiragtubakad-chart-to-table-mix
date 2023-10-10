@@ -1,0 +1,36 @@
+| title                         |   Total Availability |
+| Total Availability            |             0.634761 |
+| Ipratropium bromide 40 mcg    |             0.289821 |
+| Salbutamol 100 mcginhalation  |             0.638317 |
+| Salbutanol14 mg               |             0.851682 |
+| Salbutamol2mg/5ml             |             0.894355 |
+| Beclametasome 200 mcg capsule |             0.620536 |
+| Beclametasone 250 mcginhaler  |             0.510298 |
+| Total Availability            |             0.602756 |
+| Ipratropium bromide 40 mcg    |             0.371611 |
+| Salbutamol 100 mcginhalation  |             0.624092 |
+| Salbutanol14 mg               |             0.748555 |
+| Salbutamol2mg/5ml             |             0.873018 |
+| Beclametasome 200 mcg capsule |             0.496073 |
+| Beclametasone 250 mcginhaler  |             0.49963  |
+| Total Availability            |             0.648985 |
+| Ipratropium bromide 40 mcg    |             0.282709 |
+| Salbutamol 100 mcginhalation  |             0.691658 |
+| Salbutanol14 mg               |             0.759224 |
+| Salbutamol2mg/5ml             |             0.84457  |
+| Beclametasome 200 mcg capsule |             0.759224 |
+| Beclametasone 250 mcginhaler  |             0.560083 |
+| Total Availability            |             0.848126 |
+| Ipratropium bromide 40 mcg    |             0.5992   |
+| Salbutamol 100 mcginhalation  |             0.79834  |
+| Salbutanol14 mg               |             0.897911 |
+| Salbutamol2mg/5ml             |             0.997481 |
+| Beclametasome 200 mcg capsule |             0.897911 |
+| Beclametasone 250 mcginhaler  |             0.897911 |
+| Total Availability            |             0.577863 |
+| Ipratropium bromide 40 mcg    |             0.218699 |
+| Salbutamol 100 mcginhalation  |             0.556527 |
+| Salbutanol14 mg               |             0.951252 |
+| Salbutamol2mg/5ml             |             0.929916 |
+| Beclametasome 200 mcg capsule |             0.442732 |
+| Beclametasone 250 mcginhaler  |             0.375167 |

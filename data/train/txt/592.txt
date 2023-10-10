@@ -1,0 +1,10 @@
+| title     |   Macrophages |
+| Sentinels |    107.39     |
+| 0 week    |    195.611    |
+| 2 weeks   |    102.99     |
+| Sentinels |      0.272749 |
+| 0 week    |      0.23072  |
+| 2 weeks   |      0.142606 |
+| Sentinels |      0.37328  |
+| 0 week    |      0.460131 |
+| 2 weeks   |      0.629727 |

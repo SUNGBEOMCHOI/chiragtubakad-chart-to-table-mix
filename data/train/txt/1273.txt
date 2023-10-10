@@ -1,0 +1,19 @@
+| title           |   5-point scale |
+| Belgium         |         44.1478 |
+| Greece          |         43.8447 |
+| Hungary         |         42.4809 |
+| The Netherlands |         40.3594 |
+| Norway          |         44.7539 |
+| Slovenia        |         42.6324 |
+| Spain           |         44.2993 |
+| Switzerland     |         41.4201 |
+| Total           |         43.2386 |
+| Belgium         |         62.7868 |
+| Greece          |         60.2107 |
+| Hungary         |         60.3622 |
+| The Netherlands |         57.6346 |
+| Norway          |         60.5138 |
+| Slovenia        |         57.6346 |
+| Spain           |         58.9984 |
+| Switzerland     |         58.6953 |
+| Total           |         59.9076 |

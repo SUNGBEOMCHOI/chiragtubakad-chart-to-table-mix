@@ -1,0 +1,7 @@
+| title        |   Not likely |
+| Fruit        |        0.22  |
+| Vegetable    |        0.402 |
+| French fries |        0.072 |
+| Fruit        |        0.78  |
+| Vegetable    |        0.598 |
+| French fries |        0.928 |

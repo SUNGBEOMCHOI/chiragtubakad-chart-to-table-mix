@@ -1,0 +1,21 @@
+| title                                           |   [unnamed data series #0] |
+| Overall people                                  |                      0.195 |
+| Overall charges                                 |                      0.332 |
+| Homicide and related charges                    |                      0.353 |
+| Acts intended to cause injury                   |                      0.437 |
+| Sexual assault and related offences             |                      0.444 |
+| Dangerous or negligent acts endangering persons |                      0.267 |
+| Abduction, other offences against the person    |                      0.429 |
+| Robbery, extortion and related offences         |                      0.458 |
+| Unlawful entry/burglary, break and enter        |                      0.393 |
+| Theft and related offences                      |                      0.323 |
+| Fraud, deception and related offences           |                      0.24  |
+| Illicit drug offences                           |                      0.24  |
+| Prohibited and regulated weapons offences       |                      0.258 |
+| Property damage and environmental pollution     |                      0.427 |
+| Public order offences                           |                      0.382 |
+| Traffic and vehicle regulatory offences         |                      0.264 |
+| Offences against justice procedures             |                      0.389 |
+| Miscellaneous offences                          |                      0.247 |
+| Any violent offence                             |                      0.44  |
+| Any property offence                            |                      0.33  |

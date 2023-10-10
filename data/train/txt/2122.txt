@@ -1,0 +1,9 @@
+| title   |   Used a condom at last sex: 2002 |
+| Oyo     |                         22.3256   |
+| Bauchi  |                          1.59468  |
+| Enugu   |                         23.6545   |
+| All     |                         13.5548   |
+| Oyo     |                         24.186    |
+| Bauchi  |                         -0.265781 |
+| Enugu   |                         27.3754   |
+| All     |                         15.4153   |

@@ -1,0 +1,20 @@
+| title                          |   [unnamed data series #0] |
+| Power Ines                     |                     0.7862 |
+| base stations                  |                     0.7689 |
+| monitors (VDUis)               |                     0.4968 |
+| mobile phone                   |                     0.4644 |
+| computer                       |                     0.4125 |
+| televison                      |                     0.3477 |
+| micro oven                     |                     0.3431 |
+| electro installation           |                     0.2073 |
+| el. junction box               |                     0.1555 |
+| radio clock                    |                     0.1425 |
+| tansmiter stations (TV, radio} |                     0.1145 |
+| cordless phones                |                     0.1145 |
+| el. heater                     |                     0.1145 |
+| household appliances           |                     0.0896 |
+| el. floor heating              |                     0.0735 |
+| fluorescent lamp               |                     0.0648 |
+| baby phone                     |                     0.0454 |
+| halogen lights                 |                     0.0302 |
+| railway traffic                |                     0.0259 |

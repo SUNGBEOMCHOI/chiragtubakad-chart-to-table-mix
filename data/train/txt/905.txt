@@ -1,0 +1,5 @@
+| title         |   [unnamed data series #0] |
+| Not at all    |                       0.21 |
+| A little bit  |                       0.22 |
+| A fair amount |                       0.3  |
+| A lot         |                       0.27 |

@@ -1,0 +1,37 @@
+| title                          |   P0/P1-542 total |
+| DNA repair                     |          2.20573  |
+| Photosynthesis-related         |          3.05408  |
+| RNAi                           |          3.90244  |
+| Transposable elements          |          6.44751  |
+| Other                          |          7.29586  |
+| Cytoskeletal                   |         11.5376   |
+| Extracellular matrix/Cell wall |         15.7794   |
+| Signal transduction            |         20.0212   |
+| Cell division/Growth           |         23.4146   |
+| Protein fate                   |         24.263    |
+| RNA blinding                   |         25.9597   |
+| Stress-related /Defense        |         27.6564   |
+| yesicle trafficking/Transport  |         30.2015   |
+| Transcription                  |         33.5949   |
+| Chromatin                      |         45.4719   |
+| Metabolism                     |         57.3489   |
+| Translation                    |         72.6193   |
+| Unknown                        |        142.185    |
+| DNA repair                     |          7.72004  |
+| Photosynthesis-related         |          3.05408  |
+| RNAi                           |          3.90244  |
+| Transposable elements          |          3.47826  |
+| Other                          |         10.6893   |
+| Cytoskeletal                   |          7.29586  |
+| Extracellular matrix/Cell wall |          0.933192 |
+| Signal transduction            |         20.0212   |
+| Cell division/Growth           |          7.29586  |
+| Protein fate                   |         42.9268   |
+| RNA blinding                   |          9.84093  |
+| Stress-related /Defense        |         20.0212   |
+| yesicle trafficking/Transport  |         28.5048   |
+| Transcription                  |         34.0191   |
+| Chromatin                      |         15.7794   |
+| Metabolism                     |         61.421    |
+| Translation                    |         23.4146   |
+| Unknown                        |        132.853    |

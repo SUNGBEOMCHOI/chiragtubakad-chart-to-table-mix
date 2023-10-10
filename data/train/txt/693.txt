@@ -1,0 +1,23 @@
+| title       |        65 + |
+| suffocation |  -3.19149   |
+| drowning    |  -0.130933  |
+| fire        |  -0.130933  |
+| fall        |   0.589198  |
+| poisoning   |   2.22586   |
+| transport   |  -0.0654664 |
+| suffocation |   4.45172   |
+| drowning    |   1.63666   |
+| fire        |   0.130933  |
+| fall        |   3.79705   |
+| poisoning   | -10.1473    |
+| transport   |  -0.130933  || suffocation |   6.54664   |
+| drowning    |   0.523732  |
+| fire        |  -0.589198  |
+| fall        |   5.56465   |
+| poisoning   | -12.4386    |
+| transport   |  -0.130933  || suffocation |  -6.15385   |
+| drowning    |  -0.130933  |
+| fire        |  -0.327332  |
+| fall        |  27.8887    |
+| poisoning   | -21.4075    |
+| transport   |  -0.130933  |

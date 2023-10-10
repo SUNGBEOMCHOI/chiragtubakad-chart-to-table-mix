@@ -1,0 +1,6 @@
+| title                             |   [unnamed data series #0] |
+| less expensive                    |                          2 |
+| Effective                         |                         98 |
+| Available                         |                          3 |
+| Chemist prescribed it before      |                         56 |
+| Recommended by relatives /friends |                          2 |

@@ -1,0 +1,5 @@
+| title              |   [unnamed data series #0] |
+| Emphysema          |                       5.1  |
+| Chronic bronchitis |                       9.69 |
+| Asthma             |                      37.45 |
+| Pneumonia          |                      14.29 |

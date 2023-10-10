@@ -1,0 +1,15 @@
+| title                             |   Overweight |
+| Stockholm area                    |      1.00086 |
+| Gothenburg area                   |      1.092   |
+| Malmo area                        |      1.14938 |
+| Larger municipalities             |      1.2574  |
+| Central district municipalities   |      1.33841 |
+| Densely populated municipalities  |      1.32828 |
+| Sparsely populated municipalities |      1.43292 |
+| Stockholm area                    |      1.00761 |
+| Gothenburg area                   |      1.12913 |
+| Malmo area                        |      1.2709  |
+| Larger municipalities             |      1.52068 |
+| Central district municipalities   |      1.68946 |
+| Densely populated municipalities  |      1.71646 |
+| Sparsely populated municipalities |      1.89198 |

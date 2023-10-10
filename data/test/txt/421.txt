@@ -1,0 +1,21 @@
+| title   |           Normal glucose
+|---------|-----------|
+| Traqi men and women
+N=96         | 0.539001  |
+| Swedish men and
+women N=79         | 0.553239  |
+| Traqi men and women
+N=96         | 0.0752568 |
+| Swedish men and
+women N=79         | 0.154582  |
+| Traqi men and women
+N=96         | 0.164751  |
+| Swedish men and
+women N=79         | 0.101698  || Traqi men and women
+N=96         | 0.0528831 |
+| Swedish men and
+women N=79         | 0.0894946 |
+| Traqi men and women
+N=96         | 0.168819  |
+| Swedish men and
+women N=79         | 0.101698  |

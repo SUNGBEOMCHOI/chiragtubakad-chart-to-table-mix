@@ -1,0 +1,17 @@
+| title          |      Tax |
+| Mexico         |  14.6643 |
+| United States  |  19.5525 |
+| Canada         |  39.1049 |
+| Australia      |  47.2518 |
+| Switzerland    | 118.944  |
+| Germany        | 128.72   |
+| Netherlands    | 154.79   |
+| United Kingdom | 151.532  |
+| Mexico         |  86.3567 |
+| United States  |  66.8042 |
+| Canada         |  66.8042 |
+| Australia      |  63.5455 |
+| Switzerland    |  81.4686 |
+| Germany        |  60.2868 |
+| Netherlands    |  70.063  |
+| United Kingdom |  60.2868 |

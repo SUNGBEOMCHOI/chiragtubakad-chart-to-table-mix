@@ -1,0 +1,24 @@
+| title   |   Hospital in-patient |
+| Brazil  |              37.129   |
+| China   |               1.0996  |
+| Germany |               3.32219 |
+| Turkey  |              14.2012  |
+| UK      |              12.3295  |
+| USA     |               4.14104 || Brazil  |              49.0608  |
+| China   |              33.1517  |
+| Germany |              27.3028  |
+| Turkey  |              61.2266  |
+| UK      |              29.1745  |
+| USA     |              27.3028  |
+| Brazil  |              53.0381  |
+| China   |              39.2346  |
+| Germany |              51.1664  |
+| Turkey  |              46.0194  |
+| UK      |              63.0983  |
+| USA     |              48.359   |
+| Brazil  |              25.1972  |
+| China   |               1.0996  |
+| Germany |               2.03543 |
+| Turkey  |              22.1557  |
+| UK      |              10.2239  |
+| USA     |               4.14104 |

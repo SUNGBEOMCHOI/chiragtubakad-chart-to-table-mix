@@ -1,0 +1,13 @@
+| Category                          |         X |         Y |
+| Maximum of luminescence intensity | 1.99326   | 0.874376  |
+| Maximum of luminescence intensity | 1.49768   | 0.987755  |
+| Maximum of luminescence intensity | 0.994807  | 1.5093    |
+| Maximum of luminescence intensity | 0.491938  | 1.10567   |
+| Maximum of luminescence intensity | 0.0983875 | 0.874376  |
+| Maximum of luminescence intensity | 0         | 0.139683  |
+| Light-emitting time ratio         | 0         | 0.0716553 |
+| Light-emitting time ratio         | 0.0983875 | 1.01043   |
+| Light-emitting time ratio         | 0.495582  | 1.53197   |
+| Light-emitting time ratio         | 0.998451  | 1.72698   |
+| Light-emitting time ratio         | 2.00055   | 1.36871   |
+| Light-emitting time ratio         | 1.49403   | 1.08299   |

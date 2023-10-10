@@ -1,0 +1,15 @@
+| title                           |   [unnamed data series #0] |
+| 1 PA Benefits and risks         |                      4.88  |
+| 1 Exercise testing              |                      4.8   |
+| 1 Principles of PA Prescription |                      4.77  |
+| 2 Prescribing experience        |                      4.74  |
+| 2 Following Rx experience       |                      4.74  |
+| 2 organization                  |                      4.69  |
+| 2 Correlation with theory       |                      4.79  |
+| 3 Relevance of the topics       |                      4.91  |
+| 3 Learning Material             |                      4.84  |
+| 3 Course practicality           |                      4.84  |
+| 3 Impact on clinical practice   |                      4.88  |
+| 3 Punctuality                   |                      4.69  |
+| 3 Facilities                    |                      4.74  |
+| Overall average                 |                      4.793 |

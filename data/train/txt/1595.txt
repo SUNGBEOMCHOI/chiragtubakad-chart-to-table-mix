@@ -1,0 +1,13 @@
+| title               |   Ishikawa |
+| pGL3-Basic          |    1.00289 |
+| HNF1BMin prom       |   10.3632  |
+| Ext prom-common     |    5.61077 |
+| Ext prom-rs11263763 |    3.64113 |
+| Ext prom-rs11651052 |    4.96025 |
+| Ext prom-rs8064454  |    4.63498 |
+| pGL3-Basic          |    1.00289 |
+| HNF1BMin prom       |   12.116   |
+| Ext prom-common     |    5.66498 |
+| Ext prom-rs11263763 |    3.6592  |
+| Ext prom-rs11651052 |    5.06867 |
+| Ext prom-rs8064454  |    4.09288 |

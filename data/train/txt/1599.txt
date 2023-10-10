@@ -1,0 +1,6 @@
+| Category                 |   first quartile |      max |   median |      min |   third quartile | x        |
+| [unnamed data series #0] |         0.577027 | 0.742342 | 0.622072 | 0.471622 |         0.652252 | Expert 1 |
+| [unnamed data series #0] |         0.560811 | 0.761261 | 0.612162 | 0.402252 |         0.681982 | Expert 2 |
+| [unnamed data series #0] |         0.491441 | 0.643243 | 0.541892 | 0.402252 |         0.582883 | Expert 3 |
+| [unnamed data series #0] |         0.481532 | 0.683784 | 0.531081 | 0.391441 |         0.572973 | Expert 4 |
+| [unnamed data series #0] |         0.562613 | 0.790991 | 0.617568 | 0.431982 |         0.656757 | Expert 5 |

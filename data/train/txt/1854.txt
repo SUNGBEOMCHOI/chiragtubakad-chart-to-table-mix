@@ -1,0 +1,25 @@
+| title      |     Normal |
+| E-Cig Gp   | -0.0472454 |
+| Control Gp |  2.51751   |
+| E-Cig Gp   |  2.24753   |
+| Control Gp |  0.222728  |
+| E-Cig Gp   |  9.33435   |
+| Control Gp |  2.04505   |
+| E-Cig Gp   | 41.9337    |
+| Control Gp | 30.3923    |
+| E-Cig Gp   | 55.7024    |
+| Control Gp | 23.9129    |
+| E-Cig Gp   | 55.7024    |
+| Control Gp | 23.9129    |
+| E-Cig Gp   | 46.5907    |
+| Control Gp | 60.7644    |
+| E-Cig Gp   | 35.0494    |
+| Control Gp | 67.4462    |
+| E-Cig Gp   | 30.1898    |
+| Control Gp | 62.9916    |
+| E-Cig Gp   | 11.7641    |
+| Control Gp |  6.49962   |
+| E-Cig Gp   |  6.90458   |
+| Control Gp |  8.7269    |
+| E-Cig Gp   |  4.6773    |
+| Control Gp | 10.9542    |

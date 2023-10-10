@@ -1,0 +1,9 @@
+| title                                                             |   [unnamed data series #0] |
+| Improvements proposed over the existing satellite based system    |                   10.0325  |
+| Services for elderly people                                       |                    2.01151 |
+| High speed video- audio conferencing                              |                    6.0291  |
+| Ultrasound                                                        |                    3.03486 |
+| Treatment of chronic diseases like cancer, HIV/AIDS, and so forth |                    3.03486 |
+| Medical education and training of health professionals            |                    3.05381 |
+| Diagnosis of disease particularly in rural area                   |                    9.98985 |
+| Disaster management                                               |                   12.9624  |

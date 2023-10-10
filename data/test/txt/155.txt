@@ -1,0 +1,23 @@
+| title        |   Occupational |
+| Metal        |      316.321   |
+| Traffic      |       11.7208  |
+| Plastic      |       11.7208  |
+| Chemical     |       35.4945  |
+| Stone        |        4.29156 |
+| Glass        |       20.6359  |
+| Wood         |        7.26326 |
+| Electric arc |       29.5511  |
+| Hot liquid   |       22.1218  |
+| Explosive    |        8.74911 |
+| Others       |        7.26326 |
+| Metal        |      247.971   |
+| Traffic      |       87.4993  |
+| Plastic      |       57.7823  |
+| Chemical     |       22.1218  |
+| Stone        |       45.8954  |
+| Glass        |       22.1218  |
+| Wood         |       32.0275  |
+| Electric arc |        6.27269 |
+| Hot liquid   |        8.74911 |
+| Explosive    |       20.6359  |
+| Others       |       80.0701  |

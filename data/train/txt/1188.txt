@@ -1,0 +1,7 @@
+| title         |        M |
+| P.luminescens | 1.00366  |
+| K.pnemoniae   | 0.988408 |
+| P.luminescens | 2.57474  |
+| K.pnemoniae   | 2.30018  |
+| P.luminescens | 3.55095  |
+| K.pnemoniae   | 2.95607  |

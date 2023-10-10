@@ -1,0 +1,9 @@
+| Category        |        X |         Y |
+| Cryogenic temp. | 0.499547 | -0.281153 |
+| Cryogenic temp. | 0.400065 | -0.361483 |
+| Cryogenic temp. | 0.300582 | -0.456231 |
+| Cryogenic temp. | 0.200291 | -0.542739 |
+| Room temp.      | 0.498738 | -0.312049 |
+| Room temp.      | 0.399256 | -0.38826  |
+| Room temp.      | 0.298965 | -0.483007 |
+| Room temp.      | 0.199482 | -0.575695 |

@@ -1,0 +1,40 @@
+| title                                                     |   Often/Always |
+| Not clear who is responsible for sending report           |           0.55 |
+| Unsure what happens at public health after sending report |           0.52 |
+| Forms not readily available or easy to locate             |           0.46 |
+| Reporting requirements unclear                            |           0.46 |
+| Unsure where to send completed report                     |           0.42 |
+| Unsure what clinical information is needed for report     |           0.41 |
+| Difficult to add reporting work to regular workflow       |           0.36 |
+| Lack sufficient time to complete report                   |           0.26 |
+| Need to wait for confirmation from lab report             |           0.24 |
+| Health department phone/fax numbers not available         |           0.23 |
+| Lack sufficient information to complete report            |           0.2  |
+| Need more information from the patient                    |           0.19 |
+| Unable to confirm diagnosis                               |           0.07 |
+| Not clear who is responsible for sending report           |           0.28 |
+| Unsure what happens at public health after sending report |           0.3  |
+| Forms not readily available or easy to locate             |           0.36 |
+| Reporting requirements unclear                            |           0.32 |
+| Unsure where to send completed report                     |           0.19 |
+| Unsure what clinical information is needed for report     |           0.3  |
+| Difficult to add reporting work to regular workflow       |           0.39 |
+| Lack sufficient time to complete report                   |           0.41 |
+| Need to wait for confirmation from lab report             |           0.32 |
+| Health department phone/fax numbers not available         |           0.35 |
+| Lack sufficient information to complete report            |           0.44 |
+| Need more information from the patient                    |           0.48 |
+| Unable to confirm diagnosis                               |           0.3  |
+| Not clear who is responsible for sending report           |           0.17 |
+| Unsure what happens at public health after sending report |           0.17 |
+| Forms not readily available or easy to locate             |           0.18 |
+| Reporting requirements unclear                            |           0.21 |
+| Unsure where to send completed report                     |           0.38 |
+| Unsure what clinical information is needed for report     |           0.3  |
+| Difficult to add reporting work to regular workflow       |           0.25 |
+| Lack sufficient time to complete report                   |           0.33 |
+| Need to wait for confirmation from lab report             |           0.44 |
+| Health department phone/fax numbers not available         |           0.42 |
+| Lack sufficient information to complete report            |           0.36 |
+| Need more information from the patient                    |           0.33 |
+| Unable to confirm diagnosis                               |           0.63 |

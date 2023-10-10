@@ -1,0 +1,6 @@
+| title                 |     20°C |
+| [unnamed category #0] | 64.2375  |
+| [unnamed category #0] | 17.7328  |
+| [unnamed category #0] |  8.57283 |
+| [unnamed category #0] |  6.45898 |
+| [unnamed category #0] |  6.31806 |

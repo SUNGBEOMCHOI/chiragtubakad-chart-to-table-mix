@@ -1,0 +1,37 @@
+| title                           |   UNDERLYING CAUSE-OF-DEATH |
+| DRS 01 - Grande Sao Paula       |                    7.69949  |
+| DRS 07 - Campinas               |                    5.64629  |
+| ESTADO DE SAO PAULO             |                    5.64629  |
+| DRS 13 - Ribeirao Preto         |                    4.19972  |
+| DRS 06 - Bauru                  |                    4.50303  |
+| DRS 05 - Barretos               |                    4.15306  |
+| DRS 15 - Sado José do Rio Preto |                    4.33971  |
+| DRS 10 - Piracicaba             |                    3.56976  |
+| DRS 14 - Sao Joao da Boa Vista  |                    3.73308  |
+| DRS 08 - Franca                 |                    3.24312  |
+| DRS 17 - Taubaté                |                    3.12646  |
+| DRS 11 - Presidente Prudente    |                    3.10313  |
+| DRS 04 - Baixada Santista       |                    2.9748   |
+| DRS 03 - Araraquara             |                    2.75315  |
+| DRS 02 - Aragatuba              |                    2.86981  |
+| DRS 09 - Marilia                |                    2.82315  |
+| DRS 16 - Sorocaba               |                    2.77648  |
+| DRS 12 - Registro               |                    1.77322  |
+| DRS 01 - Grande Sao Paula       |                    1.32991  |
+| DRS 07 - Campinas               |                    1.11993  |
+| ESTADO DE SAO PAULO             |                    1.07326  |
+| DRS 13 - Ribeirao Preto         |                    1.28325  |
+| DRS 06 - Bauru                  |                    0.956603 |
+| DRS 05 - Barretos               |                    1.04993  |
+| DRS 15 - Sado José do Rio Preto |                    0.79328  |
+| DRS 10 - Piracicaba             |                    0.956603 |
+| DRS 14 - Sao Joao da Boa Vista  |                    0.769949 |
+| DRS 08 - Franca                 |                    1.11993  |
+| DRS 17 - Taubaté                |                    0.816612 |
+| DRS 11 - Presidente Prudente    |                    0.723285 |
+| DRS 04 - Baixada Santista       |                    0.804946 |
+| DRS 03 - Araraquara             |                    1.00327  |
+| DRS 02 - Aragatuba              |                    0.606626 |
+| DRS 09 - Marilia                |                    0.629958 |
+| DRS 16 - Sorocaba               |                    0.629958 |
+| DRS 12 - Registro               |                    0.326645 |

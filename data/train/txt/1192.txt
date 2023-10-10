@@ -1,0 +1,12 @@
+| title                                         |   [unnamed data series #0] |
+| Doctor's recommendation                       |                       0.81 |
+| Knowing why iI should get vaccine             |                       0.78 |
+| Knowing which vaccine I need                  |                       0.76 |
+| Cost of vaccines                              |                       0.54 |
+| Concern about getting sick if I get a vaccine |                       0.54 |
+| Government agency's recommendation            |                       0.52 |
+| Worry about other ingredients in vaccines     |                       0.47 |
+| Family/cultural beliefs                       |                       0.45 |
+| The time it takes to get a vaccine            |                       0.37 |
+| Access to reliable transportation             |                       0.36 |
+| Religious beliefs                             |                       0.36 |

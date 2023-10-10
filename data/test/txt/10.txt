@@ -1,0 +1,13 @@
+| title                 |   Southeastern Italy |
+| urinary Ag            |            0.543761  |
+| Ab single titre       |            0.204397  |
+| Ab seroconversion     |            0.116275  |
+| Ag+ab single titre    |            0.0656512 |
+| Ag+ Ab seroconversion |            0.0544015 |
+| other methods         |            0.0412769 |
+| urinary Ag            |            0.861564  |
+| Ab single titre       |            0.0544015 |
+| Ab seroconversion     |            0.0169027 |
+| Ag+ab single titre    |            0.0356521 |
+| Ag+ Ab seroconversion |            0.0150278 |
+| other methods         |            0.0375271 |

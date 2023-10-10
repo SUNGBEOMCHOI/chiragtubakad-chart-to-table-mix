@@ -1,0 +1,4 @@
+| Category                 |   first quartile |      max |    median |         min |   third quartile | x                |
+| [unnamed data series #0] |       0.00139198 | 0.999165 | 0.108964  |  0.00139198 |         0.617205 | All imputed SNPs |
+| [unnamed data series #0] |      -0.00250557 | 0.619154 | 0.0310134 | -0.00250557 |         0.246158 | MAF<0.01         |
+| [unnamed data series #0] |       0.421158   | 0.999165 | 0.865479  |  0.0150334  |         0.962138 | MAF>=0.01        |

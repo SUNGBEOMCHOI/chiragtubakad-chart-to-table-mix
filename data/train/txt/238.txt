@@ -1,0 +1,3 @@
+| Category                 |   first quartile |      max |   median |       min |   third quartile | x            |
+| [unnamed data series #0] |         0.142096 |  1.15453 | 0.390764 | -0.035524 |         0.692718 | HES-negative |
+| [unnamed data series #0] |         1.59858  | 16.7496  | 3.83659  |  0.142096 |         8.29485  | HES-positive |

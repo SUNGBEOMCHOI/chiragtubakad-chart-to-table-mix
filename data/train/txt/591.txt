@@ -1,0 +1,10 @@
+| title                                        |   [unnamed data series #0] |
+| Dry throat                                   |                       62.2 |
+| Headache                                     |                       47.1 |
+| Nausea                                       |                       34.8 |
+| Pain or a scratchy sensation in the throat   |                       28.8 |
+| Hoarse and muffled voice                     |                       25   |
+| Tonsils become swollen and reddish           |                       14.9 |
+| Pain that worsens with swallowing or talking |                       12.7 |
+| Swollen neck or jaw                          |                       12.5 |
+| Sensltive towards light and sound            |                        5.6 |

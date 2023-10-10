@@ -1,0 +1,3 @@
+| Category                 |   first quartile |     max |   median |     min |   third quartile | x      |
+| [unnamed data series #0] |          71.0225 | 81.5481 |  72.3807 | 62.8738 |          73.9935 | Normal |
+| [unnamed data series #0] |          65.6749 | 73.3993 |  68.476  | 61.5156 |          70.7679 | DM     |

@@ -1,0 +1,25 @@
+| title     |   At home |
+| Clothing  | 82.3455   |
+| Bednet    | 65.2186   |
+| Coils     | 51.8233   |
+| Repellent | 53.1628   |
+| Fire      | 33.7395   |
+| Plant     | 13.9814   |
+| Blankets  |  0.586047 |
+| No method |  0.92093  |
+| Clothing  | 82.9674   |
+| Bednet    |  1.01661  |
+| Coils     |  0.825249 |
+| Repellent |  9.62791  |
+| Fire      |  7.71429  |
+| Plant     |  4.46113  |
+| Blankets  |  0.251163 |
+| No method |  9.96279  |
+| Clothing  | 76.9874   |
+| Bednet    |  0.586047 |
+| Coils     |  0.586047 |
+| Repellent |  8.86246  |
+| Fire      |  9.05382  |
+| Plant     |  3.50432  |
+| Blankets  |  0.442525 |
+| No method | 15.9907   |

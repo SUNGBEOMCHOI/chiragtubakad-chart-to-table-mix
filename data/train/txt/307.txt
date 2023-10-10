@@ -1,0 +1,13 @@
+| title                 |   RESPECT population |
+| never smoker          |              52.3145 |
+| current and ex-smoker |              47.8757 |
+| never smoker          |              26.9499 |
+| current and ex-smoker |              73.8744 |
+| never smoker          |              64.3627 |
+| current and ex-smoker |              35.8275 |
+| never smoker          |              47.2416 |
+| current and ex-smoker |              52.9486 |
+| never smoker          |              21.877  |
+| current and ex-smoker |              78.3133 |
+| never smoker          |              68.1674 |
+| current and ex-smoker |              32.0228 |

@@ -1,0 +1,4 @@
+| Category                 |   first quartile |      max |   median |     min |   third quartile | x            |
+| [unnamed data series #0] |          4.97196 | 11.0093  |  6.99065 | 2       |          8.01869 | Kampong Cham |
+| [unnamed data series #0] |          3.98131 |  9.00935 |  4.99065 | 2.01869 |          6       | Battambang   |
+| [unnamed data series #0] |          3.98131 | 11.0093  |  5.49533 | 1.00935 |          7.02804 | Kampot       |

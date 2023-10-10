@@ -1,0 +1,19 @@
+| title   |   MRC (Mild) |
+| USA     |    11.7947   |
+| UK      |    22.0176   |
+| Turkey  |    30.1959   |
+| Germany |    46.0415   |
+| China   |    85.1441   |
+| Brazil  |    16.9061   |
+| USA     |    63.1648   |
+| UK      |    50.1306   |
+| Turkey  |    36.8408   |
+| Germany |    43.9969   |
+| China   |    13.8393   |
+| Brazil  |    41.9523   |
+| USA     |    23.0399   |
+| UK      |    27.8958   |
+| Turkey  |    33.0072   |
+| Germany |     6.9388   |
+| China   |    -0.132046 |
+| Brazil  |    36.8408   |
